@@ -95,7 +95,20 @@ namespace TranslationChecker
             XmlSerializer serializer = new XmlSerializer(typeof(QtTranslations));
             using (var reader = new StringReader(xml))
             {
-                var test = (QtTranslations)serializer.Deserialize(reader);
+                QtTranslations test = null;
+                try
+                {
+                    test = (QtTranslations)serializer.Deserialize(reader);
+                }
+                catch (Exception x)
+                {
+                    // NOTE: This can happen if there is a \r in the string to translate, like this:
+                    // <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.<byte value="xd"/>
+                    // </ source >
+                    Console.WriteLine($"Deserialization error with file: {tsFile}");
+                    Console.WriteLine(x);
+                    return false;
+                }
                 using (var writer = new Utf8StringWriter())
                 using (var xw = XmlWriter.Create(writer, new XmlWriterSettings
                 {

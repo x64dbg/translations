@@ -1,0 +1,49 @@
+name: Translate
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 17 * * *'
+
+jobs:
+  update:
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout (main branch)
+        uses: actions/checkout@v4
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
+      - name: Generate template
+        run: |
+          git clone --depth 1 https://github.com/x64dbg/x64dbg
+          cd x64dbg
+          mkdir bin\translations
+          git ls-files *.java *.jui *.ui *.c *.c++ *.cc *.cpp *.cxx *.ch *.h *.h++ *.hh *.hpp *.hxx *.js *.qs *.qml *.qrc > bin\translations\files.lst
+          ..\lupdate.exe @bin\translations\files.lst -locations absolute -ts x64dbg.ts
+          Copy-Item ".\x64dbg.ts" -Destination "..\x64dbg.ts" -Force
+
+      - name: Crowdin sync
+        env:
+          CROWDIN_API_KEY: ${{ secrets.CROWDIN_API_KEY }}
+        run: |
+          .\crowdin-sync.bat
+
+      - name: Checkout (translations branch)
+        uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.UPDATE_SSH_KEY }}
+          ref: translations
+          path: translations_repo
+
+      - name: Update translations
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./update-translations.sh

@@ -1,6 +1,7 @@
 *.ts
 *.qm
-*.jar
 *.zip
 *.log
 translations/
+translations_repo/
+x64dbg/
