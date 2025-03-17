@@ -13907,17 +13907,17 @@ Sisällytäthän ilmoitukseen niin paljon tietoja kuin mahdollista.</translation
   <context>
     <name>ModuleStdTable</name>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="77"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="139"/>
       <source>Unloaded</source>
       <translation>Ei ladattu</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="79"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="141"/>
       <source>Loading</source>
       <translation>Latautuu</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="81"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="143"/>
       <source>Loaded</source>
       <translation>Ladattu</translation>
     </message>
@@ -16117,160 +16117,160 @@ TEB:n avulla voi kerätä paljon tietoa prosessista kutsumatta Win32-rajapinnan 
       <translation>Lomake</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="204"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="191"/>
       <source>Base</source>
       <translation>Alkuosoite</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="205"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="192"/>
       <source>Module</source>
       <translation>Moduuli</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="206"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
       <source>Party</source>
       <translation>Muistialue</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="207"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
       <source>Path</source>
       <translation>Polku</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="208"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
       <source>Status</source>
       <translation>Tila</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="319"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="344"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="306"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="331"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>&amp;Siirry koodissa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="322"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="309"/>
       <source>Follow in &amp;Dump</source>
       <translation>Siirry &amp;muistivedoksessa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="312"/>
       <source>Follow &amp;imported address</source>
       <translation>Siirry &amp;tuotuun osoitteeseen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="315"/>
       <source>Toggle Breakpoint</source>
       <translation>Lisää/poista keskeytyskohta</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="321"/>
       <source>Toggle Bookmark</source>
       <translation>Lisää/poista kirjanmerkki</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="340"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="327"/>
       <source>Help on Symbolic Name</source>
       <translation>Ohjeita symboliseen nimeen liittyen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="349"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="336"/>
       <source>Follow &amp;Entry Point in Disassembler</source>
       <translation>Siirry &amp;alkuosoitteeseen koodissa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="352"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="339"/>
       <source>Follow in Memory Map</source>
       <translation>Siirry muistikartassa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="358"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="345"/>
       <source>&amp;Download Symbols for This Module</source>
       <translation>&amp;Lataa tämän moduulin symbolit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="364"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="351"/>
       <source>Download Symbols for &amp;All Modules</source>
       <translation>Lataa &amp;kaikkien moduulien symbolit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="357"/>
       <source>Copy File &amp;Path</source>
       <translation>Kopioi tiedoston &amp;polku</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="376"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="363"/>
       <source>Browse in Explorer</source>
       <translation>Selaa Resurssienhallinnassa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="382"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="369"/>
       <source>Load library...</source>
       <translation>Lataa kirjasto...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="388"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="375"/>
       <source>Free library</source>
       <translation>Vapauta kirjasto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="381"/>
       <source>Mark as &amp;user module</source>
       <translation>Merkitse &amp;käyttäjäalueen moduuliksi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="387"/>
       <source>Mark as &amp;system module</source>
       <translation>Merkitse &amp;järjestelmämoduuliksi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="406"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="393"/>
       <source>Mark as &amp;party...</source>
       <translation>Valitse &amp;muistialue...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="520"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="507"/>
       <source>User</source>
       <translation>Käyttäjäalue</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="511"/>
       <source>System</source>
       <translation>Järjestelmäalue</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="528"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="515"/>
       <source>Party: %1</source>
       <translation>Muistialue: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="549"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="636"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="796"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="623"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="783"/>
       <source>Import</source>
       <translation>Tuo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="673"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="660"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopioi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>Select DLL</source>
       <translation>Valitse DLL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>Enter the path of a DLL to load in the debuggee.</source>
       <translation>Syötä kohdeohjelmassa ladattavan DLL-tiedoston polku.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>DLL Files (*.dll);;All Files (*.*)</source>
       <translation>DLL-tiedostot (*.dll);;Kaikki tiedostot (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="764"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="751"/>
       <source>Are you sure you want to free the module: %1?
 
 This could introduce unexpected behaviour to your debugging session...</source>
@@ -16279,37 +16279,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
 Se voi aiheuttaa odottamatonta toimintaa virheenjäljitysistunnossa...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="753"/>
       <source>Free Library</source>
       <translation>Vapauta kirjasto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="843"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
       <source>Error!</source>
       <translation>Virhe!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="843"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt epäonnistui!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>Mark the party of the module as</source>
       <translation>Valitse moduulin muistialue</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>0 is user module, 1 is system module.</source>
       <translation>0 tarkoittaa käyttäjäaluetta, 1 järjestelmäaluetta.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="896"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>Error</source>
       <translation>Virhe</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="896"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>The party number can only be 0 or 1</source>
       <translation type="unfinished"/>
     </message>

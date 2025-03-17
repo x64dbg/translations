@@ -13940,17 +13940,17 @@ Make sure to fill in as much information as possible.</source>
   <context>
     <name>ModuleStdTable</name>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="77"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="139"/>
       <source>Unloaded</source>
       <translation>බස්සවා</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="79"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="141"/>
       <source>Loading</source>
       <translation>පැටවීම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="81"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="143"/>
       <source>Loaded</source>
       <translation>පටවා</translation>
     </message>
@@ -16139,160 +16139,160 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
       <translation>ආකෘතිය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="204"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="191"/>
       <source>Base</source>
       <translation>මූලික</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="205"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="192"/>
       <source>Module</source>
       <translation>මොඩියුලය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="206"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
       <source>Party</source>
       <translation>පක්ෂය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="207"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
       <source>Path</source>
       <translation>මාර්ගය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="208"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
       <source>Status</source>
       <translation>තත්වය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="319"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="344"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="306"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="331"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>&amp; Disassembler අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="322"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="309"/>
       <source>Follow in &amp;Dump</source>
       <translation>අනුගමනය &amp; ඩම්ප්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="312"/>
       <source>Follow &amp;imported address</source>
       <translation>අනුගමනය සහ ආනයනය කරන ලද ලිපිනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="315"/>
       <source>Toggle Breakpoint</source>
       <translation>ටොගල් කරන්න බ්රේක්පොයින්ට්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="321"/>
       <source>Toggle Bookmark</source>
       <translation>ටොගල් කරන්න බුක්මාක්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="340"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="327"/>
       <source>Help on Symbolic Name</source>
       <translation>සංකේතාත්මක නාමය මත උදව්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="349"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="336"/>
       <source>Follow &amp;Entry Point in Disassembler</source>
       <translation>Disassembler හි පිවිසුම් ස්ථානය අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="352"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="339"/>
       <source>Follow in Memory Map</source>
       <translation>මතක සිතියම අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="358"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="345"/>
       <source>&amp;Download Symbols for This Module</source>
       <translation>මෙම මොඩියුලය සඳහා සංකේත බාගත කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="364"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="351"/>
       <source>Download Symbols for &amp;All Modules</source>
       <translation>සහ සියලු මොඩියුල සඳහා සංකේත බාගත කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="357"/>
       <source>Copy File &amp;Path</source>
       <translation>ගොනුව පිටපත් &amp;මාර්ගය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="376"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="363"/>
       <source>Browse in Explorer</source>
       <translation>එක්ස්ප්ලෝරර් තුළ පිරික්සන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="382"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="369"/>
       <source>Load library...</source>
       <translation>පූරණය පුස්තකාලය...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="388"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="375"/>
       <source>Free library</source>
       <translation>නිදහස් පුස්තකාලය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="381"/>
       <source>Mark as &amp;user module</source>
       <translation>ලකුණ සහ පරිශීලක මොඩියුලය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="387"/>
       <source>Mark as &amp;system module</source>
       <translation>සහ පද්ධති මොඩියුලය ලෙස සලකුණු කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="406"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="393"/>
       <source>Mark as &amp;party...</source>
       <translation>&amp; පක්ෂ ලෙස සලකුණු කරන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="520"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="507"/>
       <source>User</source>
       <translation>පරිශීලක</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="511"/>
       <source>System</source>
       <translation>පද්ධතිය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="528"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="515"/>
       <source>Party: %1</source>
       <translation>පක්ෂය: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="549"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="636"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="796"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="623"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="783"/>
       <source>Import</source>
       <translation>ආනයන</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="673"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="660"/>
       <source>&amp;Copy</source>
       <translation>&amp;පිටපත්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>Select DLL</source>
       <translation>DLL තෝරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>Enter the path of a DLL to load in the debuggee.</source>
       <translation>ඩීඑල්එල් හි මාර්ගය ඇතුල් කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>DLL Files (*.dll);;All Files (*.*)</source>
       <translation>DLL ගොනු (*.dll); සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="764"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="751"/>
       <source>Are you sure you want to free the module: %1?
 
 This could introduce unexpected behaviour to your debugging session...</source>
@@ -16301,37 +16301,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
 මෙය ඔබගේ නිදොස්කරණ සැසියට අනපේක්ෂිත හැසිරීමක් හඳුන්වා දිය හැකිය...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="753"/>
       <source>Free Library</source>
       <translation>නිදහස් පුස්තකාලය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="843"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
       <source>Error!</source>
       <translation>දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="843"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgsetbookMarkat අසමත්!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>Mark the party of the module as</source>
       <translation>මොඩියුලයේ පක්ෂය ලෙස සලකුණු කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>0 is user module, 1 is system module.</source>
       <translation>0 පරිශීලක මොඩියුලය, 1 පද්ධති මොඩියුලය වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="896"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>Error</source>
       <translation>දෝෂය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="896"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>The party number can only be 0 or 1</source>
       <translation>පක්ෂ අංකය විය හැක්කේ 0 හෝ 1 පමණි</translation>
     </message>

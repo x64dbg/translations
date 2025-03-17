@@ -13950,17 +13950,17 @@ Make sure to fill in as much information as possible.</source>
   <context>
     <name>ModuleStdTable</name>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="77"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="139"/>
       <source>Unloaded</source>
       <translation>Выгружено</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="79"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="141"/>
       <source>Loading</source>
       <translation>Загрузка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="81"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="143"/>
       <source>Loaded</source>
       <translation>Загружено</translation>
     </message>
@@ -16166,160 +16166,160 @@ TEB может использоваться для получения инфор
       <translation>Форма</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="204"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="191"/>
       <source>Base</source>
       <translation>База</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="205"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="192"/>
       <source>Module</source>
       <translation>Модуль</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="206"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
       <source>Party</source>
       <translation>Группа</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="207"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
       <source>Path</source>
       <translation>Путь</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="208"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
       <source>Status</source>
       <translation>Состояние</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="319"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="344"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="306"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="331"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>&amp;Перейти к дизассемблированному коду</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="322"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="309"/>
       <source>Follow in &amp;Dump</source>
       <translation>Перейти к &amp;дампу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="312"/>
       <source>Follow &amp;imported address</source>
       <translation>Перейти к &amp;импортируемым адресам</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="315"/>
       <source>Toggle Breakpoint</source>
       <translation>Переключить состояние точки останова</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="321"/>
       <source>Toggle Bookmark</source>
       <translation>Поставить/Убрать закладку</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="340"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="327"/>
       <source>Help on Symbolic Name</source>
       <translation>Справка по символическому имени</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="349"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="336"/>
       <source>Follow &amp;Entry Point in Disassembler</source>
       <translation>&amp;Перейти к точке входа в дизассемблированный код</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="352"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="339"/>
       <source>Follow in Memory Map</source>
       <translation>Перейти к карте памяти</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="358"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="345"/>
       <source>&amp;Download Symbols for This Module</source>
       <translation>&amp;Загрузить отладочные символы для этого модуля</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="364"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="351"/>
       <source>Download Symbols for &amp;All Modules</source>
       <translation>Загрузить отладочные символы для &amp;всех модулей</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="357"/>
       <source>Copy File &amp;Path</source>
       <translation>Копировать &amp;путь файла</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="376"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="363"/>
       <source>Browse in Explorer</source>
       <translation>Показать в Проводнике</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="382"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="369"/>
       <source>Load library...</source>
       <translation>Загрузить библиотеку...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="388"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="375"/>
       <source>Free library</source>
       <translation>Выгрузить библиотеку</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="381"/>
       <source>Mark as &amp;user module</source>
       <translation>Отметить как &amp;пользовательский модуль</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="387"/>
       <source>Mark as &amp;system module</source>
       <translation>Отметить как &amp;системный модуль</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="406"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="393"/>
       <source>Mark as &amp;party...</source>
       <translation>Отметить как &amp;группа...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="520"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="507"/>
       <source>User</source>
       <translation>Пользователь</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="511"/>
       <source>System</source>
       <translation>Системa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="528"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="515"/>
       <source>Party: %1</source>
       <translation>Гуппа: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="549"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="636"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="796"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="623"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="783"/>
       <source>Import</source>
       <translation>Импорт</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="673"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="660"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копировать</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>Select DLL</source>
       <translation>Выбрать DLL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>Enter the path of a DLL to load in the debuggee.</source>
       <translation>Введите путь к DLL для загрузки в отладчик.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>DLL Files (*.dll);;All Files (*.*)</source>
       <translation>DLL файлы (*.dll);;Все файлы (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="764"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="751"/>
       <source>Are you sure you want to free the module: %1?
 
 This could introduce unexpected behaviour to your debugging session...</source>
@@ -16328,37 +16328,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
 Это может привести к неожиданному поведению сеанса отладки...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="753"/>
       <source>Free Library</source>
       <translation>Выгрузка библиотеки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="843"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
       <source>Error!</source>
       <translation>Ошибка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="843"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>Сбой DbgSetBookmarkAt!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>Mark the party of the module as</source>
       <translation>Отметить мудуль группы как</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>0 is user module, 1 is system module.</source>
       <translation>0 пользовательский модуль, 1 системный модуль.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="896"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>Error</source>
       <translation>Ошибка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="896"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>The party number can only be 0 or 1</source>
       <translation type="unfinished"/>
     </message>

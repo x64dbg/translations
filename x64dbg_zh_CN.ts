@@ -13962,17 +13962,17 @@ Make sure to fill in as much information as possible.</source>
   <context>
     <name>ModuleStdTable</name>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="77"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="139"/>
       <source>Unloaded</source>
       <translation>已卸载</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="79"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="141"/>
       <source>Loading</source>
       <translation>加载中</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="81"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="143"/>
       <source>Loaded</source>
       <translation>已载入</translation>
     </message>
@@ -16152,160 +16152,160 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>窗体</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="204"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="191"/>
       <source>Base</source>
       <translation>基址</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="205"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="192"/>
       <source>Module</source>
       <translation>模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="206"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
       <source>Party</source>
       <translation>方</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="207"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
       <source>Path</source>
       <translation>路径</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="208"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
       <source>Status</source>
       <translation>状态</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="319"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="344"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="306"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="331"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>在反汇编中转到(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="322"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="309"/>
       <source>Follow in &amp;Dump</source>
       <translation>在内存窗口中转到(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="312"/>
       <source>Follow &amp;imported address</source>
       <translation>转到导入的地址(&amp;I)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="315"/>
       <source>Toggle Breakpoint</source>
       <translation>切换断点</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="321"/>
       <source>Toggle Bookmark</source>
       <translation>切换书签</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="340"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="327"/>
       <source>Help on Symbolic Name</source>
       <translation>符号名称帮助</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="349"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="336"/>
       <source>Follow &amp;Entry Point in Disassembler</source>
       <translation>在反汇编窗口中转到入口点(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="352"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="339"/>
       <source>Follow in Memory Map</source>
       <translation>在内存布局中转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="358"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="345"/>
       <source>&amp;Download Symbols for This Module</source>
       <translation>下载此模块的符号信息(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="364"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="351"/>
       <source>Download Symbols for &amp;All Modules</source>
       <translation>下载所有模块的符号信息(&amp;A)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="357"/>
       <source>Copy File &amp;Path</source>
       <translation>复制文件路径(&amp;P)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="376"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="363"/>
       <source>Browse in Explorer</source>
       <translation>在资源管理器中浏览</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="382"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="369"/>
       <source>Load library...</source>
       <translation>注入模块...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="388"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="375"/>
       <source>Free library</source>
       <translation>卸载模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="381"/>
       <source>Mark as &amp;user module</source>
       <translation>标记为用户模块(&amp;U)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="387"/>
       <source>Mark as &amp;system module</source>
       <translation>标记为系统模块(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="406"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="393"/>
       <source>Mark as &amp;party...</source>
       <translation>标记为第三方(&amp;P)...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="520"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="507"/>
       <source>User</source>
       <translation>用户模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="511"/>
       <source>System</source>
       <translation>系统模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="528"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="515"/>
       <source>Party: %1</source>
       <translation>第三方: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="549"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="636"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="796"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="623"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="783"/>
       <source>Import</source>
       <translation>导入</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="673"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="660"/>
       <source>&amp;Copy</source>
       <translation>复制(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>Select DLL</source>
       <translation>选择 DLL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>Enter the path of a DLL to load in the debuggee.</source>
       <translation>输入要在调试对象中加载的 DLL 的路径。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="748"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
       <source>DLL Files (*.dll);;All Files (*.*)</source>
       <translation>DLL 文件 (*.dll);;所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="764"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="751"/>
       <source>Are you sure you want to free the module: %1?
 
 This could introduce unexpected behaviour to your debugging session...</source>
@@ -16314,37 +16314,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
 这可能给调试过程带来意外后果……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="753"/>
       <source>Free Library</source>
       <translation>卸载模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="843"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
       <source>Error!</source>
       <translation>发生错误！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="843"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt 失败!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>Mark the party of the module as</source>
       <translation>标记该模块所属方的代号为</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>0 is user module, 1 is system module.</source>
       <translation>0 是用户模块，1 是系统模块。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="896"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>Error</source>
       <translation>错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="896"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>The party number can only be 0 or 1</source>
       <translation>第三方代号只能是0或1</translation>
     </message>
