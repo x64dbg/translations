@@ -9950,9 +9950,9 @@ Möchten Sie das Debuggen fortsetzen?</translation>
       <translation>zurück zu %s von %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/stringformat.cpp" line="283"/>
-      <location filename="src/dbg/stringformat.cpp" line="344"/>
-      <location filename="src/dbg/stringformat.cpp" line="358"/>
+      <location filename="src/dbg/stringformat.cpp" line="287"/>
+      <location filename="src/dbg/stringformat.cpp" line="348"/>
+      <location filename="src/dbg/stringformat.cpp" line="362"/>
       <source>[Formatting Error]</source>
       <translation>[Formatierungsfehler]</translation>
     </message>

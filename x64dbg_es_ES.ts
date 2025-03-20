@@ -9872,9 +9872,9 @@ Do you want to continue debugging?</source>
       <translation>volver a %s de %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/stringformat.cpp" line="283"/>
-      <location filename="src/dbg/stringformat.cpp" line="344"/>
-      <location filename="src/dbg/stringformat.cpp" line="358"/>
+      <location filename="src/dbg/stringformat.cpp" line="287"/>
+      <location filename="src/dbg/stringformat.cpp" line="348"/>
+      <location filename="src/dbg/stringformat.cpp" line="362"/>
       <source>[Formatting Error]</source>
       <translation>[Error de formato]</translation>
     </message>

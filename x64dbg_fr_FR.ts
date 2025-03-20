@@ -6005,7 +6005,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_EXECUTABLE_IMAGE: Le fichier est exécutable (c.-à-d. les références externes ne sont pas résolues).</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
@@ -6127,7 +6127,7 @@
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="369"/>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="381"/>
       <source>Invalid relocation table!</source>
-      <translation type="unfinished"/>
+      <translation>Table de réallocation invalide !</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="386"/>
@@ -9761,9 +9761,9 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/stringformat.cpp" line="283"/>
-      <location filename="src/dbg/stringformat.cpp" line="344"/>
-      <location filename="src/dbg/stringformat.cpp" line="358"/>
+      <location filename="src/dbg/stringformat.cpp" line="287"/>
+      <location filename="src/dbg/stringformat.cpp" line="348"/>
+      <location filename="src/dbg/stringformat.cpp" line="362"/>
       <source>[Formatting Error]</source>
       <translation type="unfinished"/>
     </message>
@@ -16264,7 +16264,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="46"/>
       <source>Time Critical</source>
-      <translation type="unfinished"/>
+      <translation>Temps Critique</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="54"/>
@@ -16662,7 +16662,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1389"/>
       <source>Address not found in trace</source>
-      <translation type="unfinished"/>
+      <translation>Adresse introuvable dans la trace</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1392"/>
