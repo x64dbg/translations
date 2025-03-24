@@ -2591,67 +2591,67 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="873"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="874"/>
       <source>Signed byte (8-bit)</source>
       <translation>අත්සන් බයිට් (8-ටිකක්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="898"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="899"/>
       <source>Signed short (16-bit)</source>
       <translation>කෙටි අත්සන් (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="923"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="924"/>
       <source>Signed long (32-bit)</source>
       <translation>අත්සන් කරන ලද දිගු (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="948"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="949"/>
       <source>Signed long long (64-bit)</source>
       <translation>දිගු දිගු (64-ටිකක්) අත්සන්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="973"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="974"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>අත්සන් නොකළ බයිට් (8-ටිකක්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="998"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="999"/>
       <source>Unsigned short (16-bit)</source>
       <translation>අත්සන් නොකළ කෙටි (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1023"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1024"/>
       <source>Unsigned long (32-bit)</source>
       <translation>අත්සන් නොකළ දිගු (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1048"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1049"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>අත්සන් නොකළ දිගු (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1073"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1074"/>
       <source>Hex short (16-bit)</source>
       <translation>Hex කෙටි (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1098"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1099"/>
       <source>Hex long (32-bit)</source>
       <translation>හෙක්ස් දිගු (32-ටිකක්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1123"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1124"/>
       <source>Hex long long (64-bit)</source>
       <translation>හෙක්ස් දිගු (64-ටිකක්)</translation>
     </message>
@@ -2677,235 +2677,245 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
+      <source>&amp;Half float (16-bit)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
       <source>&amp;Float</source>
       <translation>&amp;පාවෙන</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="244"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="245"/>
       <source>&amp;Address</source>
       <translation>&amp; ලිපිනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="245"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="246"/>
       <source>&amp;Disassembly</source>
       <translation>&amp;විසුරුවා හැරීම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="431"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="443"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="432"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="444"/>
       <source>System Code</source>
       <translation>පද්ධතිය කේතය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="432"/>
       <source>System Data</source>
       <translation>දත්ත පද්ධතිය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="445"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
       <source>User Code</source>
       <translation>පරිශීලක කේතය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
       <source>User Data</source>
       <translation>පරිශීලක දත්ත</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="449"/>
       <source> (Real4)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="453"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="454"/>
       <source> (Real8)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="457"/>
       <source> (BYTE)</source>
       <translation> (බයිට්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="460"/>
       <source> (WORD)</source>
       <translation> (වචනය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="463"/>
       <source> (DWORD)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="466"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="471"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="472"/>
       <source> (QWORD)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="478"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="479"/>
       <source> (String)</source>
       <translation> (සංගීත)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="480"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
       <source>(Unknown String)</source>
       <translation>(නොදන්නා සංගීත)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="514"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="530"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="547"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="515"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="531"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="548"/>
       <source>Modify value</source>
       <translation>අගය වෙනස් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="521"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="537"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1528"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1539"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="522"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="538"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1554"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1565"/>
       <source>Error</source>
       <translation>දෝෂය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="521"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="522"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="538"/>
       <source>The input text is not a number!</source>
       <translation>ආදාන පෙළ අංකයක් නොවේ!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="562"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="563"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>ඩම්ප් අනුගමනය කිරීමට ප්රකාශනය ඇතුල් කරන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="578"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1477"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1503"/>
       <source>Error!</source>
       <translation>දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="578"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="579"/>
       <source>Not inside a module...</source>
       <translation>මොඩියුලයක් ඇතුළත නොවේ...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="585"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="586"/>
       <source>Goto File Offset in %1</source>
       <translation>%1දී ඕෆ්සෙට් ගොනුව</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="646"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="680"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="718"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="750"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="647"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="681"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="719"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="751"/>
       <source>Hex</source>
       <translation>හෙක්ස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="654"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="800"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1243"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="655"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="801"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1269"/>
       <source>ASCII</source>
       <translation>ඇසි</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="688"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="826"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1288"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="689"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="827"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1314"/>
       <source>UNICODE</source>
       <translation>යුනිකෝඩ්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1148"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1149"/>
       <source>Float (32-bit)</source>
       <translation>පාවෙන (32-ටිකක්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1173"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1174"/>
       <source>Double (64-bit)</source>
       <translation>ද්විත්ව (64-ටිකක්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1198"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1199"/>
       <source>Long double (80-bit)</source>
       <translation>දිගු ද්විත්ව (80-ටිකක්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1273"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1224"/>
+      <source>Half float (16-bit)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1254"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1299"/>
       <source>Value</source>
       <translation>වටිනාකම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1251"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1296"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1322"/>
       <source>Comments</source>
       <translation>අදහස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1351"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1377"/>
       <source>Edit data at %1</source>
       <translation>%1හි දත්ත සංස්කරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1368"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1394"/>
       <source>Fill data at %1</source>
       <translation>%1හි දත්ත පුරවන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1460"/>
       <source>Save to file</source>
       <translation>ගොනු කිරීමට සුරකින්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1460"/>
       <source>All files (*.*)</source>
       <translation>සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1454"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1480"/>
       <source>Find Pattern...</source>
       <translation>රටාව සොයන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1477"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1503"/>
       <source>Selection not in a file...</source>
       <translation>ගොනුවක නොතේරීම...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1494"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1520"/>
       <source>Dump</source>
       <translation>ඩම්ප්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1506"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1532"/>
       <source>Enter expression to sync with...</source>
       <translation>සමඟ සමමුහුර්ත වීමට ප්රකාශනය ඇතුළත් කරන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1517"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1543"/>
       <source>Size</source>
       <translation>ප්රමාණය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1523"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
       <source>Warning</source>
       <translation>අවවාදය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1523"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>ඔබ දැන් ශුන්ය ප්රමාණයේ බෆරයක් වෙන් කිරීමට උත්සාහ කරනවා.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1528"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1554"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>ඔබ වෙන් කිරීමට උත්සාහ කරන බෆරයේ ප්රමාණය 1GB ඉක්මවයි. කිසිවක් වැරදියි කියා සහතික කිරීම සඳහා කරුණාකර ඔබේ ප්රකාශනය පරීක්ෂා කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1539"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1565"/>
       <source>Memory allocation failed!</source>
       <translation>මතක වෙන් කිරීම අසාර්ථක විය!</translation>
     </message>
@@ -10441,7 +10451,7 @@ Do you want me to fix this?</source>
       <translation>පිටවීමේ සංඥා සාර්ථකව සකස්!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1169"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1195"/>
       <source>%1 occurrence(s) in %2ms
 </source>
       <translation type="unfinished"/>
@@ -11512,27 +11522,27 @@ Do you want to continue rendering this graph?</source>
   <context>
     <name>HexDump</name>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="303"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="304"/>
       <source>&amp;Selected lines</source>
       <translation>සහ තෝරාගත් රේඛා</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="309"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="310"/>
       <source>&amp;Address</source>
       <translation>&amp; ලිපිනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="337"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="338"/>
       <source>Error!</source>
       <translation>දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="337"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="338"/>
       <source>Selection not in a module...</source>
       <translation>මොඩියුලයක් තුළ තෝරා ගැනීම...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1517"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1530"/>
       <source>Address</source>
       <translation>ලිපිනය</translation>
     </message>
@@ -17041,67 +17051,67 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="145"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="657"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="658"/>
       <source>Signed byte (8-bit)</source>
       <translation>අත්සන් බයිට් (8-ටිකක්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="146"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="682"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="683"/>
       <source>Signed short (16-bit)</source>
       <translation>කෙටි අත්සන් (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="147"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="707"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="708"/>
       <source>Signed long (32-bit)</source>
       <translation>අත්සන් කරන ලද දිගු (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="148"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="732"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="733"/>
       <source>Signed long long (64-bit)</source>
       <translation>දිගු දිගු (64-ටිකක්) අත්සන්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="149"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="757"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="758"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>අත්සන් නොකළ බයිට් (8-ටිකක්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="150"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="782"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="783"/>
       <source>Unsigned short (16-bit)</source>
       <translation>අත්සන් නොකළ කෙටි (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="151"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="807"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="808"/>
       <source>Unsigned long (32-bit)</source>
       <translation>අත්සන් නොකළ දිගු (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="152"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="832"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="833"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>අත්සන් නොකළ දිගු (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="153"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="857"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="858"/>
       <source>Hex short (16-bit)</source>
       <translation>Hex කෙටි (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="154"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="882"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="883"/>
       <source>Hex long (32-bit)</source>
       <translation>හෙක්ස් දිගු (32-ටිකක්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="155"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="907"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="908"/>
       <source>Hex long long (64-bit)</source>
       <translation>හෙක්ස් දිගු (64-ටිකක්)</translation>
     </message>
@@ -17127,100 +17137,110 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="162"/>
+      <source>&amp;Half float (16-bit)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="163"/>
       <source>&amp;Float</source>
       <translation>&amp;පාවෙන</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="164"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="165"/>
       <source>&amp;Address</source>
       <translation>&amp; ලිපිනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="165"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="166"/>
       <source>&amp;Disassembly</source>
       <translation>&amp;විසුරුවා හැරීම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="384"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="385"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>ඩම්ප් අනුගමනය කිරීමට ප්රකාශනය ඇතුල් කරන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="430"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="464"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="502"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="534"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="431"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="465"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="503"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="535"/>
       <source>Hex</source>
       <translation>හෙක්ස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="438"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="584"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1027"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="439"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="585"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1053"/>
       <source>ASCII</source>
       <translation>ඇසි</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="472"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="610"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1072"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="473"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="611"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1098"/>
       <source>UNICODE</source>
       <translation>යුනිකෝඩ්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="932"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="933"/>
       <source>Float (32-bit)</source>
       <translation>පාවෙන (32-ටිකක්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="957"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="958"/>
       <source>Double (64-bit)</source>
       <translation>ද්විත්ව (64-ටිකක්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="982"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="983"/>
       <source>Long double (80-bit)</source>
       <translation>දිගු ද්විත්ව (80-ටිකක්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1012"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1057"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1008"/>
+      <source>Half float (16-bit)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1038"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1083"/>
       <source>Value</source>
       <translation>වටිනාකම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1035"/>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1080"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1061"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1106"/>
       <source>Comments</source>
       <translation>අදහස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1140"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1166"/>
       <source>Save to file</source>
       <translation>ගොනු කිරීමට සුරකින්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1140"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1166"/>
       <source>All files (*.*)</source>
       <translation>සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1160"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1186"/>
       <source>Find Pattern...</source>
       <translation>රටාව සොයන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1183"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1209"/>
       <source>Error!</source>
       <translation>දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1183"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1209"/>
       <source>Selection not in a file...</source>
       <translation>ගොනුවක නොතේරීම...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1190"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1216"/>
       <source>Dump</source>
       <translation>ඩම්ප්</translation>
     </message>
