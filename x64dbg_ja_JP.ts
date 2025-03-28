@@ -2680,7 +2680,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>半精度浮動小数点数 16-bit (&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
@@ -2842,7 +2842,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1224"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>半精度浮動小数点数 (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1254"/>
@@ -17181,7 +17181,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="162"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>半精度浮動小数点数 16-bit (&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="163"/>
@@ -17243,7 +17243,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1008"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>半精度浮動小数点数 (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1038"/>
