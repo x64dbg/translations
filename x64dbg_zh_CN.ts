@@ -2678,7 +2678,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>半精度浮点数 (16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
@@ -2840,7 +2840,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1224"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>半精度浮点数 (16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1254"/>
@@ -3146,7 +3146,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="269"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="448"/>
       <source>Edit %1</source>
-      <translation type="unfinished"/>
+      <translation>编辑 %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="274"/>
@@ -3161,7 +3161,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="289"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="292"/>
       <source>Edit %1 register</source>
-      <translation type="unfinished"/>
+      <translation>编辑%1寄存器</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="299"/>
@@ -5270,7 +5270,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>ZMMWord</source>
-      <translation type="unfinished"/>
+      <translation>ZMMWord</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
@@ -5845,7 +5845,8 @@
       <location filename="src/dbg/command.cpp" line="56"/>
       <source>Not enough arguments! At least %d argument(s) must be specified. Arguments are &lt;a href="https://help.x64dbg.com/en/latest/commands/index.html"&gt;comma-separated&lt;/a&gt;.
 </source>
-      <translation type="unfinished"/>
+      <translation>参数个数不足！至少需要指定%d个参数(s)。参数&lt;a href="https://help.x64dbg.com/en/latest/commands/index.html"&gt;使用逗号分隔&lt;/a&gt;。
+</translation>
     </message>
     <message>
       <location filename="src/dbg/command.cpp" line="296"/>
@@ -6622,7 +6623,8 @@
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="814"/>
       <source>Memory breakpoint at %p[%p] set!
 </source>
-      <translation type="unfinished"/>
+      <translation>已于 %p[%p] 处设置内存断点！
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="790"/>
@@ -7321,23 +7323,24 @@
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="779"/>
       <source>Usage: vmovdqu zmm0 (or ymm0), [address] / vmovdqu [address], zmm0 (or ymm0) / vmovdqu zmm0 (or ymm0), zmm1 (or ymm1)</source>
-      <translation type="unfinished"/>
+      <translation>用法: vmovdqu zmm0 (或ymm0), [地址] / vmovdqu [地址], zmm0 (或ymm0) / vmovdqu zmm0 (或ymm0), zmm1 (或ymm1)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="921"/>
       <source>Usage: kmovq k1, [address] / kmovq [address], k1 / kmovq k1, k2</source>
-      <translation type="unfinished"/>
+      <translation>用法：kmovq k1, [地址] / kmovq [地址], k1 / kmovq k1, k2</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1019"/>
       <source>Failed to write to %s
 </source>
-      <translation type="unfinished"/>
+      <translation>写入 %s 失败
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1027"/>
       <source>Usage: kmovd k1, [address] / kmovd [address], k1 / kmovd k1, k2</source>
-      <translation type="unfinished"/>
+      <translation>用法：kmovd k1, [地址] / kmovd [地址], k1 / kmovd k1, k2</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="22"/>
@@ -10802,7 +10805,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="75"/>
       <source>Example: arg(0) == 123 (numbers are hex by default)</source>
-      <translation type="unfinished"/>
+      <translation>示例：arg(0) == 123 (数字默认为十六进制)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="91"/>
@@ -12072,12 +12075,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="116"/>
       <source>Find Next Occurence</source>
-      <translation type="unfinished"/>
+      <translation>查找下一个</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="117"/>
       <source>Find Previous Occurence</source>
-      <translation type="unfinished"/>
+      <translation>查找上一个</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="146"/>
@@ -13382,7 +13385,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="725"/>
       <source>Dark</source>
-      <translation type="unfinished"/>
+      <translation>深色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="780"/>
@@ -13443,17 +13446,17 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1047"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1055"/>
       <source>Unsupported system</source>
-      <translation type="unfinished"/>
+      <translation>不受支持的系统</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1048"/>
       <source>You are running x64dbg in ARM64 emulation mode. &lt;b&gt;This system is not supported by x64dbg and will cause unexpected behavior.&lt;/b&gt; Analyzing malware in this environment is dangerous and you should switch to an actual Intel/AMD CPU.&lt;br&gt;&lt;br&gt;For more information, see the &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</source>
-      <translation type="unfinished"/>
+      <translation>你正在 ARM64 模拟下运行x64dbg 。 &lt;b&gt;此系统不被 x64dbg 支持，并将导致意外行为。&lt;/b&gt; 在此环境中分析恶意软件是危险的，您应该改用真实的 Intel/AMD CPU。&lt;br&gt;&lt;br&gt;了解更多信息，请参阅 &lt;a href="%1"&gt;FAQ&lt;/a&gt;。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1056"/>
       <source>You are running x64dbg on an unsupported operating system version. &lt;b&gt;Future updates will completely stop running on this system.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more information, see the official &lt;a href="%1"&gt;announcement&lt;/a&gt;.</source>
-      <translation type="unfinished"/>
+      <translation>您正在一个不支持的操作系统版本上运行 x64dbg。 &lt;b&gt;未来的更新版本将完全停止在此系统上运行。&lt;/b&gt;&lt;br&gt;&lt;br&gt;了解更多信息，请参阅官方 &lt;a href="%1"&gt;公告&lt;/a&gt;。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1207"/>
@@ -14466,7 +14469,8 @@ Do you want to apply these patches anyway?</source>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2633"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
-      <translation type="unfinished"/>
+      <translation>这台电脑不支持AVX-512。
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1335"/>
@@ -14576,12 +14580,12 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1390"/>
       <source>Always show maximum vector length</source>
-      <translation type="unfinished"/>
+      <translation>总是显示寄存器最大向量长度</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
       <source>Always show all AVX-512 registers</source>
-      <translation type="unfinished"/>
+      <translation>总是显示所有AVX-512寄存器</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1582"/>
@@ -15974,7 +15978,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="19"/>
       <source>Example: %1 (numbers are hex by default)</source>
-      <translation type="unfinished"/>
+      <translation>示例：%1 (数字默认为十六进制)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="20"/>
@@ -17232,7 +17236,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="162"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>半精度浮点数 (16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="163"/>
@@ -17294,7 +17298,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1008"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>半精度浮点数 (16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1038"/>

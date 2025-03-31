@@ -3144,7 +3144,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="269"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="448"/>
       <source>Edit %1</source>
-      <translation type="unfinished"/>
+      <translation>編輯 %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="274"/>
@@ -3159,7 +3159,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="289"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="292"/>
       <source>Edit %1 register</source>
-      <translation type="unfinished"/>
+      <translation>編輯 %1 暫存器</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="299"/>
@@ -5268,7 +5268,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>ZMMWord</source>
-      <translation type="unfinished"/>
+      <translation>ZMMWord</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
@@ -6271,7 +6271,8 @@
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="141"/>
       <source>Breakpoint at %p (%s) set!
 </source>
-      <translation type="unfinished"/>
+      <translation>已於 %p (%s) 設置中斷點！
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="143"/>
@@ -6588,7 +6589,7 @@
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="740"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="801"/>
       <source>Memory breakpoint already set!</source>
-      <translation type="unfinished"/>
+      <translation>記憶體中斷點早已設置！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="745"/>
@@ -6668,7 +6669,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="899"/>
       <source>Memory breakpoint already enabled!</source>
-      <translation type="unfinished"/>
+      <translation>記憶體中斷點早已啟用！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="915"/>
