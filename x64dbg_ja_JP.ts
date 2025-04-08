@@ -5272,7 +5272,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>ZMMWord</source>
-      <translation type="unfinished"/>
+      <translation>ZMMWord</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
@@ -7325,23 +7325,24 @@
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="779"/>
       <source>Usage: vmovdqu zmm0 (or ymm0), [address] / vmovdqu [address], zmm0 (or ymm0) / vmovdqu zmm0 (or ymm0), zmm1 (or ymm1)</source>
-      <translation type="unfinished"/>
+      <translation>使用方法: vmovdquu zmm0 (または ym0), [address] / vmovdquu [address], zmm0 (または ym0) / vmovdquu zmm0 (または ym0), zmm1 (または ym1)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="921"/>
       <source>Usage: kmovq k1, [address] / kmovq [address], k1 / kmovq k1, k2</source>
-      <translation type="unfinished"/>
+      <translation>使用方法: kmovq k1, [address] / kmovq [address], k1 / kmovq k1, k2</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1019"/>
       <source>Failed to write to %s
 </source>
-      <translation type="unfinished"/>
+      <translation>%s への書き込みに失敗しました
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1027"/>
       <source>Usage: kmovd k1, [address] / kmovd [address], k1 / kmovd k1, k2</source>
-      <translation type="unfinished"/>
+      <translation>使用方法: kmovd k1, [address] / kmovd [address], k1 / kmovd k1, k2</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="22"/>
@@ -12095,12 +12096,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="116"/>
       <source>Find Next Occurence</source>
-      <translation type="unfinished"/>
+      <translation>次の出現箇所を検索</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="117"/>
       <source>Find Previous Occurence</source>
-      <translation type="unfinished"/>
+      <translation>前の出現箇所を検索</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="146"/>
@@ -14492,7 +14493,8 @@ Do you want to apply these patches anyway?</source>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2633"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
-      <translation type="unfinished"/>
+      <translation>AVX-512 はこのコンピューターではサポートされていません。
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1335"/>
@@ -14602,12 +14604,12 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1390"/>
       <source>Always show maximum vector length</source>
-      <translation type="unfinished"/>
+      <translation>常に最大ベクトル長を表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
       <source>Always show all AVX-512 registers</source>
-      <translation type="unfinished"/>
+      <translation>常にすべての AVX-512 レジスタを表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1582"/>
