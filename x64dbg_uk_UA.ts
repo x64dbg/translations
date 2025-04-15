@@ -2593,67 +2593,67 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="874"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
       <source>Signed byte (8-bit)</source>
       <translation>Signed byte (8 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="899"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
       <source>Signed short (16-bit)</source>
       <translation>Signed short (16 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="924"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
       <source>Signed long (32-bit)</source>
       <translation>Signed long (32 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="949"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
       <source>Signed long long (64-bit)</source>
       <translation>Signed long long (64 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="974"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>Unsigned byte (8 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="999"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
       <source>Unsigned short (16-bit)</source>
       <translation>Unsigned short (16 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1024"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
       <source>Unsigned long (32-bit)</source>
       <translation>Unsigned long (32 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1049"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>Unsigned long long (64 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1074"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1076"/>
       <source>Hex short (16-bit)</source>
       <translation>Hex short (16 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1099"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
       <source>Hex long (32-bit)</source>
       <translation>Hex long (32 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1124"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
       <source>Hex long long (64-bit)</source>
       <translation>Hex long long (64 біт)</translation>
     </message>
@@ -2698,228 +2698,249 @@
       <translation>&amp;Дизасембльований код</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="432"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="444"/>
-      <source>System Code</source>
-      <translation>Системний код</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="432"/>
-      <source>System Data</source>
-      <translation>Системні дані</translation>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="249"/>
+      <source>Display type</source>
+      <translation>Тип відображення</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
+      <source>System Code</source>
+      <translation>Системний код</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <source>System Data</source>
+      <translation>Системні дані</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
       <source>User Code</source>
       <translation>Код користувача</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
       <source>User Data</source>
       <translation>Дані користувача</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="449"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
       <source> (Real4)</source>
       <translation> (Real4)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="454"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
       <source> (Real8)</source>
       <translation> (Real8)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="457"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
       <source> (BYTE)</source>
       <translation> (BYTE)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="460"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
       <source> (WORD)</source>
       <translation> (WORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="463"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
       <source> (DWORD)</source>
       <translation> (DWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="467"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="472"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="474"/>
       <source> (QWORD)</source>
       <translation> (QWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="479"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
       <source> (String)</source>
       <translation> (Рядок)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="483"/>
       <source>(Unknown String)</source>
       <translation>(Невідомий рядок)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="515"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="531"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="517"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="550"/>
       <source>Modify value</source>
       <translation>Змінити значення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="522"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="538"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1554"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1565"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
       <source>Error</source>
       <translation>Помилка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="522"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="538"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
       <source>The input text is not a number!</source>
       <translation>Введений текст не є числом!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="563"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="565"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>Введіть вираз, щоб перейти до дампа...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="579"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1503"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
       <source>Error!</source>
       <translation>Помилка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
       <source>Not inside a module...</source>
       <translation>Не всередині модуля...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="586"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="588"/>
       <source>Goto File Offset in %1</source>
       <translation>Перейти до зміщення в файлі %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="647"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="681"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="719"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="751"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="649"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="721"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="753"/>
       <source>Hex</source>
       <translation>Шістнадцятковий</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="655"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="801"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1269"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="657"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1271"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="689"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="827"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1314"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="691"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1316"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1149"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
       <source>Float (32-bit)</source>
       <translation>Float (32 біт)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1174"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
       <source>Double (64-bit)</source>
       <translation>Double (64 біт)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1199"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
       <source>Long double (80-bit)</source>
       <translation>Long double (80 біт)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1224"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
       <source>Half float (16-bit)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1254"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1299"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1256"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1301"/>
       <source>Value</source>
       <translation>Значення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1322"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1279"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
       <source>Comments</source>
       <translation>Коментарі</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1377"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1379"/>
       <source>Edit data at %1</source>
       <translation>Редагування даних по адресу %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1394"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1396"/>
       <source>Fill data at %1</source>
       <translation>Заповнення даних по адресу %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1460"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
       <source>Save to file</source>
       <translation>Зберегти до файлу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1460"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
       <source>All files (*.*)</source>
       <translation>Усі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1480"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1482"/>
       <source>Find Pattern...</source>
       <translation>Пошук шаблону...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1503"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
       <source>Selection not in a file...</source>
       <translation>Віділене не у файлі...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1520"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1522"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1532"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
       <source>Enter expression to sync with...</source>
       <translation>Введіть вираз для синхронізації з...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1543"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1545"/>
       <source>Size</source>
       <translation>Розмір</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
       <source>Warning</source>
       <translation>Попередження</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>Ви намагаєтеся виділити буфер з нульовим розміром.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1554"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>Розмір буферу, який ви намагаєтеся виділити перевищує 1ГБ. Будь ласка, перевірте свій вираз, щоб переконатися, що все вірно.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1565"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
       <source>Memory allocation failed!</source>
       <translation>Не вдалося виділити пам'ять!</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
+      <source>No types loaded yet, parse a header first...</source>
+      <translation>Немає завантажених типів, спочатку аналізуйте заголовок...</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1591"/>
+      <source>Type to display</source>
+      <translation>Тип для відображення</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
+      <source>Address to display %1 at</source>
+      <translation>Адреса для відображення %1 в</translation>
     </message>
   </context>
   <context>
@@ -3055,17 +3076,17 @@
       <translation>Локальні змінні</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="225"/>
+      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="242"/>
       <source>Change Tab %1 Name</source>
       <translation>Змінити Ім'я вкладки %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="225"/>
+      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="242"/>
       <source>Tab Name</source>
       <translation>Ім'я вкладки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="250"/>
+      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="273"/>
       <source>Disassembly</source>
       <translation>Дизасембльований код</translation>
     </message>
@@ -6000,7 +6021,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="662"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
       <source>Done!</source>
       <translation>Готово!</translation>
     </message>
@@ -8257,39 +8278,39 @@
       <translation>Не вдалося виконати AddArg</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="302"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="301"/>
       <source>AppendArg failed</source>
       <translation>Не вдалося виконати AppendArg</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="316"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="315"/>
       <source>SizeofType failed</source>
       <translation>Не вдалося виконати SizeofType</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="658"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="878"/>
       <source>VisitType failed</source>
       <translation>Не вдалося виконати VisitType</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="681"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="903"/>
       <source>RemoveType failed</source>
       <translation>Не вдалося виконати RemoveType</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="684"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="906"/>
       <source>Type %s removed
 </source>
       <translation>Тип %s видалено
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="709"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="931"/>
       <source>LoadTypes failed</source>
       <translation>Не вдалося виконати LoadTypes</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="712"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="934"/>
       <source>Types loaded</source>
       <translation>Типи завантажено</translation>
     </message>
@@ -10076,35 +10097,53 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="610"/>
+      <location filename="src/dbg/types.cpp" line="942"/>
       <source>Failed to add %s %s;
 </source>
       <translation>Не вдалося додати %s %s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="622"/>
-      <source>Failed to add typedef %s %s;
-</source>
-      <translation>Не вдалося додати typedef %s %s;
-</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/types.cpp" line="633"/>
+      <location filename="src/dbg/types.cpp" line="954"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>Не вдалося додати функцію %s %s()
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="649"/>
+      <location filename="src/dbg/types.cpp" line="968"/>
+      <source>Failed to add enum %s
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/types.cpp" line="979"/>
+      <source>Failed to add typedef %s %s;
+</source>
+      <translation>Не вдалося додати typedef %s %s;
+</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/types.cpp" line="996"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>Не вдалося додати член %s %s.%s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="665"/>
+      <location filename="src/dbg/types.cpp" line="1015"/>
+      <source>Failed to add enum member %s
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/types.cpp" line="1029"/>
+      <source>Failed to add return type %s.%s;
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/types.cpp" line="1038"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>Не вдалося додати аргумент %s %s.%s;
@@ -16089,90 +16128,90 @@ TEB може бути використаний для отримання інф�
       <translation>Значення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="202"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="223"/>
       <source>&amp;Follow address in Dump</source>
       <translation>&amp;Перейти за адресою в дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="206"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
       <source>Follow value in Dump</source>
       <translation>Перейти до значення в дампі</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="210"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
       <source>Follow value in Disassembler</source>
       <translation>Перейти за значенням в дизасемблер</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="214"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="235"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="446"/>
       <source>Change address</source>
       <translation>Змінити адресу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="218"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
       <source>Display type</source>
       <translation>Тип відображення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="219"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="389"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
       <source>Load JSON</source>
       <translation>Завантажити JSON</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="220"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="241"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
       <source>Parse header</source>
       <translation>Аналізувати заголовок</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="221"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="242"/>
       <source>Remove</source>
       <translation>Видалити</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="225"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="246"/>
       <source>Clear</source>
       <translation>Очистити</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="226"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
       <source>&amp;Refresh</source>
       <translation>&amp;Оновити</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="261"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
       <source>Error</source>
       <translation>Помилка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation>Немає завантажених типів, спочатку аналізуйте заголовок...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="375"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="396"/>
       <source>Type to display</source>
       <translation>Тип для відображення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="380"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="401"/>
       <source>Address to display %1 at</source>
       <translation>Адреса для відображення %1 в</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="389"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSON файли (*.json);;Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>Файли заголовків (*.h *.hpp);;Всі файли (*.*)</translation>
     </message>

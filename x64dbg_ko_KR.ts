@@ -2591,67 +2591,67 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="874"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
       <source>Signed byte (8-bit)</source>
       <translation>Signed 바이트 (8비트)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="899"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
       <source>Signed short (16-bit)</source>
       <translation>Signed short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="924"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
       <source>Signed long (32-bit)</source>
       <translation>Signed long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="949"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
       <source>Signed long long (64-bit)</source>
       <translation>Signed long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="974"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>Unsigned byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="999"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
       <source>Unsigned short (16-bit)</source>
       <translation>Unsigned short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1024"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
       <source>Unsigned long (32-bit)</source>
       <translation>Unsigned long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1049"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>Unsigned long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1074"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1076"/>
       <source>Hex short (16-bit)</source>
       <translation>Hex short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1099"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
       <source>Hex long (32-bit)</source>
       <translation>Hex long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1124"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
       <source>Hex long long (64-bit)</source>
       <translation>Hex long long (64-bit)</translation>
     </message>
@@ -2696,228 +2696,249 @@
       <translation>디스어셈블리(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="432"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="444"/>
-      <source>System Code</source>
-      <translation>시스템 코드</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="432"/>
-      <source>System Data</source>
-      <translation>시스템 데이터</translation>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="249"/>
+      <source>Display type</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
+      <source>System Code</source>
+      <translation>시스템 코드</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <source>System Data</source>
+      <translation>시스템 데이터</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
       <source>User Code</source>
       <translation>사용자 코드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
       <source>User Data</source>
       <translation>사용자 데이터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="449"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
       <source> (Real4)</source>
       <translation> (Real4)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="454"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
       <source> (Real8)</source>
       <translation> (Real8)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="457"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
       <source> (BYTE)</source>
       <translation> (BYTE)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="460"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
       <source> (WORD)</source>
       <translation> (WORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="463"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
       <source> (DWORD)</source>
       <translation> (DWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="467"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="472"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="474"/>
       <source> (QWORD)</source>
       <translation> (QWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="479"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
       <source> (String)</source>
       <translation> (문자열)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="483"/>
       <source>(Unknown String)</source>
       <translation>(알 수 없는 문자열)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="515"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="531"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="517"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="550"/>
       <source>Modify value</source>
       <translation>값 수정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="522"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="538"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1554"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1565"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="522"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="538"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
       <source>The input text is not a number!</source>
       <translation>입력된 값이 숫자가 아닙니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="563"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="565"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>덤프에서 따라갈 표현식 입력...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="579"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1503"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
       <source>Error!</source>
       <translation>오류발생!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
       <source>Not inside a module...</source>
       <translation>모듈 내부가 아닙니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="586"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="588"/>
       <source>Goto File Offset in %1</source>
       <translation>%1 에서 파일 오프셋으로 이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="647"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="681"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="719"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="751"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="649"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="721"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="753"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="655"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="801"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1269"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="657"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1271"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="689"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="827"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1314"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="691"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1316"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1149"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
       <source>Float (32-bit)</source>
       <translation>Float (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1174"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
       <source>Double (64-bit)</source>
       <translation>Double (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1199"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
       <source>Long double (80-bit)</source>
       <translation>Long double (80-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1224"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
       <source>Half float (16-bit)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1254"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1299"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1256"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1301"/>
       <source>Value</source>
       <translation>값</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1322"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1279"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
       <source>Comments</source>
       <translation>주석</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1377"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1379"/>
       <source>Edit data at %1</source>
       <translation>%1 에 데이터 편집</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1394"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1396"/>
       <source>Fill data at %1</source>
       <translation>%1 에 데이터 채우기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1460"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
       <source>Save to file</source>
       <translation>파일로 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1460"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
       <source>All files (*.*)</source>
       <translation>모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1480"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1482"/>
       <source>Find Pattern...</source>
       <translation>패턴 찾기...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1503"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
       <source>Selection not in a file...</source>
       <translation>선택 항목이 파일에 없습니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1520"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1522"/>
       <source>Dump</source>
       <translation>덤프</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1532"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
       <source>Enter expression to sync with...</source>
       <translation>동기화할 표현식을 입력...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1543"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1545"/>
       <source>Size</source>
       <translation>크기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
       <source>Warning</source>
       <translation>경고</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>지금 크기가 0인 버퍼를 할당 시도했습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1554"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>할당하려는 버퍼의 크기가 1GB를 초과합니다. 표현식이 잘못되지 않도록 점검해주세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1565"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
       <source>Memory allocation failed!</source>
       <translation>메모리 할당 실패!</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
+      <source>No types loaded yet, parse a header first...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1591"/>
+      <source>Type to display</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
+      <source>Address to display %1 at</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -3050,17 +3071,17 @@
       <translation>로컬</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="225"/>
+      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="242"/>
       <source>Change Tab %1 Name</source>
       <translation>탭 %1 이름 바꾸기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="225"/>
+      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="242"/>
       <source>Tab Name</source>
       <translation>탭 이름</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="250"/>
+      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="273"/>
       <source>Disassembly</source>
       <translation>디스어셈블리</translation>
     </message>
@@ -5996,7 +6017,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="662"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
       <source>Done!</source>
       <translation>완료!</translation>
     </message>
@@ -8288,39 +8309,39 @@
       <translation>AddArg 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="302"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="301"/>
       <source>AppendArg failed</source>
       <translation>AppendArg 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="316"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="315"/>
       <source>SizeofType failed</source>
       <translation>SizeofType 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="658"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="878"/>
       <source>VisitType failed</source>
       <translation>VisitType 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="681"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="903"/>
       <source>RemoveType failed</source>
       <translation>RemoveType 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="684"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="906"/>
       <source>Type %s removed
 </source>
       <translation>%s 형식 제거됨
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="709"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="931"/>
       <source>LoadTypes failed</source>
       <translation>LoadTypes 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="712"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="934"/>
       <source>Types loaded</source>
       <translation>형식 불러옴</translation>
     </message>
@@ -10074,35 +10095,53 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="610"/>
+      <location filename="src/dbg/types.cpp" line="942"/>
       <source>Failed to add %s %s;
 </source>
       <translation>%s %s 을 추가 하지 못했습니다;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="622"/>
-      <source>Failed to add typedef %s %s;
-</source>
-      <translation>Typedef %s %s 을 추가 하지 못했습니다;
-</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/types.cpp" line="633"/>
+      <location filename="src/dbg/types.cpp" line="954"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>함수 %s %s() 를 추가하지 못했습니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="649"/>
+      <location filename="src/dbg/types.cpp" line="968"/>
+      <source>Failed to add enum %s
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/types.cpp" line="979"/>
+      <source>Failed to add typedef %s %s;
+</source>
+      <translation>Typedef %s %s 을 추가 하지 못했습니다;
+</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/types.cpp" line="996"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>Member %s %s.%s 을 추가하지 못했습니다;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="665"/>
+      <location filename="src/dbg/types.cpp" line="1015"/>
+      <source>Failed to add enum member %s
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/types.cpp" line="1029"/>
+      <source>Failed to add return type %s.%s;
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/types.cpp" line="1038"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>인자 %s %s.%s 을 추가하지 못했습니다;
@@ -16111,90 +16150,90 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>값</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="202"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="223"/>
       <source>&amp;Follow address in Dump</source>
       <translation>덤프내의 값을 따라가기(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="206"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
       <source>Follow value in Dump</source>
       <translation>덤프내의 값을 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="210"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
       <source>Follow value in Disassembler</source>
       <translation>디스어셈블러 값을 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="214"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="235"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="446"/>
       <source>Change address</source>
       <translation>주소 변경</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="218"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="219"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="389"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
       <source>Load JSON</source>
       <translation>JSON 불러오기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="220"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="241"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
       <source>Parse header</source>
       <translation>헤더 구문분석</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="221"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="242"/>
       <source>Remove</source>
       <translation>제거</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="225"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="246"/>
       <source>Clear</source>
       <translation>지우기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="226"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
       <source>&amp;Refresh</source>
       <translation>새로고침(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="261"/>
       <source>&amp;Copy</source>
       <translation>&amp;복사</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="375"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="396"/>
       <source>Type to display</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="380"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="401"/>
       <source>Address to display %1 at</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="389"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSON 파일 (*.json);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>헤더 파일 (*.h *.hpp);;모든 파일 (*.*)</translation>
     </message>
