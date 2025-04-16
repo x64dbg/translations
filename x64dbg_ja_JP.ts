@@ -10197,7 +10197,8 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/types.cpp" line="968"/>
       <source>Failed to add enum %s
 </source>
-      <translation type="unfinished"/>
+      <translation>列挙型の追加に失敗しました %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/types.cpp" line="979"/>
@@ -10217,13 +10218,15 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/types.cpp" line="1015"/>
       <source>Failed to add enum member %s
 </source>
-      <translation type="unfinished"/>
+      <translation>列挙型メンバの追加に失敗しました %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/types.cpp" line="1029"/>
       <source>Failed to add return type %s.%s;
 </source>
-      <translation type="unfinished"/>
+      <translation>戻り値の型を追加できませんでした %s.%s；
+</translation>
     </message>
     <message>
       <location filename="src/dbg/types.cpp" line="1038"/>
