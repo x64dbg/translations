@@ -2680,7 +2680,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>&amp;Половина плаваючого (16 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
@@ -2848,7 +2848,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>Половина плаваючого (16 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1256"/>
@@ -5295,7 +5295,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>ZMMWord</source>
-      <translation type="unfinished"/>
+      <translation>ZMMWord</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
@@ -6633,7 +6633,8 @@
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="814"/>
       <source>Memory breakpoint at %p[%p] set!
 </source>
-      <translation type="unfinished"/>
+      <translation>Точка зупинки в %p[%p] встановлена!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="790"/>
@@ -17213,7 +17214,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="162"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>&amp;Половина плаваючого (16 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="163"/>
@@ -17275,7 +17276,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1008"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>Половина плаваючого (16 біт)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1038"/>
