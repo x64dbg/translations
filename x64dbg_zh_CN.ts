@@ -6158,7 +6158,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_SEH: Image does not use SEH. No SE handler may reside in this image</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLLCHARACTERISTICS_NO_SEH：映像不使用 SEH。此映像中没有任何结构化异常处理程序</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
@@ -10178,7 +10178,8 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/types.cpp" line="968"/>
       <source>Failed to add enum %s
 </source>
-      <translation type="unfinished"/>
+      <translation>未能添加枚举类型 %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/types.cpp" line="979"/>
@@ -10198,13 +10199,15 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/types.cpp" line="1015"/>
       <source>Failed to add enum member %s
 </source>
-      <translation type="unfinished"/>
+      <translation>未能添加枚举值 %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/types.cpp" line="1029"/>
       <source>Failed to add return type %s.%s;
 </source>
-      <translation type="unfinished"/>
+      <translation>未能添加返回类型 %s.%s；
+</translation>
     </message>
     <message>
       <location filename="src/dbg/types.cpp" line="1038"/>

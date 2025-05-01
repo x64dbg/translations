@@ -16746,7 +16746,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="897"/>
       <source>Address/Constant</source>
-      <translation type="unfinished"/>
+      <translation>地址/常量</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="898"/>
