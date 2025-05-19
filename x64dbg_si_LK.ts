@@ -31,7 +31,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="234"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href="https://p.yusukekamiyamane.com"&gt;&lt;span style=" text-decoration: underline;"&gt;Yusuke Kamiyamane&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="https://github.com/mrfearless"&gt;&lt;span style=" text-decoration: underline;"&gt;mrfearless&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href="https://p.yusukekamiyamane.com"&gt;&lt;span style=" text-decoration: underline;"&gt;යුසුකේ කමියමානේ&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="https://github.com/mrfearless"&gt;&lt;span style=" text-decoration: underline;"&gt;බියගුළු&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="302"/>
@@ -51,7 +51,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="432"/>
       <source>Please consider donating using the Bitcoin address on the right or by going to &lt;a href="https://donate.x64dbg.com"&gt;donate.x64dbg.com&lt;/a&gt;.</source>
-      <translation type="unfinished"/>
+      <translation>දකුණු පස ඇති බිට්කොයින් ලිපිනය භාවිතා කර හෝ &lt;a href="https://donate.x64dbg.com"&gt;donate.x64dbg.com&lt;/a&gt;වෙත ගොස් පරිත්‍යාග කිරීම සලකා බලන්න.</translation>
     </message>
   </context>
   <context>
@@ -137,7 +137,7 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="396"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="603"/>
       <source>Open color selector</source>
-      <translation type="unfinished"/>
+      <translation>වර්ණ තේරීම විවෘත කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="412"/>
@@ -147,7 +147,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="429"/>
       <source>Transparent</source>
-      <translation type="unfinished"/>
+      <translation>විනිවිද පෙනෙන</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="437"/>
@@ -444,7 +444,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="454"/>
       <source>Header</source>
-      <translation type="unfinished"/>
+      <translation>ශීර්ෂකය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="455"/>
@@ -718,7 +718,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="522"/>
       <source>NOPs</source>
-      <translation type="unfinished"/>
+      <translation>NOPs</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="523"/>
@@ -728,7 +728,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="524"/>
       <source>INT3s</source>
-      <translation type="unfinished"/>
+      <translation>INT3</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="525"/>
@@ -1023,7 +1023,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
       <source>Struct text</source>
-      <translation type="unfinished"/>
+      <translation>ව්‍යුහ පෙළ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="619"/>
@@ -1176,7 +1176,7 @@
       <location filename="src/gui/Src/Gui/AssembleDialog.cpp" line="158"/>
       <location filename="src/gui/Src/Gui/AssembleDialog.cpp" line="166"/>
       <source>&lt;br&gt;Bytes: %1</source>
-      <translation type="unfinished"/>
+      <translation>&lt;br&gt;බයිට්: %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AssembleDialog.cpp" line="148"/>
@@ -1205,7 +1205,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="77"/>
       <source>&lt;a href="https://faq.x64dbg.com"&gt;Why is process X not shown?&lt;/a&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;a href="https://faq.x64dbg.com"&gt;X ක්‍රියාවලිය නොපෙන්වන්නේ ඇයි?&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="93"/>
@@ -1424,12 +1424,12 @@
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="372"/>
       <source>dword</source>
-      <translation type="unfinished"/>
+      <translation>ඩ්වර්ඩ්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="374"/>
       <source>qword</source>
-      <translation type="unfinished"/>
+      <translation>qword</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="384"/>
@@ -1507,12 +1507,12 @@
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="527"/>
       <source>cmdif</source>
-      <translation type="unfinished"/>
+      <translation>cmdif වෙත පිවිසෙන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="535"/>
       <source>cmd</source>
-      <translation type="unfinished"/>
+      <translation>සීඑම්ඩී</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="598"/>
@@ -1560,7 +1560,7 @@
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.h" line="103"/>
       <source>DLL</source>
-      <translation type="unfinished"/>
+      <translation>ඩීඑල්එල්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.h" line="105"/>
@@ -1807,7 +1807,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="296"/>
       <source>Selection (Bytes only)</source>
-      <translation type="unfinished"/>
+      <translation>තේරීම (බයිට් පමණි)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="297"/>
@@ -1827,7 +1827,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="300"/>
       <source>&amp;RVA</source>
-      <translation type="unfinished"/>
+      <translation>&amp;ආර්වීඒ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="301"/>
@@ -1894,7 +1894,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="369"/>
       <source>Edit columns...</source>
-      <translation type="unfinished"/>
+      <translation>තීරු සංස්කරණය කරන්න...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="372"/>
@@ -1932,17 +1932,17 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="420"/>
       <source>Start trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම ආරම්භ කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
       <source>Trace coverage</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් ආවරණය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="415"/>
       <source>Stop trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම නවත්වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="430"/>
@@ -2092,7 +2092,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="571"/>
       <source>xrefs...</source>
-      <translation type="unfinished"/>
+      <translation>xrefs...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="592"/>
@@ -2177,12 +2177,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="681"/>
       <source>All User Modules</source>
-      <translation type="unfinished"/>
+      <translation>සියලුම පරිශීලක මොඩියුල</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="682"/>
       <source>All System Modules</source>
-      <translation type="unfinished"/>
+      <translation>සියලුම පද්ධති මොඩියුල</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="683"/>
@@ -2331,7 +2331,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1806"/>
       <source>Start from &amp;Selection</source>
-      <translation type="unfinished"/>
+      <translation>&amp;සිට ආරම්භ කරන්න තේරීම</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1822"/>
@@ -2344,13 +2344,15 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1966"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
-      <translation type="unfinished"/>
+      <translation>%1පිටුව සඳහා අනුරේඛන ආවරණය සක්‍රීය කිරීමට අසමත් විය.
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1983"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
-      <translation type="unfinished"/>
+      <translation>%1පිටුව සඳහා අනුරේඛන ආවරණය අක්‍රිය කිරීමට අසමත් විය.
+</translation>
     </message>
   </context>
   <context>
@@ -2428,7 +2430,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="122"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="128"/>
       <source>&amp;Qword</source>
-      <translation type="unfinished"/>
+      <translation>&amp;වචනය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="130"/>
@@ -2678,7 +2680,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>&amp;අර්ධ පාවෙන (බිට් 16)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
@@ -2698,7 +2700,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="249"/>
       <source>Display type</source>
-      <translation type="unfinished"/>
+      <translation>සංදර්ශක වර්ගය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
@@ -2725,12 +2727,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
       <source> (Real4)</source>
-      <translation type="unfinished"/>
+      <translation> (රියල්4)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
       <source> (Real8)</source>
-      <translation type="unfinished"/>
+      <translation> (රියල්8)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
@@ -2745,13 +2747,13 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
       <source> (DWORD)</source>
-      <translation type="unfinished"/>
+      <translation> (ඩබ්ලිව්වර්ඩ්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="474"/>
       <source> (QWORD)</source>
-      <translation type="unfinished"/>
+      <translation> (ප්‍රශ්නාර්ථය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
@@ -2846,7 +2848,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>අර්ධ පාවෙන (බිට් 16)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1256"/>
@@ -2928,17 +2930,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
       <source>No types loaded yet, parse a header first...</source>
-      <translation type="unfinished"/>
+      <translation>තවම වර්ග පූරණය කර නැත, පළමුව ශීර්ෂයක් විග්‍රහ කරන්න...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1591"/>
       <source>Type to display</source>
-      <translation type="unfinished"/>
+      <translation>පෙන්වීමට ටයිප් කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
       <source>Address to display %1 at</source>
-      <translation type="unfinished"/>
+      <translation>%1 පෙන්වීමට ලිපිනය</translation>
     </message>
   </context>
   <context>
@@ -3097,17 +3099,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="19"/>
       <source>Increment value</source>
-      <translation type="unfinished"/>
+      <translation>අගය වැඩි කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="21"/>
       <source>Decrement value</source>
-      <translation type="unfinished"/>
+      <translation>අඩු කිරීමේ අගය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="23"/>
       <source>Zero value</source>
-      <translation type="unfinished"/>
+      <translation>ශුන්‍ය අගය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="25"/>
@@ -3168,7 +3170,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="269"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="448"/>
       <source>Edit %1</source>
-      <translation type="unfinished"/>
+      <translation>%1සංස්කරණය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="274"/>
@@ -3183,7 +3185,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="289"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="292"/>
       <source>Edit %1 register</source>
-      <translation type="unfinished"/>
+      <translation>%1 ලේඛනය සංස්කරණය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="299"/>
@@ -3213,7 +3215,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="684"/>
       <source>Copy old value: %1</source>
-      <translation type="unfinished"/>
+      <translation>පැරණි අගය පිටපත් කරන්න: %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="729"/>
@@ -3315,17 +3317,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;DWORD</source>
-      <translation type="unfinished"/>
+      <translation>&amp;ඩවර්ඩ්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;QWORD</source>
-      <translation type="unfinished"/>
+      <translation>&amp;වචනය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="135"/>
       <source>&amp;Comments</source>
-      <translation type="unfinished"/>
+      <translation>&amp;අදහස්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="140"/>
@@ -3354,7 +3356,7 @@
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="145"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="154"/>
       <source>&amp;Qword</source>
-      <translation type="unfinished"/>
+      <translation>&amp;වචනය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="149"/>
@@ -3492,7 +3494,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="286"/>
       <source>Edit columns...</source>
-      <translation type="unfinished"/>
+      <translation>තීරු සංස්කරණය කරන්න...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="305"/>
@@ -3535,7 +3537,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.ui" line="284"/>
       <source>Ctrl+G</source>
-      <translation type="unfinished"/>
+      <translation>Ctrl+G</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="94"/>
@@ -3565,12 +3567,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="99"/>
       <source>Sidebar</source>
-      <translation type="unfinished"/>
+      <translation>බාර්කෝඩ්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="100"/>
       <source>InfoBox</source>
-      <translation type="unfinished"/>
+      <translation>තොරතුරු පෙට්ටිය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="238"/>
@@ -3716,7 +3718,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="52"/>
       <source>Download Symbols for This Thread</source>
-      <translation type="unfinished"/>
+      <translation>මෙම නූල සඳහා සංකේත බාගන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="65"/>
@@ -3732,12 +3734,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="79"/>
       <source>Follow in Threads</source>
-      <translation type="unfinished"/>
+      <translation>නූල් අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="85"/>
       <source>Rename Thread</source>
-      <translation type="unfinished"/>
+      <translation>නූල නැවත නම් කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="95"/>
@@ -3757,7 +3759,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="267"/>
       <source>Thread name - %1</source>
-      <translation type="unfinished"/>
+      <translation>නූලේ නම - %1</translation>
     </message>
   </context>
   <context>
@@ -3890,7 +3892,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="34"/>
       <source>Show this address in disassembler. Equivalent command "d address".</source>
-      <translation type="unfinished"/>
+      <translation>මෙම ලිපිනය disassembler හි පෙන්වන්න. සමාන විධානය "d address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="38"/>
@@ -3910,7 +3912,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="42"/>
       <source>Show the address in dump. Equivalent command "dump address".</source>
-      <translation type="unfinished"/>
+      <translation>ලිපිනය ඩම්ප් එකේ පෙන්වන්න. සමාන විධානය "ඩම්ප් ලිපිනය".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="46"/>
@@ -3945,7 +3947,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="69"/>
       <source>Show this address in stack view. Equivalent command "sdump address".</source>
-      <translation type="unfinished"/>
+      <translation>මෙම ලිපිනය ස්ටැක් දර්ශනයෙන් පෙන්වන්න. සමාන විධානය "sdump address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="77"/>
@@ -3955,7 +3957,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="77"/>
       <source>Show this address in memory map view. Equivalent command "memmapdump address".</source>
-      <translation type="unfinished"/>
+      <translation>මෙම ලිපිනය මතක සිතියම් දර්ශනයේ පෙන්වන්න. සමාන විධානය "memmapdump address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="81"/>
@@ -3965,7 +3967,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="81"/>
       <source>Show the control flow graph of this function in CPU view. Equivalent command "graph address".</source>
-      <translation type="unfinished"/>
+      <translation>මෙම ශ්‍රිතයේ පාලන ප්‍රවාහ ප්‍රස්තාරය CPU දර්ශනයෙන් පෙන්වන්න. සමාන විධානය "graph address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="95"/>
@@ -4030,17 +4032,17 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="167"/>
       <source>Set a bookmark here, or remove bookmark. Equivalent command "bookmarkset address"/"bookmarkdel address".</source>
-      <translation type="unfinished"/>
+      <translation>මෙහි පිටු සලකුණක් සකසන්න, නැතහොත් පිටු සලකුණ ඉවත් කරන්න. "bookmarkset address"/"bookmarkdel address" යන සමාන විධානය.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
       <source>Set %1 Here</source>
-      <translation type="unfinished"/>
+      <translation>මෙතන %1 සකසන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
       <source>Set the next executed instruction to this address. Equivalent command "mov cip, address".</source>
-      <translation type="unfinished"/>
+      <translation>ඊළඟට ක්‍රියාත්මක කරන ලද උපදෙස් මෙම ලිපිනයට සකසන්න. සමාන විධානය "mov cip, address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="175"/>
@@ -4050,7 +4052,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="175"/>
       <source>Create a new thread at this address. Equivalent command "createthread address, argument".</source>
-      <translation type="unfinished"/>
+      <translation>මෙම ලිපිනයේ නව නූලක් සාදන්න. "createthread address, argument" යන සමාන විධානය.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
@@ -4065,7 +4067,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
       <source>Add the address in the watch view. Equivalent command "AddWatch [address], "uint"".</source>
-      <translation type="unfinished"/>
+      <translation>ඔරලෝසු දර්ශනයේ ලිපිනය එක් කරන්න. සමාන විධානය "AddWatch [address], "uint"".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="229"/>
@@ -4247,7 +4249,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
       <source>CPU</source>
-      <translation type="unfinished"/>
+      <translation>CPU</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
@@ -4277,7 +4279,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
       <source>SEH</source>
-      <translation type="unfinished"/>
+      <translation>සෙහ්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
@@ -4537,7 +4539,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
       <source>Trace coverage</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් ආවරණය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
@@ -4572,22 +4574,22 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Step into until reaching uncovered code</source>
-      <translation type="unfinished"/>
+      <translation>අනාවරණ කේතයට ළඟා වන තුරු ඇතුල් වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Step over until reaching uncovered code</source>
-      <translation type="unfinished"/>
+      <translation>අනාවරණ කේතයට ළඟා වන තුරු ඉදිරියට යන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step into until reaching covered code</source>
-      <translation type="unfinished"/>
+      <translation>ආවරණය කරන ලද කේතයට ළඟා වන තුරු ඇතුල් වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Step over until reaching covered code</source>
-      <translation type="unfinished"/>
+      <translation>ආවරණය කරන ලද කේතයට ළඟා වන තුරු ඉදිරියට යන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
@@ -4631,7 +4633,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
       <source>Hotkeys</source>
-      <translation type="unfinished"/>
+      <translation>හොට්කීස්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
@@ -4854,7 +4856,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Find Strings in Current Module</source>
-      <translation type="unfinished"/>
+      <translation>වත්මන් මොඩියුලයේ නූල් සොයන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
@@ -4989,7 +4991,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <source>Set %1 Here</source>
-      <translation type="unfinished"/>
+      <translation>මෙතන %1 සකසන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
@@ -5069,7 +5071,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
       <source>xrefs...</source>
-      <translation type="unfinished"/>
+      <translation>xrefs...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
@@ -5129,7 +5131,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
       <source>Sync</source>
-      <translation type="unfinished"/>
+      <translation>සමමුහුර්ත කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
@@ -5226,7 +5228,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
       <source>Qword</source>
-      <translation type="unfinished"/>
+      <translation>Qword</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
@@ -5292,7 +5294,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>ZMMWord</source>
-      <translation type="unfinished"/>
+      <translation>ZMMවර්ඩ්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
@@ -5548,7 +5550,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Start/Stop trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම ආරම්භ කරන්න/නවත්වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
@@ -5707,12 +5709,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="64"/>
       <source>Trace disassembler</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවක් විසුරුවා හැරීමේ යන්ත්‍රය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="66"/>
       <source>Trace dump</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් ඩම්ප්</translation>
     </message>
   </context>
   <context>
@@ -5721,13 +5723,14 @@
       <location filename="src/dbg/TraceRecord.cpp" line="418"/>
       <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.
 </source>
-      <translation type="unfinished"/>
+      <translation>WriteFile() අසාර්ථක වූ නිසා හෝඩුවාවන් පටිගත කිරීම අනපේක්ෂිත ලෙස නතර වී ඇත. GetLastError() = %s.
+</translation>
     </message>
     <message>
       <location filename="src/dbg/TraceRecord.cpp" line="529"/>
       <location filename="src/dbg/TraceRecord.cpp" line="538"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
-      <translation type="unfinished"/>
+      <translation>ගොනු ශීර්ෂය ලිවිය නොහැකි නිසා හෝඩුවාවන් පටිගත කිරීම ආරම්භ කිරීමට නොහැකි විය.</translation>
     </message>
     <message>
       <location filename="src/dbg/TraceRecord.cpp" line="549"/>
@@ -5739,12 +5742,13 @@
       <location filename="src/dbg/TraceRecord.cpp" line="564"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීමේ ගොනුව සෑදිය නොහැක. GetLastError() = %s.
+</translation>
     </message>
     <message>
       <location filename="src/dbg/TraceRecord.cpp" line="575"/>
       <source>Trace recording stopped.</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම නතර විය.</translation>
     </message>
     <message>
       <location filename="src/dbg/_exports.cpp" line="462"/>
@@ -5769,12 +5773,12 @@
     <message>
       <location filename="src/dbg/_exports.cpp" line="499"/>
       <source>cmdif</source>
-      <translation type="unfinished"/>
+      <translation>cmdif වෙත පිවිසෙන්න</translation>
     </message>
     <message>
       <location filename="src/dbg/_exports.cpp" line="506"/>
       <source>cmd</source>
-      <translation type="unfinished"/>
+      <translation>සීඑම්ඩී</translation>
     </message>
     <message>
       <location filename="src/dbg/analysis/FunctionPass.cpp" line="100"/>
@@ -5864,7 +5868,8 @@
       <location filename="src/dbg/command.cpp" line="56"/>
       <source>Not enough arguments! At least %d argument(s) must be specified. Arguments are &lt;a href="https://help.x64dbg.com/en/latest/commands/index.html"&gt;comma-separated&lt;/a&gt;.
 </source>
-      <translation type="unfinished"/>
+      <translation>ප්‍රමාණවත් තර්ක නොමැත! අවම වශයෙන් %d තර්කය(ය) නියම කළ යුතුය. තර්ක &lt;a href="https://help.x64dbg.com/en/latest/commands/index.html"&gt;කොමාවෙන් වෙන් කර ඇත&lt;/a&gt;.
+</translation>
     </message>
     <message>
       <location filename="src/dbg/command.cpp" line="296"/>
@@ -5957,33 +5962,34 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="142"/>
       <source>Invalid parameter [base]!</source>
-      <translation type="unfinished"/>
+      <translation>අවලංගු පරාමිතිය [පාදම]!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="147"/>
       <source>Invalid memory address!</source>
-      <translation type="unfinished"/>
+      <translation>වලංගු නොවන මතක ලිපිනයක්!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="155"/>
       <source>Invalid parameter [size]</source>
-      <translation type="unfinished"/>
+      <translation>අවලංගු පරාමිතිය [ප්‍රමාණය]</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="161"/>
       <source>Failed to load module (ModLoad)...</source>
-      <translation type="unfinished"/>
+      <translation>මොඩියුලය පූරණය කිරීමට අසමත් විය (ModLoad)...</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="169"/>
       <source>Virtual module "%s" loaded on %p[%p]!
 </source>
-      <translation type="unfinished"/>
+      <translation>"%s" අතථ්‍ය මොඩියුලය %p[%p] මත පූරණය විය!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="176"/>
       <source>This may take very long, depending on your network connection and data in the debug directory...</source>
-      <translation type="unfinished"/>
+      <translation>මෙය ඔබගේ ජාල සම්බන්ධතාවය සහ නිදොස් කිරීමේ නාමාවලියෙහි දත්ත මත පදනම්ව ඉතා දිගු කාලයක් ගතවනු ඇත...</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="188"/>
@@ -5998,7 +6004,8 @@
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="256"/>
       <source>Invalid module "%s"!
 </source>
-      <translation type="unfinished"/>
+      <translation>අවලංගු මොඩියුලය "%s"!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="202"/>
@@ -6026,51 +6033,54 @@
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="280"/>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="289"/>
       <source>Invalid argument</source>
-      <translation type="unfinished"/>
+      <translation>වලංගු නොවන තර්කය</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="311"/>
       <source>Image information for %s
 </source>
-      <translation type="unfinished"/>
+      <translation>%s
+සඳහා රූප තොරතුරු</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
       <source>Characteristics (0x%X):
 </source>
-      <translation type="unfinished"/>
+      <translation>ලක්ෂණ (0x%X):
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="334"/>
       <source>  None
 </source>
-      <translation type="unfinished"/>
+      <translation>  කිසිවක් නැත
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>IMAGE_FILE_RELOCS_STRIPPED: Relocation info stripped from file.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_RELOCS_STRIPPED: නැවත ස්ථානගත කිරීමේ තොරතුරු ගොනුවෙන් ඉවත් කර ඇත.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_EXECUTABLE_IMAGE: ගොනුව ක්‍රියාත්මක කළ හැකිය (එනම් නොවිසඳුණු බාහිර යොමු නොමැත).</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
       <source>IMAGE_FILE_LINE_NUMS_STRIPPED: Line numbers stripped from file.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_LINE_NUMS_STRIPPED: ගොනුවෙන් රේඛා අංක ඉවත් කරන ලදී.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
       <source>IMAGE_FILE_LOCAL_SYMS_STRIPPED: Local symbols stripped from file.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_LOCAL_SYMS_STRIPPED: ගොනුවෙන් දේශීය සංකේත ඉවත් කර ඇත.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
       <source>IMAGE_FILE_AGGRESIVE_WS_TRIM: Agressively trim working set</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_AGGRESIVE_WS_TRIM: ක්‍රියාකාරී කට්ටලය ආක්‍රමණශීලීව කප්පාදු කරන්න</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
@@ -6080,12 +6090,12 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_BYTES_REVERSED_LO: Bytes of machine word are reversed.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_BYTES_REVERSED_LO: යන්ත්‍ර වචන බයිට් ආපසු හරවා ඇත.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
       <source>IMAGE_FILE_32BIT_MACHINE: 32 bit word machine.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_32BIT_MACHINE: බිට් 32 වචන යන්ත්‍රය.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
@@ -6095,22 +6105,22 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
       <source>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: If Image is on removable media, copy and run from the swap file.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: රූපය ඉවත් කළ හැකි මාධ්‍යයක තිබේ නම්, swap ගොනුවෙන් පිටපත් කර ධාවනය කරන්න.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
       <source>IMAGE_FILE_NET_RUN_FROM_SWAP: If Image is on Net, copy and run from the swap file.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_NET_RUN_FROM_SWAP: රූපය Net හි තිබේ නම්, swap ගොනුවෙන් පිටපත් කර ධාවනය කරන්න.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
       <source>IMAGE_FILE_SYSTEM: System File.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_SYSTEM: පද්ධති ගොනුව.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
       <source>IMAGE_FILE_DLL: File is a DLL.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_DLL: ගොනුව DLL එකකි.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
@@ -6120,28 +6130,29 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_BYTES_REVERSED_HI: යන්ත්‍ර වචන බයිට් ආපසු හරවා ඇත.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
       <source>DLL Characteristics (0x%X):
 </source>
-      <translation type="unfinished"/>
+      <translation>DLL ලක්ෂණ (0x%X):
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
       <source>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL can move.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL චලනය විය හැක.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="336"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: කේත අඛණ්ඩතා රූපය</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
       <source>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Image is NX compatible</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: රූපය NX අනුකූලයි</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
@@ -6156,17 +6167,17 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLCHARACTERISTICS_NO_BIND: මෙම රූපය බැඳ තබන්න එපා.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
       <source>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: Driver uses WDM model.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: ධාවකය WDM ආකෘතිය භාවිතා කරයි.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
       <source>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: Remote Desktop Services aware.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: දුරස්ථ ඩෙස්ක්ටොප් සේවා දැනුවත්.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="354"/>
@@ -6177,38 +6188,39 @@
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="369"/>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="381"/>
       <source>Invalid relocation table!</source>
-      <translation type="unfinished"/>
+      <translation>අවලංගු ස්ථානගත කිරීමේ වගුවක්!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="386"/>
       <source>Relocation table size: %X
 </source>
-      <translation type="unfinished"/>
+      <translation>ස්ථාන මාරු වගු ප්‍රමාණය: %X
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="418"/>
       <source>Failed to get SEH (disabled?)</source>
-      <translation type="unfinished"/>
+      <translation>SEH ලබා ගැනීමට අපොහොසත් විය (අක්‍රියද?)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="424"/>
       <source>Failed to get VEH (loaded symbols for ntdll.dll?)</source>
-      <translation type="unfinished"/>
+      <translation>VEH ලබා ගැනීමට අපොහොසත් විය (ntdll.dll සඳහා සංකේත පූරණය කර තිබේද?)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="431"/>
       <source>Failed to get VCH (loaded symbols for ntdll.dll?)</source>
-      <translation type="unfinished"/>
+      <translation>VCH ලබා ගැනීමට අපොහොසත් විය (ntdll.dll සඳහා සංකේත පූරණය කර තිබේද?)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="437"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernelbase.dll?)</source>
-      <translation type="unfinished"/>
+      <translation>UnhandledExceptionFilter ලබා ගැනීමට අපොහොසත් විය (kernelbase.dll සඳහා සංකේත පූරණය කර තිබේද?)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="439"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernel32.dll?)</source>
-      <translation type="unfinished"/>
+      <translation>UnhandledExceptionFilter ලබා ගැනීමට නොහැකි විය (kernel32.dll සඳහා සංකේත පූරණය කර තිබේද?)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="15"/>
@@ -6636,7 +6648,8 @@
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="814"/>
       <source>Memory breakpoint at %p[%p] set!
 </source>
-      <translation type="unfinished"/>
+      <translation>%p[%p] හි මතක බිඳුම් ලක්ෂ්‍යය සකසා ඇත!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="790"/>
@@ -7048,7 +7061,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-conditional-breakpoint-control.cpp" line="64"/>
       <source>log file</source>
-      <translation type="unfinished"/>
+      <translation>ලොග් ගොනුව</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-conditional-breakpoint-control.cpp" line="87"/>
@@ -7087,13 +7100,15 @@
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="91"/>
       <source>Resolved shortcut "%s" -&gt; "%s"
 </source>
-      <translation type="unfinished"/>
+      <translation>විසඳන ලද කෙටිමඟ "%s" -&gt; "%s"
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="98"/>
       <source>Resolved arguments from shortcut "%s"
 </source>
-      <translation type="unfinished"/>
+      <translation>"%s"
+කෙටිමඟෙන් විසඳන ලද තර්ක</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="106"/>
@@ -7150,7 +7165,7 @@
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="263"/>
       <location filename="src/dbg/debugger.cpp" line="2930"/>
       <source>Process is already being debugged!</source>
-      <translation type="unfinished"/>
+      <translation>ක්‍රියාවලිය දැනටමත් නිදොස් කරමින් පවතී!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="270"/>
@@ -7322,22 +7337,22 @@
       <location filename="src/dbg/value.cpp" line="2355"/>
       <location filename="src/dbg/value.cpp" line="2373"/>
       <source>Failed to read register context...</source>
-      <translation type="unfinished"/>
+      <translation>රෙජිස්ටර් සන්දර්භය කියවීමට අපොහොසත් විය...</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="574"/>
       <source>Usage: movdqu xmm0, [address] / movdqu [address], xmm0 / movdqu xmm0, xmm1</source>
-      <translation type="unfinished"/>
+      <translation>භාවිතය: movdqu xmm0, [ලිපිනය] / movdqu [ලිපිනය], xmm0 / movdqu xmm0, xmm1</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="779"/>
       <source>Usage: vmovdqu zmm0 (or ymm0), [address] / vmovdqu [address], zmm0 (or ymm0) / vmovdqu zmm0 (or ymm0), zmm1 (or ymm1)</source>
-      <translation type="unfinished"/>
+      <translation>භාවිතය: vmovdqu zmm0 (හෝ ymm0), [ලිපිනය] / vmovdqu [ලිපිනය], zmm0 (හෝ ymm0) / vmovdqu zmm0 (හෝ ymm0), zmm1 (හෝ ymm1)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="921"/>
       <source>Usage: kmovq k1, [address] / kmovq [address], k1 / kmovq k1, k2</source>
-      <translation type="unfinished"/>
+      <translation>භාවිතය: kmovq k1, [ලිපිනය] / kmovq [ලිපිනය], k1 / kmovq k1, k2</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1019"/>
@@ -7348,7 +7363,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1027"/>
       <source>Usage: kmovd k1, [address] / kmovd [address], k1 / kmovd k1, k2</source>
-      <translation type="unfinished"/>
+      <translation>භාවිතය: kmovd k1, [ලිපිනය] / kmovd [ලිපිනය], k1 / kmovd k1, k2</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="22"/>
@@ -7360,7 +7375,8 @@
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="230"/>
       <source>Invalid thread %s
 </source>
-      <translation type="unfinished"/>
+      <translation>අවලංගු නූල් %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="56"/>
@@ -7556,18 +7572,19 @@
     <message>
       <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="221"/>
       <source>Cannot dump while running...</source>
-      <translation type="unfinished"/>
+      <translation>ක්‍රියාත්මක වන අතරතුර ඩම්ප් කළ නොහැක...</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="279"/>
       <source>Dump saved!</source>
-      <translation type="unfinished"/>
+      <translation>ඩම්ප් සුරකින ලදී!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="284"/>
       <source>MiniDumpWriteDump failed. GetLastError() = %s.
 </source>
-      <translation type="unfinished"/>
+      <translation>MiniDumpWriteDump අසාර්ථකයි. GetLastError() = %s.
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-misc.cpp" line="29"/>
@@ -7731,7 +7748,8 @@
       <location filename="src/dbg/commands/cmd-misc.cpp" line="500"/>
       <source>JIT %s: %s
 </source>
-      <translation type="unfinished"/>
+      <translation>ජිට් %s: %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-misc.cpp" line="514"/>
@@ -7813,7 +7831,8 @@
       <location filename="src/dbg/commands/cmd-misc.cpp" line="626"/>
       <source>Error unknown parameters use x86 or x64, ON/1 or OFF/0
 </source>
-      <translation type="unfinished"/>
+      <translation>දෝෂ සහිතයි නොදන්නා පරාමිතීන් x86 හෝ x64, ON/1 හෝ OFF/0
+භාවිතා කරයි</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-misc.cpp" line="630"/>
@@ -8029,7 +8048,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="589"/>
       <source>String Address</source>
-      <translation type="unfinished"/>
+      <translation>අනුලකුණු ලිපිනය</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="590"/>
@@ -8039,12 +8058,12 @@
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="591"/>
       <source>Follow in Disassembly and Dump</source>
-      <translation type="unfinished"/>
+      <translation>විසුරුවා හැරීම සහ ඩම්ප් තුළ අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="592"/>
       <source>Follow string in Dump</source>
-      <translation type="unfinished"/>
+      <translation>ඩම්ප් හි අනුලකුණු වැල අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="639"/>
@@ -8244,7 +8263,7 @@
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="24"/>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="110"/>
       <source>Cannot start a trace when running, pause execution first.</source>
-      <translation type="unfinished"/>
+      <translation>ක්‍රියාත්මක වන විට හෝඩුවාවක් ආරම්භ කළ නොහැක, පළමුව ක්‍රියාත්මක කිරීම විරාම කරන්න.</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="34"/>
@@ -8870,7 +8889,7 @@ Failed to write database file !(GetLastError() = %s)
     <message>
       <location filename="src/dbg/database.cpp" line="214"/>
       <source>(migrating breakpoints) </source>
-      <translation type="unfinished"/>
+      <translation>(සංක්‍රමණ බිඳුම් ලක්ෂ්‍ය) </translation>
     </message>
     <message>
       <location filename="src/dbg/database.cpp" line="232"/>
@@ -9065,13 +9084,15 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="686"/>
       <source>Memory breakpoint%s "%s" at %s, exception address: %s!
 </source>
-      <translation type="unfinished"/>
+      <translation>මතක බිඳුම් ලක්ෂ්‍යය%s "%s" %sහිදී, ව්‍යතිරේක ලිපිනය: %s!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="695"/>
       <source>Memory breakpoint%s at %s, exception address: %s!
 </source>
-      <translation type="unfinished"/>
+      <translation>මතක බිඳුම් ලක්ෂ්‍යය%s at %s, ව්‍යතිරේක ලිපිනය: %s!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="710"/>
@@ -9142,7 +9163,8 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="1015"/>
       <source>Failed to open breakpoint log: %s (%s)
 </source>
-      <translation type="unfinished"/>
+      <translation>බිඳුම් ලක්ෂ්‍ය ලොගය විවෘත කිරීමට අපොහොසත් විය: %s (%s)
+</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1044"/>
@@ -9269,7 +9291,8 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="1622"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
-      <translation type="unfinished"/>
+      <translation>%s නූල නිර්මාණය කරන ලදී, ඇතුළත් කිරීම: %s, පරාමිතිය: %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1631"/>
@@ -9279,7 +9302,7 @@ Invalid database file (JSON)!</source>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1660"/>
       <source>Thread %s Stack</source>
-      <translation type="unfinished"/>
+      <translation>නූල් %s තොගය</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1686"/>
@@ -9290,7 +9313,8 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="1695"/>
       <source>Thread %s exit
 </source>
-      <translation type="unfinished"/>
+      <translation>නූල %s පිටවීම
+</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1723"/>
@@ -9378,7 +9402,8 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="2084"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
-      <translation type="unfinished"/>
+      <translation>%p (%X, "%s")
+මත SetThreadName ව්‍යතිරේකය</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="2102"/>
@@ -9448,7 +9473,8 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="2932"/>
       <source>Attach to process failed: %s
 </source>
-      <translation type="unfinished"/>
+      <translation>ක්‍රියාවලියට ඇමිණීම අසාර්ථක විය: %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="2969"/>
@@ -9463,7 +9489,12 @@ List of drivers:
 %s
 
 Do you want to continue debugging?</source>
-      <translation type="unfinished"/>
+      <translation>x64dbg හි ක්‍රියාකාරිත්වයට බාධා කරන බව දන්නා ධාවක අනාවරණය වී ඇත.
+
+ධාවක ලැයිස්තුව:
+%s
+
+ඔබට නිදොස්කරණය දිගටම කරගෙන යාමට අවශ්‍යද?</translation>
     </message>
     <message>
       <location filename="src/dbg/exception.cpp" line="30"/>
@@ -9512,7 +9543,7 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/expressionparser.cpp" line="979"/>
       <source>any</source>
-      <translation type="unfinished"/>
+      <translation>ඕනෑම</translation>
     </message>
     <message>
       <location filename="src/dbg/expressionparser.cpp" line="981"/>
@@ -9523,25 +9554,29 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/expressionparser.cpp" line="1017"/>
       <source>Bad argument count for expression function %s (expected %s, got %d)!
 </source>
-      <translation type="unfinished"/>
+      <translation>ප්‍රකාශන ශ්‍රිතය %s සඳහා වැරදි තර්ක ගණන (අපේක්ෂිත %s, ලැබුණේ %d)!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/expressionparser.cpp" line="1082"/>
       <source>Expression function %s argument %d/%d (%s) type mismatch (expected %s, got %s)!
 </source>
-      <translation type="unfinished"/>
+      <translation>ප්‍රකාශන ශ්‍රිතය %s තර්කය %d/%d (%s) නොගැලපීම වර්ගය (අපේක්ෂිත %s, %s)!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/expressionparser.cpp" line="1101"/>
       <source>Expression function %s errored!
 </source>
-      <translation type="unfinished"/>
+      <translation>ප්‍රකාශන ශ්‍රිතය %s දෝෂ සහිතයි!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/expressionparser.cpp" line="1115"/>
       <source>Expression function %s returned an invalid value!
 </source>
-      <translation type="unfinished"/>
+      <translation>%s ප්‍රකාශන ශ්‍රිතය අවලංගු අගයක් ලබා දුන්නේය!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/formatfunctions.cpp" line="61"/>
@@ -9594,17 +9629,17 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/memory.cpp" line="460"/>
       <source>TEB (%s)</source>
-      <translation type="unfinished"/>
+      <translation>ටීඊබී (%s)</translation>
     </message>
     <message>
       <location filename="src/dbg/memory.cpp" line="467"/>
       <source>WoW64 TEB (%s)</source>
-      <translation type="unfinished"/>
+      <translation>WoW64 TEB (%s)</translation>
     </message>
     <message>
       <location filename="src/dbg/memory.cpp" line="476"/>
       <source>Stack (%s)</source>
-      <translation type="unfinished"/>
+      <translation>ගොඩගැසීම (%s)</translation>
     </message>
     <message>
       <location filename="src/dbg/mnemonichelp.cpp" line="31"/>
@@ -9807,7 +9842,8 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/plugin_loader.cpp" line="493"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
-      <translation type="unfinished"/>
+      <translation>[PLUGIN] 'plugins\%s'
+නාමාවලිය වෙනුවට ඉහළ මට්ටමේ plugin නොසලකා හරිමින්</translation>
     </message>
     <message>
       <location filename="src/dbg/plugin_loader.cpp" line="717"/>
@@ -9946,12 +9982,12 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/reference.cpp" line="153"/>
       <source>User Modules (%s)</source>
-      <translation type="unfinished"/>
+      <translation>පරිශීලක මොඩියුල (%s)</translation>
     </message>
     <message>
       <location filename="src/dbg/reference.cpp" line="215"/>
       <source>System Modules (%s)</source>
-      <translation type="unfinished"/>
+      <translation>පද්ධති මොඩියුල (%s)</translation>
     </message>
     <message>
       <location filename="src/dbg/reference.cpp" line="277"/>
@@ -9977,7 +10013,7 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/simplescript.cpp" line="280"/>
       <location filename="src/dbg/simplescript.cpp" line="446"/>
       <source>Invalid branch label "%s" detected on line %d!</source>
-      <translation type="unfinished"/>
+      <translation>"%s" ශාඛා ලේබලය %dමාර්ගයෙන් අනාවරණය විය!</translation>
     </message>
     <message>
       <location filename="src/dbg/simplescript.cpp" line="413"/>
@@ -10046,13 +10082,15 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/symbolinfo.cpp" line="234"/>
       <source>No symbol path specified...
 </source>
-      <translation type="unfinished"/>
+      <translation>සංකේත මාර්ගයක් නිශ්චිතව දක්වා නැත...
+</translation>
     </message>
     <message>
       <location filename="src/dbg/symbolinfo.cpp" line="277"/>
       <source>Symbol file '%s' exists but could not be loaded!
 </source>
-      <translation type="unfinished"/>
+      <translation>'%s' සංකේත ගොනුව පවතින නමුත් පූරණය කළ නොහැකි විය!
+</translation>
     </message>
     <message>
       <location filename="src/dbg/symbolinfo.cpp" line="285"/>
@@ -10556,7 +10594,8 @@ Do you want me to fix this?</source>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1195"/>
       <source>%1 occurrence(s) in %2ms
 </source>
-      <translation type="unfinished"/>
+      <translation>%2ms
+හි %1 සිදුවීම්(ය)</translation>
     </message>
   </context>
   <context>
@@ -10611,7 +10650,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2233"/>
       <source>Xrefs...</source>
-      <translation type="unfinished"/>
+      <translation>එක්ස්රෙෆ්ස්...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2236"/>
@@ -10691,7 +10730,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2332"/>
       <source>&amp;Sync with %1</source>
-      <translation type="unfinished"/>
+      <translation>&amp; %1සමඟ සමමුහුර්ත කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2333"/>
@@ -10746,7 +10785,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2556"/>
       <source>PNG file (*.png);;WebP file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif)</source>
-      <translation type="unfinished"/>
+      <translation>PNG ගොනුව (*.png);;WebP ගොනුව (*.webp);;BMP ගොනුව (*.bmp);;TIFF ගොනුව (*.tif)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2594"/>
@@ -10756,7 +10795,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2594"/>
       <source>Image saving failed!</source>
-      <translation type="unfinished"/>
+      <translation>රූපය සුරැකීම අසාර්ථක විය!</translation>
     </message>
   </context>
   <context>
@@ -10779,7 +10818,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/BasicView/Disassembly.cpp" line="48"/>
       <source>Mnemonic brief</source>
-      <translation type="unfinished"/>
+      <translation>සිහිවටන කෙටි විස්තරය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/Disassembly.cpp" line="49"/>
@@ -10797,7 +10836,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="46"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This text will be logged whenever the log condition is true.&lt;/p&gt;&lt;p&gt;String formatting can be used to print variables.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ලොග් තත්ත්වය සත්‍ය වූ විට මෙම පෙළ ලොග් වනු ඇත.&lt;/p&gt;&lt;p&gt;විචල්‍ය මුද්‍රණය කිරීමට නූල් හැඩතල ගැන්වීම භාවිතා කළ හැක.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="49"/>
@@ -10807,7 +10846,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="59"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this expression is evaluated to 1 the breakpoint will break.&lt;/p&gt;&lt;p&gt;Set to &lt;span style=" text-decoration: underline;"&gt;0&lt;/span&gt; for a breakpoint that never breaks, but can still do logging and execute command.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;මෙම ප්‍රකාශනය 1 ට ඇගයීමට ලක් කළහොත් බිඳුම් ලක්ෂ්‍යය බිඳී යනු ඇත.&lt;/p&gt;&lt;p&gt;කිසිදා බිඳී නොයන බිඳුම් ලක්ෂ්‍යයක් සඳහා &lt;span style=" text-decoration: underline;"&gt;0&lt;/span&gt; ලෙස සකසන්න, නමුත් තවමත් ලොග් වීම සහ විධානය ක්‍රියාත්මක කළ හැකිය.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="62"/>
@@ -10817,12 +10856,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="75"/>
       <source>Example: arg(0) == 123 (numbers are hex by default)</source>
-      <translation type="unfinished"/>
+      <translation>උදාහරණය: arg(0) == 123 (සංඛ්‍යා පෙරනිමියෙන් ෂඩ් වේ)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="91"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;String logging is enabled whenever this expression is evaluated to 1.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;මෙම ප්‍රකාශනය 1 ට ඇගයීමට ලක් කරන සෑම විටම නූල් ලොග් කිරීම සක්‍රීය කෙරේ.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="94"/>
@@ -10837,7 +10876,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="114"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This command will be executed whenever command condition is true.&lt;/p&gt;&lt;p&gt;Currently certain commands, for example, stepping from breakpoint command are not supported.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;විධාන කොන්දේසිය සත්‍ය වූ විට මෙම විධානය ක්‍රියාත්මක වේ.&lt;/p&gt;&lt;p&gt;දැනට ඇතැම් විධාන, උදාහරණයක් ලෙස, breakpoint විධානයෙන් පියවර තැබීම සඳහා සහය නොදක්වයි.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="117"/>
@@ -10847,7 +10886,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="140"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of times the breakpoint is hit.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;බිඳුම් ලක්ෂ්‍යය පහර දුන් වාර ගණන.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="143"/>
@@ -10857,7 +10896,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="153"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this expression is evaluated to 1 the command specified above is executed when the breakpoint is hit.&lt;/p&gt;&lt;p&gt;Set the expression to &lt;span style=" text-decoration: underline;"&gt;1&lt;/span&gt; to always execute the command.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;මෙම ප්‍රකාශනය 1 ට ඇගයීමට ලක් කළහොත්, ඉහත දක්වා ඇති විධානය බිඳුම් ලක්ෂ්‍යය පහර දුන් විට ක්‍රියාත්මක වේ.&lt;/p&gt;&lt;p&gt;සෑම විටම විධානය ක්‍රියාත්මක කිරීම සඳහා ප්‍රකාශනය &lt;span style=" text-decoration: underline;"&gt;1&lt;/span&gt; ලෙස සකසන්න.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="156"/>
@@ -10867,12 +10906,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="173"/>
       <source>Log F&amp;ile...</source>
-      <translation type="unfinished"/>
+      <translation>ලොගය F&amp;ile...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="193"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Remove the breakpoint once it pauses the debuggee.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;නිදොස්කරණය විරාම කළ පසු බිඳුම් ලක්ෂ්‍යය ඉවත් කරන්න.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="196"/>
@@ -10882,7 +10921,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="203"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Don't print the default breakpoint log.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;පෙරනිමි බිඳුම් ලක්ෂ්‍ය ලොගය මුද්‍රණය නොකරන්න.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="206"/>
@@ -10892,7 +10931,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="213"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Don't enable extended conditional breakpoint features and plugins.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;දිගු කළ කොන්දේසි සහිත බිඳුම් ලක්ෂ්‍ය විශේෂාංග සහ ප්ලගීන සක්‍රීය නොකරන්න.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="216"/>
@@ -10938,7 +10977,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="80"/>
       <source>Breakpoint log file</source>
-      <translation type="unfinished"/>
+      <translation>බිඳුම් ලක්ෂ්‍ය ලොග් ගොනුව</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="81"/>
@@ -10986,7 +11025,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/EditFloatRegister.ui" line="109"/>
       <location filename="src/gui/Src/Gui/EditFloatRegister.ui" line="467"/>
       <source>Qword:</source>
-      <translation type="unfinished"/>
+      <translation>ප්‍රශ්නය:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditFloatRegister.ui" line="122"/>
@@ -11571,7 +11610,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="121"/>
       <source>Follow in Threads</source>
-      <translation type="unfinished"/>
+      <translation>නූල් අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="124"/>
@@ -11740,7 +11779,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="478"/>
       <source>Start from &amp;Selection</source>
-      <translation type="unfinished"/>
+      <translation>&amp;සිට ආරම්භ කරන්න තේරීම</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="501"/>
@@ -12022,7 +12061,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="49"/>
       <source>Find For</source>
-      <translation type="unfinished"/>
+      <translation>සොයන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="97"/>
@@ -12089,12 +12128,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="116"/>
       <source>Find Next Occurence</source>
-      <translation type="unfinished"/>
+      <translation>ඊළඟ සිදුවීම සොයන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="117"/>
       <source>Find Previous Occurence</source>
-      <translation type="unfinished"/>
+      <translation>පෙර සිදුවීම සොයන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="146"/>
@@ -12139,13 +12178,15 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="427"/>
       <source>Log redirection is stopped.
 </source>
-      <translation type="unfinished"/>
+      <translation>ලොග් හරවා යැවීම නතර කර ඇත.
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="395"/>
       <source>Log is not redirected.
 </source>
-      <translation type="unfinished"/>
+      <translation>ලොගය හරවා යවා නැත.
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="409"/>
@@ -12292,7 +12333,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="207"/>
       <source>Trace &amp;coverage</source>
-      <translation type="unfinished"/>
+      <translation>ආවරණය &amp;ක් අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="242"/>
@@ -12452,7 +12493,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="495"/>
       <source>Step into (pass all exceptions)</source>
-      <translation type="unfinished"/>
+      <translation>ඇතුල් වන්න (සියලුම ව්‍යතිරේක සමත් වන්න)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="498"/>
@@ -12462,12 +12503,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="507"/>
       <source>Step over (pass all exceptions)</source>
-      <translation type="unfinished"/>
+      <translation>පියවර තබන්න (සියලුම ව්‍යතිරේක පසු කරන්න)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="516"/>
       <source>Run (pass all exceptions)</source>
-      <translation type="unfinished"/>
+      <translation>ධාවනය කරන්න (සියලුම ව්‍යතිරේක සමත් වන්න)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="519"/>
@@ -12477,7 +12518,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="528"/>
       <source>Execute till return (pass all exceptions)</source>
-      <translation type="unfinished"/>
+      <translation>නැවත පැමිණෙන තෙක් ක්‍රියාත්මක කරන්න (සියලුම ව්‍යතිරේක සමත් වන්න)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="537"/>
@@ -12513,13 +12554,13 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="567"/>
       <source>&amp;CPU</source>
-      <translation type="unfinished"/>
+      <translation>CPU</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="570"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="202"/>
       <source>CPU</source>
-      <translation type="unfinished"/>
+      <translation>CPU</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="573"/>
@@ -12704,12 +12745,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="774"/>
       <source>Hotkeys</source>
-      <translation type="unfinished"/>
+      <translation>හොට්කීස්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="777"/>
       <source>Open the Hotkeys dialog to customize keyboard hotkeys.</source>
-      <translation type="unfinished"/>
+      <translation>යතුරුපුවරු හොට්කී අභිරුචිකරණය කිරීමට හොට්කීස් සංවාදය විවෘත කරන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="786"/>
@@ -12928,7 +12969,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1038"/>
       <source>Enable trace coverage with 1 bit (whether an instruction was executed or not)</source>
-      <translation type="unfinished"/>
+      <translation>1 බිට් එකකින් හෝඩුවාවන් ආවරණය සක්‍රීය කරන්න (උපදෙසක් ක්‍රියාත්මක කළත් නැතත්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1047"/>
@@ -12938,7 +12979,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1050"/>
       <source>Enable trace coverage with 1 byte to record how many times an instruction has been executed.</source>
-      <translation type="unfinished"/>
+      <translation>උපදෙස් කී වතාවක් ක්‍රියාත්මක කර ඇත්දැයි වාර්තා කිරීමට 1 බයිටයක් සහිත හෝඩුවාවන් ආවරණය සක්‍රීය කරන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1059"/>
@@ -12948,47 +12989,47 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1062"/>
       <source>Enable trace coverage with 1 word to record how many times an instruction has been executed.</source>
-      <translation type="unfinished"/>
+      <translation>උපදෙස් කී වතාවක් ක්‍රියාත්මක කර ඇත්දැයි වාර්තා කිරීමට 1 වචනයකින් හෝඩුවාවන් ආවරණය සක්‍රීය කරන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1071"/>
       <source>Step into until reaching uncovered code</source>
-      <translation type="unfinished"/>
+      <translation>අනාවරණ කේතයට ළඟා වන තුරු ඇතුල් වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1074"/>
       <source>Step into until reaching an instruction that was not covered before. Equivalent command "tibt"</source>
-      <translation type="unfinished"/>
+      <translation>කලින් ආවරණය නොකළ උපදෙසක් ලබා ගන්නා තෙක් ඇතුල් වන්න. සමාන විධානය "tibt"</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1083"/>
       <source>Step over until reaching uncovered code</source>
-      <translation type="unfinished"/>
+      <translation>අනාවරණ කේතයට ළඟා වන තුරු ඉදිරියට යන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1086"/>
       <source>Step over until reaching an instruction that was not covered before. Equivalent command "tobt"</source>
-      <translation type="unfinished"/>
+      <translation>කලින් ආවරණය නොකළ උපදෙස් වෙත ළඟා වන තෙක් පියවර තබන්න. "tobt" යන සමාන විධානය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1095"/>
       <source>Step into until reaching covered code</source>
-      <translation type="unfinished"/>
+      <translation>ආවරණය කරන ලද කේතයට ළඟා වන තුරු ඇතුල් වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1098"/>
       <source>Step into until reaching an instruction that has been covered before. Equivalent command "tiit"</source>
-      <translation type="unfinished"/>
+      <translation>කලින් ආවරණය කර ඇති උපදෙසකට ළඟා වන තෙක් ඇතුල් වන්න. සමාන විධානය "tiit"</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1107"/>
       <source>Step over until reaching covered code</source>
-      <translation type="unfinished"/>
+      <translation>ආවරණය කරන ලද කේතයට ළඟා වන තුරු ඉදිරියට යන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1110"/>
       <source>Step over until reaching an instruction that has been covered before. Equivalent command "toit"</source>
-      <translation type="unfinished"/>
+      <translation>කලින් ආවරණය කර ඇති උපදෙස් වෙත ළඟා වන තෙක් ඉදිරියට යන්න. සමාන විධානය "toit"</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1119"/>
@@ -12998,7 +13039,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1122"/>
       <source>Disable trace coverage</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් ආවරණය අබල කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1131"/>
@@ -13327,12 +13368,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1546"/>
       <source>Mnemonic Help</source>
-      <translation type="unfinished"/>
+      <translation>සිහිවටන උදව්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1549"/>
       <source>Output the detailed help information about an assembly mnemonic to the log. Equivalent command "mnemonichelp name".</source>
-      <translation type="unfinished"/>
+      <translation>එකලස් කිරීමේ මතක සටහන් පිළිබඳ සවිස්තරාත්මක උදව් තොරතුරු ලොගයට ප්‍රතිදානය කරන්න. සමාන විධානය "mnemonichelp name".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="82"/>
@@ -13342,7 +13383,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="135"/>
       <source>%1 [Elevated]</source>
-      <translation type="unfinished"/>
+      <translation>%1 [උසස්]</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="153"/>
@@ -13367,7 +13408,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="191"/>
       <source>SEH</source>
-      <translation type="unfinished"/>
+      <translation>සෙහ්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="387"/>
@@ -13397,17 +13438,17 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="725"/>
       <source>Dark</source>
-      <translation type="unfinished"/>
+      <translation>අඳුරු</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="780"/>
       <source>Always stop the debuggee and exit</source>
-      <translation type="unfinished"/>
+      <translation>සැමවිටම නිදොස්කරණය නවතා පිටවන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="782"/>
       <source>The debuggee is still running and will be terminated if you exit. What do you want to do?</source>
-      <translation type="unfinished"/>
+      <translation>නිදොස්කරණය තවමත් ක්‍රියාත්මක වන අතර ඔබ පිටව ගියහොත් එය අවසන් වනු ඇත. ඔබට කුමක් කිරීමට අවශ්‍යද?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="783"/>
@@ -13422,17 +13463,17 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="787"/>
       <source>Stop the debuggee and exit x64dbg.</source>
-      <translation type="unfinished"/>
+      <translation>නිදොස්කරණය නවතා x64dbg යෙන් ඉවත් වන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="789"/>
       <source>&amp;Detach and exit</source>
-      <translation type="unfinished"/>
+      <translation>&amp;වෙන් කර පිටවන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="790"/>
       <source>Detach from the debuggee (leaving it running) and exit x64dbg.</source>
-      <translation type="unfinished"/>
+      <translation>නිදොස්කරණයෙන් වෙන් වී (එය ක්‍රියාත්මක වන තුරු) x64dbg න් පිටවන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="792"/>
@@ -13442,33 +13483,33 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="793"/>
       <source>Restart the debuggee and keep x64dbg open.</source>
-      <translation type="unfinished"/>
+      <translation>නිදොස්කරණය නැවත ආරම්භ කර x64dbg විවෘතව තබන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="795"/>
       <source>&amp;Continue debugging</source>
-      <translation type="unfinished"/>
+      <translation>&amp;නිදොස්කරණය දිගටම කරගෙන යන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="796"/>
       <source>Close this dialog and continue where you left off.</source>
-      <translation type="unfinished"/>
+      <translation>මෙම සංවාදය වසා දමා ඔබ නතර කළ තැනින් ඉදිරියට යන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1047"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1055"/>
       <source>Unsupported system</source>
-      <translation type="unfinished"/>
+      <translation>සහාය නොදක්වන පද්ධතිය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1048"/>
       <source>You are running x64dbg in ARM64 emulation mode. &lt;b&gt;This system is not supported by x64dbg and will cause unexpected behavior.&lt;/b&gt; Analyzing malware in this environment is dangerous and you should switch to an actual Intel/AMD CPU.&lt;br&gt;&lt;br&gt;For more information, see the &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</source>
-      <translation type="unfinished"/>
+      <translation>ඔබ x64dbg ධාවනය කරන්නේ ARM64 අනුකරණ මාදිලියෙනි. &lt;b&gt;මෙම පද්ධතිය x64dbg මගින් සහාය නොදක්වන අතර අනපේක්ෂිත හැසිරීම් ඇති කරයි.&lt;/b&gt; මෙම පරිසරය තුළ අනිෂ්ට මෘදුකාංග විශ්ලේෂණය කිරීම භයානක වන අතර ඔබ සත්‍ය Intel/AMD CPU එකකට මාරු විය යුතුය.&lt;br&gt;&lt;br&gt;වැඩි විස්තර සඳහා, &lt;a href="%1"&gt;නිතර අසන ප්‍රශ්න&lt;/a&gt;බලන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1056"/>
       <source>You are running x64dbg on an unsupported operating system version. &lt;b&gt;Future updates will completely stop running on this system.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more information, see the official &lt;a href="%1"&gt;announcement&lt;/a&gt;.</source>
-      <translation type="unfinished"/>
+      <translation>ඔබ සහය නොදක්වන මෙහෙයුම් පද්ධති අනුවාදයක x64dbg ධාවනය කරයි. &lt;b&gt;අනාගත යාවත්කාලීන කිරීම් මෙම පද්ධතියේ ක්‍රියාත්මක වීම සම්පූර්ණයෙන්ම නවත්වනු ඇත.&lt;/b&gt;&lt;br&gt;&lt;br&gt;වැඩිදුර තොරතුරු සඳහා, නිල &lt;a href="%1"&gt;නිවේදනය&lt;/a&gt;බලන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1207"/>
@@ -13481,7 +13522,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1207"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1224"/>
       <source>Cannot start a trace when running, pause execution first.</source>
-      <translation type="unfinished"/>
+      <translation>ක්‍රියාත්මක වන විට හෝඩුවාවක් ආරම්භ කළ නොහැක, පළමුව ක්‍රියාත්මක කිරීම විරාම කරන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1263"/>
@@ -13560,7 +13601,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2124"/>
       <source>Mnemonic help</source>
-      <translation type="unfinished"/>
+      <translation>සිහිවටන උදව්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2163"/>
@@ -13590,7 +13631,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2203"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
-      <translation type="unfinished"/>
+      <translation>ඔබට https://help.x64dbg.com හි මාර්ගගත අත්පොත විවෘත කිරීමට අවශ්‍යද?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2351"/>
@@ -13642,7 +13683,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2654"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
-      <translation type="unfinished"/>
+      <translation>දත්ත සමුදායන් (%1);; දත්ත සමුදා උපස්ථය (%1.bak);; සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2664"/>
@@ -13853,12 +13894,12 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="404"/>
       <source>Section &amp;view</source>
-      <translation type="unfinished"/>
+      <translation>&amp;කොටස බලන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="408"/>
       <source>Region &amp;view</source>
-      <translation type="unfinished"/>
+      <translation>කලාපය &amp;දසුන</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="482"/>
@@ -13957,7 +13998,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="720"/>
       <source>Dumping non-consecutive memory ranges is not supported!</source>
-      <translation type="unfinished"/>
+      <translation>අඛණ්ඩ නොවන මතක පරාස ඩම්ප් කිරීම සහාය නොදක්වයි!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="730"/>
@@ -14485,7 +14526,8 @@ Do you want to apply these patches anyway?</source>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2633"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
-      <translation type="unfinished"/>
+      <translation>මෙම පරිගණකයේ AVX-512 සඳහා සහය නොදක්වයි.
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1335"/>
@@ -14595,72 +14637,72 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1390"/>
       <source>Always show maximum vector length</source>
-      <translation type="unfinished"/>
+      <translation>සෑම විටම උපරිම දෛශික දිග පෙන්වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
       <source>Always show all AVX-512 registers</source>
-      <translation type="unfinished"/>
+      <translation>සෑම විටම සියලුම AVX-512 රෙජිස්ටර් පෙන්වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1582"/>
       <source>CF (Carry flag)</source>
-      <translation type="unfinished"/>
+      <translation>CF (රැගෙන යන ධජය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1582"/>
       <source>PF (Parity flag)</source>
-      <translation type="unfinished"/>
+      <translation>PF (සමාන්තර ධජය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1582"/>
       <source>AF (Auxiliary Carry flag)</source>
-      <translation type="unfinished"/>
+      <translation>AF (සහායක රැගෙන යාමේ ධජය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
       <source>ZF (Zero flag)</source>
-      <translation type="unfinished"/>
+      <translation>ZF (ශුන්‍ය ධජය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
       <source>SF (Sign flag)</source>
-      <translation type="unfinished"/>
+      <translation>SF (සංඥා කොඩිය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
       <source>TF (Trap flag)</source>
-      <translation type="unfinished"/>
+      <translation>TF (උගුල් කොඩිය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>IF (Interrupt enable flag)</source>
-      <translation type="unfinished"/>
+      <translation>IF (බාධා කිරීම් සක්‍රීය ධජය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>DF (Direction flag)</source>
-      <translation type="unfinished"/>
+      <translation>DF (දිශා ධජය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>OF (Overflow flag)</source>
-      <translation type="unfinished"/>
+      <translation>OF (පිටාර ගැලීමේ ධජය)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1600"/>
       <source>Bit #</source>
-      <translation type="unfinished"/>
+      <translation>බිට් #</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1600"/>
       <source>Mask</source>
-      <translation type="unfinished"/>
+      <translation>මාස්ක්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1600"/>
       <source>Flag</source>
-      <translation type="unfinished"/>
+      <translation>කොඩිය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
@@ -14671,7 +14713,8 @@ Do you want to apply these patches anyway?</source>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1607"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
-      <translation type="unfinished"/>
+      <translation>CF (bit 0) : Carry flag - අංක ගණිතමය මෙහෙයුමක් මඟින් ප්‍රතිඵලයේ වඩාත්ම වැදගත් bit එකෙන් carry එකක් හෝ loan එකක් ජනනය කරන්නේ නම් සකසන්න; එසේ නොමැතිනම් හිස් කරන්න.
+මෙම flag එක අත්සන් නොකළ-පූර්ණ සංඛ්‍යාංක අංක ගණිතය සඳහා පිටාර ගැලීමේ තත්වයක් දක්වයි. එය බහු-නිරවද්‍යතා අංක ගණිතයේ ද භාවිතා වේ.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1610"/>
@@ -15218,7 +15261,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/ScriptView.cpp" line="536"/>
       <source>File open failed! Please open the file yourself...</source>
-      <translation type="unfinished"/>
+      <translation>ගොනුව විවෘත කිරීම අසාර්ථක විය! කරුණාකර ඔබම ගොනුව විවෘත කරන්න...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ScriptView.cpp" line="552"/>
@@ -15317,12 +15360,12 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="46"/>
       <source>User DLL Load</source>
-      <translation type="unfinished"/>
+      <translation>පරිශීලක DLL පැටවීම</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="53"/>
       <source>Thread Create</source>
-      <translation type="unfinished"/>
+      <translation>නූල නිර්මාණය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="60"/>
@@ -15332,7 +15375,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="67"/>
       <source>SetThreadName exceptions</source>
-      <translation type="unfinished"/>
+      <translation>SetThreadName ව්‍යතිරේක</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="74"/>
@@ -15352,7 +15395,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="108"/>
       <source>Thread Exit</source>
-      <translation type="unfinished"/>
+      <translation>නූල් පිටවීම</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="115"/>
@@ -15372,12 +15415,12 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="136"/>
       <source>User DLL Unload</source>
-      <translation type="unfinished"/>
+      <translation>පරිශීලක DLL බාගැනීම</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="143"/>
       <source>User TLS Callbacks*</source>
-      <translation type="unfinished"/>
+      <translation>පරිශීලක TLS ආපසු ඇමතුම්*</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="153"/>
@@ -15397,13 +15440,13 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="180"/>
       <source>User DLL Entry</source>
-      <translation type="unfinished"/>
+      <translation>පරිශීලක DLL ඇතුළත් කිරීම</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="190"/>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1127"/>
       <source>* Requires debuggee restart</source>
-      <translation type="unfinished"/>
+      <translation>* නිදොස්කරණය කරන්නා නැවත ආරම්භ කිරීම අවශ්‍ය වේ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="213"/>
@@ -15518,7 +15561,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="401"/>
       <source>Disable ASLR</source>
-      <translation type="unfinished"/>
+      <translation>ASLR අක්‍රීය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="410"/>
@@ -15538,7 +15581,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="490"/>
       <source>* Requires debugger restart</source>
-      <translation type="unfinished"/>
+      <translation>* නිදොස්කරණය නැවත ආරම්භ කිරීම අවශ්‍ය වේ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="501"/>
@@ -15568,12 +15611,12 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="568"/>
       <source>Ignore all first-chance exceptions, don't print log, pass them to the debuggee and only break on second-chance exceptions.</source>
-      <translation type="unfinished"/>
+      <translation>පළමු අවස්ථාවෙහි ව්‍යතිරේක සියල්ල නොසලකා හරින්න, ලොග් මුද්‍රණය නොකරන්න, ඒවා නිදොස් කරන්නා වෙත යවන්න සහ දෙවන අවස්ථාවෙහි ව්‍යතිරේකවලදී පමණක් බිඳ දමන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="571"/>
       <source>Ignore First-Chance</source>
-      <translation type="unfinished"/>
+      <translation>පළමු අවස්ථාව නොසලකා හරින්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="584"/>
@@ -15768,32 +15811,32 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="936"/>
       <source>Disabling this option will tell Windows that x64dbg is DPI unaware. This might result in blurry results in some configurations.</source>
-      <translation type="unfinished"/>
+      <translation>මෙම විකල්පය අක්‍රිය කිරීමෙන් x64dbg DPI නොදන්නා බව Windows හට දන්වනු ඇත. මෙය සමහර වින්‍යාසයන් තුළ නොපැහැදිලි ප්‍රතිඵල ඇති කළ හැකිය.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
       <source>Qt High DPI Scaling</source>
-      <translation type="unfinished"/>
+      <translation>Qt ඉහළ DPI පරිමාණය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
       <source>Full executable path in title</source>
-      <translation type="unfinished"/>
+      <translation>මාතෘකාව තුළ සම්පූර්ණ ක්‍රියාත්මක කළ හැකි මාර්ගය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
       <source>Disable icons*</source>
-      <translation type="unfinished"/>
+      <translation>අයිකන අක්‍රීය කරන්න*</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
       <source>Dump in trace view consumes significant memory. It is used by many features in trace view that need to search for access to memory. If disabled, it will not be loaded by default. The user can always load the dump manually. Dump in already opened trace tabs are not disabled until you close them.</source>
-      <translation type="unfinished"/>
+      <translation>ඩම්ප් ඉන් ට්‍රේස් වීව් සැලකිය යුතු මතකයක් පරිභෝජනය කරයි. මතකයට ප්‍රවේශය සෙවීමට අවශ්‍ය ට්‍රේස් වීව් හි බොහෝ විශේෂාංග මගින් එය භාවිතා කරයි. අක්‍රිය කර ඇත්නම්, එය පෙරනිමියෙන් පූරණය නොවේ. පරිශීලකයාට සැමවිටම ඩම්ප් අතින් පූරණය කළ හැකිය. දැනටමත් විවෘත කර ඇති ට්‍රේස් ටැබ් වල ඩම්ප් ඔබ ඒවා වසා දමන තුරු අක්‍රිය නොවේ.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="963"/>
       <source>Automatically load dump in trace view</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් දර්ශනය තුළ ඩම්ප් ස්වයංක්‍රීයව පූරණය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
@@ -15818,7 +15861,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1039"/>
       <source>JIT:</source>
-      <translation type="unfinished"/>
+      <translation>ජිට්:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1058"/>
@@ -15901,7 +15944,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/ShortcutsDialog.ui" line="14"/>
       <source>Hotkeys</source>
-      <translation type="unfinished"/>
+      <translation>හොට්කීස්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ShortcutsDialog.ui" line="24"/>
@@ -15912,7 +15955,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
       <location filename="src/gui/Src/Gui/ShortcutsDialog.ui" line="36"/>
       <location filename="src/gui/Src/Gui/ShortcutsDialog.cpp" line="15"/>
       <source>Hotkey</source>
-      <translation type="unfinished"/>
+      <translation>හොට්කී</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ShortcutsDialog.ui" line="45"/>
@@ -15965,7 +16008,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="90"/>
       <source>&amp;Record trace</source>
-      <translation type="unfinished"/>
+      <translation>&amp;වාර්තාගත හෝඩුවාව</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="97"/>
@@ -16000,7 +16043,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="19"/>
       <source>Example: %1 (numbers are hex by default)</source>
-      <translation type="unfinished"/>
+      <translation>උදාහරණය: %1 (සංඛ්‍යා පෙරනිමියෙන් ෂඩ් වේ)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="20"/>
@@ -16033,7 +16076,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="59"/>
       <source>Trace recording was requested, but not enabled.</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම ඉල්ලා සිටි නමුත්, සක්‍රීය කර නැත.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="68"/>
@@ -16149,12 +16192,12 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.ui" line="54"/>
       <source>Field</source>
-      <translation type="unfinished"/>
+      <translation>ක්ෂේත්‍රය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.ui" line="59"/>
       <source>Offset</source>
-      <translation type="unfinished"/>
+      <translation>ඕෆ්සෙට්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.ui" line="64"/>
@@ -16174,17 +16217,17 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="223"/>
       <source>&amp;Follow address in Dump</source>
-      <translation type="unfinished"/>
+      <translation>&amp;ඩම්ප් හි ලිපිනය අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
       <source>Follow value in Dump</source>
-      <translation type="unfinished"/>
+      <translation>ඩම්ප් හි අගය අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
       <source>Follow value in Disassembler</source>
-      <translation type="unfinished"/>
+      <translation>විසුරුවා හැරීමේ යන්ත්‍රයේ අගය අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="235"/>
@@ -16195,7 +16238,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
       <source>Display type</source>
-      <translation type="unfinished"/>
+      <translation>සංදර්ශක වර්ගය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="240"/>
@@ -16237,17 +16280,17 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
       <source>No types loaded yet, parse a header first...</source>
-      <translation type="unfinished"/>
+      <translation>තවම වර්ග පූරණය කර නැත, පළමුව ශීර්ෂයක් විග්‍රහ කරන්න...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="396"/>
       <source>Type to display</source>
-      <translation type="unfinished"/>
+      <translation>පෙන්වීමට ටයිප් කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="401"/>
       <source>Address to display %1 at</source>
-      <translation type="unfinished"/>
+      <translation>%1 පෙන්වීමට ලිපිනය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
@@ -16545,7 +16588,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Gui/SystemBreakpointScriptDialog.cpp" line="116"/>
       <location filename="src/gui/Src/Gui/SystemBreakpointScriptDialog.cpp" line="139"/>
       <source>File open failed! Please open the file yourself...</source>
-      <translation type="unfinished"/>
+      <translation>ගොනුව විවෘත කිරීම අසාර්ථක විය! කරුණාකර ඔබම ගොනුව විවෘත කරන්න...</translation>
     </message>
   </context>
   <context>
@@ -16669,7 +16712,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="153"/>
       <source>ID</source>
-      <translation type="unfinished"/>
+      <translation>හැඳුනුම්පත</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="154"/>
@@ -16749,7 +16792,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="417"/>
       <source>Thread name - %1</source>
-      <translation type="unfinished"/>
+      <translation>නූලේ නම - %1</translation>
     </message>
   </context>
   <context>
@@ -16809,17 +16852,17 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="86"/>
       <source>Start trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම ආරම්භ කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="87"/>
       <source>Trace recording file</source>
-      <translation type="unfinished"/>
+      <translation>පටිගත කිරීමේ ගොනුව හඹා යන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="88"/>
       <source>Trace recordings (*%1);;All files (*.*)</source>
-      <translation type="unfinished"/>
+      <translation>පටිගත කිරීම් අනුරේඛනය කරන්න (*%1);;සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
@@ -16836,7 +16879,8 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="291"/>
       <source>An error occurred when reading trace file (reason: %1).
 </source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් ගොනුව කියවීමේදී දෝෂයක් ඇති විය (හේතුව: %1).
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="849"/>
@@ -16866,7 +16910,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
       <source>&amp;RVA</source>
-      <translation type="unfinished"/>
+      <translation>&amp;ආර්වීඒ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
@@ -16932,12 +16976,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="894"/>
       <source>xrefs...</source>
-      <translation type="unfinished"/>
+      <translation>xrefs...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="897"/>
       <source>Address/Constant</source>
-      <translation type="unfinished"/>
+      <translation>ලිපිනය/නිරන්තර</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="898"/>
@@ -16957,39 +17001,39 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="931"/>
       <source>Sync with CPU</source>
-      <translation type="unfinished"/>
+      <translation>CPU සමඟ සමමුහුර්ත කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="937"/>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="949"/>
       <source>Start recording</source>
-      <translation type="unfinished"/>
+      <translation>පටිගත කිරීම ආරම්භ කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="944"/>
       <source>Stop recording</source>
-      <translation type="unfinished"/>
+      <translation>පටිගත කිරීම නවත්වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="954"/>
       <source>Close recording</source>
-      <translation type="unfinished"/>
+      <translation>පටිගත කිරීම වසන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="955"/>
       <source>Close the trace file tab, and stop recording trace.</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවක් ගොනු ටැබය වසා, හෝඩුවාවක් පටිගත කිරීම නවත්වන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="956"/>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1326"/>
       <source>Delete recording</source>
-      <translation type="unfinished"/>
+      <translation>පටිගත කිරීම මකන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="957"/>
       <source>Delete the trace file from disk, and stop recording trace.</source>
-      <translation type="unfinished"/>
+      <translation>තැටියෙන් හෝඩුවාවක් ගොනුව මකා දමා, හෝඩුවාවක් පටිගත කිරීම නවත්වන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
@@ -16999,27 +17043,27 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
       <source>Open the trace file in Explorer.</source>
-      <translation type="unfinished"/>
+      <translation>එක්ස්ප්ලෝරර් හි හෝඩුවාවන් ගොනුව විවෘත කරන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1288"/>
       <source>Open trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම විවෘත කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1289"/>
       <source>Trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1290"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
-      <translation type="unfinished"/>
+      <translation>පටිගත කිරීම් අනුරේඛනය කරන්න (*.%1);;සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1326"/>
       <source>Are you sure you want to delete this recording?</source>
-      <translation type="unfinished"/>
+      <translation>ඔබට මෙම පටිගත කිරීම මැකීමට අවශ්‍ය බව ඔබට විශ්වාසද?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1393"/>
@@ -17030,12 +17074,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1396"/>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1405"/>
       <source>The address %1 is not found in trace.</source>
-      <translation type="unfinished"/>
+      <translation>%1 ලිපිනය හෝඩුවාවේ දක්නට නොලැබේ.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1396"/>
       <source>Do you want to follow in CPU instead?</source>
-      <translation type="unfinished"/>
+      <translation>ඒ වෙනුවට ඔබට CPU අනුගමනය කිරීමට අවශ්‍යද?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1669"/>
@@ -17138,7 +17182,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="109"/>
       <source>xrefs...</source>
-      <translation type="unfinished"/>
+      <translation>xrefs...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="113"/>
@@ -17257,7 +17301,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="162"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>&amp;අර්ධ පාවෙන (බිට් 16)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="163"/>
@@ -17319,7 +17363,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1008"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>අර්ධ පාවෙන (බිට් 16)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1038"/>
@@ -17400,7 +17444,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="27"/>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="107"/>
       <source>Follow index in trace</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවේ දර්ශකය අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="103"/>
@@ -17415,22 +17459,22 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="270"/>
       <source>Start Index</source>
-      <translation type="unfinished"/>
+      <translation>ආරම්භක දර්ශකය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="271"/>
       <source>End Index</source>
-      <translation type="unfinished"/>
+      <translation>අවසාන දර්ශකය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="275"/>
       <source>Follow start index in trace</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවේ ආරම්භක දර්ශකය අනුගමනය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="276"/>
       <source>Follow end index in trace</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවේ අන්ත දර්ශකය අනුගමනය කරන්න</translation>
     </message>
   </context>
   <context>
@@ -17471,32 +17515,32 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceManager.cpp" line="38"/>
       <source>Open trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම විවෘත කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceManager.cpp" line="39"/>
       <source>Trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceManager.cpp" line="40"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
-      <translation type="unfinished"/>
+      <translation>පටිගත කිරීම් අනුරේඛනය කරන්න (*.%1);;සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceManager.cpp" line="102"/>
       <source>Start recording</source>
-      <translation type="unfinished"/>
+      <translation>පටිගත කිරීම ආරම්භ කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceManager.cpp" line="105"/>
       <source>Stop trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම නවත්වන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceManager.cpp" line="110"/>
       <source>Start trace recording</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම ආරම්භ කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceManager.cpp" line="119"/>
@@ -17506,7 +17550,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceManager.cpp" line="123"/>
       <source>Recent Files</source>
-      <translation type="unfinished"/>
+      <translation>මෑත කාලීන ගොනු</translation>
     </message>
   </context>
   <context>
@@ -17519,7 +17563,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="18"/>
       <source>Set as current value</source>
-      <translation type="unfinished"/>
+      <translation>වත්මන් අගය ලෙස සකසන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="21"/>
@@ -17563,17 +17607,17 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="105"/>
       <source>&amp;DWORD</source>
-      <translation type="unfinished"/>
+      <translation>&amp;ඩවර්ඩ්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="105"/>
       <source>&amp;QWORD</source>
-      <translation type="unfinished"/>
+      <translation>&amp;වචනය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="109"/>
       <source>&amp;Comments</source>
-      <translation type="unfinished"/>
+      <translation>&amp;අදහස්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="116"/>
@@ -17618,7 +17662,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="138"/>
       <source>xrefs...</source>
-      <translation type="unfinished"/>
+      <translation>xrefs...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="148"/>
@@ -17643,7 +17687,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="177"/>
       <source>Edit columns...</source>
-      <translation type="unfinished"/>
+      <translation>තීරු සංස්කරණය කරන්න...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="546"/>
@@ -17666,13 +17710,13 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.ui" line="290"/>
       <source>Ctrl+G</source>
-      <translation type="unfinished"/>
+      <translation>Ctrl+G</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="42"/>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="315"/>
       <source>Load dump</source>
-      <translation type="unfinished"/>
+      <translation>ඩම්ප් පැටවීම</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="99"/>
@@ -17699,7 +17743,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="106"/>
       <source>InfoBox</source>
-      <translation type="unfinished"/>
+      <translation>තොරතුරු පෙට්ටිය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="166"/>
@@ -17709,7 +17753,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="166"/>
       <source>Error when opening trace recording (reason: %1)</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවන් පටිගත කිරීම විවෘත කිරීමේදී දෝෂයක් (හේතුව: %1)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="176"/>
@@ -17724,7 +17768,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="209"/>
       <source>Enabling the trace dump can consume a lot of memory (max ~%1GiB for this trace) and freeze x64dbg for prolonged periods of time. This feature is still experimental, please report any bugs you encounter.</source>
-      <translation type="unfinished"/>
+      <translation>හෝඩුවාවක් ලබා දීමේ ඩම්ප් එක සක්‍රීය කිරීමෙන් මතකය විශාල ප්‍රමාණයක් පරිභෝජනය කළ හැකිය (මෙම හෝඩුවාව සඳහා උපරිම ~%1GiB) සහ දිගු කාලයක් සඳහා x64dbg කැටි කළ හැකිය. මෙම විශේෂාංගය තවමත් පර්යේෂණාත්මකයි, කරුණාකර ඔබට හමු වන ඕනෑම දෝෂයක් වාර්තා කරන්න.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="210"/>
@@ -17750,7 +17794,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="365"/>
       <source>&amp;Old value: </source>
-      <translation type="unfinished"/>
+      <translation>&amp;පැරණි අගය: </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="369"/>
@@ -17760,7 +17804,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="375"/>
       <source>&amp;New value: </source>
-      <translation type="unfinished"/>
+      <translation>&amp;නව අගය: </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="386"/>
@@ -17915,7 +17959,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/WatchView.cpp" line="15"/>
       <source>ID</source>
-      <translation type="unfinished"/>
+      <translation>හැඳුනුම්පත</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/WatchView.cpp" line="74"/>
@@ -18143,7 +18187,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="95"/>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="104"/>
       <source>&amp;Qword</source>
-      <translation type="unfinished"/>
+      <translation>&amp;වචන</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="99"/>
