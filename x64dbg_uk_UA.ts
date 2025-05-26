@@ -7317,23 +7317,24 @@
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="779"/>
       <source>Usage: vmovdqu zmm0 (or ymm0), [address] / vmovdqu [address], zmm0 (or ymm0) / vmovdqu zmm0 (or ymm0), zmm1 (or ymm1)</source>
-      <translation type="unfinished"/>
+      <translation>Використання: vmovdqu zmm0 (або ymm0), [address] / vmovdqu [address], zmm0 (або ymm0) / vmovdqu zmm0 (або ymm0), zmm1 (або ymm1)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="921"/>
       <source>Usage: kmovq k1, [address] / kmovq [address], k1 / kmovq k1, k2</source>
-      <translation type="unfinished"/>
+      <translation>Використання: kmovq k1, [address] / kmovq [address], k1 / kmovq k1, k2</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1019"/>
       <source>Failed to write to %s
 </source>
-      <translation type="unfinished"/>
+      <translation>Не вдалося записати до %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1027"/>
       <source>Usage: kmovd k1, [address] / kmovd [address], k1 / kmovd k1, k2</source>
-      <translation type="unfinished"/>
+      <translation>Використання: kmovd k1, [address] / kmovd [address], k1 / kmovd k1, k2</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="22"/>
@@ -10115,7 +10116,8 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/types.cpp" line="968"/>
       <source>Failed to add enum %s
 </source>
-      <translation type="unfinished"/>
+      <translation>Не вдалось додати enum %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/types.cpp" line="979"/>
@@ -10135,13 +10137,15 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/types.cpp" line="1015"/>
       <source>Failed to add enum member %s
 </source>
-      <translation type="unfinished"/>
+      <translation>Не вдалося додати учасника enum %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/types.cpp" line="1029"/>
       <source>Failed to add return type %s.%s;
 </source>
-      <translation type="unfinished"/>
+      <translation>Не вдалося додати тип повернення %s.%s;
+</translation>
     </message>
     <message>
       <location filename="src/dbg/types.cpp" line="1038"/>
@@ -12044,12 +12048,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="116"/>
       <source>Find Next Occurence</source>
-      <translation type="unfinished"/>
+      <translation>Знайти Наступне Входження</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="117"/>
       <source>Find Previous Occurence</source>
-      <translation type="unfinished"/>
+      <translation>Знайти Попереднє Входження</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="146"/>
@@ -13415,17 +13419,17 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1047"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1055"/>
       <source>Unsupported system</source>
-      <translation type="unfinished"/>
+      <translation>Система не підтримується</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1048"/>
       <source>You are running x64dbg in ARM64 emulation mode. &lt;b&gt;This system is not supported by x64dbg and will cause unexpected behavior.&lt;/b&gt; Analyzing malware in this environment is dangerous and you should switch to an actual Intel/AMD CPU.&lt;br&gt;&lt;br&gt;For more information, see the &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</source>
-      <translation type="unfinished"/>
+      <translation>Ви використовуєте x64gdb у режимі емуляції ARM64. &lt;b&gt;Ця система не підтримується і може спричинити неочікувану поведінку.&lt;/b&gt; Аналіз шкідливого програмного забезпечення в цьому середовищі є небезпечним, і вам слід перейти на фактичний процесор Intel/AMD/...&lt;br&gt;&lt;br&gt;Для отримання додаткової інформації див. &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1056"/>
       <source>You are running x64dbg on an unsupported operating system version. &lt;b&gt;Future updates will completely stop running on this system.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more information, see the official &lt;a href="%1"&gt;announcement&lt;/a&gt;.</source>
-      <translation type="unfinished"/>
+      <translation>Ви використовуєте x64dgb на непідтримуваній версії операційної системи. &lt;b&gt;Майбутні оновлення повністю перестануть працювати на цій системі.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Для отримання додаткової інформації див. офіційне &lt;a href="%1"&gt;оголішення&lt;/a&gt;.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1207"/>
@@ -14445,7 +14449,8 @@ Do you want to apply these patches anyway?</source>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2633"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
-      <translation type="unfinished"/>
+      <translation>AVX-512 не підтримується у вашій системі.
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1335"/>
@@ -14555,12 +14560,12 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1390"/>
       <source>Always show maximum vector length</source>
-      <translation type="unfinished"/>
+      <translation>Завжди показувати максимальну довжину вектора</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
       <source>Always show all AVX-512 registers</source>
-      <translation type="unfinished"/>
+      <translation>Завжди показувати всі регістри AVX-512</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1582"/>
