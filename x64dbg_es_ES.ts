@@ -2590,67 +2590,67 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="875"/>
       <source>Signed byte (8-bit)</source>
       <translation>Signed byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="900"/>
       <source>Signed short (16-bit)</source>
       <translation>Signed short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="925"/>
       <source>Signed long (32-bit)</source>
       <translation>Signed long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="950"/>
       <source>Signed long long (64-bit)</source>
       <translation>Signed long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="975"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>Unsigned byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1000"/>
       <source>Unsigned short (16-bit)</source>
       <translation>Unsigned short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1025"/>
       <source>Unsigned long (32-bit)</source>
       <translation>Unsigned long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1050"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>Unsigned long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1076"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1075"/>
       <source>Hex short (16-bit)</source>
       <translation>Hex short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1100"/>
       <source>Hex long (32-bit)</source>
       <translation>Hex long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1125"/>
       <source>Hex long long (64-bit)</source>
       <translation>Hex long long (64-bit)</translation>
     </message>
@@ -2695,249 +2695,228 @@
       <translation>&amp;Desensamblado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="249"/>
-      <source>Display type</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="445"/>
       <source>System Code</source>
       <translation>Código de sistema</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
       <source>System Data</source>
       <translation>Datos del sistema</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="447"/>
       <source>User Code</source>
       <translation>Código de usuario</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
       <source>User Data</source>
       <translation>Datos de usuario</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="450"/>
       <source> (Real4)</source>
       <translation> (Real4)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="455"/>
       <source> (Real8)</source>
       <translation> (Real8)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="458"/>
       <source> (BYTE)</source>
       <translation> (BYTES)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="461"/>
       <source> (WORD)</source>
       <translation> (WORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="464"/>
       <source> (DWORD)</source>
       <translation> (DWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="474"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="468"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="473"/>
       <source> (QWORD)</source>
       <translation> (QWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="480"/>
       <source> (String)</source>
       <translation> (String/Palabra)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="483"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="482"/>
       <source>(Unknown String)</source>
       <translation>(String/Palabra desconocida)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="517"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="533"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="550"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="516"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="532"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="549"/>
       <source>Modify value</source>
       <translation>Modificar valor</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
       <source>Error</source>
       <translation>Error</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
       <source>The input text is not a number!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="565"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="564"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>Escriba la expresión a seguir en Volcado...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
       <source>Error!</source>
       <translation>¡Error!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
       <source>Not inside a module...</source>
       <translation>La dirección no está en ningún módulo...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="588"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="587"/>
       <source>Goto File Offset in %1</source>
       <translation>Ir a la posición del archivo %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="649"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="683"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="721"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="753"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="648"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="720"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="752"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="657"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="803"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1271"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="656"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1270"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="691"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="829"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1316"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="690"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="828"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1315"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1150"/>
       <source>Float (32-bit)</source>
       <translation>Float (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1175"/>
       <source>Double (64-bit)</source>
       <translation>Double (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1200"/>
       <source>Long double (80-bit)</source>
       <translation>Long double (80-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1225"/>
       <source>Half float (16-bit)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1256"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1301"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1255"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1300"/>
       <source>Value</source>
       <translation>Valor</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1279"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1278"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1323"/>
       <source>Comments</source>
       <translation>Comentarios</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1379"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1378"/>
       <source>Edit data at %1</source>
       <translation>Editar datos en %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1396"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1395"/>
       <source>Fill data at %1</source>
       <translation>Rellenar datos en %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
       <source>Save to file</source>
       <translation>Guardar en archivo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
       <source>All files (*.*)</source>
       <translation>Todos los archivos (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1482"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1481"/>
       <source>Find Pattern...</source>
       <translation>Buscar un patrón...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
       <source>Selection not in a file...</source>
       <translation>La selección no está en ningún archivo...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1522"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1521"/>
       <source>Dump</source>
       <translation>Volcado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1533"/>
       <source>Enter expression to sync with...</source>
       <translation>Añadir expresión con la que sincronizar...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1545"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1544"/>
       <source>Size</source>
       <translation>Tamaño</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
       <source>Warning</source>
       <translation>Atención</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>Estás intentando asignar un búfer de tamaño cero.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>El tamaño del búfer que intenta asignar sobrepasa 1GB. Por favor, verifica tu expresión para asegurarte de que todo es correcto.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
       <source>Memory allocation failed!</source>
       <translation>La asignación de memoria ha fallado</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
-      <source>No types loaded yet, parse a header first...</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1591"/>
-      <source>Type to display</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
-      <source>Address to display %1 at</source>
-      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -3089,133 +3068,133 @@
   <context>
     <name>CPURegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="17"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="45"/>
       <source>Modify value</source>
       <translation>Modificar valor</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="19"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="47"/>
       <source>Increment value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="21"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="49"/>
       <source>Decrement value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="23"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="51"/>
       <source>Zero value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="25"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="53"/>
       <source>Toggle</source>
       <translation>Conmutar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="26"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="54"/>
       <source>Undo</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="28"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="56"/>
       <source>Follow in Disassembler</source>
       <translation>Mostrar en el desensamblador</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="29"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="57"/>
       <source>Follow in Dump</source>
       <translation>Mostrar en el volcado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="30"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="58"/>
       <source>Follow in Stack</source>
       <translation>Mostrar en la pila</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="31"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="59"/>
       <source>Follow in Memory Map</source>
       <translation>Mostrar en el mapa de memoria</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="32"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="60"/>
       <source>&amp;Remove hardware breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="33"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="61"/>
       <source>Increment x87 Stack</source>
       <translation>Incrementar pila x87</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="34"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="62"/>
       <source>Decrement x87 Stack</source>
       <translation>Decrementar pila x87</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="35"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="63"/>
       <source>Highlight</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="285"/>
       <source>Error</source>
       <translation>Error</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="269"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="472"/>
       <source>Edit %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="274"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="276"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="278"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="280"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="283"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="298"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="302"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="304"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="307"/>
       <source>Edit</source>
       <translation>Editar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="289"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="292"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
       <source>Edit %1 register</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="299"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="323"/>
       <source>Edit FPU register</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="393"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="417"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="408"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
       <source>Set Last Error</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="429"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="453"/>
       <source>Set Last Status</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="644"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="668"/>
       <source>Follow in &amp;Dump</source>
       <translation>Mostrar en en &amp;volcado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="684"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="710"/>
       <source>Copy old value: %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="729"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="755"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation type="unfinished"/>
     </message>
@@ -3882,260 +3861,291 @@
   <context>
     <name>CommonActions</name>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="34"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="35"/>
       <source>Follow in Disassembler</source>
       <translation>Mostrar en el desensamblador</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="34"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="35"/>
       <source>Show this address in disassembler. Equivalent command "d address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="38"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="39"/>
       <source>&amp;Follow DWORD in Disassembler</source>
       <translation>&amp;Mostrar DWord en el desesamblador</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="38"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="39"/>
       <source>&amp;Follow QWORD in Disassembler</source>
       <translation>&amp;Mostrar QWord en el desesamblador</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="42"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="43"/>
       <source>Follow in Dump</source>
       <translation>Mostrar en el volcado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="42"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="43"/>
       <source>Show the address in dump. Equivalent command "dump address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="46"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="47"/>
       <source>&amp;Follow DWORD in Current Dump</source>
       <translation>&amp;Mostrar DWord en el volcado actual</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="46"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="47"/>
       <source>&amp;Follow QWORD in Current Dump</source>
       <translation>&amp;Mostrar QWord en volcado actual</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="59"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="60"/>
       <source>Dump %1</source>
       <translation>Volcado %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="65"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="66"/>
       <source>Follow DWORD in Dump</source>
       <translation>Mostrar DWord en el volcado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="65"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="66"/>
       <source>Follow QWORD in Dump</source>
       <translation>Mostrar QWord en el volcado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="69"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="70"/>
       <source>Follow in Stack</source>
       <translation>Mostrar en la pila</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="69"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="70"/>
       <source>Show this address in stack view. Equivalent command "sdump address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="77"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
       <source>Follow in Memory Map</source>
       <translation>Mostrar en el mapa de memoria</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="77"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
       <source>Show this address in memory map view. Equivalent command "memmapdump address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="81"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
       <source>Graph</source>
       <translation>Gráfico</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="81"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
       <source>Show the control flow graph of this function in CPU view. Equivalent command "graph address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="95"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="89"/>
+      <source>Display type at %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
+      <source>Display a type at this address in the struct view.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="105"/>
       <source>Toggle</source>
       <translation>Conmutar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="96"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="114"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="106"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="124"/>
       <source>Edit</source>
       <translation>Editar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="97"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="100"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="110"/>
       <source>Set Hardware on Execution</source>
       <translation>PI de hardware (al ejecutar)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="98"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="108"/>
       <source>Remove Hardware</source>
       <translation>Eliminar (hardware)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="102"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="103"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="104"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="105"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="112"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="113"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="114"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="115"/>
       <source>Replace Slot %1 (Unknown)</source>
       <translation>Reemplazar posición %1 (Desconocida)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="117"/>
       <source>Breakpoint</source>
       <translation>Punto de interrupción</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="116"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="126"/>
       <source>Set Conditional Breakpoint</source>
       <translation>Añade Punto de  Control Condicional</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="146"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="156"/>
       <source>Replace Slot %1 (0x%2)</source>
       <translation>Reemplazar el breakpoint %1 (ocupado por 0x%2)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="159"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="169"/>
       <source>Label Current Address</source>
       <translation>Etiquetar la dirección actual</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="163"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="173"/>
       <source>Comment</source>
       <translation>Comentario</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="167"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="177"/>
       <source>Toggle Bookmark</source>
       <translation>Añadir/quitar marcador</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="167"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="177"/>
       <source>Set a bookmark here, or remove bookmark. Equivalent command "bookmarkset address"/"bookmarkdel address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
       <source>Set %1 Here</source>
       <translation>Poner %1 Aqui</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
       <source>Set the next executed instruction to this address. Equivalent command "mov cip, address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="175"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
       <source>Create New Thread Here</source>
       <translation>Crear un nuevo hilo aquí</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="175"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
       <source>Create a new thread at this address. Equivalent command "createthread address, argument".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>&amp;Watch DWORD</source>
       <translation>&amp;Monitorizar DWord</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>&amp;Watch QWORD</source>
       <translation>&amp;Monitorizar QWord</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>Add the address in the watch view. Equivalent command "AddWatch [address], "uint"".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="229"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="239"/>
       <source>Cannot follow %1. Address is invalid.
 </source>
       <translation>No se puede ir a %1. Dirección ilegal.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="241"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="251"/>
       <source>Add label at </source>
       <translation>Añadir etiqueta en </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="248"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
       <source>The label may be in use</source>
       <translation>La etiqueta debe estar en uso</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="249"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="259"/>
       <source>The label "%1" may be an existing label or a valid expression. Using such label might have undesired effects. Do you still want to continue?</source>
       <translation>La etiqueta "%1" puede ser una etiqueta existente o una expresión válida. Con tal etiqueta puede haber efectos no deseados. ¿Desea continuar?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="284"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="308"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="268"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="294"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="318"/>
       <source>Error!</source>
       <translation>¡Error!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="268"/>
       <source>DbgSetLabelAt failed!</source>
       <translation>DbgSetLabelAt ha fallado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="279"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="289"/>
       <source>Add comment at </source>
       <translation>Añadir comentario en </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="284"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="294"/>
       <source>DbgSetCommentAt failed!</source>
       <translation>DbgSetCommentAt ha fallado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="308"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="318"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt ha fallado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="317"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="327"/>
       <source>Address %1 is not executable</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="340"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="350"/>
       <source>Setting software breakpoint here may result in crash. Do you really want to continue?</source>
       <translation>Poner aquí un punto de interrupción de software puede colgar el programa. ¿Quieres continuar?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="460"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="478"/>
+      <source>Error</source>
+      <translation>Error</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="478"/>
+      <source>No types loaded yet, parse a header first...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="483"/>
+      <source>Type to display at %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="487"/>
+      <source>Address to display %1 at</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="497"/>
       <source>Setting new origin here may result in crash. Do you really want to continue?</source>
       <translation>Establecer aquí el nuevo origen puede colgar el programa. ¿Quieres continuar?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="469"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="506"/>
       <source>Creating new thread here may result in crash. Do you really want to continue?</source>
       <translation>Crear un nuevo hilo aquí puede colgar el programa. ¿Quieres continuar?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="472"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="509"/>
       <source>Argument for the new thread</source>
       <translation>Argumento para el nuevo hilo</translation>
     </message>
@@ -4835,12 +4845,13 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Actions</source>
       <translation>Acciones</translation>
     </message>
@@ -5500,97 +5511,102 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <source>Display type</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Freeze the stack</source>
       <translation>Congelar la pila</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Go to Base of Stack Frame</source>
       <translation>Ir a la base de esta trama de la pila</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Go to Previous Stack Frame</source>
       <translation>Ir a la anterior trama de la pila</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Go to Next Stack Frame</source>
       <translation>Ir a la siguiente trama de la pila</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Go to Previous Reference</source>
       <translation>Ir a la referencia anterior</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Go to Next Reference</source>
       <translation>Ir a la siguiente referencia</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Modify value</source>
       <translation>Modificar valor</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Watch DWORD/QWORD</source>
       <translation>Ver DWORD/QWORD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Copy File Offset</source>
       <translation>Copiar Compensación de archivo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Start/Stop trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Copy -&gt; Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Export Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="792"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="808"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="817"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="836"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="845"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="860"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="869"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="888"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="897"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="913"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="927"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="945"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="793"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="809"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="818"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="837"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="846"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="861"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="870"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="889"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="898"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="914"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="928"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="946"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>NO ENCONTRADO EN LA CONFIGURACIÓN!</translation>
     </message>
@@ -6016,7 +6032,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="890"/>
       <source>Done!</source>
       <translation>¡Hecho!</translation>
     </message>
@@ -8307,29 +8323,29 @@
       <translation>SizeofType ha fallado</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="878"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
       <source>VisitType failed</source>
       <translation>VisitType ha fallado</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="903"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="909"/>
       <source>RemoveType failed</source>
       <translation>RemoveType ha fallado</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="906"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="912"/>
       <source>Type %s removed
 </source>
       <translation>Tipo %s eliminado
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="931"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="937"/>
       <source>LoadTypes failed</source>
       <translation>LoadTypes falló</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="934"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="940"/>
       <source>Types loaded</source>
       <translation>Types cargado</translation>
     </message>
@@ -9688,160 +9704,160 @@ Do you want to continue debugging?</source>
       <translation>StaticFileUnload ha fallado</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="184"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="186"/>
       <source>[PLUGIN] %s already loaded
 </source>
       <translation>[PLUGIN] %s ya ha sido cargado
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="192"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="194"/>
       <source>[PLUGIN] Cannot find plugin: %s
 </source>
       <translation>[PLUGIN] No se puede encontrar el plugin: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="209"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="212"/>
       <source>[PLUGIN] Failed to load plugin: %s
 </source>
       <translation>[PLUGIN] Error al cargar plugin: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="215"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="218"/>
       <source>[PLUGIN] Export "pluginit" not found in plugin: %s
 </source>
       <translation>[PLUGIN] plugin de exportación"pluginit" no se encuentra en Plugin: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="231"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="234"/>
       <source>[PLUGIN] pluginit failed for plugin: %s
 </source>
       <translation>[PLUGIN] pluginit falló para el plugin: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="239"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="242"/>
       <source>[PLUGIN] %s is incompatible with this SDK version
 </source>
       <translation>[PLUGIN] %s no es compatible con esta versión del SDK
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="246"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="249"/>
       <source>[PLUGIN] %s v%d Loaded!
 </source>
       <translation>[PLUGIN] %s v%d cargado
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="303"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="306"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="423"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="426"/>
       <source>[PLUGIN] %s unloaded
 </source>
       <translation>[PLUGIN] %s descargado
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="426"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="429"/>
       <source>[PLUGIN] %s not found
 </source>
       <translation>[PLUGIN] %s no encontrado
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="493"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="496"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="717"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="720"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[PLUGIN] Identificador de plugin %d inválido...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="741"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="744"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] Comando "%s" no se puso registrar...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="747"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="750"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[PLUGIN, %s] ¡Comando "%s" registrado!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="774"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="777"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] ¡Comando "%s" sin registrar!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="779"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="782"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1199"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1225"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1202"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1228"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1205"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1231"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1208"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1234"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1251"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1254"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1256"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1259"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1270"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1273"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1276"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1279"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1295"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1298"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1300"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1303"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation type="unfinished"/>
@@ -10065,53 +10081,53 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="942"/>
+      <location filename="src/dbg/types.cpp" line="945"/>
       <source>Failed to add %s %s;
 </source>
       <translation>Error al agregar %s %s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="954"/>
+      <location filename="src/dbg/types.cpp" line="958"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>Error al añadir la función %s %s()
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="968"/>
+      <location filename="src/dbg/types.cpp" line="973"/>
       <source>Failed to add enum %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="979"/>
+      <location filename="src/dbg/types.cpp" line="985"/>
       <source>Failed to add typedef %s %s;
 </source>
       <translation>Error al agregar typedef %s %s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="996"/>
+      <location filename="src/dbg/types.cpp" line="1003"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>Error al agregar miembros %s %s.%s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1015"/>
+      <location filename="src/dbg/types.cpp" line="1023"/>
       <source>Failed to add enum member %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1029"/>
+      <location filename="src/dbg/types.cpp" line="1039"/>
       <source>Failed to add return type %s.%s;
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1038"/>
+      <location filename="src/dbg/types.cpp" line="1049"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>Error al agregar argumento %s %s.%s;
@@ -14401,7 +14417,7 @@ Do you want to apply these patches anyway?</source>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="285"/>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2633"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
@@ -16079,90 +16095,90 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>Valor</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="223"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
       <source>&amp;Follow address in Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="243"/>
       <source>Follow value in Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
       <source>Follow value in Disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="251"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="461"/>
       <source>Change address</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="255"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="240"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
       <source>Load JSON</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="241"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="257"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
       <source>Parse header</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="242"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="258"/>
       <source>Remove</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="262"/>
       <source>Clear</source>
       <translation>Limpiar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="263"/>
       <source>&amp;Refresh</source>
       <translation>&amp;Actualizar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
       <source>&amp;Copy</source>
       <translation>&amp;Copiar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
       <source>Error</source>
       <translation>Error</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="396"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="412"/>
       <source>Type to display</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="417"/>
       <source>Address to display %1 at</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>

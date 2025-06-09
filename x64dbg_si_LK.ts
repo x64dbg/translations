@@ -2593,67 +2593,67 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="875"/>
       <source>Signed byte (8-bit)</source>
       <translation>අත්සන් බයිට් (8-ටිකක්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="900"/>
       <source>Signed short (16-bit)</source>
       <translation>කෙටි අත්සන් (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="925"/>
       <source>Signed long (32-bit)</source>
       <translation>අත්සන් කරන ලද දිගු (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="950"/>
       <source>Signed long long (64-bit)</source>
       <translation>දිගු දිගු (64-ටිකක්) අත්සන්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="975"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>අත්සන් නොකළ බයිට් (8-ටිකක්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1000"/>
       <source>Unsigned short (16-bit)</source>
       <translation>අත්සන් නොකළ කෙටි (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1025"/>
       <source>Unsigned long (32-bit)</source>
       <translation>අත්සන් නොකළ දිගු (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1050"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>අත්සන් නොකළ දිගු (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1076"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1075"/>
       <source>Hex short (16-bit)</source>
       <translation>Hex කෙටි (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1100"/>
       <source>Hex long (32-bit)</source>
       <translation>හෙක්ස් දිගු (32-ටිකක්)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1125"/>
       <source>Hex long long (64-bit)</source>
       <translation>හෙක්ස් දිගු (64-ටිකක්)</translation>
     </message>
@@ -2698,249 +2698,228 @@
       <translation>&amp;විසුරුවා හැරීම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="249"/>
-      <source>Display type</source>
-      <translation>සංදර්ශක වර්ගය</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="445"/>
       <source>System Code</source>
       <translation>පද්ධතිය කේතය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
       <source>System Data</source>
       <translation>දත්ත පද්ධතිය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="447"/>
       <source>User Code</source>
       <translation>පරිශීලක කේතය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
       <source>User Data</source>
       <translation>පරිශීලක දත්ත</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="450"/>
       <source> (Real4)</source>
       <translation> (රියල්4)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="455"/>
       <source> (Real8)</source>
       <translation> (රියල්8)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="458"/>
       <source> (BYTE)</source>
       <translation> (බයිට්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="461"/>
       <source> (WORD)</source>
       <translation> (වචනය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="464"/>
       <source> (DWORD)</source>
       <translation> (ඩබ්ලිව්වර්ඩ්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="474"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="468"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="473"/>
       <source> (QWORD)</source>
       <translation> (ප්‍රශ්නාර්ථය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="480"/>
       <source> (String)</source>
       <translation> (සංගීත)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="483"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="482"/>
       <source>(Unknown String)</source>
       <translation>(නොදන්නා සංගීත)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="517"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="533"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="550"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="516"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="532"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="549"/>
       <source>Modify value</source>
       <translation>අගය වෙනස් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
       <source>Error</source>
       <translation>දෝෂය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
       <source>The input text is not a number!</source>
       <translation>ආදාන පෙළ අංකයක් නොවේ!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="565"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="564"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>ඩම්ප් අනුගමනය කිරීමට ප්රකාශනය ඇතුල් කරන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
       <source>Error!</source>
       <translation>දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
       <source>Not inside a module...</source>
       <translation>මොඩියුලයක් ඇතුළත නොවේ...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="588"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="587"/>
       <source>Goto File Offset in %1</source>
       <translation>%1දී ඕෆ්සෙට් ගොනුව</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="649"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="683"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="721"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="753"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="648"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="720"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="752"/>
       <source>Hex</source>
       <translation>හෙක්ස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="657"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="803"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1271"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="656"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1270"/>
       <source>ASCII</source>
       <translation>ඇසි</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="691"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="829"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1316"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="690"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="828"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1315"/>
       <source>UNICODE</source>
       <translation>යුනිකෝඩ්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1150"/>
       <source>Float (32-bit)</source>
       <translation>පාවෙන (32-ටිකක්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1175"/>
       <source>Double (64-bit)</source>
       <translation>ද්විත්ව (64-ටිකක්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1200"/>
       <source>Long double (80-bit)</source>
       <translation>දිගු ද්විත්ව (80-ටිකක්)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1225"/>
       <source>Half float (16-bit)</source>
       <translation>අර්ධ පාවෙන (බිට් 16)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1256"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1301"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1255"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1300"/>
       <source>Value</source>
       <translation>වටිනාකම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1279"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1278"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1323"/>
       <source>Comments</source>
       <translation>අදහස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1379"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1378"/>
       <source>Edit data at %1</source>
       <translation>%1හි දත්ත සංස්කරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1396"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1395"/>
       <source>Fill data at %1</source>
       <translation>%1හි දත්ත පුරවන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
       <source>Save to file</source>
       <translation>ගොනු කිරීමට සුරකින්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
       <source>All files (*.*)</source>
       <translation>සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1482"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1481"/>
       <source>Find Pattern...</source>
       <translation>රටාව සොයන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
       <source>Selection not in a file...</source>
       <translation>ගොනුවක නොතේරීම...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1522"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1521"/>
       <source>Dump</source>
       <translation>ඩම්ප්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1533"/>
       <source>Enter expression to sync with...</source>
       <translation>සමඟ සමමුහුර්ත වීමට ප්රකාශනය ඇතුළත් කරන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1545"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1544"/>
       <source>Size</source>
       <translation>ප්රමාණය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
       <source>Warning</source>
       <translation>අවවාදය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>ඔබ දැන් ශුන්ය ප්රමාණයේ බෆරයක් වෙන් කිරීමට උත්සාහ කරනවා.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>ඔබ වෙන් කිරීමට උත්සාහ කරන බෆරයේ ප්රමාණය 1GB ඉක්මවයි. කිසිවක් වැරදියි කියා සහතික කිරීම සඳහා කරුණාකර ඔබේ ප්රකාශනය පරීක්ෂා කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
       <source>Memory allocation failed!</source>
       <translation>මතක වෙන් කිරීම අසාර්ථක විය!</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
-      <source>No types loaded yet, parse a header first...</source>
-      <translation>තවම වර්ග පූරණය කර නැත, පළමුව ශීර්ෂයක් විග්‍රහ කරන්න...</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1591"/>
-      <source>Type to display</source>
-      <translation>පෙන්වීමට ටයිප් කරන්න</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
-      <source>Address to display %1 at</source>
-      <translation>%1 පෙන්වීමට ලිපිනය</translation>
     </message>
   </context>
   <context>
@@ -3092,133 +3071,133 @@
   <context>
     <name>CPURegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="17"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="45"/>
       <source>Modify value</source>
       <translation>අගය වෙනස් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="19"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="47"/>
       <source>Increment value</source>
       <translation>අගය වැඩි කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="21"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="49"/>
       <source>Decrement value</source>
       <translation>අඩු කිරීමේ අගය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="23"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="51"/>
       <source>Zero value</source>
       <translation>ශුන්‍ය අගය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="25"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="53"/>
       <source>Toggle</source>
       <translation>ටොගල් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="26"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="54"/>
       <source>Undo</source>
       <translation>අහෝසි</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="28"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="56"/>
       <source>Follow in Disassembler</source>
       <translation>Disassembler තුළ අනුගමනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="29"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="57"/>
       <source>Follow in Dump</source>
       <translation>ඩම්ප් තුළ අනුගමනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="30"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="58"/>
       <source>Follow in Stack</source>
       <translation>Stack දී අනුගමනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="31"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="59"/>
       <source>Follow in Memory Map</source>
       <translation>මතක සිතියම අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="32"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="60"/>
       <source>&amp;Remove hardware breakpoint</source>
       <translation>සහ දෘඩාංග බිඳවැටීම් ඉවත් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="33"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="61"/>
       <source>Increment x87 Stack</source>
       <translation>වර්ධකය x87 Stack</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="34"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="62"/>
       <source>Decrement x87 Stack</source>
       <translation>නියෝග x87 Stack</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="35"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="63"/>
       <source>Highlight</source>
       <translation>ඉස්මතු කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="285"/>
       <source>Error</source>
       <translation>දෝෂය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="269"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="472"/>
       <source>Edit %1</source>
       <translation>%1සංස්කරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="274"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="276"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="278"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="280"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="283"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="298"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="302"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="304"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="307"/>
       <source>Edit</source>
       <translation>සංස්කරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="289"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="292"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
       <source>Edit %1 register</source>
       <translation>%1 ලේඛනය සංස්කරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="299"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="323"/>
       <source>Edit FPU register</source>
       <translation>FPU ලේඛනය සංස්කරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="393"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="417"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation>හෙක්ස් බවට පරිවර්තනය කිරීමේ දෝෂය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="408"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
       <source>Set Last Error</source>
       <translation>අවසන් දෝෂය සකසන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="429"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="453"/>
       <source>Set Last Status</source>
       <translation>පසුගිය තත්ත්වය සකසන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="644"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="668"/>
       <source>Follow in &amp;Dump</source>
       <translation>අනුගමනය &amp; ඩම්ප්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="684"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="710"/>
       <source>Copy old value: %1</source>
       <translation>පැරණි අගය පිටපත් කරන්න: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="729"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="755"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation>%1මත දෘඩාංග බ්රේක්පොයින්ට් සකසන්න</translation>
     </message>
@@ -3885,261 +3864,292 @@
   <context>
     <name>CommonActions</name>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="34"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="35"/>
       <source>Follow in Disassembler</source>
       <translation>Disassembler තුළ අනුගමනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="34"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="35"/>
       <source>Show this address in disassembler. Equivalent command "d address".</source>
       <translation>මෙම ලිපිනය disassembler හි පෙන්වන්න. සමාන විධානය "d address".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="38"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="39"/>
       <source>&amp;Follow DWORD in Disassembler</source>
       <translation>&amp; DWORD DWORD අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="38"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="39"/>
       <source>&amp;Follow QWORD in Disassembler</source>
       <translation>&amp; විසුරුවා හැරීමේදී QWORD අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="42"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="43"/>
       <source>Follow in Dump</source>
       <translation>ඩම්ප් තුළ අනුගමනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="42"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="43"/>
       <source>Show the address in dump. Equivalent command "dump address".</source>
       <translation>ලිපිනය ඩම්ප් එකේ පෙන්වන්න. සමාන විධානය "ඩම්ප් ලිපිනය".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="46"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="47"/>
       <source>&amp;Follow DWORD in Current Dump</source>
       <translation>&amp; වත්මන් ඩම්ප් තුළ DWORD අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="46"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="47"/>
       <source>&amp;Follow QWORD in Current Dump</source>
       <translation>&amp; දැනට පවතින ඩම්ප් වල QWORD අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="59"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="60"/>
       <source>Dump %1</source>
       <translation>%1ඩම්ප්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="65"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="66"/>
       <source>Follow DWORD in Dump</source>
       <translation>ඩම්ප් හි ඩීවර්ඩ් අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="65"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="66"/>
       <source>Follow QWORD in Dump</source>
       <translation>ඩම්ප් හි QWORD අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="69"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="70"/>
       <source>Follow in Stack</source>
       <translation>Stack දී අනුගමනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="69"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="70"/>
       <source>Show this address in stack view. Equivalent command "sdump address".</source>
       <translation>මෙම ලිපිනය ස්ටැක් දර්ශනයෙන් පෙන්වන්න. සමාන විධානය "sdump address".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="77"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
       <source>Follow in Memory Map</source>
       <translation>මතක සිතියම අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="77"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
       <source>Show this address in memory map view. Equivalent command "memmapdump address".</source>
       <translation>මෙම ලිපිනය මතක සිතියම් දර්ශනයේ පෙන්වන්න. සමාන විධානය "memmapdump address".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="81"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
       <source>Graph</source>
       <translation>ප්රස්ථාර</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="81"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
       <source>Show the control flow graph of this function in CPU view. Equivalent command "graph address".</source>
       <translation>මෙම ශ්‍රිතයේ පාලන ප්‍රවාහ ප්‍රස්තාරය CPU දර්ශනයෙන් පෙන්වන්න. සමාන විධානය "graph address".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="95"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="89"/>
+      <source>Display type at %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
+      <source>Display a type at this address in the struct view.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="105"/>
       <source>Toggle</source>
       <translation>ටොගල් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="96"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="114"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="106"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="124"/>
       <source>Edit</source>
       <translation>සංස්කරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="97"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="100"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="110"/>
       <source>Set Hardware on Execution</source>
       <translation>ක්රියාත්මක මත දෘඩාංග සකසන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="98"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="108"/>
       <source>Remove Hardware</source>
       <translation>දෘඩාංග ඉවත් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="102"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="103"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="104"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="105"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="112"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="113"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="114"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="115"/>
       <source>Replace Slot %1 (Unknown)</source>
       <translation>ස්ලොට් %1 ප්රතිස්ථාපනය කරන්න (නොදන්නා)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="117"/>
       <source>Breakpoint</source>
       <translation>බ්රේක්පොයින්ට්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="116"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="126"/>
       <source>Set Conditional Breakpoint</source>
       <translation>කොන්දේසි සහිත බ්රේක්පොයින්ට් සකසන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="146"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="156"/>
       <source>Replace Slot %1 (0x%2)</source>
       <translation>ස්ලොට් %1 (0x%2) ප්රතිස්ථාපනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="159"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="169"/>
       <source>Label Current Address</source>
       <translation>වත්මන් ලිපිනය ලේබල්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="163"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="173"/>
       <source>Comment</source>
       <translation>අදහස් දක්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="167"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="177"/>
       <source>Toggle Bookmark</source>
       <translation>ටොගල් කරන්න බුක්මාක්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="167"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="177"/>
       <source>Set a bookmark here, or remove bookmark. Equivalent command "bookmarkset address"/"bookmarkdel address".</source>
       <translation>මෙහි පිටු සලකුණක් සකසන්න, නැතහොත් පිටු සලකුණ ඉවත් කරන්න. "bookmarkset address"/"bookmarkdel address" යන සමාන විධානය.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
       <source>Set %1 Here</source>
       <translation>මෙතන %1 සකසන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
       <source>Set the next executed instruction to this address. Equivalent command "mov cip, address".</source>
       <translation>ඊළඟට ක්‍රියාත්මක කරන ලද උපදෙස් මෙම ලිපිනයට සකසන්න. සමාන විධානය "mov cip, address".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="175"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
       <source>Create New Thread Here</source>
       <translation>මෙහි නව නූල් සාදන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="175"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
       <source>Create a new thread at this address. Equivalent command "createthread address, argument".</source>
       <translation>මෙම ලිපිනයේ නව නූලක් සාදන්න. "createthread address, argument" යන සමාන විධානය.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>&amp;Watch DWORD</source>
       <translation>&amp; වොච් ඩීවර්ඩ්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>&amp;Watch QWORD</source>
       <translation>QWORD වොච්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>Add the address in the watch view. Equivalent command "AddWatch [address], "uint"".</source>
       <translation>ඔරලෝසු දර්ශනයේ ලිපිනය එක් කරන්න. සමාන විධානය "AddWatch [address], "uint"".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="229"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="239"/>
       <source>Cannot follow %1. Address is invalid.
 </source>
       <translation>%1අනුගමනය කළ නොහැක. ලිපිනය අවලංගුයි.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="241"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="251"/>
       <source>Add label at </source>
       <translation>ලේබලය සහ එකතු කරන්න </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="248"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
       <source>The label may be in use</source>
       <translation>ලේබලය භාවිතයේ තිබිය හැකිය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="249"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="259"/>
       <source>The label "%1" may be an existing label or a valid expression. Using such label might have undesired effects. Do you still want to continue?</source>
       <translation>“%1" ලේබලය දැනට පවතින ලේබලයක් හෝ වලංගු ප්රකාශනයක් විය හැකිය. එවැනි ලේබලය භාවිතා කිරීමෙන් අනවශ්ය බලපෑම් ඇති විය හැකිය. ඔබට තවමත් ඉදිරියට යාමට අවශ්යද?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="284"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="308"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="268"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="294"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="318"/>
       <source>Error!</source>
       <translation>දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="268"/>
       <source>DbgSetLabelAt failed!</source>
       <translation>DbgsetLabelat අසමත්!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="279"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="289"/>
       <source>Add comment at </source>
       <translation>දී අදහස් එකතු කරන්න </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="284"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="294"/>
       <source>DbgSetCommentAt failed!</source>
       <translation>DbgsetCommentat අසාර්ථකයි!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="308"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="318"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgsetbookMarkat අසමත්!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="317"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="327"/>
       <source>Address %1 is not executable</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="340"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="350"/>
       <source>Setting software breakpoint here may result in crash. Do you really want to continue?</source>
       <translation>මෙහි මෘදුකාංග බිඳවැටීමක් සැකසීම කඩා වැටීමට හේතු විය හැක. ඔබට ඇත්තටම දිගටම කරගෙන යාමට අවශ්යද?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="460"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="478"/>
+      <source>Error</source>
+      <translation>දෝෂය</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="478"/>
+      <source>No types loaded yet, parse a header first...</source>
+      <translation>තවම වර්ග පූරණය කර නැත, පළමුව ශීර්ෂයක් විග්‍රහ කරන්න...</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="483"/>
+      <source>Type to display at %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="487"/>
+      <source>Address to display %1 at</source>
+      <translation>%1 පෙන්වීමට ලිපිනය</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="497"/>
       <source>Setting new origin here may result in crash. Do you really want to continue?</source>
       <translation>මෙහි නව මූලාරම්භය සැකසීම බිඳ වැටීමට හේතු විය හැක. ඔබට ඇත්තටම දිගටම කරගෙන යාමට අවශ්යද?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="469"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="506"/>
       <source>Creating new thread here may result in crash. Do you really want to continue?</source>
       <translation>මෙහි නව නූල් නිර්මාණය කඩා වැටීමට හේතු විය හැක. ඔබට ඇත්තටම දිගටම කරගෙන යාමට අවශ්යද?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="472"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="509"/>
       <source>Argument for the new thread</source>
       <translation>නව නූල් සඳහා තර්කය</translation>
     </message>
@@ -4839,12 +4849,13 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Actions</source>
       <translation>ක්‍රියා</translation>
     </message>
@@ -5504,97 +5515,102 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <source>Display type</source>
+      <translation>සංදර්ශක වර්ගය</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Freeze the stack</source>
       <translation>මෙම අඩුක්කුව කැටි කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Go to Base of Stack Frame</source>
       <translation>Stack රාමු මූලික යන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Go to Previous Stack Frame</source>
       <translation>පසුගිය Stack රාමු වෙත යන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Go to Next Stack Frame</source>
       <translation>ඊළඟ Stack රාමු වෙත යන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Go to Previous Reference</source>
       <translation>පසුගිය විමර්ශන වෙත යන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Go to Next Reference</source>
       <translation>ඊළඟ විමර්ශන වෙත යන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Modify value</source>
       <translation>අගය වෙනස් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Watch DWORD/QWORD</source>
       <translation>වොච් ඩෝඩ්/QWORD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Copy File Offset</source>
       <translation>ගොනු ඕෆ්සෙට් පිටපත්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Start/Stop trace recording</source>
       <translation>හෝඩුවාවන් පටිගත කිරීම ආරම්භ කරන්න/නවත්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>පිටපත් -&gt; වගු</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Copy -&gt; Table</source>
       <translation>පිටපත් -&gt; වගුව</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>පිටපත් කිරීම -&gt; රේඛාව, ලොග් වීමට</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>පිටපත් -&gt; වගු, ලොග් වීමට</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>පිටපත් -&gt; වගුව, ලොග් වීමට</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Export Table</source>
       <translation>පිටපත් -&gt; අපනයන වගුව</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="792"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="808"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="817"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="836"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="845"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="860"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="869"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="888"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="897"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="913"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="927"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="945"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="793"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="809"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="818"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="837"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="846"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="861"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="870"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="889"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="898"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="914"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="928"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="946"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>CONFIG හි සොයාගත නොහැක!</translation>
     </message>
@@ -6025,7 +6041,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="890"/>
       <source>Done!</source>
       <translation>ඉවරයි!</translation>
     </message>
@@ -8339,29 +8355,29 @@
       <translation>SizeofType අසමත්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="878"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
       <source>VisitType failed</source>
       <translation>Visittype අසමත්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="903"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="909"/>
       <source>RemoveType failed</source>
       <translation>ඉවත් කිරීම අසමත් විය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="906"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="912"/>
       <source>Type %s removed
 </source>
       <translation>වර්ගය %s ඉවත්
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="931"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="937"/>
       <source>LoadTypes failed</source>
       <translation>ලෝඩ්වර්ග අසමත් විය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="934"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="940"/>
       <source>Types loaded</source>
       <translation>පටවා වර්ග</translation>
     </message>
@@ -9769,170 +9785,170 @@ Do you want to continue debugging?</source>
       <translation>ස්ථිතිගොනු කිරීම අසාර්ථකයි</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="184"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="186"/>
       <source>[PLUGIN] %s already loaded
 </source>
       <translation>[PLUGIN] %s දැනටමත් පටවා ඇත
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="192"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="194"/>
       <source>[PLUGIN] Cannot find plugin: %s
 </source>
       <translation>[PLUGIN] ප්ලගිනය සොයාගත නොහැක: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="209"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="212"/>
       <source>[PLUGIN] Failed to load plugin: %s
 </source>
       <translation>[PLUGIN] ප්ලගිනය පූරණය කිරීමට අසමත් විය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="215"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="218"/>
       <source>[PLUGIN] Export "pluginit" not found in plugin: %s
 </source>
       <translation>[PLUGIN] ප්ලගිනය සොයාගත නොහැකි “ප්ලගිනය” අපනයන: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="231"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="234"/>
       <source>[PLUGIN] pluginit failed for plugin: %s
 </source>
       <translation>[PLUGIN] ප්ලගිනය සඳහා අසමත් විය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="239"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="242"/>
       <source>[PLUGIN] %s is incompatible with this SDK version
 </source>
       <translation>[PLUGIN] %s මෙම SDK අනුවාදය සමඟ නොගැලපේ
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="246"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="249"/>
       <source>[PLUGIN] %s v%d Loaded!
 </source>
       <translation>[PLUGIN] %s v%d ලෝඩඩ්!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="303"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="306"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
       <translation>[PLUGIN] GuimenuAdd (%d) ප්ලගිනය සඳහා අසමත් විය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="423"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="426"/>
       <source>[PLUGIN] %s unloaded
 </source>
       <translation>[PLUGIN] %s බෑම
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="426"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="429"/>
       <source>[PLUGIN] %s not found
 </source>
       <translation>[PLUGIN] %s සොයා ගත්තේ නැත
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="493"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="496"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
       <translation>[PLUGIN] 'plugins\%s'
 නාමාවලිය වෙනුවට ඉහළ මට්ටමේ plugin නොසලකා හරිමින්</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="717"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="720"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[PLUGIN] වලංගු නොවන ප්ලගිනය හසුරුව %d...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="741"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="744"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[ප්ලගිනය, %s] විධානය "%s" ලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="747"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="750"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[ප්ලගිනය, %s] විධානය "%s" ලියාපදිංචි!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="774"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="777"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[ප්ලගිනය, %s] විධානය "%s" ලියාපදිංචි නොකළ!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="779"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="782"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[ප්ලගිනය, %s] විධානය "%s" අලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1199"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1225"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1202"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1228"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[ප්ලගිනය, %s] එක්ස්ප්රස් ශ්රිතය "%s" ලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1205"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1231"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1208"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1234"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[ප්ලගිනය, %s] ප්රකාශනය කාර්යය "%s" ලියාපදිංචි!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1251"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1254"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[ප්ලගිනය, %s] ප්රකාශ කිරීමේ කාර්යය "%s" ලියාපදිංචි නොකළ!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1256"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1259"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] එක්ස්ප්රස් ශ්රිතය "%s" ලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1270"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1273"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[ප්ලගිනය, %s] ආකෘතිය ශ්රිතය "%s" ලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1276"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1279"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[ප්ලගිනය, %s] ආකෘතිය ශ්රිතය "%s" ලියාපදිංචි!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1295"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1298"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[ප්ලගිනය, %s] ආකෘතිය ශ්රිතය "%s" ලියාපදිංචි නොකළ!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1300"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1303"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[ප්ලගිනය, %s] ආකෘතිය ශ්රිතය "%s" අලියාපදිංචි කිරීමට අසමත් විය...
@@ -10173,53 +10189,53 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="942"/>
+      <location filename="src/dbg/types.cpp" line="945"/>
       <source>Failed to add %s %s;
 </source>
       <translation>%s %s;
 එකතු කිරීමට අසමත් විය</translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="954"/>
+      <location filename="src/dbg/types.cpp" line="958"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>ශ්රිතය එකතු කිරීමට අසමත් විය %s %s()
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="968"/>
+      <location filename="src/dbg/types.cpp" line="973"/>
       <source>Failed to add enum %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="979"/>
+      <location filename="src/dbg/types.cpp" line="985"/>
       <source>Failed to add typedef %s %s;
 </source>
       <translation>ටයිප් %s %sඑකතු කිරීමට අසමත් විය;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="996"/>
+      <location filename="src/dbg/types.cpp" line="1003"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>සාමාජික %s %sඑකතු කිරීමට අසමත් විය.%s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1015"/>
+      <location filename="src/dbg/types.cpp" line="1023"/>
       <source>Failed to add enum member %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1029"/>
+      <location filename="src/dbg/types.cpp" line="1039"/>
       <source>Failed to add return type %s.%s;
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1038"/>
+      <location filename="src/dbg/types.cpp" line="1049"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>තර්කය එකතු කිරීමට අසමත් විය %s %s.%s;
@@ -14522,7 +14538,7 @@ Do you want to apply these patches anyway?</source>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="285"/>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2633"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
@@ -16215,90 +16231,90 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
       <translation>වටිනාකම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="223"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
       <source>&amp;Follow address in Dump</source>
       <translation>&amp;ඩම්ප් හි ලිපිනය අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="243"/>
       <source>Follow value in Dump</source>
       <translation>ඩම්ප් හි අගය අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
       <source>Follow value in Disassembler</source>
       <translation>විසුරුවා හැරීමේ යන්ත්‍රයේ අගය අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="251"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="461"/>
       <source>Change address</source>
       <translation>ලිපිනය වෙනස් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="255"/>
       <source>Display type</source>
       <translation>සංදර්ශක වර්ගය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="240"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
       <source>Load JSON</source>
       <translation>පැටවුම් JSN</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="241"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="257"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
       <source>Parse header</source>
       <translation>ශීර්ෂ විග්රහ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="242"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="258"/>
       <source>Remove</source>
       <translation>ඉවත් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="262"/>
       <source>Clear</source>
       <translation>පැහැදිලි</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="263"/>
       <source>&amp;Refresh</source>
       <translation>&amp;නැවුම් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
       <source>&amp;Copy</source>
       <translation>&amp;පිටපත්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
       <source>Error</source>
       <translation>දෝෂය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation>තවම වර්ග පූරණය කර නැත, පළමුව ශීර්ෂයක් විග්‍රහ කරන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="396"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="412"/>
       <source>Type to display</source>
       <translation>පෙන්වීමට ටයිප් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="417"/>
       <source>Address to display %1 at</source>
       <translation>%1 පෙන්වීමට ලිපිනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSN ගොනු (*.json); සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>ශීර්ෂ ගොනු (*.h *.hpp); සියලුම ගොනු (*.*)</translation>
     </message>

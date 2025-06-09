@@ -2591,67 +2591,67 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="875"/>
       <source>Signed byte (8-bit)</source>
       <translation>有符号字节(8位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="900"/>
       <source>Signed short (16-bit)</source>
       <translation>有符号Short(16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="925"/>
       <source>Signed long (32-bit)</source>
       <translation>有符号Long(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="950"/>
       <source>Signed long long (64-bit)</source>
       <translation>有符号Long long(64位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="975"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>无符号字节(8位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1000"/>
       <source>Unsigned short (16-bit)</source>
       <translation>无符号Short(16位）</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1025"/>
       <source>Unsigned long (32-bit)</source>
       <translation>无符号Long(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1050"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>无符号Long long(64位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1076"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1075"/>
       <source>Hex short (16-bit)</source>
       <translation>十六进制Short(16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1100"/>
       <source>Hex long (32-bit)</source>
       <translation>十六进制Long(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1125"/>
       <source>Hex long long (64-bit)</source>
       <translation>十六进制Long long(64位)</translation>
     </message>
@@ -2696,249 +2696,228 @@
       <translation>反汇编(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="249"/>
-      <source>Display type</source>
-      <translation>显示类型</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="445"/>
       <source>System Code</source>
       <translation>系统代码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
       <source>System Data</source>
       <translation>系统数据</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="447"/>
       <source>User Code</source>
       <translation>用户代码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
       <source>User Data</source>
       <translation>用户数据</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="450"/>
       <source> (Real4)</source>
       <translation> (Real4)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="455"/>
       <source> (Real8)</source>
       <translation> (Real8)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="458"/>
       <source> (BYTE)</source>
       <translation> (BYTE)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="461"/>
       <source> (WORD)</source>
       <translation> (WORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="464"/>
       <source> (DWORD)</source>
       <translation> (DWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="474"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="468"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="473"/>
       <source> (QWORD)</source>
       <translation> (QWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="480"/>
       <source> (String)</source>
       <translation> (字符串)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="483"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="482"/>
       <source>(Unknown String)</source>
       <translation>(未知字符串)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="517"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="533"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="550"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="516"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="532"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="549"/>
       <source>Modify value</source>
       <translation>修改</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
       <source>Error</source>
       <translation>错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
       <source>The input text is not a number!</source>
       <translation>输入文本不是数字！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="565"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="564"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>输入将在内存窗口中转到的表达式...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
       <source>Error!</source>
       <translation>错误!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
       <source>Not inside a module...</source>
       <translation>不在已知模块中...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="588"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="587"/>
       <source>Goto File Offset in %1</source>
       <translation>转到%1中的文件偏移</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="649"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="683"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="721"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="753"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="648"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="720"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="752"/>
       <source>Hex</source>
       <translation>十六进制</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="657"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="803"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1271"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="656"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1270"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="691"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="829"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1316"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="690"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="828"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1315"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1150"/>
       <source>Float (32-bit)</source>
       <translation>Float (32位)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1175"/>
       <source>Double (64-bit)</source>
       <translation>Double (64位)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1200"/>
       <source>Long double (80-bit)</source>
       <translation>Long double (80位)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1225"/>
       <source>Half float (16-bit)</source>
       <translation>半精度浮点数 (16位)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1256"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1301"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1255"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1300"/>
       <source>Value</source>
       <translation>值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1279"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1278"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1323"/>
       <source>Comments</source>
       <translation>注释</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1379"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1378"/>
       <source>Edit data at %1</source>
       <translation>编辑数据于  %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1396"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1395"/>
       <source>Fill data at %1</source>
       <translation>填充数据到 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
       <source>Save to file</source>
       <translation>保存到文件</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
       <source>All files (*.*)</source>
       <translation>所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1482"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1481"/>
       <source>Find Pattern...</source>
       <translation>搜索匹配特征...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1505"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
       <source>Selection not in a file...</source>
       <translation>选区不在一个文件中……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1522"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1521"/>
       <source>Dump</source>
       <translation>内存窗口</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1533"/>
       <source>Enter expression to sync with...</source>
       <translation>输入要同步到的表达式...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1545"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1544"/>
       <source>Size</source>
       <translation>大小</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
       <source>Warning</source>
       <translation>警告</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>您刚刚想要分配一个大小为零的缓冲区。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1556"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>您想要分配的缓冲区大小已经超过了1GB。请检查您的表达式，确认输入无误。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1567"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
       <source>Memory allocation failed!</source>
       <translation>内存分配失败!</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1586"/>
-      <source>No types loaded yet, parse a header first...</source>
-      <translation>没有加载结构体，请先解析头文件……</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1591"/>
-      <source>Type to display</source>
-      <translation>显示的结构体</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
-      <source>Address to display %1 at</source>
-      <translation> %1 显示在地址</translation>
     </message>
   </context>
   <context>
@@ -3089,133 +3068,133 @@
   <context>
     <name>CPURegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="17"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="45"/>
       <source>Modify value</source>
       <translation>修改</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="19"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="47"/>
       <source>Increment value</source>
       <translation>加1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="21"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="49"/>
       <source>Decrement value</source>
       <translation>减1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="23"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="51"/>
       <source>Zero value</source>
       <translation>清零值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="25"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="53"/>
       <source>Toggle</source>
       <translation>切换</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="26"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="54"/>
       <source>Undo</source>
       <translation>撤消</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="28"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="56"/>
       <source>Follow in Disassembler</source>
       <translation>在反汇编中转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="29"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="57"/>
       <source>Follow in Dump</source>
       <translation>在内存窗口中转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="30"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="58"/>
       <source>Follow in Stack</source>
       <translation>在栈中转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="31"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="59"/>
       <source>Follow in Memory Map</source>
       <translation>在内存布局中转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="32"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="60"/>
       <source>&amp;Remove hardware breakpoint</source>
       <translation>删除硬件断点(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="33"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="61"/>
       <source>Increment x87 Stack</source>
       <translation>递增x87浮点寄存器栈</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="34"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="62"/>
       <source>Decrement x87 Stack</source>
       <translation>递减x87浮点寄存器栈</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="35"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="63"/>
       <source>Highlight</source>
       <translation>高亮</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="285"/>
       <source>Error</source>
       <translation>错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="269"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="472"/>
       <source>Edit %1</source>
       <translation>编辑 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="274"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="276"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="278"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="280"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="283"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="298"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="302"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="304"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="307"/>
       <source>Edit</source>
       <translation>编辑</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="289"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="292"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
       <source>Edit %1 register</source>
       <translation>编辑%1寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="299"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="323"/>
       <source>Edit FPU register</source>
       <translation>编辑FPU寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="393"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="417"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation>转换到十六进制时发生错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="408"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
       <source>Set Last Error</source>
       <translation>设置上次错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="429"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="453"/>
       <source>Set Last Status</source>
       <translation>设置上次状态</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="644"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="668"/>
       <source>Follow in &amp;Dump</source>
       <translation>在内存窗口中转到(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="684"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="710"/>
       <source>Copy old value: %1</source>
       <translation>复制旧值：%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="729"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="755"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation>设置硬件断点于 %1</translation>
     </message>
@@ -3882,261 +3861,292 @@
   <context>
     <name>CommonActions</name>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="34"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="35"/>
       <source>Follow in Disassembler</source>
       <translation>在反汇编中转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="34"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="35"/>
       <source>Show this address in disassembler. Equivalent command "d address".</source>
       <translation>在反汇编窗口中显示此地址。等价于命令“d 地址”。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="38"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="39"/>
       <source>&amp;Follow DWORD in Disassembler</source>
       <translation>在反汇编中转到指定DWORD(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="38"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="39"/>
       <source>&amp;Follow QWORD in Disassembler</source>
       <translation>在反汇编中转到指定QWORD(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="42"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="43"/>
       <source>Follow in Dump</source>
       <translation>在内存窗口中转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="42"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="43"/>
       <source>Show the address in dump. Equivalent command "dump address".</source>
       <translation>在内存窗口中显示此地址。等价于命令“dump 地址”。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="46"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="47"/>
       <source>&amp;Follow DWORD in Current Dump</source>
       <translation>在当前内存窗口中转到指定DWORD(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="46"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="47"/>
       <source>&amp;Follow QWORD in Current Dump</source>
       <translation>在当前内存窗口中转到指定QWORD(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="59"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="60"/>
       <source>Dump %1</source>
       <translation>内存 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="65"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="66"/>
       <source>Follow DWORD in Dump</source>
       <translation>在内存窗口中转到指定DWORD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="65"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="66"/>
       <source>Follow QWORD in Dump</source>
       <translation>在内存窗口中转到指定QWORD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="69"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="70"/>
       <source>Follow in Stack</source>
       <translation>在栈中转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="69"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="70"/>
       <source>Show this address in stack view. Equivalent command "sdump address".</source>
       <translation>在堆栈窗口中显示此地址。等价于命令“sdump 地址”。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="77"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
       <source>Follow in Memory Map</source>
       <translation>在内存布局中转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="77"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
       <source>Show this address in memory map view. Equivalent command "memmapdump address".</source>
       <translation>在内存布局窗口中显示此地址。等价于命令“memmapdump 地址”。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="81"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
       <source>Graph</source>
       <translation>流程图</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="81"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
       <source>Show the control flow graph of this function in CPU view. Equivalent command "graph address".</source>
       <translation>在CPU视图中显示此函数的控制流程图。等价于命令“graph 地址”。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="95"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="89"/>
+      <source>Display type at %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
+      <source>Display a type at this address in the struct view.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="105"/>
       <source>Toggle</source>
       <translation>切换</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="96"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="114"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="106"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="124"/>
       <source>Edit</source>
       <translation>编辑</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="97"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="100"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="110"/>
       <source>Set Hardware on Execution</source>
       <translation>设置硬件断点(执行)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="98"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="108"/>
       <source>Remove Hardware</source>
       <translation>删除硬件断点</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="102"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="103"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="104"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="105"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="112"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="113"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="114"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="115"/>
       <source>Replace Slot %1 (Unknown)</source>
       <translation>替换硬件断点 %1 (未知)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="117"/>
       <source>Breakpoint</source>
       <translation>断点</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="116"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="126"/>
       <source>Set Conditional Breakpoint</source>
       <translation>设置条件断点</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="146"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="156"/>
       <source>Replace Slot %1 (0x%2)</source>
       <translation>替换硬件断点 %1 (0x%2)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="159"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="169"/>
       <source>Label Current Address</source>
       <translation>给当前地址写标签</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="163"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="173"/>
       <source>Comment</source>
       <translation>注释</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="167"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="177"/>
       <source>Toggle Bookmark</source>
       <translation>切换书签</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="167"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="177"/>
       <source>Set a bookmark here, or remove bookmark. Equivalent command "bookmarkset address"/"bookmarkdel address".</source>
       <translation>在此设置书签，或移除书签。等价于命令“bookmarkset 地址”/“bookmarkdel 地址”。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
       <source>Set %1 Here</source>
       <translation>在此设置%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
       <source>Set the next executed instruction to this address. Equivalent command "mov cip, address".</source>
       <translation>设置将要执行的指令为此地址。等价于命令“mov cip, 地址”。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="175"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
       <source>Create New Thread Here</source>
       <translation>新建线程于此</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="175"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
       <source>Create a new thread at this address. Equivalent command "createthread address, argument".</source>
       <translation>在此地址创建一个新的线程。等价于命令“createthread 地址, 参数”。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>&amp;Watch DWORD</source>
       <translation>监视 DWORD(&amp;W)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>&amp;Watch QWORD</source>
       <translation>监视 QWORD(&amp;W)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>Add the address in the watch view. Equivalent command "AddWatch [address], "uint"".</source>
       <translation>在监视视图中添加地址。等价于命令"AddWatch [地址], "uint"""。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="229"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="239"/>
       <source>Cannot follow %1. Address is invalid.
 </source>
       <translation>无法转到 %1 。地址无效。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="241"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="251"/>
       <source>Add label at </source>
       <translation>添加标签到 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="248"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
       <source>The label may be in use</source>
       <translation>标签可能正在使用中</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="249"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="259"/>
       <source>The label "%1" may be an existing label or a valid expression. Using such label might have undesired effects. Do you still want to continue?</source>
       <translation>标签“%1”可能早已定义或是一个有效的表达式。使用这种标签可能产生意外的影响。您仍想继续使用该标签吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="284"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="308"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="268"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="294"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="318"/>
       <source>Error!</source>
       <translation>错误!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="268"/>
       <source>DbgSetLabelAt failed!</source>
       <translation>DbgSetLabelAt 失败!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="279"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="289"/>
       <source>Add comment at </source>
       <translation>添加注释到 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="284"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="294"/>
       <source>DbgSetCommentAt failed!</source>
       <translation>DbgSetCommentAt 失败!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="308"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="318"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt 失败!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="317"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="327"/>
       <source>Address %1 is not executable</source>
       <translation>地址 %1 不可执行</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="340"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="350"/>
       <source>Setting software breakpoint here may result in crash. Do you really want to continue?</source>
       <translation>在这里设置软件断点可能会导致崩溃。你真的想要继续吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="460"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="478"/>
+      <source>Error</source>
+      <translation>错误</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="478"/>
+      <source>No types loaded yet, parse a header first...</source>
+      <translation>没有加载结构体，请先解析头文件……</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="483"/>
+      <source>Type to display at %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="487"/>
+      <source>Address to display %1 at</source>
+      <translation> %1 显示在地址</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="497"/>
       <source>Setting new origin here may result in crash. Do you really want to continue?</source>
       <translation>在这里设置新的运行点可能会导致崩溃。你真的想要继续吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="469"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="506"/>
       <source>Creating new thread here may result in crash. Do you really want to continue?</source>
       <translation>在这里新建线程可能会导致崩溃。你真的想要继续吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="472"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="509"/>
       <source>Argument for the new thread</source>
       <translation>新线程的参数</translation>
     </message>
@@ -4836,12 +4846,13 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Actions</source>
       <translation>动作</translation>
     </message>
@@ -5501,97 +5512,102 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <source>Display type</source>
+      <translation>显示类型</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Freeze the stack</source>
       <translation>锁定堆栈</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Go to Base of Stack Frame</source>
       <translation>转到堆栈帧基址</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Go to Previous Stack Frame</source>
       <translation>转到上一堆栈帧</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Go to Next Stack Frame</source>
       <translation>转到下一堆栈帧</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Go to Previous Reference</source>
       <translation>转到上一个引用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Go to Next Reference</source>
       <translation>转到下一个引用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Modify value</source>
       <translation>修改</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Watch DWORD/QWORD</source>
       <translation>监视DWORD/QWORD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Copy File Offset</source>
       <translation>复制文件偏移</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Start/Stop trace recording</source>
       <translation>启动/停止运行跟踪</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>复制 -&gt; 截断的表格</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Copy -&gt; Table</source>
       <translation>复制 -&gt; 整个表格</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>复制 -&gt; 行，到日志</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>复制 -&gt; 截断的表格，到日志</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>复制 -&gt; 整个表格，到日志</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Export Table</source>
       <translation>复制 -&gt; 导出表</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="792"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="808"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="817"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="836"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="845"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="860"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="869"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="888"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="897"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="913"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="927"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="945"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="793"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="809"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="818"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="837"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="846"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="861"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="870"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="889"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="898"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="914"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="928"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="946"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>在配置中未找到!</translation>
     </message>
@@ -6022,7 +6038,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="890"/>
       <source>Done!</source>
       <translation>已完成！</translation>
     </message>
@@ -8338,29 +8354,29 @@
       <translation>SizeofType 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="878"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
       <source>VisitType failed</source>
       <translation>VisitType 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="903"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="909"/>
       <source>RemoveType failed</source>
       <translation>RemoveType 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="906"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="912"/>
       <source>Type %s removed
 </source>
       <translation>类型 %s 已删除
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="931"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="937"/>
       <source>LoadTypes failed</source>
       <translation>LoadTypes 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="934"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="940"/>
       <source>Types loaded</source>
       <translation>类型已载入</translation>
     </message>
@@ -9758,169 +9774,169 @@ Do you want to continue debugging?</source>
       <translation>StaticFileUnload 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="184"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="186"/>
       <source>[PLUGIN] %s already loaded
 </source>
       <translation>[插件] %s 早已载入
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="192"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="194"/>
       <source>[PLUGIN] Cannot find plugin: %s
 </source>
       <translation>[插件] 找不到插件: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="209"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="212"/>
       <source>[PLUGIN] Failed to load plugin: %s
 </source>
       <translation>[插件] 载入插件失败：“%s”
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="215"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="218"/>
       <source>[PLUGIN] Export "pluginit" not found in plugin: %s
 </source>
       <translation>[插件] 插件中没有找到“pluginit”导出函数: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="231"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="234"/>
       <source>[PLUGIN] pluginit failed for plugin: %s
 </source>
       <translation>[插件] 插件函数pluginit失败: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="239"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="242"/>
       <source>[PLUGIN] %s is incompatible with this SDK version
 </source>
       <translation>[插件] %s 与本软件SDK版本不兼容
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="246"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="249"/>
       <source>[PLUGIN] %s v%d Loaded!
 </source>
       <translation>[插件] %s v%d 已经载入！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="303"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="306"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
       <translation>[PLUGIN] GuiMenuAdd(%d) 失败于插件：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="423"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="426"/>
       <source>[PLUGIN] %s unloaded
 </source>
       <translation>[插件] %s 已经卸载
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="426"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="429"/>
       <source>[PLUGIN] %s not found
 </source>
       <translation>[插件] 找不到 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="493"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="496"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
       <translation>[插件]已忽略顶层的插件而使用目录'plugins\%s'</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="717"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="720"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[插件]插件句柄%d无效……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="741"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="744"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[插件,%s]命令“%s”注册失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="747"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="750"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[插件,%s] 命令 "%s" 已经注册！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="774"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="777"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[插件,%s] 命令 "%s" 已经删除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="779"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="782"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[插件,%s] 命令 "%s" 删除失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1199"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1225"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1202"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1228"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[插件,%s] 表达式函数“%s”注册失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1205"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1231"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1208"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1234"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[插件,%s] 表达式函数“%s”已经注册！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1251"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1254"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[插件,%s] 表达式函数“%s”已经删除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1256"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1259"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[插件,%s] 表达式函数“%s”删除失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1270"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1273"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[插件,%s]格式函数“%s”删除失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1276"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1279"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[插件,%s]格式函数“%s”已经注册！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1295"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1298"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[插件,%s] 格式函数“%s”已经删除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1300"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1303"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[插件,%s]格式函数“%s”删除失败……
@@ -10161,56 +10177,56 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="942"/>
+      <location filename="src/dbg/types.cpp" line="945"/>
       <source>Failed to add %s %s;
 </source>
       <translation>未能添加 %s %s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="954"/>
+      <location filename="src/dbg/types.cpp" line="958"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>函数 %s %s() 添加失败
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="968"/>
+      <location filename="src/dbg/types.cpp" line="973"/>
       <source>Failed to add enum %s
 </source>
       <translation>未能添加枚举类型 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="979"/>
+      <location filename="src/dbg/types.cpp" line="985"/>
       <source>Failed to add typedef %s %s;
 </source>
       <translation>类型定义 %s %s添加失败;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="996"/>
+      <location filename="src/dbg/types.cpp" line="1003"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>成员 %s %s.%s添加失败;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1015"/>
+      <location filename="src/dbg/types.cpp" line="1023"/>
       <source>Failed to add enum member %s
 </source>
       <translation>未能添加枚举值 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1029"/>
+      <location filename="src/dbg/types.cpp" line="1039"/>
       <source>Failed to add return type %s.%s;
 </source>
       <translation>未能添加返回类型 %s.%s；
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1038"/>
+      <location filename="src/dbg/types.cpp" line="1049"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>参数 %s %s.%s添加失败;
@@ -14507,7 +14523,7 @@ Do you want to apply these patches anyway?</source>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="285"/>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2633"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
@@ -16192,90 +16208,90 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="223"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
       <source>&amp;Follow address in Dump</source>
       <translation>在内存窗口中转到地址(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="243"/>
       <source>Follow value in Dump</source>
       <translation>在内存窗口中转到值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
       <source>Follow value in Disassembler</source>
       <translation>在反汇编中转到值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="251"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="461"/>
       <source>Change address</source>
       <translation>更改地址</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="255"/>
       <source>Display type</source>
       <translation>显示类型</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="240"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
       <source>Load JSON</source>
       <translation>载入 JSON</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="241"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="257"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
       <source>Parse header</source>
       <translation>解析头文件</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="242"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="258"/>
       <source>Remove</source>
       <translation>删除</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="262"/>
       <source>Clear</source>
       <translation>清除</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="263"/>
       <source>&amp;Refresh</source>
       <translation>刷新(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
       <source>&amp;Copy</source>
       <translation>复制(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
       <source>Error</source>
       <translation>错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="391"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation>没有加载结构体，请先解析头文件……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="396"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="412"/>
       <source>Type to display</source>
       <translation>显示的结构体</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="417"/>
       <source>Address to display %1 at</source>
       <translation> %1 显示在地址</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="410"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSON文件 (*.json);;所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="419"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>头文件 (*.h *.hpp);;所有文件 (*.*)</translation>
     </message>
