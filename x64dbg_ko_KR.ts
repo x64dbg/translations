@@ -1625,97 +1625,97 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="284"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="302"/>
       <source>Unlocked</source>
       <translation>잠금 해제됨</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="285"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="303"/>
       <source>Refresh is automatic.</source>
       <translation>자동으로 새로고침합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="73"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="75"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2449"/>
       <source>[Formatting Error]</source>
       <translation>[서식 오류]</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="124"/>
       <source>Follow %1 in %2</source>
       <translation>%2 에서 %1 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="152"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="158"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="154"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="160"/>
       <source>Disassembler</source>
       <translation>디스어셈블러</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="153"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="159"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="155"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="161"/>
       <source>Dump</source>
       <translation>덤프</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="155"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="161"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="157"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="163"/>
       <source>Stack</source>
       <translation>스택</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="167"/>
       <source>&amp;Copy</source>
       <translation>복사(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="202"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
       <source>Default (x64 fastcall)</source>
       <translation>기본값 (x64 fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="209"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="227"/>
       <source>Default (stdcall)</source>
       <translation>기본값 (stdcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="212"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="230"/>
       <source>Default (stdcall, EBP stack)</source>
       <translation>기본값 (stdcall, EBP 스택)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="215"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="233"/>
       <source>thiscall</source>
       <translation>thiscall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="219"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="237"/>
       <source>fastcall</source>
       <translation>fastcall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="224"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="242"/>
       <source>Delphi (Borland fastcall)</source>
       <translation>델파이 (볼랜드 fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="269"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Locked</source>
       <translation>잠김</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="270"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="288"/>
       <source>Refresh is disabled.</source>
       <translation>새로고침이 비활성화 되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="277"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="295"/>
       <source>Calls</source>
       <translation>호출</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="296"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>호출 명령어를 시행할 때만 새로고침이 수행됩니다.</translation>
     </message>

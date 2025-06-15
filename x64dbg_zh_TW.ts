@@ -1624,97 +1624,97 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="284"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="302"/>
       <source>Unlocked</source>
       <translation>未鎖定</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="285"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="303"/>
       <source>Refresh is automatic.</source>
       <translation>自動更新</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="73"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="75"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2449"/>
       <source>[Formatting Error]</source>
       <translation>[格式錯誤]</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="124"/>
       <source>Follow %1 in %2</source>
       <translation>在 %2 中跳轉到 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="152"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="158"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="154"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="160"/>
       <source>Disassembler</source>
       <translation>反組譯</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="153"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="159"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="155"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="161"/>
       <source>Dump</source>
       <translation>資料視窗</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="155"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="161"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="157"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="163"/>
       <source>Stack</source>
       <translation>堆疊</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="167"/>
       <source>&amp;Copy</source>
       <translation>複製(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="202"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
       <source>Default (x64 fastcall)</source>
       <translation>預設 (x64 fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="209"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="227"/>
       <source>Default (stdcall)</source>
       <translation>預設 (stdcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="212"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="230"/>
       <source>Default (stdcall, EBP stack)</source>
       <translation>預設 (stdcall, EBP 堆疊)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="215"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="233"/>
       <source>thiscall</source>
       <translation>thiscall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="219"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="237"/>
       <source>fastcall</source>
       <translation>fastcall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="224"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="242"/>
       <source>Delphi (Borland fastcall)</source>
       <translation>Delphi (Borland fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="269"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Locked</source>
       <translation>已鎖定</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="270"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="288"/>
       <source>Refresh is disabled.</source>
       <translation>停止自動更新</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="277"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="295"/>
       <source>Calls</source>
       <translation>呼叫</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="296"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>只有執行 CALL 指令時重新整理</translation>
     </message>

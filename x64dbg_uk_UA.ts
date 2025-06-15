@@ -1626,97 +1626,97 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="284"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="302"/>
       <source>Unlocked</source>
       <translation>Розблоковано</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="285"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="303"/>
       <source>Refresh is automatic.</source>
       <translation>Оновлення відбувається автоматично.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="73"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="75"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2449"/>
       <source>[Formatting Error]</source>
       <translation>[Помилка форматування]</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="124"/>
       <source>Follow %1 in %2</source>
       <translation>Перейти до %1 у %2</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="152"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="158"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="154"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="160"/>
       <source>Disassembler</source>
       <translation>Дизасемблер</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="153"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="159"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="155"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="161"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="155"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="161"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="157"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="163"/>
       <source>Stack</source>
       <translation>Стек</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="167"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="202"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
       <source>Default (x64 fastcall)</source>
       <translation>За замовчуванням (x64 fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="209"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="227"/>
       <source>Default (stdcall)</source>
       <translation>За замовчуванням (stdcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="212"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="230"/>
       <source>Default (stdcall, EBP stack)</source>
       <translation>За замовчуванням (stdcall, EBP стек)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="215"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="233"/>
       <source>thiscall</source>
       <translation>thiscall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="219"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="237"/>
       <source>fastcall</source>
       <translation>fastcall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="224"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="242"/>
       <source>Delphi (Borland fastcall)</source>
       <translation>Delphi (Borland fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="269"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Locked</source>
       <translation>Заблоковано</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="270"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="288"/>
       <source>Refresh is disabled.</source>
       <translation>Оновлення вимкнено</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="277"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="295"/>
       <source>Calls</source>
       <translation>Виклики</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="296"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>Оновлення виконується лише при виконанні інструкції CALL.</translation>
     </message>

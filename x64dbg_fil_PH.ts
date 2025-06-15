@@ -1625,97 +1625,97 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="284"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="302"/>
       <source>Unlocked</source>
       <translation>Alisin sa pagkakandado</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="285"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="303"/>
       <source>Refresh is automatic.</source>
       <translation>Awtomatik sa pag Refresh.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="73"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="75"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2449"/>
       <source>[Formatting Error]</source>
       <translation>[Formatting Error]</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="124"/>
       <source>Follow %1 in %2</source>
       <translation>Sundan %1 sa %2</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="152"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="158"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="154"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="160"/>
       <source>Disassembler</source>
       <translation>Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="153"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="159"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="155"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="161"/>
       <source>Dump</source>
       <translation>Tapon</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="155"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="161"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="157"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="163"/>
       <source>Stack</source>
       <translation>Stack</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="167"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopyahin</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="202"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
       <source>Default (x64 fastcall)</source>
       <translation>Default (x64 fascall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="209"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="227"/>
       <source>Default (stdcall)</source>
       <translation>Default (stdcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="212"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="230"/>
       <source>Default (stdcall, EBP stack)</source>
       <translation>Default (stdcall, EBP stack)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="215"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="233"/>
       <source>thiscall</source>
       <translation>itongtawag</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="219"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="237"/>
       <source>fastcall</source>
       <translation>mabilisnapagtawag</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="224"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="242"/>
       <source>Delphi (Borland fastcall)</source>
       <translation>Delphi (Borland fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="269"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Locked</source>
       <translation>Naka-lock</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="270"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="288"/>
       <source>Refresh is disabled.</source>
       <translation>Na-disable ang Refresh.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="277"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="295"/>
       <source>Calls</source>
       <translation>Mga tawag</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="296"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>I-refresh ay magagawa laang kapag isinagawa ang TAWAG na tagubilin.</translation>
     </message>
