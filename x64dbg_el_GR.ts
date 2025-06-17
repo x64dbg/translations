@@ -3209,40 +3209,40 @@
   <context>
     <name>CPUSideBar</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="364"/>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="370"/>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="373"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="366"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="372"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="375"/>
       <source>Cannot fold selection.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="478"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="480"/>
       <source>Click to unfold, right click to delete.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="483"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="485"/>
       <source>Click to fold, right click to delete.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="485"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="487"/>
       <source>Click to fold.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="500"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="502"/>
       <source>Breakpoint Enabled</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="503"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="505"/>
       <source>Breakpoint Disabled</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="508"/>
       <source>Breakpoint Not Set</source>
       <translation type="unfinished"/>
     </message>
@@ -4367,6 +4367,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Graph</source>
       <translation type="unfinished"/>
     </message>
@@ -4852,12 +4853,13 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Actions</source>
       <translation type="unfinished"/>
     </message>
@@ -5437,182 +5439,187 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
-      <source>Save as image</source>
+      <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
-      <source>Toggle overview</source>
+      <source>Save as image</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
-      <source>Toggle summary</source>
+      <source>Toggle overview</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
-      <source>Increment x87 Stack</source>
+      <source>Toggle summary</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
-      <source>Decrement x87 Stack</source>
+      <source>Increment x87 Stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
-      <source>Redirect Log</source>
+      <source>Decrement x87 Stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
-      <source>Browse in Explorer</source>
+      <source>Redirect Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
-      <source>Download Symbols for This Module</source>
+      <source>Browse in Explorer</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
-      <source>Download Symbols for All Modules</source>
+      <source>Download Symbols for This Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
-      <source>Create New Thread Here</source>
+      <source>Download Symbols for All Modules</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
+      <source>Create New Thread Here</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Open Source File</source>
       <translation>Άνοιξε αρχείο</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Follow in Memory Map</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Follow in Stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Follow in Disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Freeze the stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Go to Base of Stack Frame</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Go to Previous Stack Frame</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Go to Next Stack Frame</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Go to Previous Reference</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Go to Next Reference</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Modify value</source>
       <translation>Τροποποίησε τιμή</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Watch DWORD/QWORD</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Copy File Offset</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Start/Stop trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy -&gt; Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Copy -&gt; Export Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="793"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="809"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="818"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="837"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="846"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="861"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="870"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="889"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="898"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="914"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="928"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="946"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="794"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="810"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="819"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="838"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="847"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="862"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="871"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="890"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="899"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="915"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="929"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="947"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation type="unfinished"/>
     </message>
@@ -10439,61 +10446,66 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
+      <source>Copy image</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
       <source>&amp;Save as image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2338"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2339"/>
       <source>Narrow</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2340"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2341"/>
       <source>Medium</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2341"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2342"/>
       <source>Wide</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2348"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2349"/>
       <source>Layout</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2352"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2353"/>
       <source>Detach</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2364"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2365"/>
       <source>Copy token &amp;text</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2365"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
       <source>Copy token &amp;value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2556"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2590"/>
       <source>Save as image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2556"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2590"/>
       <source>PNG file (*.png);;WebP file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2594"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2602"/>
       <source>Error</source>
       <translation>Σφάλμα</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2594"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2602"/>
       <source>Image saving failed!</source>
       <translation type="unfinished"/>
     </message>
@@ -11233,25 +11245,25 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="85"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="147"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="149"/>
       <source>Windows</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="86"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="148"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="150"/>
       <source>Handles</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="88"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="149"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="151"/>
       <source>TCP Connections</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="89"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="152"/>
       <source>Privileges</source>
       <translation type="unfinished"/>
     </message>
@@ -11267,13 +11279,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="106"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="251"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="254"/>
       <source>Disable Privilege: </source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="108"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="259"/>
       <source>Enable Privilege: </source>
       <translation type="unfinished"/>
     </message>
@@ -11289,70 +11301,85 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="114"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="221"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="223"/>
       <source>Enable window</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="116"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="216"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="218"/>
       <source>Disable window</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="118"/>
+      <source>Focus on Window</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="120"/>
       <source>Follow Proc in Disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="121"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="124"/>
       <source>Follow in Threads</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="124"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="126"/>
       <source>Toggle Breakpoint in Proc</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="127"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="129"/>
       <source>Message Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="143"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="145"/>
       <source>TCP Connection enumeration is only available on Windows Vista or greater.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="214"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="249"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="463"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="216"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="252"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="524"/>
       <source>Enabled</source>
       <translation>Ενεργό</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="245"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="299"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="309"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="499"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="248"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="302"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="312"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="517"/>
       <source>Unknown</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="263"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="266"/>
       <source>&amp;Copy</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="458"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="335"/>
+      <source>Program is not running</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="335"/>
+      <source>The program must be running before its window can be focused.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="476"/>
       <source> (Desktop window)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="463"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="502"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="520"/>
       <source>Disabled</source>
       <translation>Απενεργοποιημένο</translation>
     </message>

@@ -3202,41 +3202,41 @@
   <context>
     <name>CPUSideBar</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="364"/>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="370"/>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="373"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="366"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="372"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="375"/>
       <source>Cannot fold selection.
 </source>
       <translation>선택을 접을 수 없습니다.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="478"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="480"/>
       <source>Click to unfold, right click to delete.</source>
       <translation>클릭하여 펼쳐보고, 우클릭하여 삭제합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="483"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="485"/>
       <source>Click to fold, right click to delete.</source>
       <translation>클릭하여 숨기고, 우클릭하여 삭제합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="485"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="487"/>
       <source>Click to fold.</source>
       <translation>숨기려면 클릭하세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="500"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="502"/>
       <source>Breakpoint Enabled</source>
       <translation>중단점 활성화 됨</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="503"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="505"/>
       <source>Breakpoint Disabled</source>
       <translation>중단점 비활성화 됨</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="508"/>
       <source>Breakpoint Not Set</source>
       <translation>중단점 설정되지 않음</translation>
     </message>
@@ -4361,6 +4361,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Graph</source>
       <translation>그래프</translation>
     </message>
@@ -4847,12 +4848,13 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Actions</source>
       <translation>액션</translation>
     </message>
@@ -5432,182 +5434,187 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
+      <source>Copy image</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Save as image</source>
       <translation>이미지로 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Toggle overview</source>
       <translation>개요 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Toggle summary</source>
       <translation>요약 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Increment x87 Stack</source>
       <translation>x87 스택 증가</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Decrement x87 Stack</source>
       <translation>x87 스택 감소</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Redirect Log</source>
       <translation>로그 리디렉션</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Browse in Explorer</source>
       <translation>탐색기에서 열기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Download Symbols for This Module</source>
       <translation>이 모듈에 대한 심볼 다운로드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Download Symbols for All Modules</source>
       <translation>모든 모듈에 대한 심볼 다운로드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <source>Create New Thread Here</source>
       <translation>여기에 새 스레드를 만들기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Open Source File</source>
       <translation>오픈소스 파일</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Follow in Memory Map</source>
       <translation>메모리 맵에서 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Follow in Stack</source>
       <translation>스택에서 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Follow in Disassembler</source>
       <translation>디스어셈블러에서 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation>디스어셈블러에서 DWORD/QWORD 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation>덤프에서 DWORD/QWORD 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Freeze the stack</source>
       <translation>스택 동결</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Go to Base of Stack Frame</source>
       <translation>스택 프레임 기준으로 이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Go to Previous Stack Frame</source>
       <translation>이전 스택 프레임으로 이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Go to Next Stack Frame</source>
       <translation>다음 스택 프레임으로 이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Go to Previous Reference</source>
       <translation>이전 참조로 이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Go to Next Reference</source>
       <translation>다음 참조로 이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Modify value</source>
       <translation>값 수정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Watch DWORD/QWORD</source>
       <translation>DWORD/QWORD 보기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Copy File Offset</source>
       <translation>File Offset 복사하기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Start/Stop trace recording</source>
       <translation>추적 기록 시작/중지</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>복사 -&gt; 부분 테이블</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy -&gt; Table</source>
       <translation>복사 -&gt; 전체 테이블</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>복사 -&gt; 줄을 로그로</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>복사 -&gt; 부분 테이블을 로그로</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>복사 -&gt; 전체 테이블을 로그로</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Copy -&gt; Export Table</source>
       <translation>복사 -&gt; 테이블 내보내기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="793"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="809"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="818"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="837"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="846"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="861"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="870"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="889"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="898"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="914"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="928"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="946"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="794"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="810"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="819"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="838"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="847"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="862"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="871"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="890"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="899"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="915"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="929"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="947"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>설정에서 찾을 수 없습니다!</translation>
     </message>
@@ -10676,61 +10683,66 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
+      <source>Copy image</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
       <source>&amp;Save as image</source>
       <translation>이미지로 저장(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2338"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2339"/>
       <source>Narrow</source>
       <translation>좁게</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2340"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2341"/>
       <source>Medium</source>
       <translation>보통</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2341"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2342"/>
       <source>Wide</source>
       <translation>넓게</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2348"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2349"/>
       <source>Layout</source>
       <translation>표시방법</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2352"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2353"/>
       <source>Detach</source>
       <translation>분리</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2364"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2365"/>
       <source>Copy token &amp;text</source>
       <translation>토큰 텍스트 복사(&amp;T)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2365"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
       <source>Copy token &amp;value</source>
       <translation>토큰 값 복사(&amp;V)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2556"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2590"/>
       <source>Save as image</source>
       <translation>이미지로 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2556"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2590"/>
       <source>PNG file (*.png);;WebP file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2594"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2602"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2594"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2602"/>
       <source>Image saving failed!</source>
       <translation type="unfinished"/>
     </message>
@@ -11471,25 +11483,25 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="85"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="147"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="149"/>
       <source>Windows</source>
       <translation>창</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="86"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="148"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="150"/>
       <source>Handles</source>
       <translation>핸들</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="88"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="149"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="151"/>
       <source>TCP Connections</source>
       <translation>TCP 연결</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="89"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="152"/>
       <source>Privileges</source>
       <translation>권한</translation>
     </message>
@@ -11505,13 +11517,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="106"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="251"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="254"/>
       <source>Disable Privilege: </source>
       <translation>권한 비활성화: </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="108"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="259"/>
       <source>Enable Privilege: </source>
       <translation>권한 활성화: </translation>
     </message>
@@ -11527,70 +11539,85 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="114"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="221"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="223"/>
       <source>Enable window</source>
       <translation>창 활성화</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="116"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="216"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="218"/>
       <source>Disable window</source>
       <translation>창 비활성화</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="118"/>
+      <source>Focus on Window</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="120"/>
       <source>Follow Proc in Disassembler</source>
       <translation>디스어셈블러의 Proc 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="121"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="124"/>
       <source>Follow in Threads</source>
       <translation>해당 스레드 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="124"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="126"/>
       <source>Toggle Breakpoint in Proc</source>
       <translation>Proc의 중단점 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="127"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="129"/>
       <source>Message Breakpoint</source>
       <translation>메시지 중단점</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="143"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="145"/>
       <source>TCP Connection enumeration is only available on Windows Vista or greater.</source>
       <translation>TCP 연결 나열은 Windows Vista 이상에서만 사용 할 수 있습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="214"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="249"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="463"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="216"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="252"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="524"/>
       <source>Enabled</source>
       <translation>활성화됨</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="245"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="299"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="309"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="499"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="248"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="302"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="312"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="517"/>
       <source>Unknown</source>
       <translation>알 수 없음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="263"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="266"/>
       <source>&amp;Copy</source>
       <translation>&amp;복사</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="458"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="335"/>
+      <source>Program is not running</source>
+      <translation>프로그램이 실행 중이지 않습니다.</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="335"/>
+      <source>The program must be running before its window can be focused.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="476"/>
       <source> (Desktop window)</source>
       <translation> (데스크톱 창)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="463"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="502"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="520"/>
       <source>Disabled</source>
       <translation>비활성화됨</translation>
     </message>
