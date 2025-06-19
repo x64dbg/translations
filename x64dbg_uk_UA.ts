@@ -6044,7 +6044,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="890"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="924"/>
       <source>Done!</source>
       <translation>Готово!</translation>
     </message>
@@ -8313,29 +8313,34 @@
       <translation>Не вдалося виконати SizeofType</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="880"/>
+      <source>Invalid type ID</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="918"/>
       <source>VisitType failed</source>
       <translation>Не вдалося виконати VisitType</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="909"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="943"/>
       <source>RemoveType failed</source>
       <translation>Не вдалося виконати RemoveType</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="912"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="946"/>
       <source>Type %s removed
 </source>
       <translation>Тип %s видалено
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="937"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="971"/>
       <source>LoadTypes failed</source>
       <translation>Не вдалося виконати LoadTypes</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="940"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="974"/>
       <source>Types loaded</source>
       <translation>Типи завантажено</translation>
     </message>
@@ -10122,56 +10127,56 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="945"/>
+      <location filename="src/dbg/types.cpp" line="972"/>
       <source>Failed to add %s %s;
 </source>
       <translation>Не вдалося додати %s %s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="958"/>
+      <location filename="src/dbg/types.cpp" line="985"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>Не вдалося додати функцію %s %s()
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="973"/>
+      <location filename="src/dbg/types.cpp" line="1000"/>
       <source>Failed to add enum %s
 </source>
       <translation>Не вдалось додати enum %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="985"/>
+      <location filename="src/dbg/types.cpp" line="1012"/>
       <source>Failed to add typedef %s %s;
 </source>
       <translation>Не вдалося додати typedef %s %s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1003"/>
+      <location filename="src/dbg/types.cpp" line="1030"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>Не вдалося додати член %s %s.%s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1023"/>
+      <location filename="src/dbg/types.cpp" line="1050"/>
       <source>Failed to add enum member %s
 </source>
       <translation>Не вдалося додати учасника enum %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1039"/>
+      <location filename="src/dbg/types.cpp" line="1066"/>
       <source>Failed to add return type %s.%s;
 </source>
       <translation>Не вдалося додати тип повернення %s.%s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1049"/>
+      <location filename="src/dbg/types.cpp" line="1076"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>Не вдалося додати аргумент %s %s.%s;
@@ -16177,90 +16182,100 @@ TEB може бути використаний для отримання інф�
       <translation>Значення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="269"/>
       <source>&amp;Follow address in Dump</source>
       <translation>&amp;Перейти за адресою в дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="243"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="273"/>
       <source>Follow value in Dump</source>
       <translation>Перейти до значення в дампі</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
       <source>Follow value in Disassembler</source>
       <translation>Перейти за значенням в дизасемблер</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="251"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="461"/>
-      <source>Change address</source>
-      <translation>Змінити адресу</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="255"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="282"/>
       <source>Display type</source>
       <translation>Тип відображення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="256"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
+      <source>Reload type</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
+      <source>Reload the type from the database and display it (at a different address).</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="287"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
       <source>Load JSON</source>
       <translation>Завантажити JSON</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="257"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="288"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
       <source>Parse header</source>
       <translation>Аналізувати заголовок</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="258"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="289"/>
       <source>Remove</source>
       <translation>Видалити</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="262"/>
-      <source>Clear</source>
-      <translation>Очистити</translation>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="293"/>
+      <source>Remove all</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="263"/>
-      <source>&amp;Refresh</source>
-      <translation>&amp;Оновити</translation>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
+      <source>&amp;Refresh values</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
+      <source>Quickly refresh the values, without reloading the type.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="308"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
       <source>Error</source>
       <translation>Помилка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation>Немає завантажених типів, спочатку аналізуйте заголовок...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="412"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="443"/>
       <source>Type to display</source>
       <translation>Тип для відображення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="417"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="482"/>
       <source>Address to display %1 at</source>
       <translation>Адреса для відображення %1 в</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSON файли (*.json);;Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>Файли заголовків (*.h *.hpp);;Всі файли (*.*)</translation>
     </message>

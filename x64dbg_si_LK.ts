@@ -6048,7 +6048,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="890"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="924"/>
       <source>Done!</source>
       <translation>ඉවරයි!</translation>
     </message>
@@ -8362,29 +8362,34 @@
       <translation>SizeofType අසමත්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="884"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="880"/>
+      <source>Invalid type ID</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="918"/>
       <source>VisitType failed</source>
       <translation>Visittype අසමත්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="909"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="943"/>
       <source>RemoveType failed</source>
       <translation>ඉවත් කිරීම අසමත් විය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="912"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="946"/>
       <source>Type %s removed
 </source>
       <translation>වර්ගය %s ඉවත්
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="937"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="971"/>
       <source>LoadTypes failed</source>
       <translation>ලෝඩ්වර්ග අසමත් විය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="940"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="974"/>
       <source>Types loaded</source>
       <translation>පටවා වර්ග</translation>
     </message>
@@ -10196,53 +10201,53 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="945"/>
+      <location filename="src/dbg/types.cpp" line="972"/>
       <source>Failed to add %s %s;
 </source>
       <translation>%s %s;
 එකතු කිරීමට අසමත් විය</translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="958"/>
+      <location filename="src/dbg/types.cpp" line="985"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>ශ්රිතය එකතු කිරීමට අසමත් විය %s %s()
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="973"/>
+      <location filename="src/dbg/types.cpp" line="1000"/>
       <source>Failed to add enum %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="985"/>
+      <location filename="src/dbg/types.cpp" line="1012"/>
       <source>Failed to add typedef %s %s;
 </source>
       <translation>ටයිප් %s %sඑකතු කිරීමට අසමත් විය;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1003"/>
+      <location filename="src/dbg/types.cpp" line="1030"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>සාමාජික %s %sඑකතු කිරීමට අසමත් විය.%s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1023"/>
+      <location filename="src/dbg/types.cpp" line="1050"/>
       <source>Failed to add enum member %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1039"/>
+      <location filename="src/dbg/types.cpp" line="1066"/>
       <source>Failed to add return type %s.%s;
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1049"/>
+      <location filename="src/dbg/types.cpp" line="1076"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>තර්කය එකතු කිරීමට අසමත් විය %s %s.%s;
@@ -16258,90 +16263,100 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
       <translation>වටිනාකම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="239"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="269"/>
       <source>&amp;Follow address in Dump</source>
       <translation>&amp;ඩම්ප් හි ලිපිනය අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="243"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="273"/>
       <source>Follow value in Dump</source>
       <translation>ඩම්ප් හි අගය අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="247"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
       <source>Follow value in Disassembler</source>
       <translation>විසුරුවා හැරීමේ යන්ත්‍රයේ අගය අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="251"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="461"/>
-      <source>Change address</source>
-      <translation>ලිපිනය වෙනස් කරන්න</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="255"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="282"/>
       <source>Display type</source>
       <translation>සංදර්ශක වර්ගය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="256"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
+      <source>Reload type</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
+      <source>Reload the type from the database and display it (at a different address).</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="287"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
       <source>Load JSON</source>
       <translation>පැටවුම් JSN</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="257"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="288"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
       <source>Parse header</source>
       <translation>ශීර්ෂ විග්රහ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="258"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="289"/>
       <source>Remove</source>
       <translation>ඉවත් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="262"/>
-      <source>Clear</source>
-      <translation>පැහැදිලි</translation>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="293"/>
+      <source>Remove all</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="263"/>
-      <source>&amp;Refresh</source>
-      <translation>&amp;නැවුම් කරන්න</translation>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
+      <source>&amp;Refresh values</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
+      <source>Quickly refresh the values, without reloading the type.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="308"/>
       <source>&amp;Copy</source>
       <translation>&amp;පිටපත්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
       <source>Error</source>
       <translation>දෝෂය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="407"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation>තවම වර්ග පූරණය කර නැත, පළමුව ශීර්ෂයක් විග්‍රහ කරන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="412"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="443"/>
       <source>Type to display</source>
       <translation>පෙන්වීමට ටයිප් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="417"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="482"/>
       <source>Address to display %1 at</source>
       <translation>%1 පෙන්වීමට ලිපිනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="425"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSN ගොනු (*.json); සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>ශීර්ෂ ගොනු (*.h *.hpp); සියලුම ගොනු (*.*)</translation>
     </message>
