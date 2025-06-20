@@ -5772,32 +5772,32 @@
       <translation>运行跟踪已停止。</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="462"/>
+      <location filename="src/dbg/_exports.cpp" line="463"/>
       <source>breakif</source>
       <translation>暂停条件</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="471"/>
+      <location filename="src/dbg/_exports.cpp" line="472"/>
       <source>fastresume()</source>
       <translation>快速恢复()</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="480"/>
+      <location filename="src/dbg/_exports.cpp" line="481"/>
       <source>logif</source>
       <translation>日志条件</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="487"/>
+      <location filename="src/dbg/_exports.cpp" line="488"/>
       <source>log</source>
       <translation>日志</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="499"/>
+      <location filename="src/dbg/_exports.cpp" line="500"/>
       <source>cmdif</source>
       <translation>命令条件</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="506"/>
+      <location filename="src/dbg/_exports.cpp" line="507"/>
       <source>cmd</source>
       <translation>指令</translation>
     </message>
@@ -6045,7 +6045,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="924"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="377"/>
       <source>Done!</source>
       <translation>已完成！</translation>
     </message>
@@ -8304,91 +8304,91 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="27"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="26"/>
       <source>EncodeMapSetType failed...</source>
       <translation>EncodeMapSetType 失败……</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="140"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="139"/>
       <source>AddType failed</source>
       <translation>AddType 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="153"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="152"/>
       <source>AddStruct failed</source>
       <translation>AddStruct 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="166"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="165"/>
       <source>AddUnion failed</source>
       <translation>AddUnion 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="195"/>
       <source>AddMember failed</source>
       <translation>AddMember 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="230"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="229"/>
       <source>AppendMember failed</source>
       <translation>AppendMember 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="262"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="261"/>
       <source>Unknown calling convention "%s"
 </source>
       <translation>调用约定"%s"未知
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="275"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="274"/>
       <source>AddFunction failed</source>
       <translation>AddFunction 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="288"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="287"/>
       <source>AddArg failed</source>
       <translation>AddArg 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="301"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="300"/>
       <source>AppendArg failed</source>
       <translation>AppendArg 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="315"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="314"/>
       <source>SizeofType failed</source>
       <translation>SizeofType 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="880"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="337"/>
       <source>Invalid type ID</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="918"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="371"/>
       <source>VisitType failed</source>
       <translation>VisitType 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="943"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="396"/>
       <source>RemoveType failed</source>
       <translation>RemoveType 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="946"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="399"/>
       <source>Type %s removed
 </source>
       <translation>类型 %s 已删除
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="971"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="424"/>
       <source>LoadTypes failed</source>
       <translation>LoadTypes 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="974"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="427"/>
       <source>Types loaded</source>
       <translation>类型已载入</translation>
     </message>
@@ -10189,56 +10189,56 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="972"/>
+      <location filename="src/dbg/types.cpp" line="973"/>
       <source>Failed to add %s %s;
 </source>
       <translation>未能添加 %s %s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="985"/>
+      <location filename="src/dbg/types.cpp" line="986"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>函数 %s %s() 添加失败
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1000"/>
+      <location filename="src/dbg/types.cpp" line="1001"/>
       <source>Failed to add enum %s
 </source>
       <translation>未能添加枚举类型 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1012"/>
+      <location filename="src/dbg/types.cpp" line="1013"/>
       <source>Failed to add typedef %s %s;
 </source>
       <translation>类型定义 %s %s添加失败;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1030"/>
+      <location filename="src/dbg/types.cpp" line="1031"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>成员 %s %s.%s添加失败;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1050"/>
+      <location filename="src/dbg/types.cpp" line="1051"/>
       <source>Failed to add enum member %s
 </source>
       <translation>未能添加枚举值 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1066"/>
+      <location filename="src/dbg/types.cpp" line="1067"/>
       <source>Failed to add return type %s.%s;
 </source>
       <translation>未能添加返回类型 %s.%s；
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1076"/>
+      <location filename="src/dbg/types.cpp" line="1077"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>参数 %s %s.%s添加失败;
@@ -11419,45 +11419,45 @@ Do you want to continue rendering this graph?</source>
       <translation>取消(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="23"/>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="116"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="24"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="121"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Not debugging...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;未在调试……&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="25"/>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="26"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="127"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Invalid expression...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;无效的表达式……&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="98"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="103"/>
       <source>File offset</source>
       <translation>文件偏移</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="105"/>
       <source>Shortcuts: </source>
       <translation>快捷方式：</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="133"/>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="177"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="138"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="182"/>
       <source>&lt;font color='#00DD00'&gt;&lt;b&gt;Correct expression! -&amp;gt; &lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='#00DD00'&gt;&lt;b&gt;正确的表达式！ -&amp;gt; &lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="139"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="144"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Invalid file offset...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;无效的文件偏移量……&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="155"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Invalid memory address...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;无效的内存地址……&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="156"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="161"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Memory out of range...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;内存地址超出范围……&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
@@ -16240,100 +16240,106 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="269"/>
-      <source>&amp;Follow address in Dump</source>
-      <translation>在内存窗口中转到地址(&amp;F)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="273"/>
-      <source>Follow value in Dump</source>
-      <translation>在内存窗口中转到值</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
-      <source>Follow value in Disassembler</source>
-      <translation>在反汇编中转到值</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="282"/>
-      <source>Display type</source>
-      <translation>显示类型</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
-      <source>Reload type</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
-      <source>Reload the type from the database and display it (at a different address).</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="287"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
-      <source>Load JSON</source>
-      <translation>载入 JSON</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="288"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
-      <source>Parse header</source>
-      <translation>解析头文件</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="289"/>
-      <source>Remove</source>
-      <translation>删除</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="293"/>
-      <source>Remove all</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
-      <source>&amp;Refresh values</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
-      <source>Quickly refresh the values, without reloading the type.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="308"/>
-      <source>&amp;Copy</source>
-      <translation>复制(&amp;C)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="466"/>
       <source>Error</source>
       <translation>错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="122"/>
+      <source>Failed to visit type...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="213"/>
+      <source>&amp;Follow address in Dump</source>
+      <translation>在内存窗口中转到地址(&amp;F)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="217"/>
+      <source>Follow value in Dump</source>
+      <translation>在内存窗口中转到值</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="221"/>
+      <source>Follow value in Disassembler</source>
+      <translation>在反汇编中转到值</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="226"/>
+      <source>Display type</source>
+      <translation>显示类型</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <source>Reload type</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <source>Reload the type from the database and display it (at a different address).</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="484"/>
+      <source>Load JSON</source>
+      <translation>载入 JSON</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="232"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="493"/>
+      <source>Parse header</source>
+      <translation>解析头文件</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="233"/>
+      <source>Remove</source>
+      <translation>删除</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="237"/>
+      <source>Remove all</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="238"/>
+      <source>&amp;Refresh values</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="238"/>
+      <source>Quickly refresh the values, without reloading the type.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="252"/>
+      <source>&amp;Copy</source>
+      <translation>复制(&amp;C)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="466"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation>没有加载结构体，请先解析头文件……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="443"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="471"/>
       <source>Type to display</source>
       <translation>显示的结构体</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="448"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="482"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="476"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="510"/>
       <source>Address to display %1 at</source>
       <translation> %1 显示在地址</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="484"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSON文件 (*.json);;所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="493"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>头文件 (*.h *.hpp);;所有文件 (*.*)</translation>
     </message>

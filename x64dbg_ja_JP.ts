@@ -5774,32 +5774,32 @@
       <translation>トレース記録を停止しました。</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="462"/>
+      <location filename="src/dbg/_exports.cpp" line="463"/>
       <source>breakif</source>
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="471"/>
+      <location filename="src/dbg/_exports.cpp" line="472"/>
       <source>fastresume()</source>
       <translation>fastresume()</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="480"/>
+      <location filename="src/dbg/_exports.cpp" line="481"/>
       <source>logif</source>
       <translation>logif</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="487"/>
+      <location filename="src/dbg/_exports.cpp" line="488"/>
       <source>log</source>
       <translation>ログ</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="499"/>
+      <location filename="src/dbg/_exports.cpp" line="500"/>
       <source>cmdif</source>
       <translation>cmdif</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="506"/>
+      <location filename="src/dbg/_exports.cpp" line="507"/>
       <source>cmd</source>
       <translation>cmd</translation>
     </message>
@@ -6047,7 +6047,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="924"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="377"/>
       <source>Done!</source>
       <translation>完了!</translation>
     </message>
@@ -8308,91 +8308,91 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="27"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="26"/>
       <source>EncodeMapSetType failed...</source>
       <translation>EncodeMapSetType 失敗...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="140"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="139"/>
       <source>AddType failed</source>
       <translation>AddType 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="153"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="152"/>
       <source>AddStruct failed</source>
       <translation>AddStruct 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="166"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="165"/>
       <source>AddUnion failed</source>
       <translation>AddUnion 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="195"/>
       <source>AddMember failed</source>
       <translation>AddMember 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="230"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="229"/>
       <source>AppendMember failed</source>
       <translation>AppendMember 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="262"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="261"/>
       <source>Unknown calling convention "%s"
 </source>
       <translation>不明な呼び出し規則 "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="275"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="274"/>
       <source>AddFunction failed</source>
       <translation>AddFunction 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="288"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="287"/>
       <source>AddArg failed</source>
       <translation>AddArg 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="301"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="300"/>
       <source>AppendArg failed</source>
       <translation>AppendArg 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="315"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="314"/>
       <source>SizeofType failed</source>
       <translation>SizeofType 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="880"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="337"/>
       <source>Invalid type ID</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="918"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="371"/>
       <source>VisitType failed</source>
       <translation>VisitType 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="943"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="396"/>
       <source>RemoveType failed</source>
       <translation>RemoveType 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="946"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="399"/>
       <source>Type %s removed
 </source>
       <translation>種類 %s を削除しました
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="971"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="424"/>
       <source>LoadTypes failed</source>
       <translation>LoadTypes 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="974"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="427"/>
       <source>Types loaded</source>
       <translation>読み込まれた種類</translation>
     </message>
@@ -10208,56 +10208,56 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="972"/>
+      <location filename="src/dbg/types.cpp" line="973"/>
       <source>Failed to add %s %s;
 </source>
       <translation>追加に失敗しました %s %s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="985"/>
+      <location filename="src/dbg/types.cpp" line="986"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>関数の追加に失敗しました %s %s()
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1000"/>
+      <location filename="src/dbg/types.cpp" line="1001"/>
       <source>Failed to add enum %s
 </source>
       <translation>列挙型の追加に失敗しました %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1012"/>
+      <location filename="src/dbg/types.cpp" line="1013"/>
       <source>Failed to add typedef %s %s;
 </source>
       <translation>Typedef の追加に失敗しました %s %s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1030"/>
+      <location filename="src/dbg/types.cpp" line="1031"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>メンバの追加に失敗しました %s %s.%s;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1050"/>
+      <location filename="src/dbg/types.cpp" line="1051"/>
       <source>Failed to add enum member %s
 </source>
       <translation>列挙型メンバの追加に失敗しました %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1066"/>
+      <location filename="src/dbg/types.cpp" line="1067"/>
       <source>Failed to add return type %s.%s;
 </source>
       <translation>戻り値の型を追加できませんでした %s.%s；
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1076"/>
+      <location filename="src/dbg/types.cpp" line="1077"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>引数の追加に失敗しました %s %s.%s;
@@ -11440,45 +11440,45 @@ Do you want to continue rendering this graph?</source>
       <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="23"/>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="116"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="24"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="121"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Not debugging...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;デバッグしていません...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="25"/>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="26"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="127"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Invalid expression...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;無効な式...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="98"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="103"/>
       <source>File offset</source>
       <translation>ファイル オフセット</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="105"/>
       <source>Shortcuts: </source>
       <translation>ショートカット : </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="133"/>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="177"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="138"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="182"/>
       <source>&lt;font color='#00DD00'&gt;&lt;b&gt;Correct expression! -&amp;gt; &lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='#00DD00'&gt;&lt;b&gt;式の修正! -&amp;gt; &lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="139"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="144"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Invalid file offset...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;無効なファイル オフセット...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="155"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Invalid memory address...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;無効なメモリ アドレス...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="156"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="161"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Memory out of range...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;メモリが範囲外...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
@@ -16267,100 +16267,106 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
       <translation>値</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="269"/>
-      <source>&amp;Follow address in Dump</source>
-      <translation>ダンプ内のアドレスを追跡(&amp;F)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="273"/>
-      <source>Follow value in Dump</source>
-      <translation>ダンプ内の値を追跡</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
-      <source>Follow value in Disassembler</source>
-      <translation>逆アセンブラの値を追跡</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="282"/>
-      <source>Display type</source>
-      <translation>表示タイプ</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
-      <source>Reload type</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
-      <source>Reload the type from the database and display it (at a different address).</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="287"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
-      <source>Load JSON</source>
-      <translation>JSON の読み込み</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="288"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
-      <source>Parse header</source>
-      <translation>ヘッダの解析</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="289"/>
-      <source>Remove</source>
-      <translation>削除</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="293"/>
-      <source>Remove all</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
-      <source>&amp;Refresh values</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
-      <source>Quickly refresh the values, without reloading the type.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="308"/>
-      <source>&amp;Copy</source>
-      <translation>コピー(&amp;C)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="466"/>
       <source>Error</source>
       <translation>エラー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="122"/>
+      <source>Failed to visit type...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="213"/>
+      <source>&amp;Follow address in Dump</source>
+      <translation>ダンプ内のアドレスを追跡(&amp;F)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="217"/>
+      <source>Follow value in Dump</source>
+      <translation>ダンプ内の値を追跡</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="221"/>
+      <source>Follow value in Disassembler</source>
+      <translation>逆アセンブラの値を追跡</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="226"/>
+      <source>Display type</source>
+      <translation>表示タイプ</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <source>Reload type</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <source>Reload the type from the database and display it (at a different address).</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="484"/>
+      <source>Load JSON</source>
+      <translation>JSON の読み込み</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="232"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="493"/>
+      <source>Parse header</source>
+      <translation>ヘッダの解析</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="233"/>
+      <source>Remove</source>
+      <translation>削除</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="237"/>
+      <source>Remove all</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="238"/>
+      <source>&amp;Refresh values</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="238"/>
+      <source>Quickly refresh the values, without reloading the type.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="252"/>
+      <source>&amp;Copy</source>
+      <translation>コピー(&amp;C)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="466"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation>まだ読み込まれたタイプがありません。先にヘッダーを解析してください...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="443"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="471"/>
       <source>Type to display</source>
       <translation>表示する種類</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="448"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="482"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="476"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="510"/>
       <source>Address to display %1 at</source>
       <translation>%1 を表示するアドレス</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="484"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSON ファイル (*.json);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="493"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>ヘッダ ファイル (*.h *.hpp);;すべてのファイル (*.*)</translation>
     </message>

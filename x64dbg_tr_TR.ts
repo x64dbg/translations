@@ -5769,32 +5769,32 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="462"/>
+      <location filename="src/dbg/_exports.cpp" line="463"/>
       <source>breakif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="471"/>
+      <location filename="src/dbg/_exports.cpp" line="472"/>
       <source>fastresume()</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="480"/>
+      <location filename="src/dbg/_exports.cpp" line="481"/>
       <source>logif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="487"/>
+      <location filename="src/dbg/_exports.cpp" line="488"/>
       <source>log</source>
       <translation>günlük</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="499"/>
+      <location filename="src/dbg/_exports.cpp" line="500"/>
       <source>cmdif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="506"/>
+      <location filename="src/dbg/_exports.cpp" line="507"/>
       <source>cmd</source>
       <translation>cmd</translation>
     </message>
@@ -6040,7 +6040,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="924"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="377"/>
       <source>Done!</source>
       <translation>Bitti!</translation>
     </message>
@@ -8284,91 +8284,91 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="27"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="26"/>
       <source>EncodeMapSetType failed...</source>
       <translation>EncodeMapSetType başarısız oldu...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="140"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="139"/>
       <source>AddType failed</source>
       <translation>AddType başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="153"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="152"/>
       <source>AddStruct failed</source>
       <translation>AddStruct başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="166"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="165"/>
       <source>AddUnion failed</source>
       <translation>AddUnion başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="195"/>
       <source>AddMember failed</source>
       <translation>AddMember başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="230"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="229"/>
       <source>AppendMember failed</source>
       <translation>AppendMember başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="262"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="261"/>
       <source>Unknown calling convention "%s"
 </source>
       <translation>Bilinmeyen çağrı toplaması "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="275"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="274"/>
       <source>AddFunction failed</source>
       <translation>AddFunction başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="288"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="287"/>
       <source>AddArg failed</source>
       <translation>AddArg başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="301"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="300"/>
       <source>AppendArg failed</source>
       <translation>AppendArg başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="315"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="314"/>
       <source>SizeofType failed</source>
       <translation>SizeofType başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="880"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="337"/>
       <source>Invalid type ID</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="918"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="371"/>
       <source>VisitType failed</source>
       <translation>VisitType başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="943"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="396"/>
       <source>RemoveType failed</source>
       <translation>RemoveType başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="946"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="399"/>
       <source>Type %s removed
 </source>
       <translation>Tip %s silindi
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="971"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="424"/>
       <source>LoadTypes failed</source>
       <translation>LoadTypes başarısız oldu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="974"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="427"/>
       <source>Types loaded</source>
       <translation>Types yüklendi</translation>
     </message>
@@ -10147,53 +10147,53 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="972"/>
+      <location filename="src/dbg/types.cpp" line="973"/>
       <source>Failed to add %s %s;
 </source>
       <translation>%s %s ekleme hatası;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="985"/>
+      <location filename="src/dbg/types.cpp" line="986"/>
       <source>Failed to add function %s %s()
 </source>
       <translation>%s %s() fonksiyonu ekleme hatası
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1000"/>
+      <location filename="src/dbg/types.cpp" line="1001"/>
       <source>Failed to add enum %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1012"/>
+      <location filename="src/dbg/types.cpp" line="1013"/>
       <source>Failed to add typedef %s %s;
 </source>
       <translation>%s %s ekleme hatası;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1030"/>
+      <location filename="src/dbg/types.cpp" line="1031"/>
       <source>Failed to add member %s %s.%s;
 </source>
       <translation>%s %s.%s üyesi ekleme hatası;
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1050"/>
+      <location filename="src/dbg/types.cpp" line="1051"/>
       <source>Failed to add enum member %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1066"/>
+      <location filename="src/dbg/types.cpp" line="1067"/>
       <source>Failed to add return type %s.%s;
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/types.cpp" line="1076"/>
+      <location filename="src/dbg/types.cpp" line="1077"/>
       <source>Failed to add argument %s %s.%s;
 </source>
       <translation>%s %s.%s argümanları ekleme hatası;
@@ -11374,45 +11374,45 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
       <translation>&amp;İptal</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="23"/>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="116"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="24"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="121"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Not debugging...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;Hata ayıklama yapılamıyor...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="25"/>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="26"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="127"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Invalid expression...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;Geçersiz ifade...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="98"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="103"/>
       <source>File offset</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="105"/>
       <source>Shortcuts: </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="133"/>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="177"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="138"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="182"/>
       <source>&lt;font color='#00DD00'&gt;&lt;b&gt;Correct expression! -&amp;gt; &lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='#00DD00'&gt;&lt;b&gt;Doğru ifade! -&amp;gt; &lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="139"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="144"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Invalid file offset...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;Geçersiz dosya ofseti...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="155"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Invalid memory address...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;Geçersiz hafıza adresi...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="156"/>
+      <location filename="src/gui/Src/Gui/GotoDialog.cpp" line="161"/>
       <source>&lt;font color='red'&gt;&lt;b&gt;Memory out of range...&lt;/b&gt;&lt;/font&gt;</source>
       <translation>&lt;font color='red'&gt;&lt;b&gt;Hafıza aralığı dışında...&lt;/b&gt;&lt;/font&gt;</translation>
     </message>
@@ -16200,100 +16200,106 @@ TEB, Win32 API'sini çağırmadan süreç hakkında bir çok bilgi almak için k
       <translation>Değer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="269"/>
-      <source>&amp;Follow address in Dump</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="273"/>
-      <source>Follow value in Dump</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="277"/>
-      <source>Follow value in Disassembler</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="282"/>
-      <source>Display type</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
-      <source>Reload type</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="283"/>
-      <source>Reload the type from the database and display it (at a different address).</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="287"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
-      <source>Load JSON</source>
-      <translation>JSON Yükle</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="288"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
-      <source>Parse header</source>
-      <translation>Başlığı ayrıştır</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="289"/>
-      <source>Remove</source>
-      <translation>Kaldır</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="293"/>
-      <source>Remove all</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
-      <source>&amp;Refresh values</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="294"/>
-      <source>Quickly refresh the values, without reloading the type.</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="308"/>
-      <source>&amp;Copy</source>
-      <translation>&amp;Kopyala</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="122"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="466"/>
       <source>Error</source>
       <translation>Hata</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="438"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="122"/>
+      <source>Failed to visit type...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="213"/>
+      <source>&amp;Follow address in Dump</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="217"/>
+      <source>Follow value in Dump</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="221"/>
+      <source>Follow value in Disassembler</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="226"/>
+      <source>Display type</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <source>Reload type</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <source>Reload the type from the database and display it (at a different address).</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="484"/>
+      <source>Load JSON</source>
+      <translation>JSON Yükle</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="232"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="493"/>
+      <source>Parse header</source>
+      <translation>Başlığı ayrıştır</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="233"/>
+      <source>Remove</source>
+      <translation>Kaldır</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="237"/>
+      <source>Remove all</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="238"/>
+      <source>&amp;Refresh values</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="238"/>
+      <source>Quickly refresh the values, without reloading the type.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="252"/>
+      <source>&amp;Copy</source>
+      <translation>&amp;Kopyala</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="466"/>
       <source>No types loaded yet, parse a header first...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="443"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="471"/>
       <source>Type to display</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="448"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="482"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="476"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="510"/>
       <source>Address to display %1 at</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="484"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSON dosyaları (*.json);;Tüm dosyalar (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="493"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>Başlık dosyaları (*.h *.hpp);;Tüm dosyalar (*.*)</translation>
     </message>
