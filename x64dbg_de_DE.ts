@@ -444,7 +444,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="454"/>
       <source>Header</source>
-      <translation type="unfinished"/>
+      <translation>Kopfzeile</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="455"/>
@@ -1205,7 +1205,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="77"/>
       <source>&lt;a href="https://faq.x64dbg.com"&gt;Why is process X not shown?&lt;/a&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;a href="https://faq.x64dbg.com"&gt;Warum wird Prozess X nicht angezeigt?&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="93"/>
@@ -1807,7 +1807,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="296"/>
       <source>Selection (Bytes only)</source>
-      <translation type="unfinished"/>
+      <translation>Auswahl (nur Bytes)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="297"/>
@@ -1894,7 +1894,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="369"/>
       <source>Edit columns...</source>
-      <translation type="unfinished"/>
+      <translation>Spalten bearbeiten...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="372"/>
@@ -2331,7 +2331,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1806"/>
       <source>Start from &amp;Selection</source>
-      <translation type="unfinished"/>
+      <translation>Start von &amp;Auswahl</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1822"/>
@@ -2680,7 +2680,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>&amp;Hälfte float (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
@@ -2842,7 +2842,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1225"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>Hälfte float (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1255"/>
@@ -3149,7 +3149,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="293"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="472"/>
       <source>Edit %1</source>
-      <translation type="unfinished"/>
+      <translation>Bearbeite %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="298"/>
@@ -3164,7 +3164,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
       <source>Edit %1 register</source>
-      <translation type="unfinished"/>
+      <translation>Bearbeite %1 Register</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="323"/>
@@ -3296,17 +3296,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;DWORD</source>
-      <translation type="unfinished"/>
+      <translation>&amp;DWORD</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;QWORD</source>
-      <translation type="unfinished"/>
+      <translation>&amp;QWORD</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="135"/>
       <source>&amp;Comments</source>
-      <translation type="unfinished"/>
+      <translation>&amp;Kommentare</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="140"/>
@@ -3473,7 +3473,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="286"/>
       <source>Edit columns...</source>
-      <translation type="unfinished"/>
+      <translation>Spalten bearbeiten...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="305"/>
@@ -3546,12 +3546,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="99"/>
       <source>Sidebar</source>
-      <translation type="unfinished"/>
+      <translation>Seitenleiste</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="100"/>
       <source>InfoBox</source>
-      <translation type="unfinished"/>
+      <translation>Infobox</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="238"/>
@@ -3738,7 +3738,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="267"/>
       <source>Thread name - %1</source>
-      <translation type="unfinished"/>
+      <translation>Thread-Name - %1</translation>
     </message>
   </context>
   <context>
@@ -3871,7 +3871,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="35"/>
       <source>Show this address in disassembler. Equivalent command "d address".</source>
-      <translation type="unfinished"/>
+      <translation>Diese Adresse im Disassembler anzeigen. Ähnlicher Befehl "d address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="39"/>
@@ -3891,7 +3891,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="43"/>
       <source>Show the address in dump. Equivalent command "dump address".</source>
-      <translation type="unfinished"/>
+      <translation>Diese Adresse im Dump anzeigen. Ähnlicher Befehl "dump address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="47"/>
@@ -3926,7 +3926,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="70"/>
       <source>Show this address in stack view. Equivalent command "sdump address".</source>
-      <translation type="unfinished"/>
+      <translation>Diese Adresse in der Stapelansicht anzeigen. Ähnlicher Befehl "sdump address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
@@ -3936,7 +3936,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
       <source>Show this address in memory map view. Equivalent command "memmapdump address".</source>
-      <translation type="unfinished"/>
+      <translation>Diese Adresse in der Memory Map Ansicht anzeigen. Ähnlicher Befehl "memmapdump address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
@@ -3946,18 +3946,18 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
       <source>Show the control flow graph of this function in CPU view. Equivalent command "graph address".</source>
-      <translation type="unfinished"/>
+      <translation>Das Kontrollflussdiagramm dieser Funktion in der CPU-Ansicht anzeigen. Ähnlicher Befehl "graph address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="89"/>
       <source>Display type at %1</source>
-      <translation type="unfinished"/>
+      <translation>Anzeigetyp bei %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
       <source>Display a type at this address in the struct view.</source>
-      <translation type="unfinished"/>
+      <translation>Einen Typ an dieser Adresse in der Struktursicht anzeigen.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="105"/>
@@ -4022,7 +4022,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="177"/>
       <source>Set a bookmark here, or remove bookmark. Equivalent command "bookmarkset address"/"bookmarkdel address".</source>
-      <translation type="unfinished"/>
+      <translation>Ein Lesezeichen hier festlegen, oder entfernen. Ähnlicher Befehl "bookmarkset address"/"bookmarkdel address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
@@ -4032,7 +4032,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
       <source>Set the next executed instruction to this address. Equivalent command "mov cip, address".</source>
-      <translation type="unfinished"/>
+      <translation>Setze die nächste ausgeführte Anweisung auf diese Adresse. Ähnlicher Befehl "mov cip, address".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
@@ -4042,7 +4042,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
       <source>Create a new thread at this address. Equivalent command "createthread address, argument".</source>
-      <translation type="unfinished"/>
+      <translation>Einen neuen Thread unter dieser Adresse erstellen. Ähnlicher Befehl "createthread address, argument".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
@@ -4057,7 +4057,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
       <source>Add the address in the watch view. Equivalent command "AddWatch [address], "uint"".</source>
-      <translation type="unfinished"/>
+      <translation>Diese Adresse in der Beobachtungsansicht hinzufügen. Ähnlicher Befehl "AddWatch [address], "uint"".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="239"/>
@@ -4111,7 +4111,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="327"/>
       <source>Address %1 is not executable</source>
-      <translation type="unfinished"/>
+      <translation>Adresse %1 ist nicht ausführbar</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="350"/>
@@ -4126,17 +4126,17 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="478"/>
       <source>No types loaded yet, parse a header first...</source>
-      <translation type="unfinished"/>
+      <translation>Noch keine Typen geladen, parsen Sie zuerst einen Header...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="483"/>
       <source>Type to display at %1</source>
-      <translation type="unfinished"/>
+      <translation>Typ zum Anzeigen bei %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="487"/>
       <source>Address to display %1 at</source>
-      <translation type="unfinished"/>
+      <translation>Adresse zum Anzeigen von %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="497"/>
@@ -5307,7 +5307,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>ZMMWord</source>
-      <translation type="unfinished"/>
+      <translation>ZMMWord</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
@@ -5438,7 +5438,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>Copy image</source>
-      <translation type="unfinished"/>
+      <translation>Bild kopieren</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
@@ -5523,7 +5523,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Display type</source>
-      <translation type="unfinished"/>
+      <translation>Anzeigetyp</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
@@ -5732,12 +5732,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="64"/>
       <source>Trace disassembler</source>
-      <translation type="unfinished"/>
+      <translation>Disassembler verfolgen</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="66"/>
       <source>Trace dump</source>
-      <translation type="unfinished"/>
+      <translation>Dump verfolgen</translation>
     </message>
   </context>
   <context>
@@ -5892,7 +5892,7 @@
       <location filename="src/dbg/command.cpp" line="56"/>
       <source>Not enough arguments! At least %d argument(s) must be specified. Arguments are &lt;a href="https://help.x64dbg.com/en/latest/commands/index.html"&gt;comma-separated&lt;/a&gt;.
 </source>
-      <translation type="unfinished"/>
+      <translation>Nicht genügend Argumente! Mindestens %d Argument/e müssen angegeben werden. Argumente sind &lt;a href="https://help.x64dbg.com/en/latest/commands/index.html"&gt;kommaseparierte&lt;/a&gt;.</translation>
     </message>
     <message>
       <location filename="src/dbg/command.cpp" line="296"/>
@@ -5985,40 +5985,40 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="142"/>
       <source>Invalid parameter [base]!</source>
-      <translation type="unfinished"/>
+      <translation>Ungültiger Parameter [base]!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="147"/>
       <source>Invalid memory address!</source>
-      <translation type="unfinished"/>
+      <translation>Ungültige Speicheradresse!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="155"/>
       <source>Invalid parameter [size]</source>
-      <translation type="unfinished"/>
+      <translation>Ungültiger Parameter [size]</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="161"/>
       <source>Failed to load module (ModLoad)...</source>
-      <translation type="unfinished"/>
+      <translation>Modul (ModLoad) konnte nicht geladen werden...</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="169"/>
       <source>Virtual module "%s" loaded on %p[%p]!
 </source>
-      <translation type="unfinished"/>
+      <translation>Virtuelles Modul "%s" geladen auf %p[%p]!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="176"/>
       <source>This may take very long, depending on your network connection and data in the debug directory...</source>
-      <translation type="unfinished"/>
+      <translation>Dies kann sehr lange dauern, je nach Netzwerkverbindung und Daten im Debug-Verzeichnis...</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="188"/>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="206"/>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="244"/>
       <source>Done! See symbol log for more information</source>
-      <translation type="unfinished"/>
+      <translation>Fertig! Siehe Symbolprotokoll für weitere Informationen</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="195"/>
@@ -6026,12 +6026,12 @@
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="256"/>
       <source>Invalid module "%s"!
 </source>
-      <translation type="unfinished"/>
+      <translation>Ungültiges Modul "%s"!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="202"/>
       <source>Symbol download failed... See symbol log for more information</source>
-      <translation type="unfinished"/>
+      <translation>Symbol-Download fehlgeschlagen... Siehe Symbolprotokoll für weitere Informationen</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="224"/>
@@ -6042,7 +6042,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="240"/>
       <source>Symbol load failed... See symbol log for more information</source>
-      <translation type="unfinished"/>
+      <translation>Symbolladen fehlgeschlagen... Siehe Symbollog für weitere Informationen</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
@@ -6060,20 +6060,22 @@
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="311"/>
       <source>Image information for %s
 </source>
-      <translation type="unfinished"/>
+      <translation>Abbild-Informationen für %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
       <source>Characteristics (0x%X):
 </source>
-      <translation type="unfinished"/>
+      <translation>Eigenschaften (0x%X):
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="334"/>
       <source>  None
 </source>
-      <translation type="unfinished"/>
+      <translation>  Keine</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
@@ -10749,7 +10751,7 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
       <source>Copy image</source>
-      <translation type="unfinished"/>
+      <translation>Bild kopieren</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
@@ -11808,7 +11810,7 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="478"/>
       <source>Start from &amp;Selection</source>
-      <translation type="unfinished"/>
+      <translation>Start von &amp;Auswahl</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="501"/>
@@ -16860,7 +16862,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="417"/>
       <source>Thread name - %1</source>
-      <translation type="unfinished"/>
+      <translation>Thread-Name - %1</translation>
     </message>
   </context>
   <context>
@@ -17367,7 +17369,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="162"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>&amp;Hälfte float (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="163"/>
@@ -17429,7 +17431,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1008"/>
       <source>Half float (16-bit)</source>
-      <translation type="unfinished"/>
+      <translation>Hälfte float (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1038"/>
@@ -17673,17 +17675,17 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="105"/>
       <source>&amp;DWORD</source>
-      <translation type="unfinished"/>
+      <translation>&amp;DWORD</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="105"/>
       <source>&amp;QWORD</source>
-      <translation type="unfinished"/>
+      <translation>&amp;QWORD</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="109"/>
       <source>&amp;Comments</source>
-      <translation type="unfinished"/>
+      <translation>&amp;Kommentare</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="116"/>
@@ -17753,7 +17755,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="177"/>
       <source>Edit columns...</source>
-      <translation type="unfinished"/>
+      <translation>Spalten bearbeiten...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="546"/>
@@ -17809,7 +17811,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="106"/>
       <source>InfoBox</source>
-      <translation type="unfinished"/>
+      <translation>Infobox</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="166"/>
