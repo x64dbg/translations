@@ -3050,6 +3050,11 @@
       <translation type="unfinished"/>
     </message>
     <message>
+      <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="49"/>
+      <source>Struct</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="242"/>
       <source>Change Tab %1 Name</source>
       <translation>Wijzig Tabnaam %1</translation>
@@ -3861,291 +3866,271 @@
   <context>
     <name>CommonActions</name>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="35"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="36"/>
       <source>Follow in Disassembler</source>
       <translation>Volg in Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="35"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="36"/>
       <source>Show this address in disassembler. Equivalent command "d address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="39"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="40"/>
       <source>&amp;Follow DWORD in Disassembler</source>
       <translation>Volg DWORD in Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="39"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="40"/>
       <source>&amp;Follow QWORD in Disassembler</source>
       <translation>Volg DWORD in Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="43"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="44"/>
       <source>Follow in Dump</source>
       <translation>Volg in Dump</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="43"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="44"/>
       <source>Show the address in dump. Equivalent command "dump address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="47"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="48"/>
       <source>&amp;Follow DWORD in Current Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="47"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="48"/>
       <source>&amp;Follow QWORD in Current Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="60"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="61"/>
       <source>Dump %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="66"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="67"/>
       <source>Follow DWORD in Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="66"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="67"/>
       <source>Follow QWORD in Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="70"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="71"/>
       <source>Follow in Stack</source>
       <translation>Volg in Stack</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="70"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="71"/>
       <source>Show this address in stack view. Equivalent command "sdump address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="79"/>
       <source>Follow in Memory Map</source>
       <translation>Volg in Geheugen Map</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="78"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="79"/>
       <source>Show this address in memory map view. Equivalent command "memmapdump address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="83"/>
       <source>Graph</source>
       <translation>Grafiek</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="82"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="83"/>
       <source>Show the control flow graph of this function in CPU view. Equivalent command "graph address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="89"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="90"/>
       <source>Display type at %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="86"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
       <source>Display a type at this address in the struct view.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="105"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="106"/>
       <source>Toggle</source>
       <translation>Wissel</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="106"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="124"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="125"/>
       <source>Edit</source>
       <translation>Bewerken</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="110"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="108"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="111"/>
       <source>Set Hardware on Execution</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="108"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="109"/>
       <source>Remove Hardware</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="112"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="113"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="114"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="115"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="116"/>
       <source>Replace Slot %1 (Unknown)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="117"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="118"/>
       <source>Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="126"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="127"/>
       <source>Set Conditional Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="156"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="157"/>
       <source>Replace Slot %1 (0x%2)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="169"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="170"/>
       <source>Label Current Address</source>
       <translation>Label Huidig Adres</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="173"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="174"/>
       <source>Comment</source>
       <translation>Commentaar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="177"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="178"/>
       <source>Toggle Bookmark</source>
       <translation>Wissel Bookmark</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="177"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="178"/>
       <source>Set a bookmark here, or remove bookmark. Equivalent command "bookmarkset address"/"bookmarkdel address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="182"/>
       <source>Set %1 Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="181"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="182"/>
       <source>Set the next executed instruction to this address. Equivalent command "mov cip, address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="186"/>
       <source>Create New Thread Here</source>
       <translation>Creëer Nieuw Thread Hier</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="185"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="186"/>
       <source>Create a new thread at this address. Equivalent command "createthread address, argument".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="190"/>
       <source>&amp;Watch DWORD</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="190"/>
       <source>&amp;Watch QWORD</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="189"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="190"/>
       <source>Add the address in the watch view. Equivalent command "AddWatch [address], "uint"".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="239"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="240"/>
       <source>Cannot follow %1. Address is invalid.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="251"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="252"/>
       <source>Add label at </source>
       <translation>Label toevoegen aan </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="258"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="259"/>
       <source>The label may be in use</source>
       <translation>Het label is mogelijk al in gebruik</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="259"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="260"/>
       <source>The label "%1" may be an existing label or a valid expression. Using such label might have undesired effects. Do you still want to continue?</source>
       <translation>Label "%1" bestaat al al of is een geldige expressie. Het gebruik van een dergelijk label kan ongewenste effecten hebben. Wilt u toch doorgaan?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="268"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="294"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="318"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="269"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="295"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="319"/>
       <source>Error!</source>
       <translation>Fout!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="268"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="269"/>
       <source>DbgSetLabelAt failed!</source>
       <translation>DbgSetLabelAt mislukt!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="289"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="290"/>
       <source>Add comment at </source>
       <translation>Reactie toevoegen aan </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="294"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="295"/>
       <source>DbgSetCommentAt failed!</source>
       <translation>DbgSetCommentAt mislukt!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="318"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="319"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt mislukt!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="327"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="328"/>
       <source>Address %1 is not executable</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="350"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="351"/>
       <source>Setting software breakpoint here may result in crash. Do you really want to continue?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="478"/>
-      <source>Error</source>
-      <translation>Fout</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="478"/>
-      <source>No types loaded yet, parse a header first...</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="483"/>
-      <source>Type to display at %1</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="487"/>
-      <source>Address to display %1 at</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="497"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="476"/>
       <source>Setting new origin here may result in crash. Do you really want to continue?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="506"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="485"/>
       <source>Creating new thread here may result in crash. Do you really want to continue?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="509"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="488"/>
       <source>Argument for the new thread</source>
       <translation type="unfinished"/>
     </message>
@@ -5882,14 +5867,14 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/command.cpp" line="56"/>
+      <location filename="src/dbg/command.cpp" line="57"/>
       <source>Not enough arguments! At least %d argument(s) must be specified. Arguments are &lt;a href="https://help.x64dbg.com/en/latest/commands/index.html"&gt;comma-separated&lt;/a&gt;.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/command.cpp" line="296"/>
-      <location filename="src/dbg/command.cpp" line="340"/>
+      <location filename="src/dbg/command.cpp" line="308"/>
+      <location filename="src/dbg/command.cpp" line="352"/>
       <source>The command "%s" is debug-only
 </source>
       <translation>De opdracht "%s" is alleen-debuggen
@@ -6039,7 +6024,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="377"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="387"/>
       <source>Done!</source>
       <translation>Gereed!</translation>
     </message>
@@ -8290,81 +8275,81 @@
       <translation>AddType is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="152"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="153"/>
       <source>AddStruct failed</source>
       <translation>AddStruct is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="165"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="167"/>
       <source>AddUnion failed</source>
       <translation>AddUnion is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="195"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="198"/>
       <source>AddMember failed</source>
       <translation>AddMember is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="229"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="233"/>
       <source>AppendMember failed</source>
       <translation>AppendMember is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="261"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="266"/>
       <source>Unknown calling convention "%s"
 </source>
       <translation>Onbekende aanroep conventie "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="274"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="279"/>
       <source>AddFunction failed</source>
       <translation>AddFunction is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="287"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="293"/>
       <source>AddArg failed</source>
       <translation>AddArg is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="300"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="307"/>
       <source>AppendArg failed</source>
       <translation>AppendArg is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="314"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="322"/>
       <source>SizeofType failed</source>
       <translation>SizeofType is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="337"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="345"/>
       <source>Invalid type ID</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="371"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="381"/>
       <source>VisitType failed</source>
       <translation>VisitType is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="396"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="407"/>
       <source>RemoveType failed</source>
       <translation>RemoveType is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="399"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="411"/>
       <source>Type %s removed
 </source>
       <translation>Type %s verwijderd
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="424"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="436"/>
       <source>LoadTypes failed</source>
       <translation>LoadTypes is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-types.cpp" line="427"/>
+      <location filename="src/dbg/commands/cmd-types.cpp" line="440"/>
       <source>Types loaded</source>
       <translation>Types geladen</translation>
     </message>
@@ -10751,6 +10736,84 @@ Do you want to continue rendering this graph?</source>
     </message>
   </context>
   <context>
+    <name>DisplayTypeDialog</name>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="14"/>
+      <source>Display Type at Address</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="35"/>
+      <source>&amp;Address:</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="51"/>
+      <source>Enter address or expression...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="63"/>
+      <source>color: gray;</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="66"/>
+      <source>Address: Not set</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="122"/>
+      <source>&amp;OK</source>
+      <translation>&amp;OK</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="132"/>
+      <source>&amp;Cancel</source>
+      <translation>&amp;Annuleren</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="19"/>
+      <source>Display type</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="28"/>
+      <source>Type Name</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="52"/>
+      <source>Error</source>
+      <translation>Fout</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="52"/>
+      <source>No types loaded yet, parse a header first...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="78"/>
+      <source>Enter address or expression</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="89"/>
+      <source>Address: %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="94"/>
+      <source>Address: %1 (Invalid memory)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="100"/>
+      <source>Invalid address expression</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
     <name>EditBreakpointDialog</name>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="14"/>
@@ -10769,7 +10832,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="59"/>
-      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this expression is evaluated to 1 the breakpoint will break.&lt;/p&gt;&lt;p&gt;Set to &lt;span style=" text-decoration: underline;"&gt;0&lt;/span&gt; for a breakpoint that never breaks, but can still do logging and execute command.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this expression evaluates to 1, the debugger will pause.&lt;/p&gt;&lt;p&gt;Set to &lt;span style=" text-decoration: underline;"&gt;0&lt;/span&gt; for a breakpoint that never breaks, but can still do logging and execute commands.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -10819,7 +10882,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="153"/>
-      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this expression is evaluated to 1 the command specified above is executed when the breakpoint is hit.&lt;/p&gt;&lt;p&gt;Set the expression to &lt;span style=" text-decoration: underline;"&gt;1&lt;/span&gt; to always execute the command.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+      <source>If this expression evaluates to 1, the command specified above is executed.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -14424,27 +14487,27 @@ Wilt u deze patches toch toepassen?</translation>
       <translation>Breekpunt op alle API aanroepen verwijderen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="145"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="143"/>
       <source>Total Progress %1%</source>
       <translation>Totale Vooruitgang %1%</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="236"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="234"/>
       <source>Set breakpoint on all calls to %1</source>
       <translation>Stel Breekpunten in op alle aanroepen naar %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="238"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="236"/>
       <source>Remove breakpoint on all calls to %1</source>
       <translation>Verwijder Breekpunt op alle aanroepen naar %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="404"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="402"/>
       <source>Error!</source>
       <translation>Fout!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="404"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="402"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt mislukt!</translation>
     </message>
@@ -15229,17 +15292,17 @@ Het TEB kan gebruikt worden om veel informatie over het proces te achterhalen zo
       <translation>Zoeken...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="277"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="278"/>
       <source>&amp;Copy</source>
       <translation>Kopieëren</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="300"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
       <source>Use case sensitive regular expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="303"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="304"/>
       <source>Use case insensitive regular expression</source>
       <translation type="unfinished"/>
     </message>
@@ -16102,138 +16165,96 @@ Het TEB kan gebruikt worden om veel informatie over het proces te achterhalen zo
   <context>
     <name>StructWidget</name>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.ui" line="17"/>
-      <source>Struct</source>
-      <translation>Struct</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.ui" line="54"/>
-      <source>Field</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.ui" line="59"/>
-      <source>Offset</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.ui" line="64"/>
-      <source>Address</source>
-      <translation>Adres</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.ui" line="69"/>
-      <source>Size</source>
-      <translation>Grootte</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.ui" line="74"/>
-      <source>Value</source>
-      <translation>Waarde</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="122"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="466"/>
-      <source>Error</source>
-      <translation>Fout</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="122"/>
-      <source>Failed to visit type...</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="213"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="41"/>
       <source>&amp;Follow address in Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="217"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="45"/>
       <source>Follow value in Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="221"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="49"/>
       <source>Follow value in Disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="226"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="54"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="55"/>
       <source>Reload type</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="227"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="55"/>
       <source>Reload the type from the database and display it (at a different address).</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="484"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="59"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="172"/>
       <source>Load JSON</source>
       <translation>Laad JSON</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="493"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="60"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="181"/>
       <source>Parse header</source>
       <translation>Verwerk header</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="233"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="61"/>
       <source>Remove</source>
       <translation>Verwijder</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="237"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="65"/>
       <source>Remove all</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="238"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="66"/>
       <source>&amp;Refresh values</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="238"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="66"/>
       <source>Quickly refresh the values, without reloading the type.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="252"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="78"/>
       <source>&amp;Copy</source>
       <translation>Kopieëren</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="466"/>
-      <source>No types loaded yet, parse a header first...</source>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="112"/>
+      <source>Error</source>
+      <translation>Fout</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="112"/>
+      <source>Failed to visit type...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="471"/>
-      <source>Type to display</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="476"/>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="510"/>
-      <source>Address to display %1 at</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="484"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="172"/>
       <source>JSON files (*.json);;All files (*.*)</source>
       <translation>JSON bestanden (*.json);; Alle bestanden (*. *)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="493"/>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="181"/>
       <source>Header files (*.h *.hpp);;All files (*.*)</source>
       <translation>Headerbestanden (*.h *.hpp);;Alle bestanden (*. *)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/StructWidget.cpp" line="198"/>
+      <source>Address to display %1 at</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -16269,135 +16290,135 @@ Het TEB kan gebruikt worden om veel informatie over het proces te achterhalen zo
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="306"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="331"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="305"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="330"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>Volg in Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="309"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="308"/>
       <source>Follow in &amp;Dump</source>
       <translation>Volg in &amp;Dump</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="312"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="311"/>
       <source>Follow &amp;imported address</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="315"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="314"/>
       <source>Toggle Breakpoint</source>
       <translation>Wissel Breekpunt</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="321"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="320"/>
       <source>Toggle Bookmark</source>
       <translation>Wissel Bladwijzer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="327"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="326"/>
       <source>Help on Symbolic Name</source>
       <translation>Help-informatie over Symbolische Naam</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="336"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="335"/>
       <source>Follow &amp;Entry Point in Disassembler</source>
       <translation>Volg &amp;Entreepunt in Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="339"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="338"/>
       <source>Follow in Memory Map</source>
       <translation>Volg in Geheugen Map</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="345"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="344"/>
       <source>&amp;Download Symbols for This Module</source>
       <translation>&amp;Download Symbolen voor Deze Module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="351"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="350"/>
       <source>Download Symbols for &amp;All Modules</source>
       <translation>Download Symbolen voor &amp;Alle Modules</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="357"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="356"/>
       <source>Copy File &amp;Path</source>
       <translation>Kopieer Bestand &amp; Map</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="363"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="362"/>
       <source>Browse in Explorer</source>
       <translation>Bladeren in Explorer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="369"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="368"/>
       <source>Load library...</source>
       <translation>Bibliotheek laden...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="375"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="374"/>
       <source>Free library</source>
       <translation>Bibliotheek opruimen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="381"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="380"/>
       <source>Mark as &amp;user module</source>
       <translation>Markeer als gebr&amp;uiker module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="387"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="386"/>
       <source>Mark as &amp;system module</source>
       <translation>Markeer als &amp;systeem module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="393"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="392"/>
       <source>Mark as &amp;party...</source>
       <translation>Markeer als groe&amp;p...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="507"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="506"/>
       <source>User</source>
       <translation>Gebruiker</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="511"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="510"/>
       <source>System</source>
       <translation>Systeem</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="515"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="514"/>
       <source>Party: %1</source>
       <translation>Groep: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="536"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="623"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="783"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="535"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="782"/>
       <source>Import</source>
       <translation>Importeer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="660"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="659"/>
       <source>&amp;Copy</source>
       <translation>Kopieëren</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
       <source>Select DLL</source>
       <translation>Selecteer DLL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
       <source>Enter the path of a DLL to load in the debuggee.</source>
       <translation>Voer het pad in van een DLL om in de debuggee te laden.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="735"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
       <source>DLL Files (*.dll);;All Files (*.*)</source>
       <translation>Dll-bestanden (*.dll);;Alle bestanden (*. *)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="751"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="750"/>
       <source>Are you sure you want to free the module: %1?
 
 This could introduce unexpected behaviour to your debugging session...</source>
@@ -16406,37 +16427,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
 Dit kan onverwacht gedrag introduceren in de debug-sessie...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="753"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="752"/>
       <source>Free Library</source>
       <translation>Bibliotheek Opruimen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="829"/>
       <source>Error!</source>
       <translation>Fout!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="830"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="829"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt mislukt!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="868"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="867"/>
       <source>Mark the party of the module as</source>
       <translation>Markeer the groep als module van</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="868"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="867"/>
       <source>0 is user module, 1 is system module.</source>
       <translation>0 is gebruiker module, 1 is systeem module.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="881"/>
       <source>Error</source>
       <translation>Fout</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="881"/>
       <source>The party number can only be 0 or 1</source>
       <translation type="unfinished"/>
     </message>
@@ -17779,6 +17800,34 @@ Dit kan onverwacht gedrag introduceren in de debug-sessie...</translation>
       <location filename="src/gui/Src/Tracer/TraceXrefBrowseDialog.cpp" line="87"/>
       <source>Copy</source>
       <translation>Kopieren</translation>
+    </message>
+  </context>
+  <context>
+    <name>TypeWidget</name>
+    <message>
+      <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
+      <source>Field</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
+      <source>Offset</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
+      <source>Address</source>
+      <translation>Adres</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
+      <source>Size</source>
+      <translation>Grootte</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
+      <source>Value</source>
+      <translation>Waarde</translation>
     </message>
   </context>
   <context>
