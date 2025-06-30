@@ -10013,44 +10013,44 @@ Do you want to continue debugging?</source>
       <translation>FileHELPER። කියවීමපෙළ අසමත් විය...</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="230"/>
+      <location filename="src/dbg/simplescript.cpp" line="235"/>
       <source>Empty label detected on line %d!</source>
       <translation>රේඛාව මත අනාවරණය හිස් ලේබලය %d!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="239"/>
+      <location filename="src/dbg/simplescript.cpp" line="244"/>
       <source>Duplicate label "%s" detected on lines %d and %d!</source>
       <translation>අනුපිටපත් ලේබලය "%s" %d සහ %dරේඛාවල අනාවරණය වී ඇත!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="280"/>
-      <location filename="src/dbg/simplescript.cpp" line="446"/>
+      <location filename="src/dbg/simplescript.cpp" line="285"/>
+      <location filename="src/dbg/simplescript.cpp" line="451"/>
       <source>Invalid branch label "%s" detected on line %d!</source>
       <translation>"%s" ශාඛා ලේබලය %dමාර්ගයෙන් අනාවරණය විය!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="413"/>
+      <location filename="src/dbg/simplescript.cpp" line="418"/>
       <source>Script finished!</source>
       <translation>තිර රචනය අවසන්!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="494"/>
+      <location filename="src/dbg/simplescript.cpp" line="499"/>
       <source>Error executing command!</source>
       <translation>විධානය ක්රියාත්මක කිරීමේ දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="557"/>
+      <location filename="src/dbg/simplescript.cpp" line="562"/>
       <source>The script is too busy. Would you like to terminate it now?</source>
       <translation>තිර රචනය ඉතා කාර්යබහුලයි. දැන් එය අවසන් කිරීමට ඔබ කැමතිද?</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="559"/>
+      <location filename="src/dbg/simplescript.cpp" line="564"/>
       <source>Script is terminated by user.</source>
       <translation>තිර රචනය පරිශීලකයා විසින් අවසන් කර ඇත.</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="623"/>
-      <location filename="src/dbg/simplescript.cpp" line="625"/>
+      <location filename="src/dbg/simplescript.cpp" line="628"/>
+      <location filename="src/dbg/simplescript.cpp" line="630"/>
       <source>Debugger must be paused to run a script!</source>
       <translation>ස්ක්රිප්ට් එකක් ක්රියාත්මක කිරීම සඳහා නිදොස් කිරීම විරාම කළ යුතුය!</translation>
     </message>
@@ -17966,44 +17966,49 @@ This could introduce unexpected behaviour to your debugging session...</source>
   <context>
     <name>UpdateChecker</name>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="21"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="149"/>
       <source>Checking for updates...
 </source>
       <translation>යාවත්කාලීන කිරීම් සඳහා පරීක්ෂා කිරීම...
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="29"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
       <source>Network Error!</source>
       <translation>ජාල දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
+      <source>Failed to check for updates</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
       <source>Error!</source>
       <translation>දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
       <source>File on server could not be parsed...</source>
       <translation>සේවාදායකයේ ගොනුව විග්රහ කළ නොහැක...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="49"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="185"/>
       <source>New build %1 available!&lt;br&gt;Download &lt;a href="%2"&gt;here&lt;/a&gt;&lt;br&gt;&lt;br&gt;You are now on build %3</source>
       <translation>නව ගොඩනගනු %1 ලබා ගත හැකිය!&lt;br&gt;බාගත &lt;a href="%2"&gt;මෙතැනින්&lt;/a&gt;&lt;br&gt;&lt;br&gt;ඔබ දැන් ගොඩනගනු ඇත %3</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="51"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="187"/>
       <source>You have a development build (%1) of x64dbg!</source>
       <translation>ඔබට x64dbg හි සංවර්ධන ගොඩනැගීමක් (%1) ඇත!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="53"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="189"/>
       <source>You have the latest build (%1) of x64dbg!</source>
       <translation>ඔබට x64dbg හි නවතම ගොඩනැගීම (%1) ඇත!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="54"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="191"/>
       <source>Information</source>
       <translation>තොරතුරු</translation>
     </message>

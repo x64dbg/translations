@@ -9838,44 +9838,44 @@ Do you want to continue debugging?</source>
       <translation>FileHelper::ReadAllText 失敗……</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="230"/>
+      <location filename="src/dbg/simplescript.cpp" line="235"/>
       <source>Empty label detected on line %d!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="239"/>
+      <location filename="src/dbg/simplescript.cpp" line="244"/>
       <source>Duplicate label "%s" detected on lines %d and %d!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="280"/>
-      <location filename="src/dbg/simplescript.cpp" line="446"/>
+      <location filename="src/dbg/simplescript.cpp" line="285"/>
+      <location filename="src/dbg/simplescript.cpp" line="451"/>
       <source>Invalid branch label "%s" detected on line %d!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="413"/>
+      <location filename="src/dbg/simplescript.cpp" line="418"/>
       <source>Script finished!</source>
       <translation>腳本完成！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="494"/>
+      <location filename="src/dbg/simplescript.cpp" line="499"/>
       <source>Error executing command!</source>
       <translation>執行命令時發生錯誤！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="557"/>
+      <location filename="src/dbg/simplescript.cpp" line="562"/>
       <source>The script is too busy. Would you like to terminate it now?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="559"/>
+      <location filename="src/dbg/simplescript.cpp" line="564"/>
       <source>Script is terminated by user.</source>
       <translation>腳本被使用者終止。</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="623"/>
-      <location filename="src/dbg/simplescript.cpp" line="625"/>
+      <location filename="src/dbg/simplescript.cpp" line="628"/>
+      <location filename="src/dbg/simplescript.cpp" line="630"/>
       <source>Debugger must be paused to run a script!</source>
       <translation type="unfinished"/>
     </message>
@@ -17730,43 +17730,48 @@ This could introduce unexpected behaviour to your debugging session...</source>
   <context>
     <name>UpdateChecker</name>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="21"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="149"/>
       <source>Checking for updates...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="29"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
       <source>Network Error!</source>
       <translation>網路錯誤！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
+      <source>Failed to check for updates</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
       <source>Error!</source>
       <translation>錯誤！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
       <source>File on server could not be parsed...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="49"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="185"/>
       <source>New build %1 available!&lt;br&gt;Download &lt;a href="%2"&gt;here&lt;/a&gt;&lt;br&gt;&lt;br&gt;You are now on build %3</source>
       <translation>新版本 %1 已發佈!&lt;br&gt;立即&lt;a href="%2"&gt;下載&lt;/a&gt;&lt;br&gt;&lt;br&gt;您現在正在使用版本 %3</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="51"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="187"/>
       <source>You have a development build (%1) of x64dbg!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="53"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="189"/>
       <source>You have the latest build (%1) of x64dbg!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="54"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="191"/>
       <source>Information</source>
       <translation>訊息</translation>
     </message>

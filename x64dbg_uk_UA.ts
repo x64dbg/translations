@@ -9943,44 +9943,44 @@ Do you want to continue debugging?</source>
       <translation>Помилка у FileHelper::ReadAllText...</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="230"/>
+      <location filename="src/dbg/simplescript.cpp" line="235"/>
       <source>Empty label detected on line %d!</source>
       <translation>У рядку %d виявлено пусту мітку!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="239"/>
+      <location filename="src/dbg/simplescript.cpp" line="244"/>
       <source>Duplicate label "%s" detected on lines %d and %d!</source>
       <translation>Дублювання мітки "%s" знайдено в рядках %d і %d!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="280"/>
-      <location filename="src/dbg/simplescript.cpp" line="446"/>
+      <location filename="src/dbg/simplescript.cpp" line="285"/>
+      <location filename="src/dbg/simplescript.cpp" line="451"/>
       <source>Invalid branch label "%s" detected on line %d!</source>
       <translation>Знайдена недопустима мітка гілки "%s" в рядку %d!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="413"/>
+      <location filename="src/dbg/simplescript.cpp" line="418"/>
       <source>Script finished!</source>
       <translation>Скрипт завершено!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="494"/>
+      <location filename="src/dbg/simplescript.cpp" line="499"/>
       <source>Error executing command!</source>
       <translation>Помилка при виконанні команди!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="557"/>
+      <location filename="src/dbg/simplescript.cpp" line="562"/>
       <source>The script is too busy. Would you like to terminate it now?</source>
       <translation>Скрипт занадто зайнятий. Зупинити його зараз?</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="559"/>
+      <location filename="src/dbg/simplescript.cpp" line="564"/>
       <source>Script is terminated by user.</source>
       <translation>Скрипт завершений користувачем.</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="623"/>
-      <location filename="src/dbg/simplescript.cpp" line="625"/>
+      <location filename="src/dbg/simplescript.cpp" line="628"/>
+      <location filename="src/dbg/simplescript.cpp" line="630"/>
       <source>Debugger must be paused to run a script!</source>
       <translation>Для запуску скрипту необхідно вимкнути відлагоджувач!</translation>
     </message>
@@ -17884,43 +17884,48 @@ This could introduce unexpected behaviour to your debugging session...</source>
   <context>
     <name>UpdateChecker</name>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="21"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="149"/>
       <source>Checking for updates...
 </source>
       <translation>Перевірка наявності оновлень...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="29"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
       <source>Network Error!</source>
       <translation>Помилка мережі!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
+      <source>Failed to check for updates</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
       <source>Error!</source>
       <translation>Помилка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
       <source>File on server could not be parsed...</source>
       <translation>Не вдалося проаналізувати файл на сервері...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="49"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="185"/>
       <source>New build %1 available!&lt;br&gt;Download &lt;a href="%2"&gt;here&lt;/a&gt;&lt;br&gt;&lt;br&gt;You are now on build %3</source>
       <translation>Нова збірка %1 вже доступна!&lt;br&gt;Завантажити &lt;a href="%2"&gt;тут&lt;/a&gt;&lt;br&gt;&lt;br&gt;Ваша збірка %3</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="51"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="187"/>
       <source>You have a development build (%1) of x64dbg!</source>
       <translation>У вас тестова збірка (%1) x64dbg!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="53"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="189"/>
       <source>You have the latest build (%1) of x64dbg!</source>
       <translation>У вас остання збірка (%1) x64dbg!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="54"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="191"/>
       <source>Information</source>
       <translation>Інформація</translation>
     </message>

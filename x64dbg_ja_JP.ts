@@ -10019,44 +10019,44 @@ Do you want to continue debugging?</source>
       <translation>FileHelper::ReadAllText 失敗...</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="230"/>
+      <location filename="src/dbg/simplescript.cpp" line="235"/>
       <source>Empty label detected on line %d!</source>
       <translation>行 %d に空のラベルが検出されました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="239"/>
+      <location filename="src/dbg/simplescript.cpp" line="244"/>
       <source>Duplicate label "%s" detected on lines %d and %d!</source>
       <translation>重複ラベル "%s" が行 %d と %dで検出されました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="280"/>
-      <location filename="src/dbg/simplescript.cpp" line="446"/>
+      <location filename="src/dbg/simplescript.cpp" line="285"/>
+      <location filename="src/dbg/simplescript.cpp" line="451"/>
       <source>Invalid branch label "%s" detected on line %d!</source>
       <translation>無効なブランチ ラベル "%s" が検出されました(行 %d)!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="413"/>
+      <location filename="src/dbg/simplescript.cpp" line="418"/>
       <source>Script finished!</source>
       <translation>スクリプトが終了しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="494"/>
+      <location filename="src/dbg/simplescript.cpp" line="499"/>
       <source>Error executing command!</source>
       <translation>コマンド実行中のエラー!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="557"/>
+      <location filename="src/dbg/simplescript.cpp" line="562"/>
       <source>The script is too busy. Would you like to terminate it now?</source>
       <translation>スクリプトがビジーです。今すぐ強制終了しますか?</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="559"/>
+      <location filename="src/dbg/simplescript.cpp" line="564"/>
       <source>Script is terminated by user.</source>
       <translation>スクリプトはユーザーによって強制終了されました。</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="623"/>
-      <location filename="src/dbg/simplescript.cpp" line="625"/>
+      <location filename="src/dbg/simplescript.cpp" line="628"/>
+      <location filename="src/dbg/simplescript.cpp" line="630"/>
       <source>Debugger must be paused to run a script!</source>
       <translation>スクリプトを実行するにはデバッガーを一時停止する必要があります!</translation>
     </message>
@@ -17971,44 +17971,49 @@ This could introduce unexpected behaviour to your debugging session...</source>
   <context>
     <name>UpdateChecker</name>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="21"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="149"/>
       <source>Checking for updates...
 </source>
       <translation>更新の確認中...
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="29"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
       <source>Network Error!</source>
       <translation>ネットワーク エラー!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
+      <source>Failed to check for updates</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
       <source>Error!</source>
       <translation>エラー!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
       <source>File on server could not be parsed...</source>
       <translation>サーバー上のファイルを解析できませんでした...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="49"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="185"/>
       <source>New build %1 available!&lt;br&gt;Download &lt;a href="%2"&gt;here&lt;/a&gt;&lt;br&gt;&lt;br&gt;You are now on build %3</source>
       <translation>新しいビルド %1 が利用可能です!&lt;br&gt;ダウンロード は&lt;a href="%2"&gt;こちらから&lt;/a&gt;&lt;br&gt;&lt;br&gt;現在使用中のビルド : %3</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="51"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="187"/>
       <source>You have a development build (%1) of x64dbg!</source>
       <translation>X64dbg の開発ビルド (%1) があります!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="53"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="189"/>
       <source>You have the latest build (%1) of x64dbg!</source>
       <translation>x64dbg の最新ビルド (%1) があります!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="54"/>
+      <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="191"/>
       <source>Information</source>
       <translation>情報</translation>
     </message>
