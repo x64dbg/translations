@@ -3054,7 +3054,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="49"/>
       <source>Struct</source>
-      <translation type="unfinished"/>
+      <translation>構造体</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="242"/>
@@ -3956,12 +3956,12 @@
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="90"/>
       <source>Display type at %1</source>
-      <translation type="unfinished"/>
+      <translation>%1 の表示形式</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
       <source>Display a type at this address in the struct view.</source>
-      <translation type="unfinished"/>
+      <translation>このアドレスの形式を構造体ビューに表示する。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="106"/>
@@ -5422,7 +5422,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>Copy image</source>
-      <translation type="unfinished"/>
+      <translation>イメージのコピー</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
@@ -8352,7 +8352,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-types.cpp" line="345"/>
       <source>Invalid type ID</source>
-      <translation type="unfinished"/>
+      <translation>無効な形式 ID</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-types.cpp" line="381"/>
@@ -10763,7 +10763,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
       <source>Copy image</source>
-      <translation type="unfinished"/>
+      <translation>イメージのコピー</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
@@ -10859,27 +10859,27 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="14"/>
       <source>Display Type at Address</source>
-      <translation type="unfinished"/>
+      <translation>アドレスの表示形式</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="35"/>
       <source>&amp;Address:</source>
-      <translation type="unfinished"/>
+      <translation>アドレス [&amp;A]：</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="51"/>
       <source>Enter address or expression...</source>
-      <translation type="unfinished"/>
+      <translation>アドレスまたは式を入力してください…</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="63"/>
       <source>color: gray;</source>
-      <translation type="unfinished"/>
+      <translation>色: グレイ；</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="66"/>
       <source>Address: Not set</source>
-      <translation type="unfinished"/>
+      <translation>アドレス: 設定なし</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="122"/>
@@ -10899,7 +10899,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="28"/>
       <source>Type Name</source>
-      <translation type="unfinished"/>
+      <translation>形式名</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="52"/>
@@ -10909,27 +10909,27 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="52"/>
       <source>No types loaded yet, parse a header first...</source>
-      <translation type="unfinished"/>
+      <translation>形式が読み込まれていません。最初にヘッダを解析してください…</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="78"/>
       <source>Enter address or expression</source>
-      <translation type="unfinished"/>
+      <translation>アドレスまたは式を入力してください</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="89"/>
       <source>Address: %1</source>
-      <translation type="unfinished"/>
+      <translation>アドレス: %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="94"/>
       <source>Address: %1 (Invalid memory)</source>
-      <translation type="unfinished"/>
+      <translation>アドレス: %1 (無効なメモリ)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="100"/>
       <source>Invalid address expression</source>
-      <translation type="unfinished"/>
+      <translation>無効なアドレス式</translation>
     </message>
   </context>
   <context>
@@ -10952,7 +10952,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="59"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this expression evaluates to 1, the debugger will pause.&lt;/p&gt;&lt;p&gt;Set to &lt;span style=" text-decoration: underline;"&gt;0&lt;/span&gt; for a breakpoint that never breaks, but can still do logging and execute commands.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;この式が 1 に評価された場合、デバッガーは一時停止します。&lt;/p&gt;&lt;p&gt;ブレークポイントを &lt;span style=" text-decoration: underline;"&gt;0&lt;/span&gt; に設定すると、ブレークポイントは中断されませんが、ログ記録とコマンドの実行は引き続き実行できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="62"/>
@@ -11002,7 +11002,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="153"/>
       <source>If this expression evaluates to 1, the command specified above is executed.</source>
-      <translation type="unfinished"/>
+      <translation>この式が 1 に評価された場合、上記で指定されたコマンドが実行されます。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="156"/>
@@ -11711,7 +11711,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="118"/>
       <source>Focus on Window</source>
-      <translation type="unfinished"/>
+      <translation>ウィンドウにフォーカス</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="120"/>
@@ -11767,7 +11767,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="335"/>
       <source>The program must be running before its window can be focused.</source>
-      <translation type="unfinished"/>
+      <translation>ウィンドウにフォーカスする前に、プログラムが実行されている必要があります。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="476"/>
@@ -16322,12 +16322,12 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="55"/>
       <source>Reload type</source>
-      <translation type="unfinished"/>
+      <translation>再読み込みの種類</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="55"/>
       <source>Reload the type from the database and display it (at a different address).</source>
-      <translation type="unfinished"/>
+      <translation>データベースから形式を再読み込みして表示します (別のアドレスに)。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="59"/>
@@ -16349,17 +16349,17 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="65"/>
       <source>Remove all</source>
-      <translation type="unfinished"/>
+      <translation>すべて削除</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="66"/>
       <source>&amp;Refresh values</source>
-      <translation type="unfinished"/>
+      <translation>値を更新 [&amp;R]</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="66"/>
       <source>Quickly refresh the values, without reloading the type.</source>
-      <translation type="unfinished"/>
+      <translation>形式を再読み込みせずに、値をすばやく更新します。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="78"/>
@@ -16374,7 +16374,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="112"/>
       <source>Failed to visit type...</source>
-      <translation type="unfinished"/>
+      <translation>形式にアクセスできませんでした…</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="172"/>
@@ -17945,12 +17945,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
       <source>Field</source>
-      <translation type="unfinished"/>
+      <translation>フィールド</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
       <source>Offset</source>
-      <translation type="unfinished"/>
+      <translation>オフセット</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
@@ -17985,7 +17985,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
       <source>Failed to check for updates</source>
-      <translation type="unfinished"/>
+      <translation>更新の確認に失敗しました</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
