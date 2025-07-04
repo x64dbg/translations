@@ -12067,22 +12067,22 @@ Do you want to continue rendering this graph?</source>
       <translation>Базовий регістр</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="254"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
       <source>Local%1</source>
       <translation>Local%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
       <source>Arg%1</source>
       <translation>Arg%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="301"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
       <source>Rename local variable "%1"</source>
       <translation>Перейменувати локальну змінну "%1"</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="321"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
       <source>Edit %1 at %2</source>
       <translation>Замінити %1 на %2</translation>
     </message>
@@ -15474,7 +15474,7 @@ TEB може бути використаний для отримання інф�
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="190"/>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1127"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1165"/>
       <source>* Requires debuggee restart</source>
       <translation>* Потребує перезапуску відлагоджувача</translation>
     </message>
@@ -15754,217 +15754,232 @@ TEB може бути використаний для отримання інф�
       <translation>Вимкнути попередній перегляд дизасемблювання гілки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="754"/>
-      <source>0x prefix for values</source>
-      <translation>Префікс 0x для змінних</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
+      <source>Display style for values:</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="761"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
+      <source>Default</source>
+      <translation>За замовчуванням</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
+      <source>C style (0x prefix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
+      <source>MASM style (0 prefix, h suffix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
       <source>Don't show source lines in comments</source>
       <translation>Не показувати рядки початкового коду в коментарях</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="768"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="806"/>
       <source>Assemble instruction on double-click</source>
       <translation>Асемлблювати інструкції по подвійному кліку</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="792"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="830"/>
       <source>Maximum module name size</source>
       <translation>Максимальний розмір імені модуля</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="840"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="878"/>
       <source>GUI</source>
       <translation>Інтерфейс</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="852"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="890"/>
       <source>Show FPU registers as little endian</source>
       <translation>Відображати регістри FPU як little endian</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="859"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="897"/>
       <source>Save GUI layout and column orders</source>
       <translation>Зберегти макет інтерфейсу і порядок стовпців</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="866"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="904"/>
       <source>Don't show close dialog</source>
       <translation>Не показувати діалогове вікно закриття</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="873"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="911"/>
       <source>Enable Load/Save Tab Order</source>
       <translation>Увімкнути завантаження/збереження порядку вкладок</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="880"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="918"/>
       <source>Show Watch Labels in Side Bar</source>
       <translation>Показувати мітки спостереження на бічній панелі</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="887"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="925"/>
       <source>Do not call SetForegroundWindow</source>
       <translation>Не викликати SetForegroundWindow</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="894"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="932"/>
       <source>Show RVA addresses in graph view</source>
       <translation>Показати адреси RVA при перегляді графу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="901"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
       <source>Graph zoom mode</source>
       <translation>Режим масштабування графа</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="908"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
       <source>Auto follow operand in stack</source>
       <translation>Автоматично переходити до операнду в стеку</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="915"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
       <source>Show exit confirmation dialog</source>
       <translation>Показати діалогове вікно підтвердження виходу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="922"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
       <source>Disable auto completion in goto dialog</source>
       <translation>Вимкнути автодоповнення у діалоговому вікні goto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="929"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="967"/>
       <source>Hide seasonal icons</source>
       <translation>Приховати сезонні значки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="936"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="974"/>
       <source>Disabling this option will tell Windows that x64dbg is DPI unaware. This might result in blurry results in some configurations.</source>
       <translation>Вимкнення цієї опції повідомить Windows, що x64dbg не підтримує DPI. У деяких конфігураціях це може призвести до розмиття результатів.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="977"/>
       <source>Qt High DPI Scaling</source>
       <translation>Високе масштабування DPI для Qt</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
       <source>Full executable path in title</source>
       <translation>Повний шлях файла в заголовку</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="991"/>
       <source>Disable icons*</source>
       <translation>Вимкнути піктограми*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="998"/>
       <source>Dump in trace view consumes significant memory. It is used by many features in trace view that need to search for access to memory. If disabled, it will not be loaded by default. The user can always load the dump manually. Dump in already opened trace tabs are not disabled until you close them.</source>
       <translation>Дамп в вікні трасування споживає значну пам'ять. Він використовується багатьма функціями, яким потрібно знайти доступ до пам'яті. Якщо вимкнено, воноач не буде завантажено за замовчуванням. Користовач завжди може завантажити дамп вручну. Дамп у вже відкритих вкладках трасування не вимкнено, допоки ви не закриєте їх.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="963"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1001"/>
       <source>Automatically load dump in trace view</source>
       <translation>Автоматично завантажувати дамп у трейс вікні</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1022"/>
       <source>Misc</source>
       <translation>Інше</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="996"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1034"/>
       <source>Symbol Store:</source>
       <translation>Сховище символів:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1006"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1044"/>
       <source>Symbol Path:</source>
       <translation>Шлях до символів:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1030"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1068"/>
       <source>Set x64dbg as Just In Time Debugger</source>
       <translation>Встановити x64dbg як Just In Time відлагоджувач</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1039"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1077"/>
       <source>JIT:</source>
       <translation>JIT:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1058"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1096"/>
       <source>&lt;font color="red"&gt;DIE SCUM!&lt;/font&gt;</source>
       <translation>&lt;font color="red"&gt;ЗДОХНИ, ПАДЛО!&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1065"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1103"/>
       <source>Search Engine URL</source>
       <translation>URL пошукової системи</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1079"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1117"/>
       <source>UTF-16 Log Redirect*</source>
       <translation>Надсилати до журналу текст у кодуванні UTF-16*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1086"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1124"/>
       <source>Use local help file (x64dbg.chm)</source>
       <translation>Використовувати локальний файл довідки (x64dbg.chm)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1093"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1131"/>
       <source>Query process cookie*</source>
       <translation>Запит cookie процесу*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1100"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1138"/>
       <source>Query working set before reading memory</source>
       <translation>Запитувати обробку перед читанням пам'яті</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1107"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1145"/>
       <source>Transparent exception stepping*</source>
       <translation>Прозоре покрокове виключення*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1156"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1194"/>
       <source>Save</source>
       <translation>Зберегти</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1166"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1204"/>
       <source>Cancel</source>
       <translation>Скасувати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="337"/>
       <source>&lt;font color="red"&gt;&lt;b&gt;Warning&lt;/b&gt;&lt;/font&gt;: Run the debugger as Admin to enable JIT.</source>
       <translation>&lt;font color="red"&gt;&lt;b&gt;Попередження&lt;/b&gt;&lt;/font&gt;: Запустіть відлагоджувач з правами адміністратора для увімкнення JIT.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="639"/>
       <source>Settings saved!</source>
       <translation>Налаштування збережено!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>ERROR NOT FOUND OLD JIT</source>
       <translation>ПОМИЛКА НЕ ЗНАЙДЕНО СТАРОГО JIT</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</source>
       <translation>НЕ ЗНАЙДЕНО СТАРИЙ ЗБЕРЕЖЕНИЙ ЗАПИС JIT, ВИКОРИСТОВУЙТЕ КОМАНДУ SETJIT</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Question</source>
       <translation>Запитання</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Are you sure you want to add %.8X?</source>
       <translation>Ви впевнені, що хочете додати %.8X?</translation>
     </message>

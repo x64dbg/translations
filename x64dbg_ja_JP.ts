@@ -12157,22 +12157,22 @@ Do you want to continue rendering this graph?</source>
       <translation>ベース レジスタ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="254"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
       <source>Local%1</source>
       <translation>ローカル%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
       <source>Arg%1</source>
       <translation>Arg%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="301"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
       <source>Rename local variable "%1"</source>
       <translation>ローカル変数 "%1" の名前を変更</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="321"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
       <source>Edit %1 at %2</source>
       <translation>編集 %1 at %2</translation>
     </message>
@@ -15559,7 +15559,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="190"/>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1127"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1165"/>
       <source>* Requires debuggee restart</source>
       <translation>* デバッグ対象の再起動が必要です</translation>
     </message>
@@ -15839,217 +15839,232 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
       <translation>ブランチの逆アセンブル プレビューを無効にする</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="754"/>
-      <source>0x prefix for values</source>
-      <translation>値に 0x 接頭辞を追加する</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
+      <source>Display style for values:</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="761"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
+      <source>Default</source>
+      <translation>既定</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
+      <source>C style (0x prefix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
+      <source>MASM style (0 prefix, h suffix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
       <source>Don't show source lines in comments</source>
       <translation>コメントにソース行を表示しない</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="768"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="806"/>
       <source>Assemble instruction on double-click</source>
       <translation>ダブルクリックでアセンブル命令を表示する</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="792"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="830"/>
       <source>Maximum module name size</source>
       <translation>モジュール名の最大サイズ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="840"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="878"/>
       <source>GUI</source>
       <translation>GUI</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="852"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="890"/>
       <source>Show FPU registers as little endian</source>
       <translation>FPU レジスタをリトルエンディアンとして表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="859"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="897"/>
       <source>Save GUI layout and column orders</source>
       <translation>GUI レイアウトと列の順序を保存</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="866"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="904"/>
       <source>Don't show close dialog</source>
       <translation>閉じるダイアログを表示しない</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="873"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="911"/>
       <source>Enable Load/Save Tab Order</source>
       <translation>タブ順序の読み込み/保存を有効にする</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="880"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="918"/>
       <source>Show Watch Labels in Side Bar</source>
       <translation>サイドバーにウォッチ ラベルを表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="887"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="925"/>
       <source>Do not call SetForegroundWindow</source>
       <translation>SetForegroundWindow を呼び出さない</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="894"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="932"/>
       <source>Show RVA addresses in graph view</source>
       <translation>グラフ ビューに相対仮想アドレスを表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="901"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
       <source>Graph zoom mode</source>
       <translation>グラフのズーム モード</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="908"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
       <source>Auto follow operand in stack</source>
       <translation>スタック内のオペランドを自動追跡</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="915"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
       <source>Show exit confirmation dialog</source>
       <translation>終了確認ダイアログを表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="922"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
       <source>Disable auto completion in goto dialog</source>
       <translation>移動ダイアログの自動補完を無効にする</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="929"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="967"/>
       <source>Hide seasonal icons</source>
       <translation>周期的なアイコンを隠す</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="936"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="974"/>
       <source>Disabling this option will tell Windows that x64dbg is DPI unaware. This might result in blurry results in some configurations.</source>
       <translation>このオプションを無効にすると、x64dbg は DPI を認識しないことが Windows に通知されます。これにより、構成によっては結果がぼやける可能性があります。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="977"/>
       <source>Qt High DPI Scaling</source>
       <translation>Qt 高DPI スケーリング</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
       <source>Full executable path in title</source>
       <translation>タイトルに実行可能ファイルのフルパスを表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="991"/>
       <source>Disable icons*</source>
       <translation>アイコンを無効化*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="998"/>
       <source>Dump in trace view consumes significant memory. It is used by many features in trace view that need to search for access to memory. If disabled, it will not be loaded by default. The user can always load the dump manually. Dump in already opened trace tabs are not disabled until you close them.</source>
       <translation>トレース ビューのダンプは、大量のメモリを消費します。これは、メモリへのアクセスを検索する必要があるトレース ビューの多くの機能で使用されます。無効にすると、デフォルトでは読み込まれません。ユーザーはいつでも手動でダンプを読み込むことができます。すでに開いているトレース タブのダンプは、閉じるまで無効になりません。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="963"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1001"/>
       <source>Automatically load dump in trace view</source>
       <translation>トレース ビューにダンプを自動的に読み込む</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1022"/>
       <source>Misc</source>
       <translation>その他</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="996"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1034"/>
       <source>Symbol Store:</source>
       <translation>シンボル ストア :</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1006"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1044"/>
       <source>Symbol Path:</source>
       <translation>シンボル のパス :</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1030"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1068"/>
       <source>Set x64dbg as Just In Time Debugger</source>
       <translation>x64dbg をJust In Timeデバッガとして設定</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1039"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1077"/>
       <source>JIT:</source>
       <translation>JIT :</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1058"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1096"/>
       <source>&lt;font color="red"&gt;DIE SCUM!&lt;/font&gt;</source>
       <translation>&lt;font color="red"&gt;DIE SCUM!&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1065"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1103"/>
       <source>Search Engine URL</source>
       <translation>検索エンジンの URL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1079"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1117"/>
       <source>UTF-16 Log Redirect*</source>
       <translation>UTF-16 ログ リダイレクト*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1086"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1124"/>
       <source>Use local help file (x64dbg.chm)</source>
       <translation>ローカルの ヘルプ ファイルを使用する (x64dbg.chm)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1093"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1131"/>
       <source>Query process cookie*</source>
       <translation>プロセスのクッキーを照会する*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1100"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1138"/>
       <source>Query working set before reading memory</source>
       <translation>メモリを読み取る前にワーキングセットを照会する</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1107"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1145"/>
       <source>Transparent exception stepping*</source>
       <translation>例外を透過的に処理し、ステップ実行を継続する</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1156"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1194"/>
       <source>Save</source>
       <translation>保存</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1166"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1204"/>
       <source>Cancel</source>
       <translation>キャンセル</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="337"/>
       <source>&lt;font color="red"&gt;&lt;b&gt;Warning&lt;/b&gt;&lt;/font&gt;: Run the debugger as Admin to enable JIT.</source>
       <translation>&lt;font color="red"&gt;&lt;b&gt;警告&lt;/b&gt;&lt;/font&gt; : JIT を有効にするには、デバッガを管理者として実行します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="639"/>
       <source>Settings saved!</source>
       <translation>設定を保存しました！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>ERROR NOT FOUND OLD JIT</source>
       <translation>ERROR NOT FOUND OLD JIT</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</source>
       <translation>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Question</source>
       <translation>質問</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Are you sure you want to add %.8X?</source>
       <translation>%.8X を追加してもよろしいですか?</translation>
     </message>

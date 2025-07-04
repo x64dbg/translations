@@ -12147,22 +12147,22 @@ Do you want to continue rendering this graph?</source>
       <translation>මූලික ලේඛනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="254"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
       <source>Local%1</source>
       <translation>දේශීය%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
       <source>Arg%1</source>
       <translation>අර්ග්%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="301"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
       <source>Rename local variable "%1"</source>
       <translation>දේශීය විචල්ය නැවත නම් කරන්න "%1”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="321"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
       <source>Edit %1 at %2</source>
       <translation>%1 හි %2සංස්කරණය කරන්න</translation>
     </message>
@@ -15555,7 +15555,7 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="190"/>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1127"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1165"/>
       <source>* Requires debuggee restart</source>
       <translation>* නිදොස්කරණය කරන්නා නැවත ආරම්භ කිරීම අවශ්‍ය වේ</translation>
     </message>
@@ -15835,217 +15835,232 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
       <translation>ශාඛා විසුරුවා හැරීමේ පෙරදසුනෙහි අක්රීය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="754"/>
-      <source>0x prefix for values</source>
-      <translation>අගයන් සඳහා 0x උපසර්ගය</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
+      <source>Display style for values:</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="761"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
+      <source>Default</source>
+      <translation>පෙරනිමි</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
+      <source>C style (0x prefix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
+      <source>MASM style (0 prefix, h suffix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
       <source>Don't show source lines in comments</source>
       <translation>අදහස් වලින් ප්රභව රේඛා නොපෙන්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="768"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="806"/>
       <source>Assemble instruction on double-click</source>
       <translation>ද්විත්ව ක්ලික් මත උපදෙස් එක්රැස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="792"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="830"/>
       <source>Maximum module name size</source>
       <translation>උපරිම මොඩියුලය නම ප්රමාණය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="840"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="878"/>
       <source>GUI</source>
       <translation>ගුයි</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="852"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="890"/>
       <source>Show FPU registers as little endian</source>
       <translation>FPU ලේඛණ කුඩා එන්ඩියන් ලෙස පෙන්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="859"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="897"/>
       <source>Save GUI layout and column orders</source>
       <translation>GUI පිරිසැලසුම සහ තීරු ඇණවුම් සුරකින්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="866"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="904"/>
       <source>Don't show close dialog</source>
       <translation>සමීප සංවාදයක් පෙන්වන්න එපා</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="873"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="911"/>
       <source>Enable Load/Save Tab Order</source>
       <translation>පැටවීම/සුරකින්න ටැබ් ඇණවුම සක්රීය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="880"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="918"/>
       <source>Show Watch Labels in Side Bar</source>
       <translation>පෙන්වන්න වොච් ලේබල සයිඩ් බාර්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="887"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="925"/>
       <source>Do not call SetForegroundWindow</source>
       <translation>SetforeGoundWindow අමතන්න එපා</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="894"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="932"/>
       <source>Show RVA addresses in graph view</source>
       <translation>ප්රස්තාරය දැක්ම තුළ RVA ලිපින පෙන්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="901"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
       <source>Graph zoom mode</source>
       <translation>ප්රස්තාරය විශාලන මාදිලිය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="908"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
       <source>Auto follow operand in stack</source>
       <translation>අඩුක්කුව දී වාහන අනුගමනය මෙහෙයුම්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="915"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
       <source>Show exit confirmation dialog</source>
       <translation>පිටවීමේ තහවුරු කිරීමේ සංවාදය පෙන්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="922"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
       <source>Disable auto completion in goto dialog</source>
       <translation>Goto සංවාදයේ ස්වයංක්රීය සම්පූර්ණ කිරීම අක්රීය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="929"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="967"/>
       <source>Hide seasonal icons</source>
       <translation>සෘතුමය අයිකන සඟවන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="936"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="974"/>
       <source>Disabling this option will tell Windows that x64dbg is DPI unaware. This might result in blurry results in some configurations.</source>
       <translation>මෙම විකල්පය අක්‍රිය කිරීමෙන් x64dbg DPI නොදන්නා බව Windows හට දන්වනු ඇත. මෙය සමහර වින්‍යාසයන් තුළ නොපැහැදිලි ප්‍රතිඵල ඇති කළ හැකිය.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="977"/>
       <source>Qt High DPI Scaling</source>
       <translation>Qt ඉහළ DPI පරිමාණය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
       <source>Full executable path in title</source>
       <translation>මාතෘකාව තුළ සම්පූර්ණ ක්‍රියාත්මක කළ හැකි මාර්ගය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="991"/>
       <source>Disable icons*</source>
       <translation>අයිකන අක්‍රීය කරන්න*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="998"/>
       <source>Dump in trace view consumes significant memory. It is used by many features in trace view that need to search for access to memory. If disabled, it will not be loaded by default. The user can always load the dump manually. Dump in already opened trace tabs are not disabled until you close them.</source>
       <translation>ඩම්ප් ඉන් ට්‍රේස් වීව් සැලකිය යුතු මතකයක් පරිභෝජනය කරයි. මතකයට ප්‍රවේශය සෙවීමට අවශ්‍ය ට්‍රේස් වීව් හි බොහෝ විශේෂාංග මගින් එය භාවිතා කරයි. අක්‍රිය කර ඇත්නම්, එය පෙරනිමියෙන් පූරණය නොවේ. පරිශීලකයාට සැමවිටම ඩම්ප් අතින් පූරණය කළ හැකිය. දැනටමත් විවෘත කර ඇති ට්‍රේස් ටැබ් වල ඩම්ප් ඔබ ඒවා වසා දමන තුරු අක්‍රිය නොවේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="963"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1001"/>
       <source>Automatically load dump in trace view</source>
       <translation>හෝඩුවාවන් දර්ශනය තුළ ඩම්ප් ස්වයංක්‍රීයව පූරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1022"/>
       <source>Misc</source>
       <translation>මිස්ක්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="996"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1034"/>
       <source>Symbol Store:</source>
       <translation>සංකේත වෙළඳසැල:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1006"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1044"/>
       <source>Symbol Path:</source>
       <translation>සංකේතය මාර්ගය:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1030"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1068"/>
       <source>Set x64dbg as Just In Time Debugger</source>
       <translation>යන්තම් කාල නිදොස් ලෙස x64dbg සකසන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1039"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1077"/>
       <source>JIT:</source>
       <translation>ජිට්:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1058"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1096"/>
       <source>&lt;font color="red"&gt;DIE SCUM!&lt;/font&gt;</source>
       <translation>&lt;font color="red"&gt;මිය යනවා!&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1065"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1103"/>
       <source>Search Engine URL</source>
       <translation>සෙවුම් යන්ත්ර URL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1079"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1117"/>
       <source>UTF-16 Log Redirect*</source>
       <translation>UTF-16 ලොග් හරවා එවීම*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1086"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1124"/>
       <source>Use local help file (x64dbg.chm)</source>
       <translation>දේශීය උදව් ගොනුව භාවිතා කරන්න (x64dbg.chm)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1093"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1131"/>
       <source>Query process cookie*</source>
       <translation>කුකී* ක්රියාවලිය විමසුම්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1100"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1138"/>
       <source>Query working set before reading memory</source>
       <translation>මතකය කියවීමට පෙර වැඩ කරන විමසුම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1107"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1145"/>
       <source>Transparent exception stepping*</source>
       <translation>විනිවිද පෙනෙන ව්යතිරේකය පියවර ගැනීම*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1156"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1194"/>
       <source>Save</source>
       <translation>සුරකින්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1166"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1204"/>
       <source>Cancel</source>
       <translation>අවලංගු කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="337"/>
       <source>&lt;font color="red"&gt;&lt;b&gt;Warning&lt;/b&gt;&lt;/font&gt;: Run the debugger as Admin to enable JIT.</source>
       <translation>&lt;font color="red"&gt;&lt;b&gt;අවවාදයයි&lt;/b&gt;&lt;/font&gt;: JIT සක්රීය කිරීම සඳහා පරිපාලක ලෙස නිදොස්කරණය ක්රියාත්මක කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="639"/>
       <source>Settings saved!</source>
       <translation>සැකසුම් සුරකින ලදි!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>ERROR NOT FOUND OLD JIT</source>
       <translation>පැරණි ජිට් සොයා නොගත් දෝෂයක්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</source>
       <translation>පැරණි ජිට් ඇතුළත් කිරීම ගබඩා කර නැත, SETJIT විධානය භාවිතා කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Question</source>
       <translation>ප්රශ්නය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Are you sure you want to add %.8X?</source>
       <translation>ඔබට %.8Xඑකතු කිරීමට අවශ්ය බව ඔබට විශ්වාසද?</translation>
     </message>

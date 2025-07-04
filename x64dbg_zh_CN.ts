@@ -12136,22 +12136,22 @@ Do you want to continue rendering this graph?</source>
       <translation>基址寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="254"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
       <source>Local%1</source>
       <translation>局部变量%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
       <source>Arg%1</source>
       <translation>参数%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="301"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
       <source>Rename local variable "%1"</source>
       <translation>重命名局部变量“%1”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="321"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
       <source>Edit %1 at %2</source>
       <translation>编辑 %2 处的 %1</translation>
     </message>
@@ -15532,7 +15532,7 @@ The TEB can be used to get a lot of information on the process without calling W
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="190"/>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1127"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1165"/>
       <source>* Requires debuggee restart</source>
       <translation>* 需要重启被调试程序</translation>
     </message>
@@ -15812,217 +15812,232 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>不弹出跳转目标预览框</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="754"/>
-      <source>0x prefix for values</source>
-      <translation>值前加 0x 前缀</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
+      <source>Display style for values:</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="761"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
+      <source>Default</source>
+      <translation>默认</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
+      <source>C style (0x prefix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
+      <source>MASM style (0 prefix, h suffix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
       <source>Don't show source lines in comments</source>
       <translation>注释栏不显示源代码行号</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="768"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="806"/>
       <source>Assemble instruction on double-click</source>
       <translation>双击指令时打开汇编窗口</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="792"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="830"/>
       <source>Maximum module name size</source>
       <translation>模块名最长长度</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="840"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="878"/>
       <source>GUI</source>
       <translation>图形界面</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="852"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="890"/>
       <source>Show FPU registers as little endian</source>
       <translation>以小端字节序显示FPU寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="859"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="897"/>
       <source>Save GUI layout and column orders</source>
       <translation>保存 GUI 布局与列顺序</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="866"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="904"/>
       <source>Don't show close dialog</source>
       <translation>不显示关闭对话框</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="873"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="911"/>
       <source>Enable Load/Save Tab Order</source>
       <translation>允许载入/保存页面顺序</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="880"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="918"/>
       <source>Show Watch Labels in Side Bar</source>
       <translation>在侧栏显示监视项标签</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="887"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="925"/>
       <source>Do not call SetForegroundWindow</source>
       <translation>不调用 SetForegroundWindow</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="894"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="932"/>
       <source>Show RVA addresses in graph view</source>
       <translation>在流程图显示相对地址</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="901"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
       <source>Graph zoom mode</source>
       <translation>图形缩放模式</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="908"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
       <source>Auto follow operand in stack</source>
       <translation>自动在堆栈转到操作数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="915"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
       <source>Show exit confirmation dialog</source>
       <translation>显示退出确认对话框</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="922"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
       <source>Disable auto completion in goto dialog</source>
       <translation>在“转到”对话框中禁用自动完成功能</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="929"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="967"/>
       <source>Hide seasonal icons</source>
       <translation>不显示节庆图标</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="936"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="974"/>
       <source>Disabling this option will tell Windows that x64dbg is DPI unaware. This might result in blurry results in some configurations.</source>
       <translation>禁用此选项x64dbg将告诉Windows不支持DPI。这可能会导致一些系统中显示模糊。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="977"/>
       <source>Qt High DPI Scaling</source>
       <translation>Qt高分辨率缩放</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
       <source>Full executable path in title</source>
       <translation>标题栏显示应用程序完整路径</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="991"/>
       <source>Disable icons*</source>
       <translation>禁用图标*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="998"/>
       <source>Dump in trace view consumes significant memory. It is used by many features in trace view that need to search for access to memory. If disabled, it will not be loaded by default. The user can always load the dump manually. Dump in already opened trace tabs are not disabled until you close them.</source>
       <translation>运行跟踪窗口中的内存窗口需要使用大量内存。它由运行跟踪窗口中的许多需要搜索内存访问的功能所使用。如果禁用这个选项，内存窗口不会默认加载。用户总是可以手动加载。在已经打开的运行跟踪窗口中的内存窗口不会被禁用，需要先关闭运行跟踪。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="963"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1001"/>
       <source>Automatically load dump in trace view</source>
       <translation>在跟踪视图中自动加载内存窗口</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1022"/>
       <source>Misc</source>
       <translation>杂项</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="996"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1034"/>
       <source>Symbol Store:</source>
       <translation>符号存储网址：</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1006"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1044"/>
       <source>Symbol Path:</source>
       <translation>本地符号路径：</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1030"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1068"/>
       <source>Set x64dbg as Just In Time Debugger</source>
       <translation>将这份x64dbg设为即时调试器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1039"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1077"/>
       <source>JIT:</source>
       <translation>即时调试器:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1058"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1096"/>
       <source>&lt;font color="red"&gt;DIE SCUM!&lt;/font&gt;</source>
       <translation>&lt;font color="red"&gt;DIR SCUM!&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1065"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1103"/>
       <source>Search Engine URL</source>
       <translation>搜索引擎的 URL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1079"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1117"/>
       <source>UTF-16 Log Redirect*</source>
       <translation>日志重定向采用UTF-16编码*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1086"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1124"/>
       <source>Use local help file (x64dbg.chm)</source>
       <translation>使用本地帮助文件 (x64dbg.chm)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1093"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1131"/>
       <source>Query process cookie*</source>
       <translation>查询进程 cookie *</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1100"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1138"/>
       <source>Query working set before reading memory</source>
       <translation>读取内存之前查询工作集</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1107"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1145"/>
       <source>Transparent exception stepping*</source>
       <translation>步进 (忽略错误, Exception类的)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1156"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1194"/>
       <source>Save</source>
       <translation>保存</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1166"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1204"/>
       <source>Cancel</source>
       <translation>取消</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="337"/>
       <source>&lt;font color="red"&gt;&lt;b&gt;Warning&lt;/b&gt;&lt;/font&gt;: Run the debugger as Admin to enable JIT.</source>
       <translation>&lt;font color="red"&gt; &lt;b&gt;警告&lt;/b&gt;&lt;/font&gt;︰ 需要以管理员权限运行才能启用即时调试。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="639"/>
       <source>Settings saved!</source>
       <translation>设置已保存!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>ERROR NOT FOUND OLD JIT</source>
       <translation>错误：没有找到旧的即时调试器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</source>
       <translation>没有找到以前保存的旧的即时调试器，请使用SETJIT命令设置</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Question</source>
       <translation>提示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Are you sure you want to add %.8X?</source>
       <translation>您确定要添加 %.8X 吗？</translation>
     </message>

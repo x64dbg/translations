@@ -12075,22 +12075,22 @@ Do you want to continue rendering this graph?</source>
       <translation>기준 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="254"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
       <source>Local%1</source>
       <translation>로컬%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="256"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
       <source>Arg%1</source>
       <translation>인자%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="301"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
       <source>Rename local variable "%1"</source>
       <translation>지역변수 "%1" 이름바꾸기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="321"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
       <source>Edit %1 at %2</source>
       <translation>%2에서 %1 수정</translation>
     </message>
@@ -15489,7 +15489,7 @@ The TEB can be used to get a lot of information on the process without calling W
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="190"/>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1127"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1165"/>
       <source>* Requires debuggee restart</source>
       <translation>* 디버그 대상 재시작 필요</translation>
     </message>
@@ -15769,218 +15769,233 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>분기 디스어셈블리 미리보기 비활성화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="754"/>
-      <source>0x prefix for values</source>
-      <translation>값을 위한 0x 접두부</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
+      <source>Display style for values:</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="761"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
+      <source>Default</source>
+      <translation>기본값</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
+      <source>C style (0x prefix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
+      <source>MASM style (0 prefix, h suffix)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
       <source>Don't show source lines in comments</source>
       <translation>주석에 소스라인을 표시하지 않음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="768"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="806"/>
       <source>Assemble instruction on double-click</source>
       <translation>더블 클릭으로 명령어 합치기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="792"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="830"/>
       <source>Maximum module name size</source>
       <translation>최대 모듈 이름 크기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="840"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="878"/>
       <source>GUI</source>
       <translation>GUI</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="852"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="890"/>
       <source>Show FPU registers as little endian</source>
       <translation>Little endian로 FPU 레지스터를 보기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="859"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="897"/>
       <source>Save GUI layout and column orders</source>
       <translation>GUI 레이아웃 및 열 순서 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="866"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="904"/>
       <source>Don't show close dialog</source>
       <translation>끝내기 대화상자 표시하지 않음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="873"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="911"/>
       <source>Enable Load/Save Tab Order</source>
       <translation>열기/저장 탭 순서 활성화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="880"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="918"/>
       <source>Show Watch Labels in Side Bar</source>
       <translation>사이드바에 주시 레이블을 표시</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="887"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="925"/>
       <source>Do not call SetForegroundWindow</source>
       <translation>SetForegroundWindow를 호출하지 않음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="894"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="932"/>
       <source>Show RVA addresses in graph view</source>
       <translation>RVA주소를 그래프 뷰로 표시</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="901"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
       <source>Graph zoom mode</source>
       <translation>그래프 확대 모드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="908"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
       <source>Auto follow operand in stack</source>
       <translation>스택의 피연산자를 자동으로 따라가기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="915"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
       <source>Show exit confirmation dialog</source>
       <translation>종료 확인 창을 표시</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="922"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
       <source>Disable auto completion in goto dialog</source>
       <translation>goto 창에서 자동완성 비활성화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="929"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="967"/>
       <source>Hide seasonal icons</source>
       <translation>계절 아이콘 숨기기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="936"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="974"/>
       <source>Disabling this option will tell Windows that x64dbg is DPI unaware. This might result in blurry results in some configurations.</source>
       <translation>이 옵션을 비활성화하면 Windows에게 x64dbg가 DPI를 인식하지 못하는 것으로 알립니다. 이는 일부 설정에서 불분명한 결과를 초래할 수 있습니다.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="977"/>
       <source>Qt High DPI Scaling</source>
       <translation>Qt 고해상도(DPI) 스케일링</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
       <source>Full executable path in title</source>
       <translation>타이틀에 전체 실행경로 표시</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="991"/>
       <source>Disable icons*</source>
       <translation>아이콘 비활성화*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="998"/>
       <source>Dump in trace view consumes significant memory. It is used by many features in trace view that need to search for access to memory. If disabled, it will not be loaded by default. The user can always load the dump manually. Dump in already opened trace tabs are not disabled until you close them.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="963"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1001"/>
       <source>Automatically load dump in trace view</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="984"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1022"/>
       <source>Misc</source>
       <translation>기타</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="996"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1034"/>
       <source>Symbol Store:</source>
       <translation>기호 스토어:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1006"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1044"/>
       <source>Symbol Path:</source>
       <translation>기호 경로:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1030"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1068"/>
       <source>Set x64dbg as Just In Time Debugger</source>
       <translation>x64dbg를 Just In Time디버거로 설정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1039"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1077"/>
       <source>JIT:</source>
       <translation>JIT:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1058"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1096"/>
       <source>&lt;font color="red"&gt;DIE SCUM!&lt;/font&gt;</source>
       <translation>&lt;font color="red"&gt;DIE SCUM!&lt;/font&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1065"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1103"/>
       <source>Search Engine URL</source>
       <translation>검색 엔진 URL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1079"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1117"/>
       <source>UTF-16 Log Redirect*</source>
       <translation>UTF-16 로그 리디렉션*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1086"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1124"/>
       <source>Use local help file (x64dbg.chm)</source>
       <translation>로컬 도움말 파일 사용 (x64dbg.chm)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1093"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1131"/>
       <source>Query process cookie*</source>
       <translation>쿼리 프로세스 쿠키*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1100"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1138"/>
       <source>Query working set before reading memory</source>
       <translation>메모리 읽기전에 쿼리 실행</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1107"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1145"/>
       <source>Transparent exception stepping*</source>
       <translation>투명 예외 단계*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1156"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1194"/>
       <source>Save</source>
       <translation>저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1166"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1204"/>
       <source>Cancel</source>
       <translation>취소</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="337"/>
       <source>&lt;font color="red"&gt;&lt;b&gt;Warning&lt;/b&gt;&lt;/font&gt;: Run the debugger as Admin to enable JIT.</source>
       <translation>&lt;font color="red"&gt;&lt;b&gt;경고&lt;/b&gt;&lt;/font&gt;: JIT를 활성화 시키시려면 디버거를 관리자로 실행하세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="639"/>
       <source>Settings saved!</source>
       <translation>설정이 저장되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>ERROR NOT FOUND OLD JIT</source>
       <translation>오류 : 구형 JIT을 발견할 수 없음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="695"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
       <source>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</source>
       <translation>저장된 이전 JIT 진입점을 찾을 수 없습니다, SETJIT 명령을 사용해주세요</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Question</source>
       <translation>질문</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="863"/>
       <source>Are you sure you want to add %.8X?</source>
       <translation>정말로 %.8X를 추가하시겠습니까?</translation>
     </message>
