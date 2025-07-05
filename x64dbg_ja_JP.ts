@@ -15841,7 +15841,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
       <source>Display style for values:</source>
-      <translation type="unfinished"/>
+      <translation>値の表示形式：</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
@@ -15851,12 +15851,12 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
       <source>C style (0x prefix)</source>
-      <translation type="unfinished"/>
+      <translation>C スタイル (0x 接頭辞)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
       <source>MASM style (0 prefix, h suffix)</source>
-      <translation type="unfinished"/>
+      <translation>MASM スタイル (0 接頭辞、h 接尾辞)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
