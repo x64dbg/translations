@@ -7437,13 +7437,13 @@
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="203"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="204"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="347"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="395"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="484"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="587"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="637"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="740"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="929"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="358"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="411"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="500"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="603"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="653"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="756"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="945"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
@@ -7453,7 +7453,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="204"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="206"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="349"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="360"/>
       <source>Data</source>
       <translation>දත්ත</translation>
     </message>
@@ -7979,19 +7979,19 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="202"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="345"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="356"/>
       <source>Pattern: %s</source>
       <translation>රටාව: %s</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="208"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="351"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="396"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="485"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="588"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="638"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="741"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="930"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="362"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="412"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="501"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="604"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="654"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="757"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="946"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
@@ -8000,86 +8000,86 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="240"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="376"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="392"/>
       <source>[Error disassembling]</source>
       <translation>[විසුරුවා හැරීමේ දෝෂය]</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="248"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="384"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="400"/>
       <source>%d occurrences found in %ums
 </source>
       <translation>%d සිදුවීම් %ums
 හි දක්නට ලැබේ</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="340"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="351"/>
       <source>MemFindInMap failed!</source>
       <translation>MEMෆින්ඩින්සිතියම අසමත් විය!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="442"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="458"/>
       <source>Failed to assemble "%s" (%s)!
 </source>
       <translation>එකලස් කිරීමට අසමත් විය "%s" (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="451"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="467"/>
       <source>Command: "%s"</source>
       <translation>විධානය: "%s”</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="454"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="470"/>
       <source>%u result(s) in %ums
 </source>
       <translation>%u ප්රතිඵලය (s) %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="566"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="582"/>
       <source>Constant: %p</source>
       <translation>නියත: %p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="568"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="584"/>
       <source>Range: %p-%p</source>
       <translation>පරාසය: %p-%p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="577"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
       <source>%u reference(s) in %ums
 </source>
       <translation>%u යොමු (ය) %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="589"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="605"/>
       <source>String Address</source>
       <translation>අනුලකුණු ලිපිනය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="590"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="606"/>
       <source>String</source>
       <translation>සංගීත</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="591"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="607"/>
       <source>Follow in Disassembly and Dump</source>
       <translation>විසුරුවා හැරීම සහ ඩම්ප් තුළ අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="592"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="608"/>
       <source>Follow string in Dump</source>
       <translation>ඩම්ප් හි අනුලකුණු වැල අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="639"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="655"/>
       <source>Function pointer</source>
       <translation>කාර්යය දර්ශකය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="640"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="656"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="326"/>
@@ -8087,81 +8087,81 @@
       <translation>ලේබලය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="700"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="716"/>
       <source>Strings</source>
       <translation>නූල්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="703"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="719"/>
       <source>%u string(s) in %ums
 </source>
       <translation>%u string (ව) %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="727"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="743"/>
       <source>Function pointers</source>
       <translation>කාර්යය පොයින්ටර්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="730"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
       <source>%u function pointer(s) in %ums
 </source>
       <translation>%u ශ්රිතය පහිටුම් දක්වනය (ව) %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="742"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="758"/>
       <source>Destination</source>
       <translation>ගමනාන්තය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="832"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="848"/>
       <source>Calls</source>
       <translation>ඇමතුම්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="835"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="851"/>
       <source>%u call(s) in %ums
 </source>
       <translation>%u ඇමතුම (s) %ums
 හි</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="931"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1074"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="947"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1090"/>
       <source>GUID</source>
       <translation>ගයිඩ්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="932"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="948"/>
       <source>ProgId</source>
       <translation>ProGID</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="933"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="949"/>
       <source>Path</source>
       <translation>මාර්ගය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="934"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="950"/>
       <source>Description</source>
       <translation>විස්තරය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1046"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1062"/>
       <source>RegOpenKeyExW() failed. Cannot enumerate GUIDs.</source>
       <translation>RegoPenkeyexW () අසමත් විය. GiDs නම් කළ නොහැක.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1077"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1093"/>
       <source>%u GUID(s) in %ums
 </source>
       <translation>%u GUID (ගේ) %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1090"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1106"/>
       <source>Invalid expression: "%s"</source>
       <translation>වලංගු නොවන ප්රකාශනය: "%s”</translation>
     </message>

@@ -7424,13 +7424,13 @@
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="203"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="204"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="347"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="395"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="484"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="587"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="637"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="740"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="929"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="358"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="411"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="500"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="603"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="653"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="756"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="945"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
@@ -7440,7 +7440,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="204"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="206"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="349"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="360"/>
       <source>Data</source>
       <translation>Данные</translation>
     </message>
@@ -7965,19 +7965,19 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="202"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="345"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="356"/>
       <source>Pattern: %s</source>
       <translation>Шаблон: %s</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="208"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="351"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="396"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="485"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="588"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="638"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="741"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="930"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="362"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="412"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="501"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="604"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="654"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="757"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="946"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
@@ -7986,86 +7986,86 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="240"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="376"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="392"/>
       <source>[Error disassembling]</source>
       <translation>[Ошибка дизассемблирования]</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="248"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="384"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="400"/>
       <source>%d occurrences found in %ums
 </source>
       <translation>найдено %d вхождени(я,й) за %uмс
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="340"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="351"/>
       <source>MemFindInMap failed!</source>
       <translation>Сбой MemFindInMap!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="442"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="458"/>
       <source>Failed to assemble "%s" (%s)!
 </source>
       <translation>Не удалось собрать "%s" (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="451"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="467"/>
       <source>Command: "%s"</source>
       <translation>Команда: «%s»</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="454"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="470"/>
       <source>%u result(s) in %ums
 </source>
       <translation>%u результат(-ов) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="566"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="582"/>
       <source>Constant: %p</source>
       <translation>Константа: %p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="568"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="584"/>
       <source>Range: %p-%p</source>
       <translation>Диапазон: %p-%p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="577"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
       <source>%u reference(s) in %ums
 </source>
       <translation>%u ссылка(-ок) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="589"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="605"/>
       <source>String Address</source>
       <translation>Адрес Строки</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="590"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="606"/>
       <source>String</source>
       <translation>Строка</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="591"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="607"/>
       <source>Follow in Disassembly and Dump</source>
       <translation>Проследовать в дизассемблированном коде и дампе</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="592"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="608"/>
       <source>Follow string in Dump</source>
       <translation>Перейти к строке в дампе</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="639"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="655"/>
       <source>Function pointer</source>
       <translation>Указатель на функцию</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="640"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="656"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="326"/>
@@ -8073,81 +8073,81 @@
       <translation>Метка</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="700"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="716"/>
       <source>Strings</source>
       <translation>Строки</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="703"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="719"/>
       <source>%u string(s) in %ums
 </source>
       <translation>%u строк(-а) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="727"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="743"/>
       <source>Function pointers</source>
       <translation>Указатели на функцию</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="730"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
       <source>%u function pointer(s) in %ums
 </source>
       <translation>%u указатель(-ей) на функцию в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="742"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="758"/>
       <source>Destination</source>
       <translation>Назначение</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="832"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="848"/>
       <source>Calls</source>
       <translation>Вызовы</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="835"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="851"/>
       <source>%u call(s) in %ums
 </source>
       <translation>%u вызов(-ов) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="931"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1074"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="947"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1090"/>
       <source>GUID</source>
       <translation>GUID</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="932"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="948"/>
       <source>ProgId</source>
       <translation>ProgId</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="933"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="949"/>
       <source>Path</source>
       <translation>Путь</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="934"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="950"/>
       <source>Description</source>
       <translation>Описание</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1046"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1062"/>
       <source>RegOpenKeyExW() failed. Cannot enumerate GUIDs.</source>
       <translation>Не удалось выполнить RegOpenKeyExW(). Невозможно перечислить идентификаторы GUID.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1077"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1093"/>
       <source>%u GUID(s) in %ums
 </source>
       <translation>%u GUID(-ов) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1090"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1106"/>
       <source>Invalid expression: "%s"</source>
       <translation>Недопустимое выражение: "%s"</translation>
     </message>
