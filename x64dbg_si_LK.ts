@@ -1490,7 +1490,7 @@
       <translation>බිඳවැටීම්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="489"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
       <source>fastresume</source>
       <translation>වේගයෙන් ආරම්භ කරන්න</translation>
     </message>
@@ -1571,15 +1571,15 @@
   <context>
     <name>Bridge</name>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="223"/>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="233"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="229"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="239"/>
       <source>The data has been copied to clipboard.
 </source>
       <translation>දත්ත පසුරු පුවරුවට පිටපත් කර ඇත.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="435"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="450"/>
       <source>References</source>
       <translation>යොමු කිරීම්</translation>
     </message>
@@ -2292,8 +2292,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1408"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2017"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2038"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2018"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2039"/>
       <source>Size</source>
       <translation>ප්රමාණය</translation>
     </message>
@@ -2339,16 +2339,16 @@
       <translation>උපදෙස් එක්රැස් කිරීමට අසමත් විය”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1932"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1949"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1966"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1933"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1950"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1967"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>%1පිටුව සඳහා අනුරේඛන ආවරණය සක්‍රීය කිරීමට අසමත් විය.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1983"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1984"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>%1පිටුව සඳහා අනුරේඛන ආවරණය අක්‍රිය කිරීමට අසමත් විය.
@@ -4412,7 +4412,6 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Debug</source>
       <translation>නිදොස් කිරීම</translation>
     </message>
@@ -4533,7 +4532,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Trace coverage</source>
       <translation>හෝඩුවාවන් ආවරණය</translation>
     </message>
@@ -4544,48 +4543,53 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
-      <source>None</source>
-      <translation>කිසිවක් නැත</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Undo instruction</source>
       <translation>උපදෙස් අහෝසි කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Animate into</source>
       <translation>සජීවීකරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Animate over</source>
       <translation>පුරා සජීවිකරණය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Animate command</source>
       <translation>සජීවිකරණ විධානය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Step into until reaching uncovered code</source>
       <translation>අනාවරණ කේතයට ළඟා වන තුරු ඇතුල් වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Step over until reaching uncovered code</source>
       <translation>අනාවරණ කේතයට ළඟා වන තුරු ඉදිරියට යන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Step into until reaching covered code</source>
       <translation>ආවරණය කරන ලද කේතයට ළඟා වන තුරු ඇතුල් වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step over until reaching covered code</source>
       <translation>ආවරණය කරන ලද කේතයට ළඟා වන තුරු ඉදිරියට යන්න</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Tracing</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Disable</source>
+      <translation>අක්රීය කරන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
@@ -5764,7 +5768,7 @@
       <translation>බිඳවැටීම්</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="472"/>
+      <location filename="src/dbg/_exports.cpp" line="473"/>
       <source>fastresume()</source>
       <translation>වේගයෙන් ආරම්භ කරන්න ()</translation>
     </message>
@@ -12147,22 +12151,22 @@ Do you want to continue rendering this graph?</source>
       <translation>මූලික ලේඛනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="259"/>
       <source>Local%1</source>
       <translation>දේශීය%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="261"/>
       <source>Arg%1</source>
       <translation>අර්ග්%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="306"/>
       <source>Rename local variable "%1"</source>
       <translation>දේශීය විචල්ය නැවත නම් කරන්න "%1”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="326"/>
       <source>Edit %1 at %2</source>
       <translation>%1 හි %2සංස්කරණය කරන්න</translation>
     </message>
@@ -15836,22 +15840,22 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
-      <source>Display style for values:</source>
+      <source>Hexadecimal value notation:</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
-      <source>Default</source>
-      <translation>පෙරනිමි</translation>
+      <source>None</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
-      <source>C style (0x prefix)</source>
+      <source>C/C++</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
-      <source>MASM style (0 prefix, h suffix)</source>
+      <source>MASM</source>
       <translation type="unfinished"/>
     </message>
     <message>

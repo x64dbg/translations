@@ -1490,7 +1490,7 @@
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="489"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
       <source>fastresume</source>
       <translation>fastresume</translation>
     </message>
@@ -1571,15 +1571,15 @@
   <context>
     <name>Bridge</name>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="223"/>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="233"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="229"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="239"/>
       <source>The data has been copied to clipboard.
 </source>
       <translation>データがクリップボードにコピーされました。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="435"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="450"/>
       <source>References</source>
       <translation>参照</translation>
     </message>
@@ -2292,8 +2292,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1408"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2017"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2038"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2018"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2039"/>
       <source>Size</source>
       <translation>サイズ</translation>
     </message>
@@ -2339,16 +2339,16 @@
       <translation>命令のアセンブルに失敗しました "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1932"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1949"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1966"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1933"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1950"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1967"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>ページ%1のトレースカバレッジを有効にできませんでした。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1983"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1984"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>ページ%1のトレースカバレッジを無効にできませんでした。
@@ -4411,7 +4411,6 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Debug</source>
       <translation>デバッグ</translation>
     </message>
@@ -4532,7 +4531,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Trace coverage</source>
       <translation>トレースカバレッジ</translation>
     </message>
@@ -4543,48 +4542,53 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
-      <source>None</source>
-      <translation>なし</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Undo instruction</source>
       <translation>命令を取り消し</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Animate into</source>
       <translation>アニメーション イントゥ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Animate over</source>
       <translation>アニメーション オーバー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Animate command</source>
       <translation>アニメーション コマンド</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Step into until reaching uncovered code</source>
       <translation>未実行コードに到達するまでステップイン</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Step over until reaching uncovered code</source>
       <translation>未実行コードに到達するまでステップオーバー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Step into until reaching covered code</source>
       <translation>実行済みコードに到達するまでステップイン</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step over until reaching covered code</source>
       <translation>実行済みコードに到達するまでステップオーバー</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Tracing</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Disable</source>
+      <translation>無効</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
@@ -5764,7 +5768,7 @@
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="472"/>
+      <location filename="src/dbg/_exports.cpp" line="473"/>
       <source>fastresume()</source>
       <translation>fastresume()</translation>
     </message>
@@ -12157,22 +12161,22 @@ Do you want to continue rendering this graph?</source>
       <translation>ベース レジスタ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="259"/>
       <source>Local%1</source>
       <translation>ローカル%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="261"/>
       <source>Arg%1</source>
       <translation>Arg%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="306"/>
       <source>Rename local variable "%1"</source>
       <translation>ローカル変数 "%1" の名前を変更</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="326"/>
       <source>Edit %1 at %2</source>
       <translation>編集 %1 at %2</translation>
     </message>
@@ -15840,23 +15844,23 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
-      <source>Display style for values:</source>
-      <translation>値の表示形式：</translation>
+      <source>Hexadecimal value notation:</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
-      <source>Default</source>
-      <translation>既定</translation>
+      <source>None</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
-      <source>C style (0x prefix)</source>
-      <translation>C スタイル (0x 接頭辞)</translation>
+      <source>C/C++</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
-      <source>MASM style (0 prefix, h suffix)</source>
-      <translation>MASM スタイル (0 接頭辞、h 接尾辞)</translation>
+      <source>MASM</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>

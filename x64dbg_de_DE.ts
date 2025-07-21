@@ -1490,7 +1490,7 @@
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="489"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
       <source>fastresume</source>
       <translation>schnelles Fortsetzen</translation>
     </message>
@@ -1571,15 +1571,15 @@
   <context>
     <name>Bridge</name>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="223"/>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="233"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="229"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="239"/>
       <source>The data has been copied to clipboard.
 </source>
       <translation>Die Daten wurden in die Zwischenablage kopiert.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="435"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="450"/>
       <source>References</source>
       <translation>Referenzen</translation>
     </message>
@@ -2292,8 +2292,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1408"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2017"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2038"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2018"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2039"/>
       <source>Size</source>
       <translation>Größe</translation>
     </message>
@@ -2339,16 +2339,16 @@
       <translation>Assemblieren der Instruktion fehlgeschlagen "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1932"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1949"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1966"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1933"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1950"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1967"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>Fehler beim Aktivieren der Trace-Abdeckung für Seite %1.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1983"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1984"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>Fehler beim Deaktivieren der Trace-Abdeckung für Seite %1.
@@ -4412,7 +4412,6 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Debug</source>
       <translation>Debug</translation>
     </message>
@@ -4533,7 +4532,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Trace coverage</source>
       <translation>Trace Abdeckung</translation>
     </message>
@@ -4544,48 +4543,53 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
-      <source>None</source>
-      <translation>Keine</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Undo instruction</source>
       <translation>Letzte Anweisung rückgängig machen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Animate into</source>
       <translation>Animieren in</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Animate over</source>
       <translation>Animieren über</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Animate command</source>
       <translation>Befehl animieren</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Step into until reaching uncovered code</source>
       <translation>Einstieg bis zum Erreichen des nicht-gecoverten Codes</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Step over until reaching uncovered code</source>
       <translation>Überspringen bis zum Erreichen des nicht-gecoverten Codes</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Step into until reaching covered code</source>
       <translation>Einstieg bis zum Erreichen des gecoverten Codes</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step over until reaching covered code</source>
       <translation>Überspringen bis zum Erreichen des gecoverten Codes</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Tracing</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Disable</source>
+      <translation>Deaktivieren</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
@@ -5765,7 +5769,7 @@
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="472"/>
+      <location filename="src/dbg/_exports.cpp" line="473"/>
       <source>fastresume()</source>
       <translation>fastresume()</translation>
     </message>
@@ -12130,22 +12134,22 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
       <translation>Basisregister</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="259"/>
       <source>Local%1</source>
       <translation>Local%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="261"/>
       <source>Arg%1</source>
       <translation>Arg%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="306"/>
       <source>Rename local variable "%1"</source>
       <translation>Lokale Variable "%1" umbenennen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="326"/>
       <source>Edit %1 at %2</source>
       <translation>Bearbeiten von %1 auf %2</translation>
     </message>
@@ -15844,22 +15848,22 @@ Die TEB kann verwendet werden, um eine Vielzahl von Informationen
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
-      <source>Display style for values:</source>
+      <source>Hexadecimal value notation:</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
-      <source>Default</source>
-      <translation>Standard</translation>
+      <source>None</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
-      <source>C style (0x prefix)</source>
+      <source>C/C++</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
-      <source>MASM style (0 prefix, h suffix)</source>
+      <source>MASM</source>
       <translation type="unfinished"/>
     </message>
     <message>

@@ -1489,7 +1489,7 @@
       <translation>暂停条件</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="489"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
       <source>fastresume</source>
       <translation>快速恢复</translation>
     </message>
@@ -1569,15 +1569,15 @@
   <context>
     <name>Bridge</name>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="223"/>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="233"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="229"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="239"/>
       <source>The data has been copied to clipboard.
 </source>
       <translation>数据已复制到剪贴板。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="435"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="450"/>
       <source>References</source>
       <translation>引用</translation>
     </message>
@@ -2290,8 +2290,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1408"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2017"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2038"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2018"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2039"/>
       <source>Size</source>
       <translation>大小</translation>
     </message>
@@ -2337,16 +2337,16 @@
       <translation>无法汇编指令 "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1932"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1949"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1966"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1933"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1950"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1967"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>为页面%1启用代码覆盖时失败。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1983"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1984"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>为页面%1禁用代码覆盖时失败。
@@ -4409,7 +4409,6 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Debug</source>
       <translation>调试</translation>
     </message>
@@ -4530,7 +4529,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Trace coverage</source>
       <translation>代码覆盖</translation>
     </message>
@@ -4541,48 +4540,53 @@
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
-      <source>None</source>
-      <translation>无</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Undo instruction</source>
       <translation>撤销上个指令</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Animate into</source>
       <translation>自动步进</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Animate over</source>
       <translation>自动步过</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Animate command</source>
       <translation>自动运行命令</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Step into until reaching uncovered code</source>
       <translation>步进至未覆盖的代码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Step over until reaching uncovered code</source>
       <translation>步过至未覆盖的代码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Step into until reaching covered code</source>
       <translation>步进至已覆盖的代码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step over until reaching covered code</source>
       <translation>步过至已覆盖的代码</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Tracing</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Disable</source>
+      <translation>禁用</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
@@ -5762,7 +5766,7 @@
       <translation>暂停条件</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="472"/>
+      <location filename="src/dbg/_exports.cpp" line="473"/>
       <source>fastresume()</source>
       <translation>快速恢复()</translation>
     </message>
@@ -12136,22 +12140,22 @@ Do you want to continue rendering this graph?</source>
       <translation>基址寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="259"/>
       <source>Local%1</source>
       <translation>局部变量%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="261"/>
       <source>Arg%1</source>
       <translation>参数%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="306"/>
       <source>Rename local variable "%1"</source>
       <translation>重命名局部变量“%1”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="326"/>
       <source>Edit %1 at %2</source>
       <translation>编辑 %2 处的 %1</translation>
     </message>
@@ -15813,22 +15817,22 @@ The TEB can be used to get a lot of information on the process without calling W
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
-      <source>Display style for values:</source>
+      <source>Hexadecimal value notation:</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
-      <source>Default</source>
-      <translation>默认</translation>
+      <source>None</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
-      <source>C style (0x prefix)</source>
+      <source>C/C++</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
-      <source>MASM style (0 prefix, h suffix)</source>
+      <source>MASM</source>
       <translation type="unfinished"/>
     </message>
     <message>

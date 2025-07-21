@@ -1493,7 +1493,7 @@
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="489"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
       <source>fastresume</source>
       <translation>fastresume</translation>
     </message>
@@ -1573,14 +1573,14 @@
   <context>
     <name>Bridge</name>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="223"/>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="233"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="229"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="239"/>
       <source>The data has been copied to clipboard.
 </source>
       <translation>Podaci su kopirani u međuspremnik.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="435"/>
+      <location filename="src/gui/Src/Bridge/Bridge.cpp" line="450"/>
       <source>References</source>
       <translation>Reference</translation>
     </message>
@@ -2298,8 +2298,8 @@ Kopiraj token &amp;tekst</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1408"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2017"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2038"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2018"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2039"/>
       <source>Size</source>
       <translation>Veličina</translation>
     </message>
@@ -2345,15 +2345,15 @@ Kopiraj token &amp;tekst</translation>
       <translation>Nije uspjelo asembliranje instrukcije "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1932"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1949"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1966"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1933"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1950"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1967"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>Omogućavanje pokrivenosti praćenja za stranicu %1 nije uspjelo.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1983"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1984"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>Onemogućavanje pokrivenosti praćenja za stranicu %1 nije uspjelo.</translation>
@@ -4413,7 +4413,6 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Debug</source>
       <translation type="unfinished"/>
     </message>
@@ -4534,7 +4533,7 @@ Hex dugo dugo (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Trace coverage</source>
       <translation type="unfinished"/>
     </message>
@@ -4545,48 +4544,53 @@ Hex dugo dugo (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
-      <source>None</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Undo instruction</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Animate into</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Animate over</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Animate command</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Step into until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Step over until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Step into until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step over until reaching covered code</source>
       <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Tracing</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <source>Disable</source>
+      <translation>Isključi</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
@@ -5763,7 +5767,7 @@ Hex dugo dugo (64-bit)</translation>
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="472"/>
+      <location filename="src/dbg/_exports.cpp" line="473"/>
       <source>fastresume()</source>
       <translation type="unfinished"/>
     </message>
@@ -11828,22 +11832,22 @@ Kopiraj token &amp;tekst</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="276"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="259"/>
       <source>Local%1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="261"/>
       <source>Arg%1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="323"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="306"/>
       <source>Rename local variable "%1"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="326"/>
       <source>Edit %1 at %2</source>
       <translation type="unfinished"/>
     </message>
@@ -15486,22 +15490,22 @@ The TEB can be used to get a lot of information on the process without calling W
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
-      <source>Display style for values:</source>
+      <source>Hexadecimal value notation:</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
-      <source>Default</source>
+      <source>None</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
-      <source>C style (0x prefix)</source>
+      <source>C/C++</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
-      <source>MASM style (0 prefix, h suffix)</source>
+      <source>MASM</source>
       <translation type="unfinished"/>
     </message>
     <message>
