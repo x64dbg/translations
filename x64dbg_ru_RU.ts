@@ -5851,7 +5851,7 @@
     <message>
       <location filename="src/dbg/breakpoint.cpp" line="554"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="407"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="408"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
       <translation>Ошибка установки точки останова по адресу %p! (SetBPX)
@@ -5881,8 +5881,8 @@
       <translation>Недостаточно аргументов! Должно быть предоставлено как минимум %d аргумент(ов). Аргументы должны быть &lt;a href="https://help.x64dbg.com/en/latest/commands/index.html"&gt;разделены запятыми&lt;/a&gt;.</translation>
     </message>
     <message>
-      <location filename="src/dbg/command.cpp" line="308"/>
-      <location filename="src/dbg/command.cpp" line="352"/>
+      <location filename="src/dbg/command.cpp" line="309"/>
+      <location filename="src/dbg/command.cpp" line="353"/>
       <source>The command "%s" is debug-only
 </source>
       <translation>Команда "%s" только для отладки
@@ -6471,7 +6471,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="454"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="542"/>
-      <location filename="src/dbg/debugger.cpp" line="1169"/>
+      <location filename="src/dbg/debugger.cpp" line="1170"/>
       <source>You can only set 4 hardware breakpoints</source>
       <translation>Можно задать только 4 аппаратные точки останова</translation>
     </message>
@@ -6518,7 +6518,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="510"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="529"/>
-      <location filename="src/dbg/debugger.cpp" line="786"/>
+      <location filename="src/dbg/debugger.cpp" line="787"/>
       <source>Delete hardware breakpoint failed: %p (DeleteHardwareBreakPoint)
 </source>
       <translation>Сбой удаления аппаратной точки останова: %p (DeleteHardwareBreakPoint)
@@ -7155,55 +7155,55 @@
       <translation>Отладка не остановилась после 10 секунд. Состояние отладчика может быть повреждено. Рекомендуется перезапустить x64dbg.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="256"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="257"/>
       <source>Could not open process %X!
 </source>
       <translation>Не удалось открыть процесс %X!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="263"/>
-      <location filename="src/dbg/debugger.cpp" line="2930"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="264"/>
+      <location filename="src/dbg/debugger.cpp" line="2921"/>
       <source>Process is already being debugged!</source>
       <translation>Процесс уже находится в отладке!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="270"/>
-      <location filename="src/dbg/debugger.cpp" line="2849"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="271"/>
+      <location filename="src/dbg/debugger.cpp" line="2840"/>
       <source>IsWow64Process failed!</source>
       <translation>Сбой IsWow64Process!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="276"/>
-      <location filename="src/dbg/debugger.cpp" line="2856"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
+      <location filename="src/dbg/debugger.cpp" line="2847"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Для отладки этого процесса используйте x32dbg!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="278"/>
-      <location filename="src/dbg/debugger.cpp" line="2858"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
+      <location filename="src/dbg/debugger.cpp" line="2849"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Для отладки этого процесса используйте x64dbg!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="285"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
       <source>Could not get module filename %X!
 </source>
       <translation>Не удалось получить имя файла модуля %X!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="336"/>
       <source>DetachDebuggerEx failed...</source>
       <translation>Сбой DetachDebuggerEx...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="337"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="338"/>
       <source>Detached!</source>
       <translation>Отсоединён!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="386"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="387"/>
       <location filename="src/dbg/value.cpp" line="1794"/>
       <location filename="src/dbg/value.cpp" line="2527"/>
       <location filename="src/dbg/value.cpp" line="2571"/>
@@ -7211,29 +7211,29 @@
       <translation>Не отладка!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="391"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="392"/>
       <source>Program is not running</source>
       <translation>Программа не запущена</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="400"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="401"/>
       <source>The active thread is suspended, switch to a running thread to pause the process</source>
       <translation>Активный поток приостановлен, переключитесь на запущенный поток для приостановки процесса</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="410"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="421"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="411"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="422"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="107"/>
       <source>Error resuming thread</source>
       <translation>Ошибка возобновления потока</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="432"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="433"/>
       <source>Exception will be swallowed</source>
       <translation>Исключение будет проглочено</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="437"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="438"/>
       <source>Exception will be thrown in the program</source>
       <translation>Исключение будет выброшено в программу</translation>
     </message>
@@ -7928,19 +7928,19 @@
       <translation>Перезагрузить</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-script.cpp" line="90"/>
+      <location filename="src/dbg/commands/cmd-script.cpp" line="107"/>
       <source>No call stack.</source>
       <translation>Нет стека вызовов.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-script.cpp" line="96"/>
+      <location filename="src/dbg/commands/cmd-script.cpp" line="113"/>
       <source>%llu call stack frames (RIP = %p , RSP = %p , RBP = %p ):
 </source>
       <translation>%llu кадров стека вызовов (RIP = %p , RSP = %p , RBP = %p ):
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-script.cpp" line="99"/>
+      <location filename="src/dbg/commands/cmd-script.cpp" line="116"/>
       <source>%u call stack frames (EIP = %p , ESP = %p , EBP = %p ):
 </source>
       <translation>%u кадров стека вызовов (EIP = %p , ESP = %p , EBP = %p ):
@@ -8998,488 +8998,488 @@ Invalid database file (JSON)!</source>
       <translation>Буфер назначения слишком маленький</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="277"/>
+      <location filename="src/dbg/debugger.cpp" line="278"/>
       <source>Thread switched from %X to %X !
 </source>
       <translation>Поток переключен с %X на %X !
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="490"/>
+      <location filename="src/dbg/debugger.cpp" line="491"/>
       <source>Module: %s - </source>
       <translation>Модуль: %s- </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="503"/>
+      <location filename="src/dbg/debugger.cpp" line="504"/>
       <source> (switched from %s)</source>
       <translation> (переключились с %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="513"/>
+      <location filename="src/dbg/debugger.cpp" line="514"/>
       <source>%s - PID: %s - %sThread: %s%s%s</source>
       <translation>%s - PID: %s - %sThread: %s%s%s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="614"/>
+      <location filename="src/dbg/debugger.cpp" line="615"/>
       <source>%s breakpoint "%s" at %s!
 </source>
       <translation>%s точка останова "%s" на %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="616"/>
+      <location filename="src/dbg/debugger.cpp" line="617"/>
       <source>%s breakpoint at %s!
 </source>
       <translation>%s точка останова на %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="643"/>
+      <location filename="src/dbg/debugger.cpp" line="644"/>
       <source>execute</source>
       <translation>выполнение</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="647"/>
+      <location filename="src/dbg/debugger.cpp" line="648"/>
       <source>read/write</source>
       <translation>чтение/запись</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="650"/>
+      <location filename="src/dbg/debugger.cpp" line="651"/>
       <source>write</source>
       <translation>запись</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="657"/>
+      <location filename="src/dbg/debugger.cpp" line="658"/>
       <source>Hardware breakpoint (%s%s) "%s" at %s!
 </source>
       <translation>Аппаратная точка останова (%s%s) "%s" на %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="659"/>
+      <location filename="src/dbg/debugger.cpp" line="660"/>
       <source>Hardware breakpoint (%s%s) at %s!
 </source>
       <translation>Аппаратная точка останова (%s%s) на %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="669"/>
+      <location filename="src/dbg/debugger.cpp" line="670"/>
       <source> (read)</source>
       <translation> (чтение)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="672"/>
+      <location filename="src/dbg/debugger.cpp" line="673"/>
       <source> (write)</source>
       <translation> (запись)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="675"/>
+      <location filename="src/dbg/debugger.cpp" line="676"/>
       <source> (execute)</source>
       <translation> (выполнение)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="678"/>
+      <location filename="src/dbg/debugger.cpp" line="679"/>
       <source> (read/write/execute)</source>
       <translation> (чтение/запись/выполнение)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="686"/>
+      <location filename="src/dbg/debugger.cpp" line="687"/>
       <source>Memory breakpoint%s "%s" at %s, exception address: %s!
 </source>
       <translation>Точка останова на память %s "%s" на %s, адрес исключения: %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="695"/>
+      <location filename="src/dbg/debugger.cpp" line="696"/>
       <source>Memory breakpoint%s at %s, exception address: %s!
 </source>
       <translation>Точка останова в памяти %s по адресу %s, адрес исключения: %s!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="710"/>
+      <location filename="src/dbg/debugger.cpp" line="711"/>
       <source>DLL Load</source>
       <translation>Загрузке DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="713"/>
+      <location filename="src/dbg/debugger.cpp" line="714"/>
       <source>DLL Unload</source>
       <translation>Выгрузке DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="716"/>
+      <location filename="src/dbg/debugger.cpp" line="717"/>
       <source>DLL Load and unload</source>
       <translation>Загрузка и выгрузка DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="722"/>
+      <location filename="src/dbg/debugger.cpp" line="723"/>
       <source>DLL Breakpoint %s (%s): Module %s
 </source>
       <translation>Точка останова DLL %s (%s): Модуль %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="724"/>
+      <location filename="src/dbg/debugger.cpp" line="725"/>
       <source>DLL Breakpoint (%s): Module %s
 </source>
       <translation>Точка останова на DLL (%s): Модуль %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="731"/>
-      <location filename="src/dbg/debugger.cpp" line="733"/>
+      <location filename="src/dbg/debugger.cpp" line="732"/>
+      <location filename="src/dbg/debugger.cpp" line="734"/>
       <source>Exception Breakpoint %s (%p) at %p!
 </source>
       <translation>Точка останова на исключение %s (%p) в %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="760"/>
+      <location filename="src/dbg/debugger.cpp" line="761"/>
       <source>paused!</source>
       <translation>приостановлен!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="862"/>
+      <location filename="src/dbg/debugger.cpp" line="863"/>
       <source>Breakpoint reached not in list!</source>
       <translation>Достигнута точка останова не в списке!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="896"/>
-      <location filename="src/dbg/debugger.cpp" line="1335"/>
+      <location filename="src/dbg/debugger.cpp" line="897"/>
+      <location filename="src/dbg/debugger.cpp" line="1336"/>
       <source>Error when evaluating break condition.</source>
       <translation>Ошибка при вычисленияя условия прерывания.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="908"/>
-      <location filename="src/dbg/debugger.cpp" line="1350"/>
+      <location filename="src/dbg/debugger.cpp" line="909"/>
+      <location filename="src/dbg/debugger.cpp" line="1351"/>
       <source>Error when evaluating log condition.</source>
       <translation>Ошибка при оценке состояния журнала.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="920"/>
-      <location filename="src/dbg/debugger.cpp" line="1356"/>
+      <location filename="src/dbg/debugger.cpp" line="921"/>
+      <location filename="src/dbg/debugger.cpp" line="1357"/>
       <source>Error when evaluating command condition.</source>
       <translation>Ошибка при вычислении условия "command".</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1015"/>
+      <location filename="src/dbg/debugger.cpp" line="1016"/>
       <source>Failed to open breakpoint log: %s (%s)
 </source>
       <translation>Не удалось открыть журнал точки останова: %s (%s)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1044"/>
+      <location filename="src/dbg/debugger.cpp" line="1045"/>
       <source>User code reached at %s</source>
       <translation>Код пользователя достигнут в  %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1141"/>
+      <location filename="src/dbg/debugger.cpp" line="1142"/>
       <source>Breakpoint %p has been disabled because the bytes don't match! Expected: %02X %02X, Found: %02X %02X
 </source>
       <translation>Точка останова %p была отключена, так как байты не совпадают! Ожидается: %02X %02X, получено: %02X %02X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1148"/>
+      <location filename="src/dbg/debugger.cpp" line="1149"/>
       <source>Could not set breakpoint %p! (SetBPX)
 </source>
       <translation>Не удалось установить точку останова %p! (SetBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1151"/>
+      <location filename="src/dbg/debugger.cpp" line="1152"/>
       <source>MemRead failed on breakpoint address %p!
 </source>
       <translation>Ошибка MemRead на точке останова по адресу %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1160"/>
+      <location filename="src/dbg/debugger.cpp" line="1161"/>
       <source>Could not set memory breakpoint %p! (SetMemoryBPXEx)
 </source>
       <translation>Не удалось установить точку останова на память %p! (SetMemoryBPXEx)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1176"/>
+      <location filename="src/dbg/debugger.cpp" line="1177"/>
       <source>Could not set hardware breakpoint %p! (SetHardwareBreakPoint)
 </source>
       <translation>Не удалось установить аппаратную точку останова %p! (SetHardwareBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1178"/>
+      <location filename="src/dbg/debugger.cpp" line="1179"/>
       <source>Set hardware breakpoint on %p!
 </source>
       <translation>Установите аппаратную точку останова на %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1211"/>
+      <location filename="src/dbg/debugger.cpp" line="1212"/>
       <source>Could not delete breakpoint %p! (DeleteBPX)
 </source>
       <translation>Не удалось удалить точку останова %p! (DeleteBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1215"/>
+      <location filename="src/dbg/debugger.cpp" line="1216"/>
       <source>Could not delete memory breakpoint %p! (RemoveMemoryBPX)
 </source>
       <translation>Не удалось удалить точку останова по данным %p! (DeleteBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1219"/>
+      <location filename="src/dbg/debugger.cpp" line="1220"/>
       <source>Could not delete hardware breakpoint %p! (DeleteHardwareBreakPoint)
 </source>
       <translation>Не удалось удалить аппаратную точку останова %p! (DeleteHardwareBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1381"/>
+      <location filename="src/dbg/debugger.cpp" line="1382"/>
       <source>Trace finished after %llu steps!
 </source>
       <translation>Трассировка завершена за %llu шагов!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1383"/>
+      <location filename="src/dbg/debugger.cpp" line="1384"/>
       <source>Trace finished after %u steps!
 </source>
       <translation>Трассировка завершена за %u шагов!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1454"/>
-      <location filename="src/dbg/debugger.cpp" line="1796"/>
+      <location filename="src/dbg/debugger.cpp" line="1455"/>
+      <location filename="src/dbg/debugger.cpp" line="1787"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (сбой GetFileNameFromHandle)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1456"/>
+      <location filename="src/dbg/debugger.cpp" line="1457"/>
       <source>Process Started: %p %s
 </source>
       <translation>Процесс запущен: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1505"/>
+      <location filename="src/dbg/debugger.cpp" line="1506"/>
       <source>TLS Callback %d</source>
       <translation>TLS Callback %d</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1513"/>
-      <location filename="src/dbg/debugger.cpp" line="1850"/>
+      <location filename="src/dbg/debugger.cpp" line="1514"/>
+      <location filename="src/dbg/debugger.cpp" line="1841"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d недопустимые адреса TLS callback...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1518"/>
-      <location filename="src/dbg/debugger.cpp" line="1822"/>
+      <location filename="src/dbg/debugger.cpp" line="1519"/>
+      <location filename="src/dbg/debugger.cpp" line="1813"/>
       <source>entry breakpoint</source>
       <translation>останов в точке входа</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1582"/>
+      <location filename="src/dbg/debugger.cpp" line="1583"/>
       <source>Process stopped with exit code %s
 </source>
       <translation>Процесс остановлен с кодом выхода %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1622"/>
+      <location filename="src/dbg/debugger.cpp" line="1623"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation>Поток %s создан, Точка входа: %s, Параметр: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1631"/>
+      <location filename="src/dbg/debugger.cpp" line="1632"/>
       <source>Thread Entry</source>
       <translation>Точке входа потока</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1660"/>
+      <location filename="src/dbg/debugger.cpp" line="1661"/>
       <source>Thread %s Stack</source>
       <translation>Стек потока %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1686"/>
+      <location filename="src/dbg/debugger.cpp" line="1687"/>
       <source>No threads left to switch to (bug?)</source>
       <translation>Не осталось потоков, на которые можно переключиться (баг?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1695"/>
+      <location filename="src/dbg/debugger.cpp" line="1696"/>
       <source>Thread %s exit
 </source>
       <translation>Поток %s завершен</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1723"/>
+      <location filename="src/dbg/debugger.cpp" line="1719"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation>Ошибка: Не удается загрузить глобальный сценарий инициализации.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1733"/>
+      <location filename="src/dbg/debugger.cpp" line="1724"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation>Ошибка: Не удается загрузить сценарий инициализации отладки.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1754"/>
+      <location filename="src/dbg/debugger.cpp" line="1745"/>
       <source>System breakpoint reached!</source>
       <translation>Достигнута системная точка останова!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1766"/>
+      <location filename="src/dbg/debugger.cpp" line="1757"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation>Обнаружено, что точка входа в отлаживаемом модуле находится в заголовке MZ исполняемого файла. Это приведет к странному поведению, поэтому системная точка останова была включена независимо от вашей настройки. Будьте осторожны!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1841"/>
-      <location filename="src/dbg/debugger.cpp" line="1843"/>
+      <location filename="src/dbg/debugger.cpp" line="1832"/>
+      <location filename="src/dbg/debugger.cpp" line="1834"/>
       <source>TLS Callback</source>
       <translation>TLS Callback</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1879"/>
+      <location filename="src/dbg/debugger.cpp" line="1870"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>Подождите пока загрузятся символы ntdll.dll...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1885"/>
+      <location filename="src/dbg/debugger.cpp" line="1876"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>LdrpDebugFlags успешно установлено в 0x%08X!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1887"/>
+      <location filename="src/dbg/debugger.cpp" line="1878"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>Не удалось записать в LdrpDebugFlags
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1891"/>
+      <location filename="src/dbg/debugger.cpp" line="1882"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>Символ 'LdrpDebugFlags' не найден!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1896"/>
+      <location filename="src/dbg/debugger.cpp" line="1887"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>Не удалось найти LdrpDebugFlags (Вам нужно загрузить отладочные символы для ntdll.dll)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1901"/>
+      <location filename="src/dbg/debugger.cpp" line="1892"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL загружена: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1968"/>
+      <location filename="src/dbg/debugger.cpp" line="1959"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL выгружена: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2011"/>
+      <location filename="src/dbg/debugger.cpp" line="2002"/>
       <source>DebugString: "%s"
 </source>
       <translation>Строка отладки: «%s»
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2084"/>
+      <location filename="src/dbg/debugger.cpp" line="2075"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>Исключение SetThreadName на %p (%X, "%s")
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2102"/>
+      <location filename="src/dbg/debugger.cpp" line="2093"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>Первая попытка исключения на %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2104"/>
+      <location filename="src/dbg/debugger.cpp" line="2095"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>Первая попытка исключения на %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2115"/>
+      <location filename="src/dbg/debugger.cpp" line="2106"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>Последняя попытка исключения на %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2117"/>
+      <location filename="src/dbg/debugger.cpp" line="2108"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>Последняя попытка исключения на %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2175"/>
+      <location filename="src/dbg/debugger.cpp" line="2166"/>
       <source>Attached to process!</source>
       <translation>Присоединиться к процессу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2740"/>
+      <location filename="src/dbg/debugger.cpp" line="2731"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>Ошибка отладки DLL (ошибка копирования загрузчика)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2789"/>
+      <location filename="src/dbg/debugger.cpp" line="2780"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>Ошибка отладки DLL (не найден loaddll.exe)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2822"/>
+      <location filename="src/dbg/debugger.cpp" line="2813"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>Для отладки исполняемого файла требуется повышение привилегий. Перезапустить с правами администратора?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2823"/>
+      <location filename="src/dbg/debugger.cpp" line="2814"/>
       <source>Elevation</source>
       <translation>Повышение</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2841"/>
+      <location filename="src/dbg/debugger.cpp" line="2832"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>Ошибка запуска процесса (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2932"/>
+      <location filename="src/dbg/debugger.cpp" line="2923"/>
       <source>Attach to process failed: %s
 </source>
       <translation>Не удалось присоединиться к процессу: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2969"/>
+      <location filename="src/dbg/debugger.cpp" line="2961"/>
       <source>Debugging stopped!</source>
       <translation>Отладка остановлена!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3021"/>
+      <location filename="src/dbg/debugger.cpp" line="3013"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -9986,51 +9986,51 @@ Do you want to continue debugging?</source>
       <translation>Все модули (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="101"/>
+      <location filename="src/dbg/simplescript.cpp" line="126"/>
       <source>FileHelper::ReadAllText failed...</source>
       <translation>Сбой FileHelper::ReadAllText...</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="235"/>
+      <location filename="src/dbg/simplescript.cpp" line="259"/>
       <source>Empty label detected on line %d!</source>
       <translation>Обнаружена пустая метка в строке %d!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="244"/>
+      <location filename="src/dbg/simplescript.cpp" line="268"/>
       <source>Duplicate label "%s" detected on lines %d and %d!</source>
       <translation>Обнаружено дублирование метки "%s" в строках %d и %d!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="285"/>
-      <location filename="src/dbg/simplescript.cpp" line="451"/>
+      <location filename="src/dbg/simplescript.cpp" line="309"/>
+      <location filename="src/dbg/simplescript.cpp" line="482"/>
       <source>Invalid branch label "%s" detected on line %d!</source>
       <translation>В  обнаружена недопустимая метка ветви "%s" строке %d!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="418"/>
+      <location filename="src/dbg/simplescript.cpp" line="447"/>
       <source>Script finished!</source>
       <translation>Скрипт завершён!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="499"/>
+      <location filename="src/dbg/simplescript.cpp" line="530"/>
       <source>Error executing command!</source>
       <translation>Ошибка выполнения команды!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="562"/>
+      <location filename="src/dbg/simplescript.cpp" line="561"/>
+      <location filename="src/dbg/simplescript.cpp" line="563"/>
+      <source>Debugger must be paused to run a script!</source>
+      <translation>Для запуска скрипта отладчик должен быть приостановлен!</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/simplescript.cpp" line="601"/>
       <source>The script is too busy. Would you like to terminate it now?</source>
       <translation>Скрипт слишком занят. Вы хотите завершить его сейчас?</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="564"/>
+      <location filename="src/dbg/simplescript.cpp" line="603"/>
       <source>Script is terminated by user.</source>
       <translation>Скрипт завершен пользователем.</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/simplescript.cpp" line="628"/>
-      <location filename="src/dbg/simplescript.cpp" line="630"/>
-      <source>Debugger must be paused to run a script!</source>
-      <translation>Для запуска скрипта отладчик должен быть приостановлен!</translation>
     </message>
     <message>
       <location filename="src/dbg/stackinfo.cpp" line="37"/>
@@ -10262,199 +10262,199 @@ Do you want to continue debugging?</source>
       <translation>Наблюдать %u</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="514"/>
+      <location filename="src/dbg/x64dbg.cpp" line="519"/>
       <source>command cut at ~%d characters
 </source>
       <translation>команда вырезать ~%d символы
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="560"/>
+      <location filename="src/dbg/x64dbg.cpp" line="565"/>
       <source>[Script DLL] Calling export "AsyncStart"...
 </source>
       <translation>[Script DLL] Вызов экспортируемой функции «AsyncStart»...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="562"/>
+      <location filename="src/dbg/x64dbg.cpp" line="567"/>
       <source>[Script DLL] "AsyncStart" returned!
 </source>
       <translation>[Script DLL] Возврат из функции «AsyncStart»!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="564"/>
-      <location filename="src/dbg/x64dbg.cpp" line="610"/>
+      <location filename="src/dbg/x64dbg.cpp" line="569"/>
+      <location filename="src/dbg/x64dbg.cpp" line="615"/>
       <source>[Script DLL] Calling FreeLibrary...</source>
       <translation>[Script DLL] Вызов FreeLibrary...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="566"/>
-      <location filename="src/dbg/x64dbg.cpp" line="612"/>
+      <location filename="src/dbg/x64dbg.cpp" line="571"/>
+      <location filename="src/dbg/x64dbg.cpp" line="617"/>
       <source>success!
 </source>
       <translation>успех!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="570"/>
-      <location filename="src/dbg/x64dbg.cpp" line="616"/>
+      <location filename="src/dbg/x64dbg.cpp" line="575"/>
+      <location filename="src/dbg/x64dbg.cpp" line="621"/>
       <source>failure (%s)...
 </source>
       <translation>отказ (%s)...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="582"/>
+      <location filename="src/dbg/x64dbg.cpp" line="587"/>
       <source>[Script DLL] Loading Script DLL "%s"...
 </source>
       <translation>[Script DLL] Загрузка Script DLL «%s»...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="587"/>
+      <location filename="src/dbg/x64dbg.cpp" line="592"/>
       <source>[Script DLL] DLL loaded on 0x%p!
 </source>
       <translation>[Script DLL] DLL загружена по адресу 0x%p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="592"/>
+      <location filename="src/dbg/x64dbg.cpp" line="597"/>
       <source>[Script DLL] Creating thread to call the export "AsyncStart"...
 </source>
       <translation>[Script DLL] Создание потока для вызова экспортируемой функции «AsyncStart»...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="600"/>
+      <location filename="src/dbg/x64dbg.cpp" line="605"/>
       <source>[Script DLL] Calling export "Start"...
 </source>
       <translation>[Script DLL] Вызов экспортируемой функции «Start»...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="602"/>
+      <location filename="src/dbg/x64dbg.cpp" line="607"/>
       <source>[Script DLL] "Start" returned!
 </source>
       <translation>[Script DLL] Возврат из функции «Start»!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="607"/>
+      <location filename="src/dbg/x64dbg.cpp" line="612"/>
       <source>[Script DLL] Failed to find the exports "AsyncStart" or "Start" (%s)!
 </source>
       <translation>[Script DLL] Не удалось найти экспортируемые функции "AsyncStart" или "Start" (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="623"/>
+      <location filename="src/dbg/x64dbg.cpp" line="628"/>
       <source>[Script DLL] LoadLibary failed (%s)!
 </source>
       <translation>[Script DLL] Не удалось выполнить LoadLibary (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="639"/>
+      <location filename="src/dbg/x64dbg.cpp" line="644"/>
       <source>Retrieving syscall indices...</source>
       <translation>Получение индексов syscall...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="641"/>
+      <location filename="src/dbg/x64dbg.cpp" line="646"/>
       <source>Syscall indices loaded!</source>
       <translation>Индексы Syscall загружены!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="643"/>
+      <location filename="src/dbg/x64dbg.cpp" line="648"/>
       <source>Failed to load syscall indices...</source>
       <translation>Не удалось загрузить индексы syscall...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="648"/>
+      <location filename="src/dbg/x64dbg.cpp" line="653"/>
       <source>Error codes database loaded!</source>
       <translation>База данных кодов ошибок загружена!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="650"/>
+      <location filename="src/dbg/x64dbg.cpp" line="655"/>
       <source>Failed to load error codes...</source>
       <translation>Сбой загрузки кодов ошибок...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="654"/>
+      <location filename="src/dbg/x64dbg.cpp" line="659"/>
       <source>Exception codes database loaded!</source>
       <translation>База данных кодов исключений загружена!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="656"/>
+      <location filename="src/dbg/x64dbg.cpp" line="661"/>
       <source>Failed to load exception codes...</source>
       <translation>Не удалось загрузить коды исключений...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="660"/>
+      <location filename="src/dbg/x64dbg.cpp" line="665"/>
       <source>NTSTATUS codes database loaded!</source>
       <translation>База данных кодов NTSTATUS загружена!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="662"/>
+      <location filename="src/dbg/x64dbg.cpp" line="667"/>
       <source>Failed to load NTSTATUS codes...</source>
       <translation>Не удалось загрузить коды NTSTATUS...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="666"/>
+      <location filename="src/dbg/x64dbg.cpp" line="671"/>
       <source>Windows constant database loaded!</source>
       <translation>База данных констант Windows загружена!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="668"/>
+      <location filename="src/dbg/x64dbg.cpp" line="673"/>
       <source>Failed to load Windows constants...</source>
       <translation>Не удалось загрузить константы Windows...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="671"/>
+      <location filename="src/dbg/x64dbg.cpp" line="676"/>
       <source>Reading notes file...</source>
       <translation>Чтение файла заметок...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="677"/>
+      <location filename="src/dbg/x64dbg.cpp" line="682"/>
       <source>Reading notes failed...</source>
       <translation>Не удалось прочитать заметки...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="679"/>
+      <location filename="src/dbg/x64dbg.cpp" line="684"/>
       <source>File read thread finished!</source>
       <translation>Чтение файлового потока закончено!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="708"/>
+      <location filename="src/dbg/x64dbg.cpp" line="834"/>
       <source>Initializing wait objects...</source>
       <translation>Инициализация объектов ожидания...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="711"/>
+      <location filename="src/dbg/x64dbg.cpp" line="837"/>
       <source>Initializing debugger...</source>
       <translation>Инициализация отладчика...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="713"/>
+      <location filename="src/dbg/x64dbg.cpp" line="839"/>
       <source>Initializing debugger functions...</source>
       <translation>Инициализация функций отладчика...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="716"/>
+      <location filename="src/dbg/x64dbg.cpp" line="842"/>
       <source>Setting JSON memory management functions...</source>
       <translation>Установка функций управления памятью JSON...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="719"/>
+      <location filename="src/dbg/x64dbg.cpp" line="845"/>
       <source>Getting directory information...</source>
       <translation>Получение сведений о каталоге...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="725"/>
+      <location filename="src/dbg/x64dbg.cpp" line="851"/>
       <source>Start file read thread...</source>
       <translation>Запуск чтения файлового потока...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="762"/>
+      <location filename="src/dbg/x64dbg.cpp" line="888"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
@@ -10463,119 +10463,119 @@ Do you want me to fix this?</source>
 Вы хотите это исправить?</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="769"/>
+      <location filename="src/dbg/x64dbg.cpp" line="895"/>
       <source>Symbol Path: %s
 </source>
       <translation>Путь к символьной информации: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="770"/>
+      <location filename="src/dbg/x64dbg.cpp" line="896"/>
       <source>Allocating message stack...</source>
       <translation>Выделение стека для сообщений...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="774"/>
+      <location filename="src/dbg/x64dbg.cpp" line="900"/>
       <source>Initializing global script variables...</source>
       <translation>Инициализация глобальных переменных скриптов...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="776"/>
+      <location filename="src/dbg/x64dbg.cpp" line="902"/>
       <source>Registering debugger commands...</source>
       <translation>Регистрация команд отладчика...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="778"/>
+      <location filename="src/dbg/x64dbg.cpp" line="904"/>
       <source>Registering GUI command handler...</source>
       <translation>Регистрация обработчика команд пользовательского интерфейса...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="780"/>
+      <location filename="src/dbg/x64dbg.cpp" line="906"/>
       <source>Registering expression functions...</source>
       <translation>Регистрация функций вычисления выражений...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="782"/>
+      <location filename="src/dbg/x64dbg.cpp" line="908"/>
       <source>Registering format functions...</source>
       <translation>Регистрация функций форматирования...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="784"/>
+      <location filename="src/dbg/x64dbg.cpp" line="910"/>
       <source>Default</source>
       <translation>По умолчанию</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="793"/>
+      <location filename="src/dbg/x64dbg.cpp" line="919"/>
       <source>Registering Script DLL command handler...</source>
       <translation>Регистрация обработчика команд Script DLL...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="794"/>
+      <location filename="src/dbg/x64dbg.cpp" line="920"/>
       <source>Script DLL</source>
       <translation>Script DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="797"/>
+      <location filename="src/dbg/x64dbg.cpp" line="923"/>
       <source>Starting command loop...</source>
       <translation>Запуск командного цикла...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="804"/>
+      <location filename="src/dbg/x64dbg.cpp" line="930"/>
       <source>Initialization successful!</source>
       <translation>Инициализация успешно завершена!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="806"/>
+      <location filename="src/dbg/x64dbg.cpp" line="932"/>
       <source>Loading plugins...</source>
       <translation>Загрузка плагинов...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="808"/>
+      <location filename="src/dbg/x64dbg.cpp" line="934"/>
       <source>Handling command line...</source>
       <translation>Обработка командной строки...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="836"/>
+      <location filename="src/dbg/x64dbg.cpp" line="945"/>
       <source>Stopping command thread...</source>
       <translation>Остановка командного потока...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="840"/>
+      <location filename="src/dbg/x64dbg.cpp" line="949"/>
       <source>Stopping running debuggee...</source>
       <translation>Остановка выполнения отлаживаемого процесса...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="842"/>
+      <location filename="src/dbg/x64dbg.cpp" line="951"/>
       <source>Aborting scripts...</source>
       <translation>Прерывание сценариев...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="844"/>
+      <location filename="src/dbg/x64dbg.cpp" line="953"/>
       <source>Unloading plugins...</source>
       <translation>Выгрузка плагинов...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="846"/>
+      <location filename="src/dbg/x64dbg.cpp" line="955"/>
       <source>Cleaning up allocated data...</source>
       <translation>Очистка выделенных данных...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="849"/>
+      <location filename="src/dbg/x64dbg.cpp" line="958"/>
       <source>Cleaning up wait objects...</source>
       <translation>Очистка объектов ожидания...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="852"/>
+      <location filename="src/dbg/x64dbg.cpp" line="961"/>
       <source>Cleaning up debugger threads...</source>
       <translation>Очистка потоков отладчика...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="854"/>
+      <location filename="src/dbg/x64dbg.cpp" line="963"/>
       <source>Saving notes...</source>
       <translation>Сохранение заметок...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="864"/>
+      <location filename="src/dbg/x64dbg.cpp" line="973"/>
       <source>Exit signal processed successfully!</source>
       <translation>Сигнал выхода успешно обработан!</translation>
     </message>
