@@ -10417,12 +10417,7 @@ Haluatko jatkaa virheenjäljitystä?</translation>
       <translation>Haetaan hakemistotietoja...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="851"/>
-      <source>Start file read thread...</source>
-      <translation>Aloitetaan tiedostonlukusäiettä...</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <location filename="src/dbg/x64dbg.cpp" line="879"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
@@ -10431,119 +10426,124 @@ Do you want me to fix this?</source>
 Korjataanko tämä?</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="895"/>
+      <location filename="src/dbg/x64dbg.cpp" line="886"/>
       <source>Symbol Path: %s
 </source>
       <translation>Symbolipolku: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="896"/>
+      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <source>Start file read thread...</source>
+      <translation>Aloitetaan tiedostonlukusäiettä...</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/x64dbg.cpp" line="900"/>
       <source>Allocating message stack...</source>
       <translation>Varataan viestipinoa...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="900"/>
+      <location filename="src/dbg/x64dbg.cpp" line="904"/>
       <source>Initializing global script variables...</source>
       <translation>Alustetaan globaaleja skriptimuuttujia...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="902"/>
+      <location filename="src/dbg/x64dbg.cpp" line="906"/>
       <source>Registering debugger commands...</source>
       <translation>Rekisteröidään virheenjäljityskomentoja...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="904"/>
+      <location filename="src/dbg/x64dbg.cpp" line="908"/>
       <source>Registering GUI command handler...</source>
       <translation>Rekisteröidään graafisen käyttöliittymän komentokäsittelijää...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="906"/>
+      <location filename="src/dbg/x64dbg.cpp" line="910"/>
       <source>Registering expression functions...</source>
       <translation>Rekisteröidään lausekefunktioita...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="908"/>
+      <location filename="src/dbg/x64dbg.cpp" line="912"/>
       <source>Registering format functions...</source>
       <translation>Rekisteröidään muotoilufunktioita...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="910"/>
+      <location filename="src/dbg/x64dbg.cpp" line="914"/>
       <source>Default</source>
       <translation>Oletus</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="919"/>
+      <location filename="src/dbg/x64dbg.cpp" line="923"/>
       <source>Registering Script DLL command handler...</source>
       <translation>Rekisteröidään skripti-DLL:n komentokäsittelijää...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="920"/>
+      <location filename="src/dbg/x64dbg.cpp" line="924"/>
       <source>Script DLL</source>
       <translation>Skripti-DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="923"/>
+      <location filename="src/dbg/x64dbg.cpp" line="927"/>
       <source>Starting command loop...</source>
       <translation>Aloitetaan komentosilmukkaa...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="930"/>
+      <location filename="src/dbg/x64dbg.cpp" line="934"/>
       <source>Initialization successful!</source>
       <translation>Alustus onnistui!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="932"/>
+      <location filename="src/dbg/x64dbg.cpp" line="936"/>
       <source>Loading plugins...</source>
       <translation>Ladataan liitännäisiä...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="934"/>
+      <location filename="src/dbg/x64dbg.cpp" line="938"/>
       <source>Handling command line...</source>
       <translation>Käsitellään komentoriviä...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="945"/>
+      <location filename="src/dbg/x64dbg.cpp" line="949"/>
       <source>Stopping command thread...</source>
       <translation>Pysäytetään komentosäie...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="949"/>
+      <location filename="src/dbg/x64dbg.cpp" line="953"/>
       <source>Stopping running debuggee...</source>
       <translation>Pysäytetään käynnissä olevaa virheenjäljityksen kohdetta...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="951"/>
+      <location filename="src/dbg/x64dbg.cpp" line="955"/>
       <source>Aborting scripts...</source>
       <translation>Pysäytetään skriptejä...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="953"/>
+      <location filename="src/dbg/x64dbg.cpp" line="957"/>
       <source>Unloading plugins...</source>
       <translation>Poistetaan liitännäisten latauksia...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="955"/>
+      <location filename="src/dbg/x64dbg.cpp" line="959"/>
       <source>Cleaning up allocated data...</source>
       <translation>Siivotaan varattu data...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="958"/>
+      <location filename="src/dbg/x64dbg.cpp" line="962"/>
       <source>Cleaning up wait objects...</source>
       <translation>Siivotaan odotusobjekteja...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="961"/>
+      <location filename="src/dbg/x64dbg.cpp" line="965"/>
       <source>Cleaning up debugger threads...</source>
       <translation>Siivotaan virheenjäljityssäikeitä...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="963"/>
+      <location filename="src/dbg/x64dbg.cpp" line="967"/>
       <source>Saving notes...</source>
       <translation>Tallennetaan muistiinpanoja...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="973"/>
+      <location filename="src/dbg/x64dbg.cpp" line="977"/>
       <source>Exit signal processed successfully!</source>
       <translation>Poistumissignaalin käsittely onnistui!</translation>
     </message>

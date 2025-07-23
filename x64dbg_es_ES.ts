@@ -10368,131 +10368,131 @@ Do you want to continue debugging?</source>
       <translation>Obteniendo información del directorio...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="851"/>
-      <source>Start file read thread...</source>
-      <translation>Inicio/comenzar archivo de lectura del hilo...</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <location filename="src/dbg/x64dbg.cpp" line="879"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
       <translation>Se desaconseja utilizar servidores de símbolo en su ruta directa (usa la opción de almacenamiento en su lugar). ¿Quiere solucionar este problema?</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="895"/>
+      <location filename="src/dbg/x64dbg.cpp" line="886"/>
       <source>Symbol Path: %s
 </source>
       <translation>Ruta del símbolo: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="896"/>
+      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <source>Start file read thread...</source>
+      <translation>Inicio/comenzar archivo de lectura del hilo...</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/x64dbg.cpp" line="900"/>
       <source>Allocating message stack...</source>
       <translation>La asignación de pila de mensaje/stack...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="900"/>
+      <location filename="src/dbg/x64dbg.cpp" line="904"/>
       <source>Initializing global script variables...</source>
       <translation>Inicializando variables globales para los scripts...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="902"/>
+      <location filename="src/dbg/x64dbg.cpp" line="906"/>
       <source>Registering debugger commands...</source>
       <translation>Registro de comandos del depurador...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="904"/>
+      <location filename="src/dbg/x64dbg.cpp" line="908"/>
       <source>Registering GUI command handler...</source>
       <translation>Registrando el controlador de comandos de la GUI...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="906"/>
+      <location filename="src/dbg/x64dbg.cpp" line="910"/>
       <source>Registering expression functions...</source>
       <translation>Registro de funciones de expresiones...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="908"/>
+      <location filename="src/dbg/x64dbg.cpp" line="912"/>
       <source>Registering format functions...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="910"/>
+      <location filename="src/dbg/x64dbg.cpp" line="914"/>
       <source>Default</source>
       <translation>Por defecto</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="919"/>
+      <location filename="src/dbg/x64dbg.cpp" line="923"/>
       <source>Registering Script DLL command handler...</source>
       <translation>Registro de controlador de comandos de Script DLL...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="920"/>
+      <location filename="src/dbg/x64dbg.cpp" line="924"/>
       <source>Script DLL</source>
       <translation>Comandos Script DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="923"/>
+      <location filename="src/dbg/x64dbg.cpp" line="927"/>
       <source>Starting command loop...</source>
       <translation>Comenzando el bucle de comando...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="930"/>
+      <location filename="src/dbg/x64dbg.cpp" line="934"/>
       <source>Initialization successful!</source>
       <translation>Inicialización éxitosa</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="932"/>
+      <location filename="src/dbg/x64dbg.cpp" line="936"/>
       <source>Loading plugins...</source>
       <translation>Cargando plugins...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="934"/>
+      <location filename="src/dbg/x64dbg.cpp" line="938"/>
       <source>Handling command line...</source>
       <translation>Tomando el control de la línea de comandos...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="945"/>
+      <location filename="src/dbg/x64dbg.cpp" line="949"/>
       <source>Stopping command thread...</source>
       <translation>Detener el subproceso de comando...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="949"/>
+      <location filename="src/dbg/x64dbg.cpp" line="953"/>
       <source>Stopping running debuggee...</source>
       <translation>Deteniendo la depuración...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="951"/>
+      <location filename="src/dbg/x64dbg.cpp" line="955"/>
       <source>Aborting scripts...</source>
       <translation>Abortando scripts...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="953"/>
+      <location filename="src/dbg/x64dbg.cpp" line="957"/>
       <source>Unloading plugins...</source>
       <translation>Descargando los plugins...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="955"/>
+      <location filename="src/dbg/x64dbg.cpp" line="959"/>
       <source>Cleaning up allocated data...</source>
       <translation>Limpieza de datos asignados(allocated)...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="958"/>
+      <location filename="src/dbg/x64dbg.cpp" line="962"/>
       <source>Cleaning up wait objects...</source>
       <translation>Limpieza de objetos de espera...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="961"/>
+      <location filename="src/dbg/x64dbg.cpp" line="965"/>
       <source>Cleaning up debugger threads...</source>
       <translation>Limpieza de hilos/threads del depurador...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="963"/>
+      <location filename="src/dbg/x64dbg.cpp" line="967"/>
       <source>Saving notes...</source>
       <translation>Guardando las notas...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="973"/>
+      <location filename="src/dbg/x64dbg.cpp" line="977"/>
       <source>Exit signal processed successfully!</source>
       <translation>"Exit signal" procesada correctamente</translation>
     </message>

@@ -10371,12 +10371,7 @@ Do you want to continue debugging?</source>
       <translation>Folder informatie ophalen...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="851"/>
-      <source>Start file read thread...</source>
-      <translation>Start bestand-lees Thread...</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <location filename="src/dbg/x64dbg.cpp" line="879"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
@@ -10385,119 +10380,124 @@ Do you want me to fix this?</source>
 Wilt u dat dit automatisch opgelost wordt?</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="895"/>
+      <location filename="src/dbg/x64dbg.cpp" line="886"/>
       <source>Symbol Path: %s
 </source>
       <translation>Symbool Pad: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="896"/>
+      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <source>Start file read thread...</source>
+      <translation>Start bestand-lees Thread...</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/x64dbg.cpp" line="900"/>
       <source>Allocating message stack...</source>
       <translation>Alloceren berichten stack...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="900"/>
+      <location filename="src/dbg/x64dbg.cpp" line="904"/>
       <source>Initializing global script variables...</source>
       <translation>Globale script-variabelen initialiseren...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="902"/>
+      <location filename="src/dbg/x64dbg.cpp" line="906"/>
       <source>Registering debugger commands...</source>
       <translation>Registreren debugger opdrachten...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="904"/>
+      <location filename="src/dbg/x64dbg.cpp" line="908"/>
       <source>Registering GUI command handler...</source>
       <translation>Registreren GUI opdracht afhandelaar...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="906"/>
+      <location filename="src/dbg/x64dbg.cpp" line="910"/>
       <source>Registering expression functions...</source>
       <translation>Registreren expressie functies...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="908"/>
+      <location filename="src/dbg/x64dbg.cpp" line="912"/>
       <source>Registering format functions...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="910"/>
+      <location filename="src/dbg/x64dbg.cpp" line="914"/>
       <source>Default</source>
       <translation>Standaard</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="919"/>
+      <location filename="src/dbg/x64dbg.cpp" line="923"/>
       <source>Registering Script DLL command handler...</source>
       <translation>Registreren van Script DLL commando-afhandelaar...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="920"/>
+      <location filename="src/dbg/x64dbg.cpp" line="924"/>
       <source>Script DLL</source>
       <translation>Script DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="923"/>
+      <location filename="src/dbg/x64dbg.cpp" line="927"/>
       <source>Starting command loop...</source>
       <translation>Opdrachten lus wordt gestart...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="930"/>
+      <location filename="src/dbg/x64dbg.cpp" line="934"/>
       <source>Initialization successful!</source>
       <translation>Initialisatie succesvol!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="932"/>
+      <location filename="src/dbg/x64dbg.cpp" line="936"/>
       <source>Loading plugins...</source>
       <translation>Plugins laden...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="934"/>
+      <location filename="src/dbg/x64dbg.cpp" line="938"/>
       <source>Handling command line...</source>
       <translation>Afhandeling van opdrachtregel...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="945"/>
+      <location filename="src/dbg/x64dbg.cpp" line="949"/>
       <source>Stopping command thread...</source>
       <translation>Stoppen opdracht thread...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="949"/>
+      <location filename="src/dbg/x64dbg.cpp" line="953"/>
       <source>Stopping running debuggee...</source>
       <translation>Uitvoerende debuggee wordt gestopt...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="951"/>
+      <location filename="src/dbg/x64dbg.cpp" line="955"/>
       <source>Aborting scripts...</source>
       <translation>Afbreken scripts...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="953"/>
+      <location filename="src/dbg/x64dbg.cpp" line="957"/>
       <source>Unloading plugins...</source>
       <translation>Uitladen plugins...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="955"/>
+      <location filename="src/dbg/x64dbg.cpp" line="959"/>
       <source>Cleaning up allocated data...</source>
       <translation>Gealloceerde gegevens wordt opgeruimd...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="958"/>
+      <location filename="src/dbg/x64dbg.cpp" line="962"/>
       <source>Cleaning up wait objects...</source>
       <translation>Wacht objecten worden opgeruimd...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="961"/>
+      <location filename="src/dbg/x64dbg.cpp" line="965"/>
       <source>Cleaning up debugger threads...</source>
       <translation>Debugger threads worden opgeruimd...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="963"/>
+      <location filename="src/dbg/x64dbg.cpp" line="967"/>
       <source>Saving notes...</source>
       <translation>Notities worden opgeslagen...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="973"/>
+      <location filename="src/dbg/x64dbg.cpp" line="977"/>
       <source>Exit signal processed successfully!</source>
       <translation>Afsluit signaal succesvol verwerkt!</translation>
     </message>

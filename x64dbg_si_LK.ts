@@ -10477,12 +10477,7 @@ Do you want to continue debugging?</source>
       <translation>නාමාවලි තොරතුරු ලබා ගැනීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="851"/>
-      <source>Start file read thread...</source>
-      <translation>ගොනුව කියවන්න නූල් ආරම්භ කරන්න...</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <location filename="src/dbg/x64dbg.cpp" line="879"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
@@ -10491,119 +10486,124 @@ Do you want me to fix this?</source>
 ඔබට මට මෙය නිවැරදි කිරීමට අවශ්යද?</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="895"/>
+      <location filename="src/dbg/x64dbg.cpp" line="886"/>
       <source>Symbol Path: %s
 </source>
       <translation>සංකේත මාර්ගය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="896"/>
+      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <source>Start file read thread...</source>
+      <translation>ගොනුව කියවන්න නූල් ආරම්භ කරන්න...</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/x64dbg.cpp" line="900"/>
       <source>Allocating message stack...</source>
       <translation>පණිවිඩය අඩුක්කුව වෙන්...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="900"/>
+      <location filename="src/dbg/x64dbg.cpp" line="904"/>
       <source>Initializing global script variables...</source>
       <translation>ගෝලීය තිර රචනය විචල්යයන් ආරම්භ කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="902"/>
+      <location filename="src/dbg/x64dbg.cpp" line="906"/>
       <source>Registering debugger commands...</source>
       <translation>නිදොස්කරන විධාන ලියාපදිංචි කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="904"/>
+      <location filename="src/dbg/x64dbg.cpp" line="908"/>
       <source>Registering GUI command handler...</source>
       <translation>GUI විධාන හසුරුවන්නා ලියාපදිංචි...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="906"/>
+      <location filename="src/dbg/x64dbg.cpp" line="910"/>
       <source>Registering expression functions...</source>
       <translation>ප්රකාශන කාර්යයන් ලියාපදිංචි කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="908"/>
+      <location filename="src/dbg/x64dbg.cpp" line="912"/>
       <source>Registering format functions...</source>
       <translation>ආකෘති කාර්යයන් ලියාපදිංචි කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="910"/>
+      <location filename="src/dbg/x64dbg.cpp" line="914"/>
       <source>Default</source>
       <translation>පෙරනිමි</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="919"/>
+      <location filename="src/dbg/x64dbg.cpp" line="923"/>
       <source>Registering Script DLL command handler...</source>
       <translation>තිර රචනය DLL විධාන හසුරුවන්නා ලියාපදිංචි...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="920"/>
+      <location filename="src/dbg/x64dbg.cpp" line="924"/>
       <source>Script DLL</source>
       <translation>තිර රචනය DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="923"/>
+      <location filename="src/dbg/x64dbg.cpp" line="927"/>
       <source>Starting command loop...</source>
       <translation>විධාන ලූප් ආරම්භ කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="930"/>
+      <location filename="src/dbg/x64dbg.cpp" line="934"/>
       <source>Initialization successful!</source>
       <translation>ආරම්භකකරණය සාර්ථකයි!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="932"/>
+      <location filename="src/dbg/x64dbg.cpp" line="936"/>
       <source>Loading plugins...</source>
       <translation>ප්ලගින පැටවීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="934"/>
+      <location filename="src/dbg/x64dbg.cpp" line="938"/>
       <source>Handling command line...</source>
       <translation>විධාන රේඛාව හැසිරවීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="945"/>
+      <location filename="src/dbg/x64dbg.cpp" line="949"/>
       <source>Stopping command thread...</source>
       <translation>විධාන නූල් නතර කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="949"/>
+      <location filename="src/dbg/x64dbg.cpp" line="953"/>
       <source>Stopping running debuggee...</source>
       <translation>ඩිබුග්ගී ධාවනය නතර කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="951"/>
+      <location filename="src/dbg/x64dbg.cpp" line="955"/>
       <source>Aborting scripts...</source>
       <translation>ස්ක්රිප්ට් ගබ්සා කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="953"/>
+      <location filename="src/dbg/x64dbg.cpp" line="957"/>
       <source>Unloading plugins...</source>
       <translation>ප්ලගින බෑම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="955"/>
+      <location filename="src/dbg/x64dbg.cpp" line="959"/>
       <source>Cleaning up allocated data...</source>
       <translation>වෙන් දත්ත පිරිසිදු කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="958"/>
+      <location filename="src/dbg/x64dbg.cpp" line="962"/>
       <source>Cleaning up wait objects...</source>
       <translation>බලා සිටින වස්තූන් පිරිසිදු කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="961"/>
+      <location filename="src/dbg/x64dbg.cpp" line="965"/>
       <source>Cleaning up debugger threads...</source>
       <translation>නිදොස්කාරකයක් නූල් පිරිසිදු කිරීම...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="963"/>
+      <location filename="src/dbg/x64dbg.cpp" line="967"/>
       <source>Saving notes...</source>
       <translation>ඉතිරි සටහන්...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="973"/>
+      <location filename="src/dbg/x64dbg.cpp" line="977"/>
       <source>Exit signal processed successfully!</source>
       <translation>පිටවීමේ සංඥා සාර්ථකව සකස්!</translation>
     </message>

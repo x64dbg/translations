@@ -10487,12 +10487,7 @@ Do you want to continue debugging?</source>
       <translation>ディレクトリ情報を取得しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="851"/>
-      <source>Start file read thread...</source>
-      <translation>ファイル読み込みスレッドを開始...</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <location filename="src/dbg/x64dbg.cpp" line="879"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
@@ -10501,119 +10496,124 @@ Do you want me to fix this?</source>
 これを修正しますか?</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="895"/>
+      <location filename="src/dbg/x64dbg.cpp" line="886"/>
       <source>Symbol Path: %s
 </source>
       <translation>シンボルのパス : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="896"/>
+      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <source>Start file read thread...</source>
+      <translation>ファイル読み込みスレッドを開始...</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/x64dbg.cpp" line="900"/>
       <source>Allocating message stack...</source>
       <translation>メッセージスタックを割り当てています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="900"/>
+      <location filename="src/dbg/x64dbg.cpp" line="904"/>
       <source>Initializing global script variables...</source>
       <translation>グローバルスクリプト変数を初期化しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="902"/>
+      <location filename="src/dbg/x64dbg.cpp" line="906"/>
       <source>Registering debugger commands...</source>
       <translation>デバッガーコマンドを登録しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="904"/>
+      <location filename="src/dbg/x64dbg.cpp" line="908"/>
       <source>Registering GUI command handler...</source>
       <translation>GUIコマンドハンドラを登録しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="906"/>
+      <location filename="src/dbg/x64dbg.cpp" line="910"/>
       <source>Registering expression functions...</source>
       <translation>式関数を登録しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="908"/>
+      <location filename="src/dbg/x64dbg.cpp" line="912"/>
       <source>Registering format functions...</source>
       <translation>書式関数を登録しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="910"/>
+      <location filename="src/dbg/x64dbg.cpp" line="914"/>
       <source>Default</source>
       <translation>既定</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="919"/>
+      <location filename="src/dbg/x64dbg.cpp" line="923"/>
       <source>Registering Script DLL command handler...</source>
       <translation>スクリプトDLLコマンドハンドラの登録...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="920"/>
+      <location filename="src/dbg/x64dbg.cpp" line="924"/>
       <source>Script DLL</source>
       <translation>スクリプト DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="923"/>
+      <location filename="src/dbg/x64dbg.cpp" line="927"/>
       <source>Starting command loop...</source>
       <translation>コマンド ループを開始しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="930"/>
+      <location filename="src/dbg/x64dbg.cpp" line="934"/>
       <source>Initialization successful!</source>
       <translation>初期化に成功しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="932"/>
+      <location filename="src/dbg/x64dbg.cpp" line="936"/>
       <source>Loading plugins...</source>
       <translation>プラグインを読み込み中...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="934"/>
+      <location filename="src/dbg/x64dbg.cpp" line="938"/>
       <source>Handling command line...</source>
       <translation>コマンドラインを処理中...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="945"/>
+      <location filename="src/dbg/x64dbg.cpp" line="949"/>
       <source>Stopping command thread...</source>
       <translation>コマンド スレッドを停止しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="949"/>
+      <location filename="src/dbg/x64dbg.cpp" line="953"/>
       <source>Stopping running debuggee...</source>
       <translation>デバッグ対象の実行を停止しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="951"/>
+      <location filename="src/dbg/x64dbg.cpp" line="955"/>
       <source>Aborting scripts...</source>
       <translation>スクリプトを中止しています...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="953"/>
+      <location filename="src/dbg/x64dbg.cpp" line="957"/>
       <source>Unloading plugins...</source>
       <translation>プラグインをアンロード中...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="955"/>
+      <location filename="src/dbg/x64dbg.cpp" line="959"/>
       <source>Cleaning up allocated data...</source>
       <translation>割り当てられたデータのクリーンアップ中...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="958"/>
+      <location filename="src/dbg/x64dbg.cpp" line="962"/>
       <source>Cleaning up wait objects...</source>
       <translation>待機オブジェクトのクリーンアップ中...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="961"/>
+      <location filename="src/dbg/x64dbg.cpp" line="965"/>
       <source>Cleaning up debugger threads...</source>
       <translation>デバッガ スレッドのクリーンアップ中...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="963"/>
+      <location filename="src/dbg/x64dbg.cpp" line="967"/>
       <source>Saving notes...</source>
       <translation>ノートを保存中...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="973"/>
+      <location filename="src/dbg/x64dbg.cpp" line="977"/>
       <source>Exit signal processed successfully!</source>
       <translation>終了シグナルは正常に処理されました!</translation>
     </message>
