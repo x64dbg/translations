@@ -6480,7 +6480,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="454"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="542"/>
-      <location filename="src/dbg/debugger.cpp" line="1170"/>
+      <location filename="src/dbg/debugger.cpp" line="1189"/>
       <source>You can only set 4 hardware breakpoints</source>
       <translation>ඔබට සකස් කළ හැක්කේ දෘඩාංග බිඳවැටීම් 4 ක් පමණි</translation>
     </message>
@@ -6527,7 +6527,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="510"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="529"/>
-      <location filename="src/dbg/debugger.cpp" line="787"/>
+      <location filename="src/dbg/debugger.cpp" line="805"/>
       <source>Delete hardware breakpoint failed: %p (DeleteHardwareBreakPoint)
 </source>
       <translation>දෘඩාංග බිඳවැටීම අසාර්ථකයි: %p (Deleteහාඩ්වෙයාර් බ්රේක්පොයින්ට්)
@@ -7175,25 +7175,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="264"/>
-      <location filename="src/dbg/debugger.cpp" line="2921"/>
+      <location filename="src/dbg/debugger.cpp" line="2940"/>
       <source>Process is already being debugged!</source>
       <translation>ක්‍රියාවලිය දැනටමත් නිදොස් කරමින් පවතී!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="271"/>
-      <location filename="src/dbg/debugger.cpp" line="2840"/>
+      <location filename="src/dbg/debugger.cpp" line="2859"/>
       <source>IsWow64Process failed!</source>
       <translation>IsW64ක්රියාවලිය අසාර්ථකයි!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
-      <location filename="src/dbg/debugger.cpp" line="2847"/>
+      <location filename="src/dbg/debugger.cpp" line="2866"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x32dbg භාවිතා කරන්න!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
-      <location filename="src/dbg/debugger.cpp" line="2849"/>
+      <location filename="src/dbg/debugger.cpp" line="2868"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x64dbg භාවිතා කරන්න!</translation>
     </message>
@@ -7447,7 +7447,7 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="603"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="653"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="756"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="945"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="950"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
@@ -7994,8 +7994,8 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="501"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="604"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="654"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="757"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="946"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="758"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="951"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
@@ -8115,57 +8115,62 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="758"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="757"/>
+      <source>Module</source>
+      <translation>මොඩියුලය</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="759"/>
       <source>Destination</source>
       <translation>ගමනාන්තය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="848"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="853"/>
       <source>Calls</source>
       <translation>ඇමතුම්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="851"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="856"/>
       <source>%u call(s) in %ums
 </source>
       <translation>%u ඇමතුම (s) %ums
 හි</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="947"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1090"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="952"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1095"/>
       <source>GUID</source>
       <translation>ගයිඩ්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="948"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="953"/>
       <source>ProgId</source>
       <translation>ProGID</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="949"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="954"/>
       <source>Path</source>
       <translation>මාර්ගය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="950"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="955"/>
       <source>Description</source>
       <translation>විස්තරය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1062"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1067"/>
       <source>RegOpenKeyExW() failed. Cannot enumerate GUIDs.</source>
       <translation>RegoPenkeyexW () අසමත් විය. GiDs නම් කළ නොහැක.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1093"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1098"/>
       <source>%u GUID(s) in %ums
 </source>
       <translation>%u GUID (ගේ) %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1106"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1111"/>
       <source>Invalid expression: "%s"</source>
       <translation>වලංගු නොවන ප්රකාශනය: "%s”</translation>
     </message>
@@ -9035,471 +9040,471 @@ Invalid database file (JSON)!</source>
       <translation>%s - PID: %s - %sනූල්: %s%s%s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="615"/>
+      <location filename="src/dbg/debugger.cpp" line="633"/>
       <source>%s breakpoint "%s" at %s!
 </source>
       <translation>%s බ්රේක්පොයින්ට් "%s" හි %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="617"/>
+      <location filename="src/dbg/debugger.cpp" line="635"/>
       <source>%s breakpoint at %s!
 </source>
       <translation>%s හි බිඳවැටීම් %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="644"/>
+      <location filename="src/dbg/debugger.cpp" line="662"/>
       <source>execute</source>
       <translation>ක්‍රියාත්මක කරන්න</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="648"/>
+      <location filename="src/dbg/debugger.cpp" line="666"/>
       <source>read/write</source>
       <translation>කියවන්න/ලියන්න</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="651"/>
+      <location filename="src/dbg/debugger.cpp" line="669"/>
       <source>write</source>
       <translation>ලියන්න</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="658"/>
+      <location filename="src/dbg/debugger.cpp" line="676"/>
       <source>Hardware breakpoint (%s%s) "%s" at %s!
 </source>
       <translation>දෘඩාංග බිඳවැටීම් (%s%s) "%s" සහ %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="660"/>
+      <location filename="src/dbg/debugger.cpp" line="678"/>
       <source>Hardware breakpoint (%s%s) at %s!
 </source>
       <translation>දෘඩාංග බිඳවැටීම් (%s%s) හි %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="670"/>
+      <location filename="src/dbg/debugger.cpp" line="688"/>
       <source> (read)</source>
       <translation> (කියවන්න)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="673"/>
+      <location filename="src/dbg/debugger.cpp" line="691"/>
       <source> (write)</source>
       <translation> (ලියන්න)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="676"/>
+      <location filename="src/dbg/debugger.cpp" line="694"/>
       <source> (execute)</source>
       <translation> (ක්රියාත්මක කරන්න)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="679"/>
+      <location filename="src/dbg/debugger.cpp" line="697"/>
       <source> (read/write/execute)</source>
       <translation> (කියවීම/ලිවීම/ක්රියාත්මක කරන්න)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="687"/>
+      <location filename="src/dbg/debugger.cpp" line="705"/>
       <source>Memory breakpoint%s "%s" at %s, exception address: %s!
 </source>
       <translation>මතක බිඳුම් ලක්ෂ්‍යය%s "%s" %sහිදී, ව්‍යතිරේක ලිපිනය: %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="696"/>
+      <location filename="src/dbg/debugger.cpp" line="714"/>
       <source>Memory breakpoint%s at %s, exception address: %s!
 </source>
       <translation>මතක බිඳුම් ලක්ෂ්‍යය%s at %s, ව්‍යතිරේක ලිපිනය: %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="711"/>
+      <location filename="src/dbg/debugger.cpp" line="729"/>
       <source>DLL Load</source>
       <translation>DLL පැටවුම්</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="714"/>
+      <location filename="src/dbg/debugger.cpp" line="732"/>
       <source>DLL Unload</source>
       <translation>DLL බෑම</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="717"/>
+      <location filename="src/dbg/debugger.cpp" line="735"/>
       <source>DLL Load and unload</source>
       <translation>DLL පැටවුම් සහ බෑම</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="723"/>
+      <location filename="src/dbg/debugger.cpp" line="741"/>
       <source>DLL Breakpoint %s (%s): Module %s
 </source>
       <translation>ඩීඑල්එල් බ්රේක්පොයින්ට් %s (%s): මොඩියුලය %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="725"/>
+      <location filename="src/dbg/debugger.cpp" line="743"/>
       <source>DLL Breakpoint (%s): Module %s
 </source>
       <translation>ඩීඑල්එල් බ්රේක්පොයින්ට් (%s): මොඩියුලය %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="732"/>
-      <location filename="src/dbg/debugger.cpp" line="734"/>
+      <location filename="src/dbg/debugger.cpp" line="750"/>
+      <location filename="src/dbg/debugger.cpp" line="752"/>
       <source>Exception Breakpoint %s (%p) at %p!
 </source>
       <translation>ව්යතිරේක බ්රේක්පොයින්ට් %s (%p) හි %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="761"/>
+      <location filename="src/dbg/debugger.cpp" line="779"/>
       <source>paused!</source>
       <translation>විරාම!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="863"/>
+      <location filename="src/dbg/debugger.cpp" line="881"/>
       <source>Breakpoint reached not in list!</source>
       <translation>බ්රේක්පොයින්ට් ලැයිස්තුවේ නැත!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="897"/>
-      <location filename="src/dbg/debugger.cpp" line="1336"/>
+      <location filename="src/dbg/debugger.cpp" line="915"/>
+      <location filename="src/dbg/debugger.cpp" line="1355"/>
       <source>Error when evaluating break condition.</source>
       <translation>විවේකයක් තත්ත්වය ඇගයීමේදී දෝෂයක්.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="909"/>
-      <location filename="src/dbg/debugger.cpp" line="1351"/>
+      <location filename="src/dbg/debugger.cpp" line="927"/>
+      <location filename="src/dbg/debugger.cpp" line="1370"/>
       <source>Error when evaluating log condition.</source>
       <translation>ලඝු-සටහන තත්ත්වය ඇගයීමේදී දෝෂයක්.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="921"/>
-      <location filename="src/dbg/debugger.cpp" line="1357"/>
+      <location filename="src/dbg/debugger.cpp" line="939"/>
+      <location filename="src/dbg/debugger.cpp" line="1376"/>
       <source>Error when evaluating command condition.</source>
       <translation>විධාන තත්ත්වය ඇගයීමේදී දෝෂය.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1016"/>
+      <location filename="src/dbg/debugger.cpp" line="1035"/>
       <source>Failed to open breakpoint log: %s (%s)
 </source>
       <translation>බිඳුම් ලක්ෂ්‍ය ලොගය විවෘත කිරීමට අපොහොසත් විය: %s (%s)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1045"/>
+      <location filename="src/dbg/debugger.cpp" line="1064"/>
       <source>User code reached at %s</source>
       <translation>පරිශීලක කේතය %s ට ළඟා විය!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1142"/>
+      <location filename="src/dbg/debugger.cpp" line="1161"/>
       <source>Breakpoint %p has been disabled because the bytes don't match! Expected: %02X %02X, Found: %02X %02X
 </source>
       <translation>බයිට් නොගැලපෙන නිසා බ්රේක්පොයින්ට් %p අක්රීය කර ඇත! අපේක්ෂිත: %02X %02X, සොයා: %02X %02X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1149"/>
+      <location filename="src/dbg/debugger.cpp" line="1168"/>
       <source>Could not set breakpoint %p! (SetBPX)
 </source>
       <translation>බ්රේක්පොයින්ට් %pසැකසිය නොහැක! (SetBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1152"/>
+      <location filename="src/dbg/debugger.cpp" line="1171"/>
       <source>MemRead failed on breakpoint address %p!
 </source>
       <translation>MEMRED බිඳවැටීම් ලිපිනය මත අසමත් විය %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1161"/>
+      <location filename="src/dbg/debugger.cpp" line="1180"/>
       <source>Could not set memory breakpoint %p! (SetMemoryBPXEx)
 </source>
       <translation>මතක බිඳීමේ ලක්ෂ්යය %pසැකසිය නොහැක! (SetMemoryBPXex)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1177"/>
+      <location filename="src/dbg/debugger.cpp" line="1196"/>
       <source>Could not set hardware breakpoint %p! (SetHardwareBreakPoint)
 </source>
       <translation>දෘඪාංග කඩන %pසැකසිය නොහැකි විය! (සෙතර්ඩ්වෙයාර් බ්රේක්පොයින්ට්)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1179"/>
+      <location filename="src/dbg/debugger.cpp" line="1198"/>
       <source>Set hardware breakpoint on %p!
 </source>
       <translation>%pමත දෘඩාංග බිඳවැටීමක් සකසන්න!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1212"/>
+      <location filename="src/dbg/debugger.cpp" line="1231"/>
       <source>Could not delete breakpoint %p! (DeleteBPX)
 </source>
       <translation>බිඳවැටීම් %pමකා දැමිය නොහැක! (Deleteබීපීඑක්ස්)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1216"/>
+      <location filename="src/dbg/debugger.cpp" line="1235"/>
       <source>Could not delete memory breakpoint %p! (RemoveMemoryBPX)
 </source>
       <translation>මතක බිඳීමේ ලක්ෂ්යය මකා දැමිය නොහැක %p! (ඉවත් කිරීමේ මොරිබීපීඑක්ස්)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1220"/>
+      <location filename="src/dbg/debugger.cpp" line="1239"/>
       <source>Could not delete hardware breakpoint %p! (DeleteHardwareBreakPoint)
 </source>
       <translation>දෘඩාංග බිඳවැටීම් %pමකා දැමිය නොහැක! (Deleteහාඩ්වෙයාර් බ්රේක්පොයින්ට්)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1382"/>
+      <location filename="src/dbg/debugger.cpp" line="1401"/>
       <source>Trace finished after %llu steps!
 </source>
       <translation>පියවර %llu කට පසු අවසන් හෝඩුවාවක්!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1384"/>
+      <location filename="src/dbg/debugger.cpp" line="1403"/>
       <source>Trace finished after %u steps!
 </source>
       <translation>පියවර %u කට පසු අවසන් හෝඩුවාවක්!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1455"/>
-      <location filename="src/dbg/debugger.cpp" line="1787"/>
+      <location filename="src/dbg/debugger.cpp" line="1474"/>
+      <location filename="src/dbg/debugger.cpp" line="1806"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNamefromHandle අසමත් විය)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1457"/>
+      <location filename="src/dbg/debugger.cpp" line="1476"/>
       <source>Process Started: %p %s
 </source>
       <translation>ක්රියාවලිය ආරම්භ විය: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1506"/>
+      <location filename="src/dbg/debugger.cpp" line="1525"/>
       <source>TLS Callback %d</source>
       <translation>ටීඑල්එස් ඇමතුම %d</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1514"/>
-      <location filename="src/dbg/debugger.cpp" line="1841"/>
+      <location filename="src/dbg/debugger.cpp" line="1533"/>
+      <location filename="src/dbg/debugger.cpp" line="1860"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d වලංගු නොවන TLS ඇමතුම් ලිපින...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1519"/>
-      <location filename="src/dbg/debugger.cpp" line="1813"/>
+      <location filename="src/dbg/debugger.cpp" line="1538"/>
+      <location filename="src/dbg/debugger.cpp" line="1832"/>
       <source>entry breakpoint</source>
       <translation>පිවිසුම් බිඳවැටීමක්</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1583"/>
+      <location filename="src/dbg/debugger.cpp" line="1602"/>
       <source>Process stopped with exit code %s
 </source>
       <translation>පිටවීමේ කේතය %s
 සමඟ ක්රියාවලිය නතර විය</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1623"/>
+      <location filename="src/dbg/debugger.cpp" line="1642"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation>%s නූල නිර්මාණය කරන ලදී, ඇතුළත් කිරීම: %s, පරාමිතිය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1632"/>
+      <location filename="src/dbg/debugger.cpp" line="1651"/>
       <source>Thread Entry</source>
       <translation>නූල් සටහන්</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1661"/>
+      <location filename="src/dbg/debugger.cpp" line="1680"/>
       <source>Thread %s Stack</source>
       <translation>නූල් %s තොගය</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1687"/>
+      <location filename="src/dbg/debugger.cpp" line="1706"/>
       <source>No threads left to switch to (bug?)</source>
       <translation>මාරු කිරීමට ඉතිරි නූල් නැත (දෝෂ?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1696"/>
+      <location filename="src/dbg/debugger.cpp" line="1715"/>
       <source>Thread %s exit
 </source>
       <translation>නූල %s පිටවීම
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1719"/>
+      <location filename="src/dbg/debugger.cpp" line="1738"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation>දෝෂය: ගෝලීය ආරම්භකරණ තිර රචනය පූරණය කළ නොහැක.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1724"/>
+      <location filename="src/dbg/debugger.cpp" line="1743"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation>දෝෂය: debuggee ආරම්භකරණ තිර රචනය පූරණය කළ නොහැක.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1745"/>
+      <location filename="src/dbg/debugger.cpp" line="1764"/>
       <source>System breakpoint reached!</source>
       <translation>පද්ධති බිඳවැටීමක් ළඟා විය!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1757"/>
+      <location filename="src/dbg/debugger.cpp" line="1776"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation>එය debuggee පිවිසුම් ස්ථානය ක්රියාත්මක කළ හැකි MZ ශීර්ෂයේ ඇති බව අනාවරණය වී ඇත. මෙය අමුතු හැසිරීමක් ඇති කරනු ඇත, එබැවින් ඔබේ සැකසුම නොසලකා පද්ධතිය බිඳ වැටීමක් සක්රීය කර ඇත. ප්රවේශම් වන්න!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1832"/>
-      <location filename="src/dbg/debugger.cpp" line="1834"/>
+      <location filename="src/dbg/debugger.cpp" line="1851"/>
+      <location filename="src/dbg/debugger.cpp" line="1853"/>
       <source>TLS Callback</source>
       <translation>ටීඑල්එස් ඇමතුම</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1870"/>
+      <location filename="src/dbg/debugger.cpp" line="1889"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>ntdll.dll සංකේත පටවන තෙක් බලා සිටීම...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1876"/>
+      <location filename="src/dbg/debugger.cpp" line="1895"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>LDRPDEbugකොඩි 0x%08X සාර්ථකව සකසන්න!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1878"/>
+      <location filename="src/dbg/debugger.cpp" line="1897"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>LDRPDEbugකොඩි වෙත ලිවීමට අසමත් විය
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1882"/>
+      <location filename="src/dbg/debugger.cpp" line="1901"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>සංකේත 'LDRPDEbugකොඩි' සොයාගත නොහැක!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1887"/>
+      <location filename="src/dbg/debugger.cpp" line="1906"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>LDRPDEbugකොඩි සොයා ගැනීමට අසමත් විය (ඔබට ntdll.dll සඳහා සංකේත පැටවිය යුතුය)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1892"/>
+      <location filename="src/dbg/debugger.cpp" line="1911"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>ඩීඑල්එල් ලෝඩඩ්: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1959"/>
+      <location filename="src/dbg/debugger.cpp" line="1978"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>ඩීඑල්එල් බෑම: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2002"/>
+      <location filename="src/dbg/debugger.cpp" line="2021"/>
       <source>DebugString: "%s"
 </source>
       <translation>නිදොස් කිරීම: "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2075"/>
+      <location filename="src/dbg/debugger.cpp" line="2094"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>%p (%X, "%s")
 මත SetThreadName ව්‍යතිරේකය</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2093"/>
+      <location filename="src/dbg/debugger.cpp" line="2112"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s) මත පළමු අවස්ථාව ව්යතිරේකය!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2095"/>
+      <location filename="src/dbg/debugger.cpp" line="2114"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X) මත පළමු අවස්ථාව ව්යතිරේකය!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2106"/>
+      <location filename="src/dbg/debugger.cpp" line="2125"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s) මත අවසාන අවස්ථාව ව්යතිරේකය!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2108"/>
+      <location filename="src/dbg/debugger.cpp" line="2127"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X) මත අවසාන අවස්ථාව ව්යතිරේකය!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2166"/>
+      <location filename="src/dbg/debugger.cpp" line="2185"/>
       <source>Attached to process!</source>
       <translation>ක්රියාවලියට අමුණා ඇත!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2731"/>
+      <location filename="src/dbg/debugger.cpp" line="2750"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>DLL නිදොස්කරණය දෝෂ (කාරකය පිටපත් කිරීමට අසමත් විය)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2780"/>
+      <location filename="src/dbg/debugger.cpp" line="2799"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>DLL නිදොස්කරණය දෝෂ (loaddll.exe සොයාගත නොහැක)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2813"/>
+      <location filename="src/dbg/debugger.cpp" line="2832"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>ඔබ නිදොස් කිරීමට උත්සාහ කරන ක්රියාත්මක කළ හැකි උන්නතාංශය අවශ්ය වේ. පරිපාලක ලෙස නැවත ආරම්භ කරන්න?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2814"/>
+      <location filename="src/dbg/debugger.cpp" line="2833"/>
       <source>Elevation</source>
       <translation>උන්නතාංශය</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2832"/>
+      <location filename="src/dbg/debugger.cpp" line="2851"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>දෝෂ ආරම්භක ක්රියාවලිය (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2923"/>
+      <location filename="src/dbg/debugger.cpp" line="2942"/>
       <source>Attach to process failed: %s
 </source>
       <translation>ක්‍රියාවලියට ඇමිණීම අසාර්ථක විය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2961"/>
+      <location filename="src/dbg/debugger.cpp" line="2980"/>
       <source>Debugging stopped!</source>
       <translation>නිදොස්කරණය නැවැත්වුවා!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3013"/>
+      <location filename="src/dbg/debugger.cpp" line="3032"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10012,49 +10017,48 @@ Do you want to continue debugging?</source>
       <translation>සියලු මොඩියුල (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="126"/>
+      <location filename="src/dbg/simplescript.cpp" line="148"/>
       <source>FileHelper::ReadAllText failed...</source>
       <translation>FileHELPER። කියවීමපෙළ අසමත් විය...</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="259"/>
+      <location filename="src/dbg/simplescript.cpp" line="280"/>
       <source>Empty label detected on line %d!</source>
       <translation>රේඛාව මත අනාවරණය හිස් ලේබලය %d!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="268"/>
+      <location filename="src/dbg/simplescript.cpp" line="289"/>
       <source>Duplicate label "%s" detected on lines %d and %d!</source>
       <translation>අනුපිටපත් ලේබලය "%s" %d සහ %dරේඛාවල අනාවරණය වී ඇත!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="309"/>
-      <location filename="src/dbg/simplescript.cpp" line="482"/>
+      <location filename="src/dbg/simplescript.cpp" line="330"/>
+      <location filename="src/dbg/simplescript.cpp" line="513"/>
       <source>Invalid branch label "%s" detected on line %d!</source>
       <translation>"%s" ශාඛා ලේබලය %dමාර්ගයෙන් අනාවරණය විය!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="447"/>
+      <location filename="src/dbg/simplescript.cpp" line="453"/>
       <source>Script finished!</source>
       <translation>තිර රචනය අවසන්!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="530"/>
+      <location filename="src/dbg/simplescript.cpp" line="558"/>
       <source>Error executing command!</source>
       <translation>විධානය ක්රියාත්මක කිරීමේ දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="561"/>
-      <location filename="src/dbg/simplescript.cpp" line="563"/>
+      <location filename="src/dbg/simplescript.cpp" line="584"/>
       <source>Debugger must be paused to run a script!</source>
       <translation>ස්ක්රිප්ට් එකක් ක්රියාත්මක කිරීම සඳහා නිදොස් කිරීම විරාම කළ යුතුය!</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="601"/>
-      <source>The script is too busy. Would you like to terminate it now?</source>
-      <translation>තිර රචනය ඉතා කාර්යබහුලයි. දැන් එය අවසන් කිරීමට ඔබ කැමතිද?</translation>
+      <location filename="src/dbg/simplescript.cpp" line="624"/>
+      <source>The script has been running for a while. Would you like to terminate it now?</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="603"/>
+      <location filename="src/dbg/simplescript.cpp" line="626"/>
       <source>Script is terminated by user.</source>
       <translation>තිර රචනය පරිශීලකයා විසින් අවසන් කර ඇත.</translation>
     </message>
@@ -10906,22 +10910,22 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="78"/>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="79"/>
       <source>Enter address or expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="89"/>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="90"/>
       <source>Address: %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="94"/>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="95"/>
       <source>Address: %1 (Invalid memory)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="101"/>
       <source>Invalid address expression</source>
       <translation type="unfinished"/>
     </message>
@@ -11287,36 +11291,44 @@ Do you want to continue rendering this graph?</source>
   <context>
     <name>ExportCSV</name>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="195"/>
-      <source>Export data in CSV format</source>
-      <translation>CSV ආකෘතියෙන් දත්ත අපනයනය කරන්න</translation>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="216"/>
+      <source>Export data in CSV/TSV format</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="196"/>
-      <source>Enter the CSV file name to export</source>
-      <translation>අපනයනය කිරීමට CSV ගොනු නාමය ඇතුලත් කරන්න</translation>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="217"/>
+      <source>Enter the CSV/TSV file name to export</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="197"/>
-      <source>CSV files (*.csv);;All files (*.*)</source>
-      <translation>CSV ගොනු (*.csv); සියලුම ගොනු (*.*)</translation>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="218"/>
+      <source>CSV files (*.csv);;TSV files (*.tsv);;All files (*.*)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="209"/>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="248"/>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="260"/>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="287"/>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="299"/>
-      <source>CSV export error
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="292"/>
+      <source>Saved TSV data at %1
 </source>
-      <translation>CSV අපනයන දෝෂය
-</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="305"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="292"/>
       <source>Saved CSV data at %1
 </source>
       <translation>සුරකින ලද CSV දත්ත %1
+</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>
+      <source>TSV export error
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>
+      <source>CSV export error
+</source>
+      <translation>CSV අපනයන දෝෂය
 </translation>
     </message>
   </context>
@@ -14638,7 +14650,7 @@ Do you want to apply these patches anyway?</source>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="285"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2633"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2639"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation>මෙම පරිගණකයේ AVX-512 සඳහා සහය නොදක්වයි.
@@ -15126,11 +15138,11 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
       <translation>FPU පෙන්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2110"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2150"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2198"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2240"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2282"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2116"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2156"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2204"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2246"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2288"/>
       <source>Unknown</source>
       <translation>නොදන්නා</translation>
     </message>
@@ -15139,81 +15151,81 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="323"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2251"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2257"/>
       <source>Nonzero</source>
       <translation>නොශුන්ය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="325"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2252"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2258"/>
       <source>Zero</source>
       <translation>ශුන්ය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="327"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2253"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2259"/>
       <source>Special</source>
       <translation>විශේෂ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="329"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2254"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2260"/>
       <source>Empty</source>
       <translation>හිස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2080"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2086"/>
       <source>Toward Zero</source>
       <translation>ශුන්ය දෙසට</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2081"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2087"/>
       <source>Toward Positive</source>
       <translation>ධනාත්මක දෙසට</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2082"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2088"/>
       <source>Toward Negative</source>
       <translation>සෘණ දෙසට</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2083"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2123"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2089"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2129"/>
       <source>Round Near</source>
       <translation>වටයේ අසල</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2120"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2126"/>
       <source>Truncate</source>
       <translation>ටන්කේට්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2121"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2127"/>
       <source>Round Up</source>
       <translation>වටය දක්වා</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2122"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2128"/>
       <source>Round Down</source>
       <translation>වටයේ ඩවුන්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2209"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2215"/>
       <source>Real4</source>
       <translation>රියල්4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2210"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
       <source>Not Used</source>
       <translation>භාවිතා නොවේ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2211"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2217"/>
       <source>Real8</source>
       <translation>රියල් 8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2212"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2218"/>
       <source>Real10</source>
       <translation>රියල්10</translation>
     </message>
