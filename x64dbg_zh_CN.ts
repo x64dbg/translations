@@ -6476,7 +6476,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="454"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="542"/>
-      <location filename="src/dbg/debugger.cpp" line="1189"/>
+      <location filename="src/dbg/debugger.cpp" line="1223"/>
       <source>You can only set 4 hardware breakpoints</source>
       <translation>您最多只能设置4个硬件断点</translation>
     </message>
@@ -7172,25 +7172,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="264"/>
-      <location filename="src/dbg/debugger.cpp" line="2940"/>
+      <location filename="src/dbg/debugger.cpp" line="2974"/>
       <source>Process is already being debugged!</source>
       <translation>进程已经在调试！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="271"/>
-      <location filename="src/dbg/debugger.cpp" line="2859"/>
+      <location filename="src/dbg/debugger.cpp" line="2893"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失败 ！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
-      <location filename="src/dbg/debugger.cpp" line="2866"/>
+      <location filename="src/dbg/debugger.cpp" line="2900"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>请您用x32dbg来调试这个程序！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
-      <location filename="src/dbg/debugger.cpp" line="2868"/>
+      <location filename="src/dbg/debugger.cpp" line="2902"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>请您用x64dbg来调试这个程序！</translation>
     </message>
@@ -9163,340 +9163,340 @@ JSON数据库文件无效！</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="915"/>
-      <location filename="src/dbg/debugger.cpp" line="1355"/>
+      <location filename="src/dbg/debugger.cpp" line="1389"/>
       <source>Error when evaluating break condition.</source>
       <translation>暂停条件计算出错。</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="927"/>
-      <location filename="src/dbg/debugger.cpp" line="1370"/>
+      <location filename="src/dbg/debugger.cpp" line="929"/>
+      <location filename="src/dbg/debugger.cpp" line="1404"/>
       <source>Error when evaluating log condition.</source>
       <translation>日志条件计算出错。</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="939"/>
-      <location filename="src/dbg/debugger.cpp" line="1376"/>
+      <location filename="src/dbg/debugger.cpp" line="942"/>
+      <location filename="src/dbg/debugger.cpp" line="1410"/>
       <source>Error when evaluating command condition.</source>
       <translation>命令条件计算出错。</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1035"/>
+      <location filename="src/dbg/debugger.cpp" line="1069"/>
       <source>Failed to open breakpoint log: %s (%s)
 </source>
       <translation>打开断点日志失败: %s (%s)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1064"/>
+      <location filename="src/dbg/debugger.cpp" line="1098"/>
       <source>User code reached at %s</source>
       <translation>已到达用户代码 %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1161"/>
+      <location filename="src/dbg/debugger.cpp" line="1195"/>
       <source>Breakpoint %p has been disabled because the bytes don't match! Expected: %02X %02X, Found: %02X %02X
 </source>
       <translation>由于字节不匹配，断点%p已经禁用。预期：%02X %02X, 实际：%02X %02X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1168"/>
+      <location filename="src/dbg/debugger.cpp" line="1202"/>
       <source>Could not set breakpoint %p! (SetBPX)
 </source>
       <translation>无法设置断点 %p! (SetBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1171"/>
+      <location filename="src/dbg/debugger.cpp" line="1205"/>
       <source>MemRead failed on breakpoint address %p!
 </source>
       <translation>MemRead在断点地址%p上失败了！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1180"/>
+      <location filename="src/dbg/debugger.cpp" line="1214"/>
       <source>Could not set memory breakpoint %p! (SetMemoryBPXEx)
 </source>
       <translation>无法设置内存断点 %p! (SetMemoryBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1196"/>
+      <location filename="src/dbg/debugger.cpp" line="1230"/>
       <source>Could not set hardware breakpoint %p! (SetHardwareBreakPoint)
 </source>
       <translation>无法设置硬件断点 %p! (SetHardwareBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1198"/>
+      <location filename="src/dbg/debugger.cpp" line="1232"/>
       <source>Set hardware breakpoint on %p!
 </source>
       <translation>已设置硬件断点于 %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1231"/>
+      <location filename="src/dbg/debugger.cpp" line="1265"/>
       <source>Could not delete breakpoint %p! (DeleteBPX)
 </source>
       <translation>无法删除断点 %p! (DeleteBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1235"/>
+      <location filename="src/dbg/debugger.cpp" line="1269"/>
       <source>Could not delete memory breakpoint %p! (RemoveMemoryBPX)
 </source>
       <translation>无法删除内存断点 %p! (RemoveMemoryBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1239"/>
+      <location filename="src/dbg/debugger.cpp" line="1273"/>
       <source>Could not delete hardware breakpoint %p! (DeleteHardwareBreakPoint)
 </source>
       <translation>无法删除硬件断点 %p! (DeleteHardwareBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1401"/>
+      <location filename="src/dbg/debugger.cpp" line="1435"/>
       <source>Trace finished after %llu steps!
 </source>
       <translation>追踪 %llu 步后成功结束！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1403"/>
+      <location filename="src/dbg/debugger.cpp" line="1437"/>
       <source>Trace finished after %u steps!
 </source>
       <translation>追踪 %u 步后成功结束！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1474"/>
-      <location filename="src/dbg/debugger.cpp" line="1806"/>
+      <location filename="src/dbg/debugger.cpp" line="1508"/>
+      <location filename="src/dbg/debugger.cpp" line="1840"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNameFromHandle 失败)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1476"/>
+      <location filename="src/dbg/debugger.cpp" line="1510"/>
       <source>Process Started: %p %s
 </source>
       <translation>进程已启动： %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1525"/>
+      <location filename="src/dbg/debugger.cpp" line="1559"/>
       <source>TLS Callback %d</source>
       <translation>TLS回调函数%d</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1533"/>
-      <location filename="src/dbg/debugger.cpp" line="1860"/>
+      <location filename="src/dbg/debugger.cpp" line="1567"/>
+      <location filename="src/dbg/debugger.cpp" line="1894"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d个无效的TLS回调函数地址……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1538"/>
-      <location filename="src/dbg/debugger.cpp" line="1832"/>
+      <location filename="src/dbg/debugger.cpp" line="1572"/>
+      <location filename="src/dbg/debugger.cpp" line="1866"/>
       <source>entry breakpoint</source>
       <translation>入口断点</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1602"/>
+      <location filename="src/dbg/debugger.cpp" line="1636"/>
       <source>Process stopped with exit code %s
 </source>
       <translation>进程已停止，退出码为 %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1642"/>
+      <location filename="src/dbg/debugger.cpp" line="1676"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation>线程 %s 已创建，入口：%s，参数：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1651"/>
+      <location filename="src/dbg/debugger.cpp" line="1685"/>
       <source>Thread Entry</source>
       <translation>线程入口</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1680"/>
+      <location filename="src/dbg/debugger.cpp" line="1714"/>
       <source>Thread %s Stack</source>
       <translation>线程 %s 堆栈...</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1706"/>
+      <location filename="src/dbg/debugger.cpp" line="1740"/>
       <source>No threads left to switch to (bug?)</source>
       <translation>没有剩下的线程可以切换(bug?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1715"/>
+      <location filename="src/dbg/debugger.cpp" line="1749"/>
       <source>Thread %s exit
 </source>
       <translation>线程 %s 退出
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1738"/>
+      <location filename="src/dbg/debugger.cpp" line="1772"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation>错误︰ 无法加载全局初始化脚本。</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1743"/>
+      <location filename="src/dbg/debugger.cpp" line="1777"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation>错误︰ 无法加载调试对象初始化脚本。</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1764"/>
+      <location filename="src/dbg/debugger.cpp" line="1798"/>
       <source>System breakpoint reached!</source>
       <translation>已到达系统断点！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1776"/>
+      <location filename="src/dbg/debugger.cpp" line="1810"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation>检测到调试器入口点位于程序的 MZ 头中，这将导致异常现象，因此系统断点已被强制开启。请注意！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1851"/>
-      <location filename="src/dbg/debugger.cpp" line="1853"/>
+      <location filename="src/dbg/debugger.cpp" line="1885"/>
+      <location filename="src/dbg/debugger.cpp" line="1887"/>
       <source>TLS Callback</source>
       <translation>TLS回调函数</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1889"/>
+      <location filename="src/dbg/debugger.cpp" line="1923"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>正在等待 ntdll.dll 符号载入...</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1895"/>
+      <location filename="src/dbg/debugger.cpp" line="1929"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>成功将 LdrpDebugFlags 设置为 0x%08X！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1897"/>
+      <location filename="src/dbg/debugger.cpp" line="1931"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>无法写入 LdrpDebugFlags</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1901"/>
+      <location filename="src/dbg/debugger.cpp" line="1935"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>找不到符号“LdrpDebugFlags”！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1906"/>
+      <location filename="src/dbg/debugger.cpp" line="1940"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>找不到LdrpDebugFlags（您需要为ntdll.dll加载符号）</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1911"/>
+      <location filename="src/dbg/debugger.cpp" line="1945"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL已载入： %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1978"/>
+      <location filename="src/dbg/debugger.cpp" line="2012"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL已卸载： %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2021"/>
+      <location filename="src/dbg/debugger.cpp" line="2055"/>
       <source>DebugString: "%s"
 </source>
       <translation>调试字符串： "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2094"/>
+      <location filename="src/dbg/debugger.cpp" line="2128"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>SetThreadName 异常发生于 %p (%X, "%s")
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2112"/>
+      <location filename="src/dbg/debugger.cpp" line="2146"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>第一次异常于 %p (%.8X, %s)！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2114"/>
+      <location filename="src/dbg/debugger.cpp" line="2148"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>第一次异常于 %p (%.8X)！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2125"/>
+      <location filename="src/dbg/debugger.cpp" line="2159"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>第二次异常于 %p (%.8X, %s)！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2127"/>
+      <location filename="src/dbg/debugger.cpp" line="2161"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>第二次异常于 %p (%.8X)！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2185"/>
+      <location filename="src/dbg/debugger.cpp" line="2219"/>
       <source>Attached to process!</source>
       <translation>已附加到进程！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2750"/>
+      <location filename="src/dbg/debugger.cpp" line="2784"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>调试DLL时发生错误 (无法复制加载器)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2799"/>
+      <location filename="src/dbg/debugger.cpp" line="2833"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>调试DLL时出错 (找不到 loaddll.exe)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2832"/>
+      <location filename="src/dbg/debugger.cpp" line="2866"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>您要调试的程序需要提升权限。以管理员身份重新启动吗？</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2833"/>
+      <location filename="src/dbg/debugger.cpp" line="2867"/>
       <source>Elevation</source>
       <translation>提升权限</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2851"/>
+      <location filename="src/dbg/debugger.cpp" line="2885"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>启动进程 (CreateProcess，%s) 时出错！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2942"/>
+      <location filename="src/dbg/debugger.cpp" line="2976"/>
       <source>Attach to process failed: %s
 </source>
       <translation>附加到进程失败：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2980"/>
+      <location filename="src/dbg/debugger.cpp" line="3014"/>
       <source>Debugging stopped!</source>
       <translation>调试结束！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3032"/>
+      <location filename="src/dbg/debugger.cpp" line="3066"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10005,48 +10005,48 @@ Do you want to continue debugging?</source>
       <translation>所有模块 (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="148"/>
+      <location filename="src/dbg/simplescript.cpp" line="141"/>
       <source>FileHelper::ReadAllText failed...</source>
       <translation>FileHelper::ReadAllText 失败……</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="280"/>
+      <location filename="src/dbg/simplescript.cpp" line="273"/>
       <source>Empty label detected on line %d!</source>
       <translation>发现在行 %d 上有空的标签！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="289"/>
+      <location filename="src/dbg/simplescript.cpp" line="282"/>
       <source>Duplicate label "%s" detected on lines %d and %d!</source>
       <translation>发现重复的标签"%s"于行%d和%d！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="330"/>
-      <location filename="src/dbg/simplescript.cpp" line="513"/>
+      <location filename="src/dbg/simplescript.cpp" line="323"/>
+      <location filename="src/dbg/simplescript.cpp" line="506"/>
       <source>Invalid branch label "%s" detected on line %d!</source>
       <translation>检测到无效的分支标签“%s”于行%d！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="453"/>
+      <location filename="src/dbg/simplescript.cpp" line="446"/>
       <source>Script finished!</source>
       <translation>脚本执行完毕！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="558"/>
+      <location filename="src/dbg/simplescript.cpp" line="551"/>
       <source>Error executing command!</source>
       <translation>执行命令时出错！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="584"/>
+      <location filename="src/dbg/simplescript.cpp" line="577"/>
       <source>Debugger must be paused to run a script!</source>
       <translation>调试器只有在暂停时才能运行脚本！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="624"/>
+      <location filename="src/dbg/simplescript.cpp" line="617"/>
       <source>The script has been running for a while. Would you like to terminate it now?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="626"/>
+      <location filename="src/dbg/simplescript.cpp" line="619"/>
       <source>Script is terminated by user.</source>
       <translation>脚本被用户终止。</translation>
     </message>
