@@ -6417,7 +6417,8 @@
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="580"/>
       <source>Could not enable hardware breakpoint %p (BpEnable)
 </source>
-      <translation type="unfinished"/>
+      <translation>無法啟用硬體中斷點 %p (BpEnable)
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="367"/>
@@ -6652,7 +6653,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="825"/>
       <source>No memory breakpoints to delete!</source>
-      <translation type="unfinished"/>
+      <translation>沒有記憶體中斷點可以刪除！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="830"/>
@@ -6772,7 +6773,8 @@
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1179"/>
       <source>Could not disable DLL breakpoint %s (LibrarianRemoveBreakPoint)
 </source>
-      <translation type="unfinished"/>
+      <translation>無法停用 DLL 中斷點 %s (LibrarianRemoveBreakPoint)
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1051"/>
@@ -7151,7 +7153,7 @@
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
       <location filename="src/dbg/debugger.cpp" line="2900"/>
       <source>Use x32dbg to debug this process!</source>
-      <translation type="unfinished"/>
+      <translation>請用 x32dbg 來除錯此程式！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
@@ -9195,7 +9197,7 @@ Invalid database file (JSON)!</source>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1714"/>
       <source>Thread %s Stack</source>
-      <translation type="unfinished"/>
+      <translation>執行緒 %s 堆疊</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1740"/>
@@ -9206,7 +9208,8 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="1749"/>
       <source>Thread %s exit
 </source>
-      <translation type="unfinished"/>
+      <translation>執行緒 %s 退出
+</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1772"/>
@@ -10061,7 +10064,7 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/value.cpp" line="2405"/>
       <location filename="src/dbg/value.cpp" line="2556"/>
       <source>Not debugging</source>
-      <translation type="unfinished"/>
+      <translation>未在除錯</translation>
     </message>
     <message>
       <location filename="src/dbg/value.cpp" line="1766"/>
@@ -11089,7 +11092,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="216"/>
       <source>Export data in CSV/TSV format</source>
-      <translation type="unfinished"/>
+      <translation>將資料匯出到TSV檔</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="217"/>
@@ -11117,7 +11120,8 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>
       <source>TSV export error
 </source>
-      <translation type="unfinished"/>
+      <translation>TSV 匯出錯誤
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>

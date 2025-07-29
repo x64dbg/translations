@@ -3052,7 +3052,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="49"/>
       <source>Struct</source>
-      <translation type="unfinished"/>
+      <translation>结构体</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="242"/>
@@ -3954,7 +3954,7 @@
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="90"/>
       <source>Display type at %1</source>
-      <translation type="unfinished"/>
+      <translation>在 %1 显示类型</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
@@ -4581,7 +4581,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Tracing</source>
-      <translation type="unfinished"/>
+      <translation>跟踪</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
@@ -5424,7 +5424,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>Copy image</source>
-      <translation type="unfinished"/>
+      <translation>复制图像</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
@@ -5673,7 +5673,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="46"/>
       <source>Struct</source>
-      <translation type="unfinished"/>
+      <translation>结构体</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="48"/>
@@ -6213,22 +6213,22 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="424"/>
       <source>Failed to get VEH (loaded symbols for ntdll.dll?)</source>
-      <translation type="unfinished"/>
+      <translation>获取 VEH 失败（是否已经加载 ntdll.dll 的符号？）</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="431"/>
       <source>Failed to get VCH (loaded symbols for ntdll.dll?)</source>
-      <translation type="unfinished"/>
+      <translation>获取 VCH 失败（是否已经加载 ntdll.dll 的符号？）</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="437"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernelbase.dll?)</source>
-      <translation type="unfinished"/>
+      <translation>获取 UnhandledExceptionFilter 失败（是否已经加载 kernelbase.dll 的符号？）</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="439"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernel32.dll?)</source>
-      <translation type="unfinished"/>
+      <translation>获取 UnhandledExceptionFilter 失败（是否已经加载 kernel32.dll 的符号？）</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="15"/>
@@ -10043,7 +10043,7 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/simplescript.cpp" line="617"/>
       <source>The script has been running for a while. Would you like to terminate it now?</source>
-      <translation type="unfinished"/>
+      <translation>脚本已运行一段时间。您想要现在终止它吗？</translation>
     </message>
     <message>
       <location filename="src/dbg/simplescript.cpp" line="619"/>
@@ -10752,7 +10752,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
       <source>Copy image</source>
-      <translation type="unfinished"/>
+      <translation>复制图像</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
@@ -10858,7 +10858,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="51"/>
       <source>Enter address or expression...</source>
-      <translation type="unfinished"/>
+      <translation>输入地址或表达式……</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="63"/>
@@ -10888,7 +10888,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="28"/>
       <source>Type Name</source>
-      <translation type="unfinished"/>
+      <translation>类型名称</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="52"/>
@@ -10898,27 +10898,27 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="52"/>
       <source>No types loaded yet, parse a header first...</source>
-      <translation type="unfinished"/>
+      <translation>没有加载结构体，请先解析头文件……</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="79"/>
       <source>Enter address or expression</source>
-      <translation type="unfinished"/>
+      <translation>输入地址或表达式</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="90"/>
       <source>Address: %1</source>
-      <translation type="unfinished"/>
+      <translation>地址：%1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="95"/>
       <source>Address: %1 (Invalid memory)</source>
-      <translation type="unfinished"/>
+      <translation>地址：%1（无效内存）</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="101"/>
       <source>Invalid address expression</source>
-      <translation type="unfinished"/>
+      <translation>地址表达式无效</translation>
     </message>
   </context>
   <context>
@@ -10941,7 +10941,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="59"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this expression evaluates to 1, the debugger will pause.&lt;/p&gt;&lt;p&gt;Set to &lt;span style=" text-decoration: underline;"&gt;0&lt;/span&gt; for a breakpoint that never breaks, but can still do logging and execute commands.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;若该表达式求值为 1，调试器将暂停。&lt;/p&gt;&lt;p&gt;将其设为&lt;span style=" text-decoration: underline;"&gt;0&lt;/span&gt;可得到一个永不暂停的断点，但其仍能记录日志和执行命令。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="62"/>
@@ -10991,7 +10991,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="153"/>
       <source>If this expression evaluates to 1, the command specified above is executed.</source>
-      <translation type="unfinished"/>
+      <translation>如果此表达式值为1，则执行上面指定的命令。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="156"/>
@@ -11284,23 +11284,24 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="216"/>
       <source>Export data in CSV/TSV format</source>
-      <translation type="unfinished"/>
+      <translation>将数据导出到 CSV/TSV 文件</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="217"/>
       <source>Enter the CSV/TSV file name to export</source>
-      <translation type="unfinished"/>
+      <translation>输入要导出的 CSV/TSV 文件名</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="218"/>
       <source>CSV files (*.csv);;TSV files (*.tsv);;All files (*.*)</source>
-      <translation type="unfinished"/>
+      <translation>CSV 文件 (*.csv);;TSV 文件 (*.tsv);;所有文件 (*.*)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="292"/>
       <source>Saved TSV data at %1
 </source>
-      <translation type="unfinished"/>
+      <translation>已保存TSV数据于 %1
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="292"/>
@@ -11312,7 +11313,8 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>
       <source>TSV export error
 </source>
-      <translation type="unfinished"/>
+      <translation>TSV 导出错误
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>
@@ -11706,7 +11708,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="118"/>
       <source>Focus on Window</source>
-      <translation type="unfinished"/>
+      <translation>激活窗口</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="120"/>
@@ -11762,7 +11764,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="335"/>
       <source>The program must be running before its window can be focused.</source>
-      <translation type="unfinished"/>
+      <translation>程序需要运行才能激活其窗口。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="476"/>
@@ -15835,17 +15837,17 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
       <source>None</source>
-      <translation type="unfinished"/>
+      <translation>无</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
       <source>C/C++</source>
-      <translation type="unfinished"/>
+      <translation>C/c++</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
       <source>MASM</source>
-      <translation type="unfinished"/>
+      <translation>MASM</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
@@ -16326,7 +16328,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="55"/>
       <source>Reload type</source>
-      <translation type="unfinished"/>
+      <translation>重新加载类型</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="55"/>
@@ -16353,7 +16355,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="65"/>
       <source>Remove all</source>
-      <translation type="unfinished"/>
+      <translation>全部删除</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="66"/>
@@ -17948,12 +17950,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
       <source>Field</source>
-      <translation type="unfinished"/>
+      <translation>字段</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
       <source>Offset</source>
-      <translation type="unfinished"/>
+      <translation>偏移</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/TypeWidget.cpp" line="21"/>
@@ -17987,7 +17989,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="166"/>
       <source>Failed to check for updates</source>
-      <translation type="unfinished"/>
+      <translation>检查更新失败</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="176"/>
