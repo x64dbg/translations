@@ -11892,7 +11892,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="471"/>
       <source>&amp;Entire Block</source>
-      <translation>整块(&amp;E)</translation>
+      <translation>搜索全部内存(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="478"/>
