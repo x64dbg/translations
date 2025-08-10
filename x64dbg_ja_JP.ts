@@ -4583,7 +4583,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Tracing</source>
-      <translation type="unfinished"/>
+      <translation>トレース</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
@@ -10061,7 +10061,7 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/simplescript.cpp" line="617"/>
       <source>The script has been running for a while. Would you like to terminate it now?</source>
-      <translation type="unfinished"/>
+      <translation>スクリプトはしばらく実行されています。今すぐ終了しますか？</translation>
     </message>
     <message>
       <location filename="src/dbg/simplescript.cpp" line="619"/>
@@ -11303,23 +11303,24 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="216"/>
       <source>Export data in CSV/TSV format</source>
-      <translation type="unfinished"/>
+      <translation>CSV/TSV形式でデータをエクスポート</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="217"/>
       <source>Enter the CSV/TSV file name to export</source>
-      <translation type="unfinished"/>
+      <translation>エクスポートするCSV/TSVファイル名を入力してください</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="218"/>
       <source>CSV files (*.csv);;TSV files (*.tsv);;All files (*.*)</source>
-      <translation type="unfinished"/>
+      <translation>CSV ファイル (*.csv);;TSV ファイル (*.tsv);;すべてのファイル (*.*)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="292"/>
       <source>Saved TSV data at %1
 </source>
-      <translation type="unfinished"/>
+      <translation>TSV データを %1 に保存しました
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="292"/>
@@ -11332,7 +11333,8 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>
       <source>TSV export error
 </source>
-      <translation type="unfinished"/>
+      <translation>TSV エクスポート エラー
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>
@@ -15857,22 +15859,22 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="762"/>
       <source>Hexadecimal value notation:</source>
-      <translation type="unfinished"/>
+      <translation>16進数値表記：</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="779"/>
       <source>None</source>
-      <translation type="unfinished"/>
+      <translation>なし</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="784"/>
       <source>C/C++</source>
-      <translation type="unfinished"/>
+      <translation>C/C++</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
       <source>MASM</source>
-      <translation type="unfinished"/>
+      <translation>MASM</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
