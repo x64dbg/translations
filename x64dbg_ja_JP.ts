@@ -1626,97 +1626,91 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="302"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="292"/>
       <source>Unlocked</source>
       <translation>アンロック済み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
       <source>Refresh is automatic.</source>
       <translation>更新は自動です。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="75"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2449"/>
-      <source>[Formatting Error]</source>
-      <translation>[フォーマットエラー]</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="124"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="114"/>
       <source>Follow %1 in %2</source>
       <translation>%2で%1を追跡</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="154"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="160"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="144"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="150"/>
       <source>Disassembler</source>
       <translation>逆アセンブル</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="155"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="161"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="145"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="151"/>
       <source>Dump</source>
       <translation>ダンプ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="157"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="163"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="147"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="153"/>
       <source>Stack</source>
       <translation>スタック</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="167"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="157"/>
       <source>&amp;Copy</source>
       <translation>コピー(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="210"/>
       <source>Default (x64 fastcall)</source>
       <translation>既定 (x64 fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="227"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="217"/>
       <source>Default (stdcall)</source>
       <translation>既定 (stdcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="230"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
       <source>Default (stdcall, EBP stack)</source>
       <translation>既定 (stdcall、EBPスタック)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="233"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="223"/>
       <source>thiscall</source>
       <translation>thiscall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="237"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="227"/>
       <source>fastcall</source>
       <translation>fastcall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="242"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="232"/>
       <source>Delphi (Borland fastcall)</source>
       <translation>Delphi (Borland fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="277"/>
       <source>Locked</source>
       <translation>ロック済み</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="288"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
       <source>Refresh is disabled.</source>
       <translation>更新は無効です。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="295"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="285"/>
       <source>Calls</source>
       <translation>Calls</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="296"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>更新はコール命令を実行するときにのみ行われます。</translation>
     </message>
@@ -3075,133 +3069,133 @@
   <context>
     <name>CPURegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="45"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="58"/>
       <source>Modify value</source>
       <translation>値を変更</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="47"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="60"/>
       <source>Increment value</source>
       <translation>値を増やす</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="49"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="62"/>
       <source>Decrement value</source>
       <translation>値を減らす</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="51"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="64"/>
       <source>Zero value</source>
       <translation>ゼロ値</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="53"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="66"/>
       <source>Toggle</source>
       <translation>切り替え</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="54"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="67"/>
       <source>Undo</source>
       <translation>取り消し</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="56"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="69"/>
       <source>Follow in Disassembler</source>
       <translation>逆アセンブラで追跡</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="57"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="70"/>
       <source>Follow in Dump</source>
       <translation>ダンプ画面で追跡</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="58"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="71"/>
       <source>Follow in Stack</source>
       <translation>スタック画面で追跡</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="59"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="72"/>
       <source>Follow in Memory Map</source>
       <translation>メモリマップ画面で追跡</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="60"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="73"/>
       <source>&amp;Remove hardware breakpoint</source>
       <translation>ハードウェアブレークポイントを削除 (&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="61"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="74"/>
       <source>Increment x87 Stack</source>
       <translation>x87スタックをインクリメント</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="62"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="75"/>
       <source>Decrement x87 Stack</source>
       <translation>x87スタックをデクリメント</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="63"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="76"/>
       <source>Highlight</source>
       <translation>ハイライト</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="285"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
       <source>Error</source>
       <translation>エラー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="293"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="472"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="308"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="487"/>
       <source>Edit %1</source>
       <translation>%1の編集</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="298"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="302"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="304"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="307"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="317"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="319"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="322"/>
       <source>Edit</source>
       <translation>編集</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="331"/>
       <source>Edit %1 register</source>
       <translation>%1レジスタの編集</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="323"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="338"/>
       <source>Edit FPU register</source>
       <translation>FPUレジスタを編集</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="417"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation>16進数への変換エラーが発生しました</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="447"/>
       <source>Set Last Error</source>
       <translation>最後のエラーを設定</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="453"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="468"/>
       <source>Set Last Status</source>
       <translation>最後のステータスを設定</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="668"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="683"/>
       <source>Follow in &amp;Dump</source>
       <translation>ダンプ画面で追跡 (&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="710"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="725"/>
       <source>Copy old value: %1</source>
       <translation>古い値をコピー：%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="755"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="770"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation>%1にハードウェア ブレークポイントを設定</translation>
     </message>
@@ -7174,25 +7168,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="264"/>
-      <location filename="src/dbg/debugger.cpp" line="2974"/>
+      <location filename="src/dbg/debugger.cpp" line="2960"/>
       <source>Process is already being debugged!</source>
       <translation>プロセスは既にデバッグされています!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="271"/>
-      <location filename="src/dbg/debugger.cpp" line="2893"/>
+      <location filename="src/dbg/debugger.cpp" line="2879"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失敗!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
-      <location filename="src/dbg/debugger.cpp" line="2900"/>
+      <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>x32dbg を使用してこのプロセスをデバッグ!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
-      <location filename="src/dbg/debugger.cpp" line="2902"/>
+      <location filename="src/dbg/debugger.cpp" line="2888"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>x64dbg を使用してこのプロセスをデバッグ!</translation>
     </message>
@@ -7440,14 +7434,14 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="203"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="204"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="358"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="411"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="500"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="603"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="653"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="756"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="950"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="401"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="490"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="643"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
@@ -7456,8 +7450,8 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="204"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="206"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="360"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="350"/>
       <source>Data</source>
       <translation>データ</translation>
     </message>
@@ -7961,41 +7955,41 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="115"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="165"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="266"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="105"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="155"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="256"/>
       <source>Failed to transform pattern!</source>
       <translation>パターンの変換に失敗しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="123"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="173"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="113"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="163"/>
       <source>Invalid memory address %p!
 </source>
       <translation>無効なメモリ アドレス %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="129"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="179"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="119"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="169"/>
       <source>Failed to read memory!</source>
       <translation>メモリの読み込みに失敗しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="202"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="356"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
       <source>Pattern: %s</source>
       <translation>パターン : %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="208"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="362"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="412"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="501"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="604"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="654"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="758"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="951"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="198"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="352"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="402"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="491"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="594"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="644"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="748"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
@@ -8003,87 +7997,87 @@
       <translation>逆アセンブル</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="240"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="392"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="230"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="382"/>
       <source>[Error disassembling]</source>
       <translation>[逆アセンブル エラー]</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="248"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="400"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="238"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="390"/>
       <source>%d occurrences found in %ums
 </source>
       <translation>%d 件の出現が見つかりました (%u ミリ秒)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="351"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="341"/>
       <source>MemFindInMap failed!</source>
       <translation>MemFindInMap に失敗しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="458"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="448"/>
       <source>Failed to assemble "%s" (%s)!
 </source>
       <translation>アセンブルに失敗しました "%s" (%s) !
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="467"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="457"/>
       <source>Command: "%s"</source>
       <translation>コマンド : "%s"</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="470"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="460"/>
       <source>%u result(s) in %ums
 </source>
       <translation>%u 結果 ( %u ミリ秒)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="582"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="572"/>
       <source>Constant: %p</source>
       <translation>定数 : %p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="584"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="574"/>
       <source>Range: %p-%p</source>
       <translation>範囲 : %p-%p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="583"/>
       <source>%u reference(s) in %ums
 </source>
       <translation>%u 参照 ( %u ミリ秒)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="605"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="595"/>
       <source>String Address</source>
       <translation>文字列アドレス</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="606"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="596"/>
       <source>String</source>
       <translation>文字列</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="607"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="597"/>
       <source>Follow in Disassembly and Dump</source>
       <translation>逆アセンブラとダンプ画面で追跡</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="608"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="598"/>
       <source>Follow string in Dump</source>
       <translation>ダンプ画面で文字列を追跡</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="655"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="645"/>
       <source>Function pointer</source>
       <translation>関数ポインタ</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="656"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="646"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="326"/>
@@ -8091,86 +8085,86 @@
       <translation>ラベル</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="716"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="706"/>
       <source>Strings</source>
       <translation>文字列</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="719"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="709"/>
       <source>%u string(s) in %ums
 </source>
       <translation>%u 文字列 ( %u ミリ秒)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="743"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="733"/>
       <source>Function pointers</source>
       <translation>関数ポインタ</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="736"/>
       <source>%u function pointer(s) in %ums
 </source>
       <translation>%u関数ポインタ (%uミリ秒)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="757"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="747"/>
       <source>Module</source>
       <translation>モジュール</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="759"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="749"/>
       <source>Destination</source>
       <translation>保存先</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="853"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="843"/>
       <source>Calls</source>
       <translation>Calls</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="856"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="846"/>
       <source>%u call(s) in %ums
 </source>
       <translation>%u call(s) ( %u ミリ秒)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="952"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1095"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="942"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1085"/>
       <source>GUID</source>
       <translation>GUID</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="953"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="943"/>
       <source>ProgId</source>
       <translation>ProgId</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="954"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="944"/>
       <source>Path</source>
       <translation>パス</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="955"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="945"/>
       <source>Description</source>
       <translation>説明</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1067"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1057"/>
       <source>RegOpenKeyExW() failed. Cannot enumerate GUIDs.</source>
       <translation>RegOpenKeyExW() に失敗しました。GUIDを列挙できません。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1098"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1088"/>
       <source>%u GUID(s) in %ums
 </source>
       <translation>%u GUID(s) ( %u ミリ秒)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1111"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1101"/>
       <source>Invalid expression: "%s"</source>
       <translation>無効な式："%s"</translation>
     </message>
@@ -9426,90 +9420,90 @@ Invalid database file (JSON)!</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2128"/>
+      <location filename="src/dbg/debugger.cpp" line="2114"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>%p (%X, "%s") で SetThreadName 例外
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2146"/>
+      <location filename="src/dbg/debugger.cpp" line="2132"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s) で ファーストチャンス 例外!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2148"/>
+      <location filename="src/dbg/debugger.cpp" line="2134"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X) で ファーストチャンス 例外!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2159"/>
+      <location filename="src/dbg/debugger.cpp" line="2145"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s) で ラストチャンス 例外!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2161"/>
+      <location filename="src/dbg/debugger.cpp" line="2147"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X) で ラストチャンス 例外!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2219"/>
+      <location filename="src/dbg/debugger.cpp" line="2205"/>
       <source>Attached to process!</source>
       <translation>プロセスをアタッチしました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2784"/>
+      <location filename="src/dbg/debugger.cpp" line="2770"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>DLL のデバッグ エラー (ローダーのコピーに失敗しました)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2833"/>
+      <location filename="src/dbg/debugger.cpp" line="2819"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>DLL のデバッグ エラー (loaddll.exe が見つかりません)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2866"/>
+      <location filename="src/dbg/debugger.cpp" line="2852"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>デバッグしようとしている実行可能ファイルには昇格が必要です。管理者として再起動しますか?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2867"/>
+      <location filename="src/dbg/debugger.cpp" line="2853"/>
       <source>Elevation</source>
       <translation>昇格</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2885"/>
+      <location filename="src/dbg/debugger.cpp" line="2871"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>プロセス開始時にエラーが発生しました(CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2976"/>
+      <location filename="src/dbg/debugger.cpp" line="2962"/>
       <source>Attach to process failed: %s
 </source>
       <translation>プロセスのアタッチに失敗しました: %s5
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3014"/>
+      <location filename="src/dbg/debugger.cpp" line="3000"/>
       <source>Debugging stopped!</source>
       <translation>デバッグが停止しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3066"/>
+      <location filename="src/dbg/debugger.cpp" line="3052"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -9629,8 +9623,8 @@ Do you want to continue debugging?</source>
     </message>
     <message>
       <location filename="src/dbg/handles.cpp" line="152"/>
-      <location filename="src/dbg/handles.cpp" line="207"/>
-      <location filename="src/dbg/handles.cpp" line="209"/>
+      <location filename="src/dbg/handles.cpp" line="186"/>
+      <location filename="src/dbg/handles.cpp" line="188"/>
       <source>Debuggee</source>
       <translation>デバッグ対象</translation>
     </message>
@@ -10189,12 +10183,12 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="45"/>
+      <location filename="src/dbg/thread.cpp" line="35"/>
       <source>Main Thread</source>
       <translation>メイン スレッド</translation>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="347"/>
+      <location filename="src/dbg/thread.cpp" line="335"/>
       <source>Failed to suspend thread 0x%X...
 </source>
       <translation>スレッド 0x%X の中断に失敗しました...
@@ -11660,25 +11654,25 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="85"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="149"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="140"/>
       <source>Windows</source>
       <translation>Windows</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="86"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="141"/>
       <source>Handles</source>
       <translation>ハンドル</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="88"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="151"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="142"/>
       <source>TCP Connections</source>
       <translation>TCP 接続</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="89"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="152"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="143"/>
       <source>Privileges</source>
       <translation>権限</translation>
     </message>
@@ -11694,13 +11688,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="106"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="254"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="245"/>
       <source>Disable Privilege: </source>
       <translation>権限を無効 : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="108"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="259"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="250"/>
       <source>Enable Privilege: </source>
       <translation>権限を有効 : </translation>
     </message>
@@ -11716,13 +11710,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="114"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="223"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="214"/>
       <source>Enable window</source>
       <translation>ウィンドウを有効にする</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="116"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="218"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="209"/>
       <source>Disable window</source>
       <translation>ウィンドウを無効にする</translation>
     </message>
@@ -11752,49 +11746,44 @@ Do you want to continue rendering this graph?</source>
       <translation>メッセージのブレークポイント</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="145"/>
-      <source>TCP Connection enumeration is only available on Windows Vista or greater.</source>
-      <translation>TCPコネクション列挙は、Windows Vista以降でのみ利用可能です。</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="216"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="252"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="481"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="207"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="243"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="472"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="515"/>
       <source>Enabled</source>
       <translation>有効</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="248"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="302"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="312"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="517"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="239"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="508"/>
       <source>Unknown</source>
       <translation>不明</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="266"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="257"/>
       <source>&amp;Copy</source>
       <translation>コピー(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="335"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="326"/>
       <source>Program is not running</source>
       <translation>プログラムが実行されていません</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="335"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="326"/>
       <source>The program must be running before its window can be focused.</source>
       <translation>ウィンドウにフォーカスする前に、プログラムが実行されている必要があります。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="476"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="467"/>
       <source> (Desktop window)</source>
       <translation> (デスクトップ ウィンドウ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="481"/>
-      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="520"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="472"/>
+      <location filename="src/gui/Src/Gui/HandlesView.cpp" line="511"/>
       <source>Disabled</source>
       <translation>無効</translation>
     </message>
@@ -13567,10 +13556,10 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="484"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="487"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2522"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2529"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2542"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2549"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2512"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2519"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2532"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2539"/>
       <source>Languages</source>
       <translation>言語</translation>
     </message>
@@ -13665,7 +13654,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1263"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2644"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2634"/>
       <source>Open file</source>
       <translation>ファイルを開く</translation>
     </message>
@@ -13777,65 +13766,65 @@ Make sure to fill in as much information as possible.</source>
       <translation>お気に入りのメニューを管理するには、お気に入りダイアログを開きます</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2476"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2466"/>
       <source>Starting tool %1
 </source>
       <translation>ツール %1 を起動中
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2530"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2520"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>ほとんど翻訳されていませんが、この言語を使用しますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2550"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2540"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>言語の変更は再起動後に有効になります。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2613"/>
       <source>Animate command</source>
       <translation>アニメーション コマンド</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2613"/>
       <source>Example: StepInto</source>
       <translation>例 : ステップイン</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2636"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2626"/>
       <source>Customize Menus</source>
       <translation>メニューのカスタマイズ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2644"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2634"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>設定(*.ini);;すべてのファイル(*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2654"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2644"/>
       <source>Import database</source>
       <translation>データベースのインポート</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2654"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2644"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>データベース (%1);;データベースのバックアップ (%1.bak);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2664"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2654"/>
       <source>Export database</source>
       <translation>データベースのエクスポート</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2664"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2654"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>データベース(%1);;すべてのファイル(*.*)</translation>
     </message>
     <message>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2714"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2724"/>
       <source>More Commands</source>
       <translation>他のコマンド</translation>
     </message>
@@ -14449,11 +14438,6 @@ Make sure to fill in as much information as possible.</source>
       <translation>ファイルの保存</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="473"/>
-      <source>All files (*.*)</source>
-      <translation>すべてのファイル(*.*)</translation>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="487"/>
       <source>Failed to save patched file (%1)</source>
       <translation>パッチを適用したファイルの保存に失敗しました (%1)</translation>
@@ -14571,7 +14555,7 @@ Do you want to apply these patches anyway?</source>
   <context>
     <name>QObject</name>
     <message>
-      <location filename="src/gui/Src/main.cpp" line="217"/>
+      <location filename="src/gui/Src/main.cpp" line="214"/>
       <source>DbgInit Error!</source>
       <translation>DbgInit エラー!</translation>
     </message>
@@ -14660,8 +14644,8 @@ Do you want to apply these patches anyway?</source>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="285"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2639"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2640"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation>AVX-512 はこのコンピューターではサポートされていません。
@@ -14783,372 +14767,372 @@ Do you want to apply these patches anyway?</source>
       <translation>常にすべての AVX-512 レジスタを表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1582"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
       <source>CF (Carry flag)</source>
       <translation>CF (キャリーフラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1582"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
       <source>PF (Parity flag)</source>
       <translation>PF (パリティフラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1582"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation>AF (補助キャリー フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>ZF (Zero flag)</source>
       <translation>ZF (ゼロ フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>SF (Sign flag)</source>
       <translation>SF (サインフラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>TF (Trap flag)</source>
       <translation>TF (トラップ フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>IF (Interrupt enable flag)</source>
       <translation>IF (割り込み有効 フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>DF (Direction flag)</source>
       <translation>DF (方向 フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>OF (Overflow flag)</source>
       <translation>OF (オーバーフロー フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1600"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
       <source>Bit #</source>
       <translation>Bit #</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1600"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
       <source>Mask</source>
       <translation>マスク</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1600"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
       <source>Flag</source>
       <translation>フラグ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>&lt;table cellspacing='7'&gt; &lt;thead&gt;%1&lt;/thead&gt; &lt;tbody&gt;%2&lt;/tbody&gt;&lt;/table&gt;</source>
       <translation>&lt;table cellspacing='7'&gt; &lt;thead&gt;%1&lt;/thead&gt; &lt;tbody&gt;%2&lt;/tbody&gt;&lt;/table&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1607"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1608"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation>CF (bit 0) : Carry flag - 算術演算がキャリーを生成したり、結果の最も重要なビットを借りたりするかを設定する。 それ以外は消去された
 このフラグは符号なし整数算術のオーバーフロー条件を示します。これは多重精度算術でも使用されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1610"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1611"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (bit 2) : Parity フラグ - 結果の最も重要なバイト数が偶数1ビットを含む場合に設定する。それ以外の場合はクリアする。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1612"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1613"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (bit 4) : 補助キャリーフラグ - 算術演算によってキャリーまたはビット
 3から借用が生成されるかどうかを設定します。 それ以外は消去された このフラグはバイナリコードの小数(BCD)算術で使用されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1615"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1616"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (bit 6) : Zero flag - 結果がゼロの場合に設定します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1617"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1618"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (bit 7) : Sign フラグ - 結果の最も重要なビットに等しく設定する これは符号付き整数の符号ビットです。
  (0 は正の値、1 は負の値を示します。)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1620"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1621"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
       <translation>OF (bit 11) : オーバーフロー フラグ - 整数結果が大きすぎる正数、または小さすぎる負数 (符号ビットを除く) で宛先オペランドに収まらない場合にセットされ、それ以外の場合はクリアされます。このフラグは、符号付き整数 (2 の補数) 演算のオーバーフロー状態を示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1624"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1625"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
       <translation>DF (bit 10): 方向フラグは文字列命令 (MOVS、CMPS、SCAS、LODS、および STOS) を制御します。DF フラグを設定すると、文字列命令は自動的にデクリメントされます (文字列を高アドレスから低アドレスに処理します)。DF フラグをクリアすると、文字列命令は自動的にインクリメントされます (文字列を低アドレスから高アドレスに処理します)。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1628"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1629"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (bit 8) : Trap フラグ - デバッグ時にシングルステップモードを有効にするための設定。シングルステップモードを無効にするための設定。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1630"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1631"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (bit 9) : Interrupt enable flag - マスク可能な割込み要求に対するプロセッサの応答を制御します。 マスク可能な割込みに応答するように設定します。マスク可能な割込みを抑制するためにクリアします。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1632"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1633"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>16ビットのx87 FPU制御ワードは、x87 FPUの精度と使用される丸め方を制御します。 また、x87 FPU 浮動小数点例外マスクビットも含まれています。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1634"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1635"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>16ビットのx87 FPUステータスレジスタは、x87 FPUの現在の状態を示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1636"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1637"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>16ビットタグワードは、x87 FPUデータレジスタスタック(レジスタあたり1つの2ビットタグ)の各8つのレジスタの内容を示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1639"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1640"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>精度制御(PC)フィールド(x87 FPU 制御ワードのビット8および9)が精度(64)を決定します。 x87 FPU で行われた浮動小数点計算の 53, または 24 ビット)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1641"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1642"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>x87 FPU 制御レジスタの丸め制御(RC)フィールド(ビット10および11)は、x87 FPU 浮動小数点命令の結果がどのように丸められるかを制御します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1643"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1644"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>インテル®️ 287 Math Coprocessor との互換性のため、インフィニティ制御フラグ (x87 FPU 制御ワードのビット 12 ) が用意されています。
 後のバージョンのx87 FPUコプロセッサまたはIA-32プロセッサでは意味がありません。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1646"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1647"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>無効な動作例外マスク (ビット 0) です。マスクビットが設定されている場合、対応する例外が生成されることはありません。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1648"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1649"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>デノールオペランド例外マスク (ビット 2) マスクビットが設定されると、それに対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1650"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1651"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>浮動小数点除算ゼロ例外マスク (ビット 3) マスクビットを設定すると、その例外はブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1652"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1653"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>浮動小数点数値オーバーフロー例外マスク (ビット 4) マスクビットが設定されると、対応する例外が生成されなくなります。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1654"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1655"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>潜在的な浮動小数点数値アンダーフロー条件マスク (ビット 5) マスクビットが設定されると、その例外はブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1656"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1657"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>不正確な結果/精度例外マスク (ビット 6) マスクビットが設定されると、対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1659"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1660"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation>ビジーフラグ(ビット15)は、命令を実行しているときにFPUがビジー(B=1)であるか、アイドル(B=0)であるかを示します。
 Bビット(ビット15)は8087互換のみ含まれており、ESフラグの内容を反映しています。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1662"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1664"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1663"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1665"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1669"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation>C%1 条件コードフラグ (ビット %2) は、浮動小数点比較と算術演算の結果を示すために使用されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1670"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1671"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation>エラー/例外サマリ状態フラグ (ビット 7) は、マスクされていない例外フラグが設定されている場合に設定されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1672"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1673"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>スタックフォルトフラグ(x87 FPU ステータスワードのビット6)は、x87 FPU データレジスタスタック内のデータ
 でスタックオーバーフローまたはスタックアンダーフローが発生したことを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1674"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>x87 FPUレジスタスタックの上部にあるx87 FPUデータレジスタへのポインタは、x87 FPUステータスワードのビット11~13
 に含まれています。 このポインタは一般的に TOP (トップオブスタック) と呼ばれますが、0 から 7 のバイナリ値です。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation>プロセッサは、無効な演算オペランドに応答して無効な演算例外 (ビット 0) を報告します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1679"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1680"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation>演算命令がデノールオペランド上で動作しようとすると、プロセッサはデノールオペランド例外(ビット2)を報告します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1681"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1682"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation>プロセッサは、命令が有限でないオペランドを0で分割しようとするたびに、浮動小数点除算例外(ビット 3)を報告します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation>プロセッサは、命令の丸みを帯びた結果が、デスティネーション・オペランドに収まる最大許容有限値を超えるたびに、浮動小数点数値オーバーフロー例外 (ビット 4) を報告します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1686"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation>プロセッサは、無限指数で丸めた結果が非ゼロで小さい場合、電位浮動小数点数値アンダーフロー条件(ビット 5)を検出します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1687"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1688"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation>演算の結果がデスティネーションフォーマットで正確に表現できない場合、不正確な結果/精度例外(ビット6)が発生します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1690"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1691"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>32 ビットの MXCSR レジスタには、SIMD 浮動小数点演算の制御およびステータス情報が格納されています。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1692"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 0 (IE) : 不正な操作フラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1695"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 1 (DE) : デノーマルフラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1697"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 2 (ZE) : ゼロフラグの分割; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1698"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1699"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 3 (OE) : オーバーフローフラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 4 (UE) : アンダーフローフラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1702"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1703"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 5 (PE) : 精度フラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1705"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 7 (IM) : 無効なオペレーションマスク. マスクビットが設定されている場合, その対応する例外が生成されることはありません.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1707"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 8 (DM) : デノーマルマスク. マスクビットが設定されている場合、それに対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1709"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 9 (ZM) : ゼロマスクの除算方法 マスクビットが設定されると、それに対応する例外が生成されなくなります。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 10 (OM) : オーバーフローマスク. マスクビットを設定すると、それに対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 11 (UM) : アンダーフローマスク ビットが設定されると、それに対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1715"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 12 (PM) : Precision Mask. マスクビットが設定されていると、それに対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1717"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>MXCSR レジスタのビット 15 (FZ) は、SIMD 浮動小数点アンダーフロー状態に対するマスクされた応答を制御するゼロフラッシュ モードを有効にします。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1719"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>MXCSR レジスタのビット 6 (DAZ) は、SIMD 浮動小数点の非正規化オペランド条件に対するプロセッサの応答を制御する非正規化数ゼロ モードを有効にします。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1721"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1722"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>MXCSRレジスタ(丸め制御 [RC] フィールド)のビット13および14は、SIMD浮動小数点命令の結果がどのように丸められるかを制御します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1730"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1731"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>GetLastError() の値。この値は TEB に格納されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1741"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation>TEB LastStatusValueフィールドの NTSTATUS。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1744"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1745"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>現在のスレッドのTEBには、セグメントレジスタGS(x64)のオフセットとしてアクセスできます。
 TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの情報を取得するために使用できます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1747"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>現在のスレッドのTEBには、セグメントレジスタFS(x86)のオフセットとしてアクセスできます。
 TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの情報を取得するために使用できます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1822"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1823"/>
       <source>Hide FPU</source>
       <translation>浮動小数点演算ユニットを隠す</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1824"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
       <source>Show FPU</source>
       <translation>浮動小数点演算ユニットを表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2116"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2156"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2204"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2246"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2288"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2117"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2157"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2205"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2247"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2289"/>
       <source>Unknown</source>
       <translation>不明</translation>
     </message>
@@ -15157,81 +15141,81 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="323"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2257"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2258"/>
       <source>Nonzero</source>
       <translation>Nonzero</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="325"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2258"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2259"/>
       <source>Zero</source>
       <translation>Zero</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="327"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2259"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2260"/>
       <source>Special</source>
       <translation>Special</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="329"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2260"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2261"/>
       <source>Empty</source>
       <translation>空</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2086"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2087"/>
       <source>Toward Zero</source>
       <translation>ゼロ方向丸め</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2087"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2088"/>
       <source>Toward Positive</source>
       <translation>正方向丸め</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2088"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2089"/>
       <source>Toward Negative</source>
       <translation>負方向丸め</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2089"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2129"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2090"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2130"/>
       <source>Round Near</source>
       <translation>最近接丸め</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2126"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2127"/>
       <source>Truncate</source>
       <translation>切り捨て</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2127"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2128"/>
       <source>Round Up</source>
       <translation>切り上げ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2128"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2129"/>
       <source>Round Down</source>
       <translation>切り下げ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2215"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2217"/>
       <source>Not Used</source>
       <translation>未使用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2217"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2218"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2218"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2219"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
@@ -16988,7 +16972,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1675"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1677"/>
       <source>Error</source>
       <translation>エラー</translation>
     </message>
@@ -17112,143 +17096,154 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
+      <source>&amp;Intermodular Calls</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
+      <source>&amp;All Calls</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
       <source>&amp;Search</source>
       <translation>検索(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="929"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="931"/>
       <source>Information</source>
       <translation>情報</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="931"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="933"/>
       <source>Sync with CPU</source>
       <translation>CPU と同期</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="937"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="949"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="939"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="951"/>
       <source>Start recording</source>
       <translation>記録開始</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="944"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="946"/>
       <source>Stop recording</source>
       <translation>記録停止</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="954"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="956"/>
       <source>Close recording</source>
       <translation>記録を閉じる</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="955"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="957"/>
       <source>Close the trace file tab, and stop recording trace.</source>
       <translation>トレースファイル タブを閉じ、トレースの記録を停止する。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="956"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1326"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1328"/>
       <source>Delete recording</source>
       <translation>記録を削除</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="957"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
       <source>Delete the trace file from disk, and stop recording trace.</source>
       <translation>ディスクからトレースファイルを削除し、トレースの記録を停止する。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
       <source>Browse in Explorer</source>
       <translation>エクスプローラーで参照</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
       <source>Open the trace file in Explorer.</source>
       <translation>トレースファイルをエクスプローラで開く。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1288"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1290"/>
       <source>Open trace recording</source>
       <translation>トレース記録を開く</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1289"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1291"/>
       <source>Trace recording</source>
       <translation>トレース記録</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1290"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1292"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation>トレース記録 (*.%1);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1326"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1328"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation>この記録を削除してもよろしいですか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1393"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1395"/>
       <source>Address not found in trace</source>
       <translation>アドレスがトレースに見つかりません</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1396"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1405"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1398"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1407"/>
       <source>The address %1 is not found in trace.</source>
       <translation>アドレス %1 はトレースで見つかりません。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1396"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1398"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation>代わりに CPU画面で追跡しますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1669"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1671"/>
       <source>Open File</source>
       <translation>ファイルを開く</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1669"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1671"/>
       <source>Text Files (*.txt)</source>
       <translation>テキスト ファイル (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1675"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1677"/>
       <source>Could not open file</source>
       <translation>ファイルを開けませんでした</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1764"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1789"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1766"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1791"/>
       <source>Error!</source>
       <translation>エラー!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1764"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1766"/>
       <source>Selection not in a module...</source>
       <translation>選択範囲がモジュール内にありません...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1789"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1791"/>
       <source>Selection not in a file...</source>
       <translation>選択範囲がファイル内にありません...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1888"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1890"/>
       <source>Constant</source>
       <translation>定数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1895"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1911"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1897"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1913"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1923"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation>%1 結果 (%2 ミリ秒)
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1902"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1904"/>
       <source>References</source>
       <translation>参照</translation>
     </message>
@@ -17546,12 +17541,14 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="24"/>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="104"/>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="269"/>
+      <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="328"/>
       <source>Address</source>
       <translation>アドレス</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="25"/>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="105"/>
+      <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="329"/>
       <source>Index</source>
       <translation>インデックス</translation>
     </message>
@@ -17559,12 +17556,14 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="26"/>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="106"/>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="273"/>
+      <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="330"/>
       <source>Disassembly</source>
       <translation>逆アセンブル</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="27"/>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="107"/>
+      <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="333"/>
       <source>Follow index in trace</source>
       <translation>トレース内のインデックスを追跡</translation>
     </message>
@@ -17597,6 +17596,27 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="276"/>
       <source>Follow end index in trace</source>
       <translation>トレース内の終了インデックスを追跡</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="318"/>
+      <source>Intermodular Calls (Trace)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="322"/>
+      <source>Warning: No debugging session is active, cannot load module information while searching for intermodular calls. Searching for inter-page calls instead.
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="326"/>
+      <source>Calls (Trace)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="331"/>
+      <source>Destination</source>
+      <translation>保存先</translation>
     </message>
   </context>
   <context>
@@ -17678,32 +17698,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
   <context>
     <name>TraceRegisters</name>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="14"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="15"/>
       <source>Copy floating point value</source>
       <translation>浮動小数点値をコピー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="18"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="19"/>
       <source>Set as current value</source>
       <translation>現在の値として設定</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="21"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="22"/>
       <source>Follow in Dump</source>
       <translation>ダンプ画面で追跡</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="24"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="25"/>
+      <source>Follow in Stack</source>
+      <translation>スタック画面で追跡</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="28"/>
       <source>Highlight</source>
       <translation>ハイライト</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="131"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="153"/>
       <source>View XMM register</source>
       <translation>XMM レジスタを表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="133"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="155"/>
       <source>View MMX register</source>
       <translation>MMX レジスタを表示</translation>
     </message>
