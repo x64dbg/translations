@@ -13021,9 +13021,9 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1936"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1939"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1942"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1938"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1941"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1944"/>
       <source>&amp;Plugins</source>
       <translation>&amp;ප්ලගින</translation>
     </message>
@@ -13477,7 +13477,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2135"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2137"/>
       <source>Donate</source>
       <translation>පරිත්යාග කරන්න</translation>
     </message>
@@ -13556,7 +13556,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2161"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2163"/>
       <source>Report Bug</source>
       <translation>වාර්තාව බග්</translation>
     </message>
@@ -13658,7 +13658,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1009"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1012"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1298"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1300"/>
       <source>Trace over...</source>
       <translation>කට හෝඩුවාවක්...</translation>
     </message>
@@ -13670,7 +13670,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1024"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1027"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1281"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1283"/>
       <source>Trace into...</source>
       <translation>බවට හෝඩුවාවක්...</translation>
     </message>
@@ -13781,13 +13781,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2174"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2176"/>
       <source>Generate crash dump</source>
       <translation>කඩා වැටීමෙන් හැලීම් ජනනය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2419"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2421"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>&amp; ප්රියතම මෙවලම් කළමනාකරණය...</translation>
     </message>
@@ -13843,7 +13843,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2148"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2150"/>
       <source>Blog</source>
       <translation>බ්ලොග්</translation>
     </message>
@@ -14101,9 +14101,9 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1217"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1276"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1293"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1278"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1295"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2272"/>
       <source>Error</source>
       <translation>දෝෂය</translation>
     </message>
@@ -14160,10 +14160,10 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="491"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="494"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2581"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2588"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2601"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2608"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2583"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2590"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2603"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2610"/>
       <source>Languages</source>
       <translation>භාෂා</translation>
     </message>
@@ -14249,185 +14249,185 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1276"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1293"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1278"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1295"/>
       <source>Cannot start a trace when running, pause execution first.</source>
       <translation>ක්‍රියාත්මක වන විට හෝඩුවාවක් ආරම්භ කළ නොහැක, පළමුව ක්‍රියාත්මක කිරීම විරාම කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1332"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2703"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1334"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
       <source>Open file</source>
       <translation>ගොනුව විවෘත කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1332"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1334"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>ක්රියාත්මක කිරීම් (*.exe *.dll); සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1936"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1938"/>
       <source>Disassembly</source>
       <translation>විසුරුවීම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1939"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1941"/>
       <source>Dump</source>
       <translation>ඩම්ප්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1942"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1944"/>
       <source>Stack</source>
       <translation>ගොඩගසන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2055"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2057"/>
       <source>Enter expression to run to...</source>
       <translation>වෙත ධාවනය කිරීමට ප්රකාශනය ඇතුල් කරන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2078"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2247"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2080"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2249"/>
       <source>Error!</source>
       <translation>දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2078"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2080"/>
       <source>Patches can only be shown while debugging...</source>
       <translation>පැච් පෙන්විය හැක්කේ නිදොස්කරණය අතරතුර පමණි...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2135"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2137"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>සියලු මුදල් x64dbg සංවර්ධනයට යනු ඇත.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2148"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2150"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>ඔබ x64dbg හි නිල බ්ලොග් අඩවියට පිවිසෙනු ඇත.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2161"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2163"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>ඔබට දෝෂයක් වාර්තා කළ හැකි වෙබ් අඩවියකට ඔබව ගෙන යනු ඇත.
 හැකි තරම් තොරතුරු පිරවීමට වග බලා ගන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2174"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2176"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>මෙම ක්රියාව නිදොස්කරණය බිඳ වැටෙන අතර කඩා වැටීමක් ජනනය කරනු ඇත. ඔබගේ සියලු නොගැලවූ දත්ත ඔබට අහිමි වනු ඇත. ඔබට ඇත්තටම දිගටම කරගෙන යාමට අවශ්යද?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2187"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2189"/>
       <source>Have fun debugging the debugger!</source>
       <translation>නිදොස්කාරයා නිදොස්කිරීම විනෝද වන්න!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2187"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2189"/>
       <source>Debugger detected!</source>
       <translation>නිදොස්කාරයා අනාවරණය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2193"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2195"/>
       <source>Mnemonic help</source>
       <translation>සිහිවටන උදව්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2232"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2234"/>
       <source>Change Command Line</source>
       <translation>විධාන රේඛාව වෙනස් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2237"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2239"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>දුරස්ථ විධාන රේඛාව ලබා ගත නොහැක, වැඩි විස්තර සඳහා 'getcmdline' විධානය භාවිතා කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2247"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2249"/>
       <source>Could not set command line!</source>
       <translation>විධාන රේඛාව සැකසිය නොහැක!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2253"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2255"/>
       <source>New command line: </source>
       <translation>නව විධාන රේඛාව: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2271"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2273"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>අත්පොත විවෘත කළ නොහැක. කරුණාකර x64dbg.chm පවතී නම් පරීක්ෂා කර ඔබේ පද්ධතිය සමඟ වෙනත් ගැටළු නොමැති බව සහතික කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2272"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2274"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>ඔබට https://help.x64dbg.com හි මාර්ගගත අත්පොත විවෘත කිරීමට අවශ්‍යද?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2420"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2422"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation>ප්රියතම මෙනුව කළමනාකරණය කිරීම සඳහා ප්රියතම සංවාද විවෘත කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2535"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2537"/>
       <source>Starting tool %1
 </source>
       <translation>මෙවලම ආරම්භ කිරීම %1
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2589"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2591"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>පරිවර්තනය කට ආසන්න හිස් ය. ඔබට තවමත් මෙම භාෂාව භාවිතා කිරීමට අවශ්යද?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2609"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>නව භාෂා සැකසුම නැවත ආරම්භ මත ක්රියාත්මක වනු ඇත.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2682"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2684"/>
       <source>Animate command</source>
       <translation>සජීවිකරණ විධානය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2682"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2684"/>
       <source>Example: StepInto</source>
       <translation>උදාහරණය: පියවර</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2695"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2697"/>
       <source>Customize Menus</source>
       <translation>මෙනු රිසිකරණය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2703"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>සැකසුම් (*.ini); සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2713"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
       <source>Import database</source>
       <translation>ආනයන දත්ත සමුදාය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2713"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>දත්ත සමුදායන් (%1);; දත්ත සමුදා උපස්ථය (%1.bak);; සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2723"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
       <source>Export database</source>
       <translation>අපනයන දත්ත සමුදාය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2723"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>දත්ත සමුදායන් (%1); සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2773"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2783"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2775"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2785"/>
       <source>More Commands</source>
       <translation>තවත් විධාන</translation>
     </message>
