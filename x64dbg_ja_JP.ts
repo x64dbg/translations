@@ -14258,7 +14258,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1218"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
-      <translation type="unfinished"/>
+      <translation>リリースノートは利用できません。最新のアップデートについては、 &lt;a href="%1"&gt;%2&lt;/a&gt; を参照してください。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1278"/>
@@ -18878,7 +18878,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="233"/>
       <source>&lt;p&gt;&lt;b&gt;New x64dbg version available&lt;/b&gt;: &lt;a href="%1"&gt;%2&lt;/a&gt;&lt;/p&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;p&gt;&lt;b&gt;新しい x64dbg バージョンが利用可能です&lt;/b&gt;： &lt;a href="%1"&gt;%2&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
   </context>
   <context>
