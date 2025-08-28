@@ -6329,26 +6329,26 @@
       <translation>cmd</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="100"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
       <source>%u functions
 </source>
       <translation>%u функції
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="144"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>Непрямий вказівник: 0x%p 0x%p</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="78"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
       <source>%u functions discovered!
 </source>
       <translation>Виявлено %u функцій!</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="80"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>Цей вид аналізу не працює для файлів x32...
@@ -6387,7 +6387,7 @@
     <message>
       <location filename="src/dbg/breakpoint.cpp" line="554"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="413"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
       <translation>Помилка встановлення точки зупину за адресою %p! (SetBPX)
@@ -6579,188 +6579,188 @@
       <translation>Недійсний аргумент</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="311"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
       <source>Image information for %s
 </source>
       <translation>Інформація щодо образу %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>Characteristics (0x%X):
 </source>
       <translation>Характеристики (0x%X):
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="334"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
       <source>  None
 </source>
       <translation>Ні</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
       <source>IMAGE_FILE_RELOCS_STRIPPED: Relocation info stripped from file.</source>
       <translation>IMAGE_FILE_RELOCS_STRIPPED: Інформація про релоки вилучена з файлу.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
       <translation>IMAGE_FILE_EXECUTABLE_IMAGE: файл виконується (тобто немає невирішених зовнішніх посилань).</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
       <source>IMAGE_FILE_LINE_NUMS_STRIPPED: Line numbers stripped from file.</source>
       <translation>IMAGE_FILE_LINE_NUMS_STRIPPED: номери рядків взятих з файлу.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_LOCAL_SYMS_STRIPPED: Local symbols stripped from file.</source>
       <translation>IMAGE_FILE_LOCAL_SYMS_STRIPPED: Локальні символи вилучені з файлу.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
       <source>IMAGE_FILE_AGGRESIVE_WS_TRIM: Agressively trim working set</source>
       <translation>IMAGE_FILE_AGGRESIVE_WS_TRIM: Агресивно обрізати робочий набір</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
       <source>IMAGE_FILE_LARGE_ADDRESS_AWARE: App can handle &gt;2gb addresses</source>
       <translation>IMAGE_FILE_LARGE_ADDRESS_AWARE: Додаток підтримує адреси &gt;2GB</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
       <source>IMAGE_FILE_BYTES_REVERSED_LO: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_HI: Байти машинного слова реверснуті.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
       <source>IMAGE_FILE_32BIT_MACHINE: 32 bit word machine.</source>
       <translation>IMAGE_FILE_32BIT_MACHINE: 32-бітна машина.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
       <source>IMAGE_FILE_DEBUG_STRIPPED: Debugging info stripped from file in .DBG file</source>
       <translation>IMAGE_FILE_DEBUG_STRIPPED: Інформація про відладку, витянута в файл .DBG</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
       <source>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: If Image is on removable media, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: Якщо файл на змінному носію, скопіювати і виконувати із своп-файлу.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
       <source>IMAGE_FILE_NET_RUN_FROM_SWAP: If Image is on Net, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_NET_RUN_FROM_SWAP: Якщо файл в мережі, копіювати і запустити з файлу обміну.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
       <source>IMAGE_FILE_SYSTEM: System File.</source>
       <translation>IMAGE_FILE_SYSTEM: системний файл.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
       <source>IMAGE_FILE_DLL: File is a DLL.</source>
       <translation>IMAGE_FILE_DLL: файл є DLL.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
       <source>IMAGE_FILE_UP_SYSTEM_ONLY: File should only be run on a UP machine</source>
       <translation>IMAGE_FILE_UP_SYSTEM_ONLY: файл потрібно запускати лише на UP машині</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_HI: Байти машинного слова реверснуті.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
       <source>DLL Characteristics (0x%X):
 </source>
       <translation>Характеристики DLL (0x%X):
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
       <source>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL can move.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL може переміщатись.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
       <translation>IMAGE_DLLCHARACTITICS_FORCE_INTEGRITY: Образ цілісності коду</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
       <source>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Image is NX compatible</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Образ є NX сумісний</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: Image understands isolation and doesn't want it</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: образ розуміє ізоляцію і не потребує її</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_SEH: Image does not use SEH. No SE handler may reside in this image</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_SEH: образ не може використовувати SEH. В цьому образі жоден обробник SE не може існувати</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="343"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_BIND: Не прив'язувати цей образ.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="344"/>
       <source>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: Driver uses WDM model.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: Драйвер використовує модель WDM.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="345"/>
       <source>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: Remote Desktop Services aware.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: функціональність віддаленого робочого столу.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="354"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="357"/>
       <source>Not enough arguments!</source>
       <translation>Недостатньо аргументів!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="369"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="381"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="372"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="384"/>
       <source>Invalid relocation table!</source>
       <translation>Некоректна таблиця релоків!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="386"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="389"/>
       <source>Relocation table size: %X
 </source>
       <translation>Розмір таблиці релоків: %X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="418"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="421"/>
       <source>Failed to get SEH (disabled?)</source>
       <translation>Не вдалося отримати SEH (вимкнено?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="424"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="427"/>
       <source>Failed to get VEH (loaded symbols for ntdll.dll?)</source>
       <translation>Не вдалося отримати VEH (завантажені символи для ntdll.dll?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="431"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="434"/>
       <source>Failed to get VCH (loaded symbols for ntdll.dll?)</source>
       <translation>Не вдалося отримати VCH (завантажені символи для ntdll.dll?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="437"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="440"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernelbase.dll?)</source>
       <translation>Не вдалося отримати UnhandledExceptionFilter (завантажені символи для kernelbase.dll?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="442"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernel32.dll?)</source>
       <translation>Не вдалося отримати UnhandledExceptionFilter (завантажені символи для kernel33.dll?)</translation>
     </message>
@@ -7653,78 +7653,78 @@
       <translation>Відлагодження: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="138"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="140"/>
       <source>Invalid PE file!</source>
       <translation>Хибний PE файл!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="144"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="146"/>
       <source>Use x32dbg to debug this file!</source>
       <translation>Використовуйте x32dbg для відлагодження цього файлу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="148"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="150"/>
       <source>Use x64dbg to debug this file!</source>
       <translation>Використовуйте x64dbg для відлагодження цього файлу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="217"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
       <source>Finalizing the debugger thread took more than 10 seconds. This can happen if you are loading large symbol files or saving a large database.</source>
       <translation>Завершення потоку відлагоджувача займає більше 10 секунд. Це може статися, якщо ви завантажуєте великі файли символів або зберігаєте велику базу даних.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="225"/>
       <source>The debuggee did not stop after 10 seconds of requesting termination. The debugger state may be corrupted. It is recommended to restart x64dbg.</source>
       <translation>Відлагоджуваний не зупинився через 10 секунд після запиту на завершення роботи. Можливо, стан відлагоджувач пошкоджено. Рекомендується перезапустити x64dbg.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="257"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="261"/>
       <source>Could not open process %X!
 </source>
       <translation>Не вдалося відкрити процес %X!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="264"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
       <location filename="src/dbg/debugger.cpp" line="2960"/>
       <source>Process is already being debugged!</source>
       <translation>Процес вже відлагоджений!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
       <location filename="src/dbg/debugger.cpp" line="2879"/>
       <source>IsWow64Process failed!</source>
       <translation>Не вдалося виконати IsWow64Process!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
       <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Використовуйте x32dbg для відлагодження цього процесу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
       <location filename="src/dbg/debugger.cpp" line="2888"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Використовуйте x64dbg для відлагодження цього процесу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="290"/>
       <source>Could not get module filename %X!
 </source>
       <translation>Не вдалося отримати ім'я файлу модуля %X!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="340"/>
       <source>DetachDebuggerEx failed...</source>
       <translation>Не вдалося виконати DetachDebuggerEx...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="342"/>
       <source>Detached!</source>
       <translation>Від’єднано!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="387"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="391"/>
       <location filename="src/dbg/value.cpp" line="1794"/>
       <location filename="src/dbg/value.cpp" line="2527"/>
       <location filename="src/dbg/value.cpp" line="2571"/>
@@ -7732,29 +7732,29 @@
       <translation>Не відлагоджується!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="392"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="396"/>
       <source>Program is not running</source>
       <translation>Програма не запущена</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="402"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="406"/>
       <source>The active thread is suspended, switch to a running thread to pause the process</source>
       <translation>Поточний потік призупинено, перейдіть до запущеного потоку, щоб призупинити процес</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="412"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="423"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="416"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="427"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="107"/>
       <source>Error resuming thread</source>
       <translation>Не вдалося відновити потік</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="434"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="438"/>
       <source>Exception will be swallowed</source>
       <translation>Виняток буде приглушено</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="443"/>
       <source>Exception will be thrown in the program</source>
       <translation>Виняток буде кинуто в програму</translation>
     </message>

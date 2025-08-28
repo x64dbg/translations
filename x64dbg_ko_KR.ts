@@ -6323,28 +6323,28 @@
       <translation>cmd</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="100"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
       <source>%u functions
 </source>
       <translation>%u 함수
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="144"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>간접 포인터: 0x%p 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="78"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
       <source>%u functions discovered!
 </source>
       <translation>%u 함수가 발견되었습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="80"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>이러한 종류의 분석은 x32실행 파일에서 작동하지 않습니다...
@@ -6383,7 +6383,7 @@
     <message>
       <location filename="src/dbg/breakpoint.cpp" line="554"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="413"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
       <translation>%p에 중단점 설정 오류! (SetBPX)
@@ -6575,184 +6575,184 @@
       <translation>유효하지 않은 인자</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="311"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
       <source>Image information for %s
 </source>
       <translation>%s에 대한 이미지 정보</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>Characteristics (0x%X):
 </source>
       <translation>특성 (0x%X):</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="334"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
       <source>  None
 </source>
       <translation>  None</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
       <source>IMAGE_FILE_RELOCS_STRIPPED: Relocation info stripped from file.</source>
       <translation>IMAGE_FILE_RELOCS_STRIPPED: 파일에서 재배치 정보가 삭제되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
       <translation>IMAGE_FILE_EXECUTABLE_IMAGE: 파일이 실행가능합니다 (즉, 해결되지 않은 외부 참조가 없음).</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
       <source>IMAGE_FILE_LINE_NUMS_STRIPPED: Line numbers stripped from file.</source>
       <translation>IMAGE_FILE_LINE_NUMS_STRIPPED: 줄 번호가 파일에서 삭제되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_LOCAL_SYMS_STRIPPED: Local symbols stripped from file.</source>
       <translation>IMAGE_FILE_LOCAL_SYMS_STRIPPED: 파일에서 로컬 심볼이 삭제되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
       <source>IMAGE_FILE_AGGRESIVE_WS_TRIM: Agressively trim working set</source>
       <translation>IMAGE_FILE_AGGRESIVE_WS_TRIM: 적극적으로 현재 메모리 내의 데이터 최적화</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
       <source>IMAGE_FILE_LARGE_ADDRESS_AWARE: App can handle &gt;2gb addresses</source>
       <translation>IMAGE_FILE_LARGE_ADDRESS_AWARE: 2gb를 초과하는 주소를 처리할 수 있습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
       <source>IMAGE_FILE_BYTES_REVERSED_LO: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_LO: 기계어의 바이트가 반대로 되어있습니다. (리틀엔디안)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
       <source>IMAGE_FILE_32BIT_MACHINE: 32 bit word machine.</source>
       <translation>IMAGE_FILE_32BIT_MACHINE: 32비트 아키텍처 기계입니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
       <source>IMAGE_FILE_DEBUG_STRIPPED: Debugging info stripped from file in .DBG file</source>
       <translation>IMAGE_FILE_DEBUG_STRIPPED: 디버깅 정보가 .DBG파일로 부터 삭제 되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
       <source>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: If Image is on removable media, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: 이미지가 이동식 미디어에 있는 경우 복사하여 스왑파일에서 실행합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
       <source>IMAGE_FILE_NET_RUN_FROM_SWAP: If Image is on Net, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_NET_RUN_FROM_SWAP: 이미지가 네트워크에 있는 경우 복사하여 스왑파일에서 실행합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
       <source>IMAGE_FILE_SYSTEM: System File.</source>
       <translation>IMAGE_FILE_SYSTEM: 시스템 파일입니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
       <source>IMAGE_FILE_DLL: File is a DLL.</source>
       <translation>IMAGE_FILE_DLL: DLL 파일입니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
       <source>IMAGE_FILE_UP_SYSTEM_ONLY: File should only be run on a UP machine</source>
       <translation>IMAGE_FILE_UP_SYSTEM_ONLY: 파일이 UP(단일 프로세서) 기계에서만 실행되어야 합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_HI: 기계어의 바이트가 반대로 되어있습니다. (빅엔디안)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
       <source>DLL Characteristics (0x%X):
 </source>
       <translation>DLL 특성 (0x%X):</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
       <source>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL can move.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL 이동이 가능합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
       <translation>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: 코드 무결성 이미지</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
       <source>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Image is NX compatible</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: 이미지가 NX호환성이 있습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: Image understands isolation and doesn't want it</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: 이미지는 아이솔레이션을 하지 않습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_SEH: Image does not use SEH. No SE handler may reside in this image</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_SEH: 이미지가 SEH를 사용하지 않습니다. 이 이미지에는 SE 핸들러가 존재할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="343"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_BIND: 이 이미지를 바인드할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="344"/>
       <source>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: Driver uses WDM model.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: 드라이버는 WDM모델을 사용합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="345"/>
       <source>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: Remote Desktop Services aware.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: 원격 데스크톱 서비스를 인식합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="354"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="357"/>
       <source>Not enough arguments!</source>
       <translation>인자가 부족합니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="369"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="381"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="372"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="384"/>
       <source>Invalid relocation table!</source>
       <translation>유효하지 않은 재배치 테이블입니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="386"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="389"/>
       <source>Relocation table size: %X
 </source>
       <translation>재배치 테이블 크기: %X</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="418"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="421"/>
       <source>Failed to get SEH (disabled?)</source>
       <translation>SEH를 가져오지 못했습니다 (비활성화?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="424"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="427"/>
       <source>Failed to get VEH (loaded symbols for ntdll.dll?)</source>
       <translation>VEH를 가져오지 못했습니다 (ntdll.dll에 대한 심볼이 로드?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="431"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="434"/>
       <source>Failed to get VCH (loaded symbols for ntdll.dll?)</source>
       <translation>VCH를 가져오지 못했습니다 (ntdll.dll에 대한 심볼이 로드?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="437"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="440"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernelbase.dll?)</source>
       <translation>UnhandledExceptionFilter를 가져오지 못했습니다 (kernelbase.dll에 대한 심볼이 로드?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="442"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernel32.dll?)</source>
       <translation>UnhandledExceptionFilter를 가져오지 못했습니다 (kernel32.dll에 대한 심볼이 로드?)
 </translation>
@@ -7661,80 +7661,80 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="138"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="140"/>
       <source>Invalid PE file!</source>
       <translation>잘못 된 PE 파일!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="144"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="146"/>
       <source>Use x32dbg to debug this file!</source>
       <translation>이 파일을 디버깅하기 위해서 x32dbg를 사용합니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="148"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="150"/>
       <source>Use x64dbg to debug this file!</source>
       <translation>이 파일을 디버깅하기 위해서 x64dbg를 사용합니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="217"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
       <source>Finalizing the debugger thread took more than 10 seconds. This can happen if you are loading large symbol files or saving a large database.</source>
       <translation>디버거 스레드의 마무리 작업이 10초 이상 걸렸습니다. 이는 큰 심볼 파일을 로드하거나 큰 데이터베이스를 저장하는 경우 발생할 수 있습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="225"/>
       <source>The debuggee did not stop after 10 seconds of requesting termination. The debugger state may be corrupted. It is recommended to restart x64dbg.</source>
       <translation>디버그 대상이 종료를 요청한 후 10초가 지나도 중지되지 않았습니다. 디버그의 상태가 손상되었을 수 있습니다. x64dbg를 재시작하는 것이 좋습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="257"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="261"/>
       <source>Could not open process %X!
 </source>
       <translation>프로세스 %X를 열 수 없습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="264"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
       <location filename="src/dbg/debugger.cpp" line="2960"/>
       <source>Process is already being debugged!</source>
       <translation>프로세스가 이미 디버그되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
       <location filename="src/dbg/debugger.cpp" line="2879"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 실패!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
       <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>이 프로세스를 디버깅하기 위해서 x32dbg를 사용합니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
       <location filename="src/dbg/debugger.cpp" line="2888"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>이 프로세스를 디버깅하기 위해서 x64dbg를 사용합니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="290"/>
       <source>Could not get module filename %X!
 </source>
       <translation>모듈 파일이름 %X를 가져올 수 없습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="340"/>
       <source>DetachDebuggerEx failed...</source>
       <translation>DetachDebuggerEx 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="342"/>
       <source>Detached!</source>
       <translation>분리됨! (Detached!)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="387"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="391"/>
       <location filename="src/dbg/value.cpp" line="1794"/>
       <location filename="src/dbg/value.cpp" line="2527"/>
       <location filename="src/dbg/value.cpp" line="2571"/>
@@ -7742,29 +7742,29 @@
       <translation>디버깅하지 않음!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="392"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="396"/>
       <source>Program is not running</source>
       <translation>프로그램이 실행 중이지 않습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="402"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="406"/>
       <source>The active thread is suspended, switch to a running thread to pause the process</source>
       <translation>활성 스레드가 일시 중단되었습니다. 프로세스를 중단하려면 실행 중인 스레드로 전환하세요.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="412"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="423"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="416"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="427"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="107"/>
       <source>Error resuming thread</source>
       <translation>스레드 재개 오류</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="434"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="438"/>
       <source>Exception will be swallowed</source>
       <translation>예외가 통과됩니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="443"/>
       <source>Exception will be thrown in the program</source>
       <translation>예외가 프로그램에서 발생합니다</translation>
     </message>

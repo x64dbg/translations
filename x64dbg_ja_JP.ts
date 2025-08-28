@@ -6328,28 +6328,28 @@
       <translation>cmd</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="100"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
       <source>%u functions
 </source>
       <translation>%u 関数
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="144"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>間接ポインタ：0x%p 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="78"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
       <source>%u functions discovered!
 </source>
       <translation>%u 個の関数が見つかりました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="80"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>この種の分析は x32 実行可能ファイルでは機能しません...
@@ -6388,7 +6388,7 @@
     <message>
       <location filename="src/dbg/breakpoint.cpp" line="554"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="413"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
       <translation>%p にブレークポイントを設定できませんでした!(SetBPX)
@@ -6582,189 +6582,189 @@
       <translation>無効な引数</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="311"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
       <source>Image information for %s
 </source>
       <translation>%s のイメージ情報
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>Characteristics (0x%X):
 </source>
       <translation>特性 (0x%X) :
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="334"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
       <source>  None
 </source>
       <translation>  なし
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
       <source>IMAGE_FILE_RELOCS_STRIPPED: Relocation info stripped from file.</source>
       <translation>IMAGE_FILE_RELOCS_STRIPPED: 再配置情報がファイルから削除されました。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
       <translation>IMAGE_FILE_EXECUTABLE_IMAGE: ファイルは実行可能です(未解決の相互参照はありません)。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
       <source>IMAGE_FILE_LINE_NUMS_STRIPPED: Line numbers stripped from file.</source>
       <translation>IMAGE_FILE_LINE_NUMS_STRIPPED: ファイルから取り除かれた行番号。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_LOCAL_SYMS_STRIPPED: Local symbols stripped from file.</source>
       <translation>IMAGE_FILE_LOCAL_SYMS_SSCRIPPED: ファイルから取り除かれたローカルシンボル。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
       <source>IMAGE_FILE_AGGRESIVE_WS_TRIM: Agressively trim working set</source>
       <translation>IMAGE_FILE_AGGRESIVE_WS_TRIM: アグレッシブに作業セットをトリムする</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
       <source>IMAGE_FILE_LARGE_ADDRESS_AWARE: App can handle &gt;2gb addresses</source>
       <translation>IMAGE_FILE_LARGE_ADDRESS_AWARE: アプリは2GB以上のアドレスを処理できます</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
       <source>IMAGE_FILE_BYTES_REVERSED_LO: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_LO: 機械語のバイト数が逆になります。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
       <source>IMAGE_FILE_32BIT_MACHINE: 32 bit word machine.</source>
       <translation>IMAGE_FILE_32BIT_MACHINE: 32 bit word machine.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
       <source>IMAGE_FILE_DEBUG_STRIPPED: Debugging info stripped from file in .DBG file</source>
       <translation>IMAGE_FILE_DEBUG_STRIPPED: .DBGファイル内のファイルからファイルから情報を取り除くデバッグ</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
       <source>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: If Image is on removable media, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: イメージがリムーバブルメディアにある場合は、スワップファイルからコピーして実行します。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
       <source>IMAGE_FILE_NET_RUN_FROM_SWAP: If Image is on Net, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_NET_RUN_FROM_SWAP: 画像 がネット上にある場合、スワップファイルからコピーして実行します。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
       <source>IMAGE_FILE_SYSTEM: System File.</source>
       <translation>IMAGE_FILE_SYSTEM: システム ファイル。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
       <source>IMAGE_FILE_DLL: File is a DLL.</source>
       <translation>IMAGE_FILE_DLL: ファイルは DLL です。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
       <source>IMAGE_FILE_UP_SYSTEM_ONLY: File should only be run on a UP machine</source>
       <translation>IMAGE_FILE_UP_SYSTEM_ONLY: ファイルはUPマシン上でのみ実行する必要があります</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_HI: 機械語のバイトが逆になります。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
       <source>DLL Characteristics (0x%X):
 </source>
       <translation>DLL 特性 (0x%X) :
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
       <source>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL can move.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL は移動できます。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
       <translation>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: コード整合性画像</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
       <source>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Image is NX compatible</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: 画像はNX互換です</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: Image understands isolation and doesn't want it</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: 画像は単離を理解し、それを望んでいません</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_SEH: Image does not use SEH. No SE handler may reside in this image</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_SEH: 画像が SEH を使用しません。この画像にはSEハンドラが存在しません</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="343"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_BIND: この画像をバインドしないでください。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="344"/>
       <source>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: Driver uses WDM model.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: ドライバは WDM モデルを使用します。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="345"/>
       <source>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: Remote Desktop Services aware.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: リモートデスクトップサービスは認識しています。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="354"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="357"/>
       <source>Not enough arguments!</source>
       <translation>引数が足りません!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="369"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="381"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="372"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="384"/>
       <source>Invalid relocation table!</source>
       <translation>無効なリロケーションテーブルです!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="386"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="389"/>
       <source>Relocation table size: %X
 </source>
       <translation>リロケーションテーブルのサイズ : %X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="418"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="421"/>
       <source>Failed to get SEH (disabled?)</source>
       <translation>SEHを取得できませんでした(無効化?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="424"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="427"/>
       <source>Failed to get VEH (loaded symbols for ntdll.dll?)</source>
       <translation>VEH の取得に失敗しました。(ntdll.dllの読み込み済みシンボル?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="431"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="434"/>
       <source>Failed to get VCH (loaded symbols for ntdll.dll?)</source>
       <translation>VCH の取得に失敗しました。(ntdll.dllの読み込まれたシンボル?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="437"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="440"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernelbase.dll?)</source>
       <translation>UnhandledExceptionFilterの取得に失敗しました (kernelbase.dllの読み込みシンボル?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="442"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernel32.dll?)</source>
       <translation>UnhandledExceptionFilterの取得に失敗しました (kernel32.dllの読み込みシンボル?)</translation>
     </message>
@@ -7676,80 +7676,80 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="138"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="140"/>
       <source>Invalid PE file!</source>
       <translation>無効な PE ファイル!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="144"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="146"/>
       <source>Use x32dbg to debug this file!</source>
       <translation>x32dbg を使用してこのファイルをデバッグ!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="148"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="150"/>
       <source>Use x64dbg to debug this file!</source>
       <translation>x64dbg を使用してこのファイルをデバッグ!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="217"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
       <source>Finalizing the debugger thread took more than 10 seconds. This can happen if you are loading large symbol files or saving a large database.</source>
       <translation>デバッガスレッドを終了するのに10秒以上かかりました。これは大きなシンボルファイルを読み込んだり、大きなデータベースを保存している場合に発生します。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="225"/>
       <source>The debuggee did not stop after 10 seconds of requesting termination. The debugger state may be corrupted. It is recommended to restart x64dbg.</source>
       <translation>デバッグ対象が終了を要求してから10秒後に停止しませんでした。デバッガーの状態が破損している可能性があります。x64dbgを再起動することをお勧めします。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="257"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="261"/>
       <source>Could not open process %X!
 </source>
       <translation>プロセス %X を開けませんでした!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="264"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
       <location filename="src/dbg/debugger.cpp" line="2960"/>
       <source>Process is already being debugged!</source>
       <translation>プロセスは既にデバッグされています!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
       <location filename="src/dbg/debugger.cpp" line="2879"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失敗!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
       <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>x32dbg を使用してこのプロセスをデバッグ!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
       <location filename="src/dbg/debugger.cpp" line="2888"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>x64dbg を使用してこのプロセスをデバッグ!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="290"/>
       <source>Could not get module filename %X!
 </source>
       <translation>モジュールのファイル名 %X を取得できませんでした!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="340"/>
       <source>DetachDebuggerEx failed...</source>
       <translation>DetachDebuggerEx 失敗...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="342"/>
       <source>Detached!</source>
       <translation>切り離しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="387"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="391"/>
       <location filename="src/dbg/value.cpp" line="1794"/>
       <location filename="src/dbg/value.cpp" line="2527"/>
       <location filename="src/dbg/value.cpp" line="2571"/>
@@ -7757,29 +7757,29 @@
       <translation>デバッグしていません!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="392"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="396"/>
       <source>Program is not running</source>
       <translation>プログラムが実行されていません</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="402"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="406"/>
       <source>The active thread is suspended, switch to a running thread to pause the process</source>
       <translation>アクティブスレッドは一時停止されています。実行中のスレッドに切り替えてプロセスを一時停止します</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="412"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="423"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="416"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="427"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="107"/>
       <source>Error resuming thread</source>
       <translation>スレッド再開エラー</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="434"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="438"/>
       <source>Exception will be swallowed</source>
       <translation>例外はスキップされます</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="443"/>
       <source>Exception will be thrown in the program</source>
       <translation>プログラム内で例外が発生します</translation>
     </message>

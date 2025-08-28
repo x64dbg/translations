@@ -6328,28 +6328,28 @@
       <translation>සීඑම්ඩී</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="100"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
       <source>%u functions
 </source>
       <translation>%u කාර්යයන්
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="144"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>වක්ර පහිටුම් දක්වනය: 0x%p 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="78"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
       <source>%u functions discovered!
 </source>
       <translation>%u කාර්යයන් සොයාගත්!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="80"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>විශ්ලේෂණය මේ ආකාරයේ x32 executables මත ක්රියා නොකරයි...
@@ -6388,7 +6388,7 @@
     <message>
       <location filename="src/dbg/breakpoint.cpp" line="554"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="413"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
       <translation>%pහි බිඳවැටීමේ දෝෂය! (SetBPX)
@@ -6583,189 +6583,189 @@
       <translation>වලංගු නොවන තර්කය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="311"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
       <source>Image information for %s
 </source>
       <translation>%s
 සඳහා රූප තොරතුරු</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>Characteristics (0x%X):
 </source>
       <translation>ලක්ෂණ (0x%X):
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="334"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
       <source>  None
 </source>
       <translation>  කිසිවක් නැත
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
       <source>IMAGE_FILE_RELOCS_STRIPPED: Relocation info stripped from file.</source>
       <translation>IMAGE_FILE_RELOCS_STRIPPED: නැවත ස්ථානගත කිරීමේ තොරතුරු ගොනුවෙන් ඉවත් කර ඇත.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
       <translation>IMAGE_FILE_EXECUTABLE_IMAGE: ගොනුව ක්‍රියාත්මක කළ හැකිය (එනම් නොවිසඳුණු බාහිර යොමු නොමැත).</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
       <source>IMAGE_FILE_LINE_NUMS_STRIPPED: Line numbers stripped from file.</source>
       <translation>IMAGE_FILE_LINE_NUMS_STRIPPED: ගොනුවෙන් රේඛා අංක ඉවත් කරන ලදී.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_LOCAL_SYMS_STRIPPED: Local symbols stripped from file.</source>
       <translation>IMAGE_FILE_LOCAL_SYMS_STRIPPED: ගොනුවෙන් දේශීය සංකේත ඉවත් කර ඇත.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
       <source>IMAGE_FILE_AGGRESIVE_WS_TRIM: Agressively trim working set</source>
       <translation>IMAGE_FILE_AGGRESIVE_WS_TRIM: ක්‍රියාකාරී කට්ටලය ආක්‍රමණශීලීව කප්පාදු කරන්න</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
       <source>IMAGE_FILE_LARGE_ADDRESS_AWARE: App can handle &gt;2gb addresses</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
       <source>IMAGE_FILE_BYTES_REVERSED_LO: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_LO: යන්ත්‍ර වචන බයිට් ආපසු හරවා ඇත.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
       <source>IMAGE_FILE_32BIT_MACHINE: 32 bit word machine.</source>
       <translation>IMAGE_FILE_32BIT_MACHINE: බිට් 32 වචන යන්ත්‍රය.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
       <source>IMAGE_FILE_DEBUG_STRIPPED: Debugging info stripped from file in .DBG file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
       <source>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: If Image is on removable media, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: රූපය ඉවත් කළ හැකි මාධ්‍යයක තිබේ නම්, swap ගොනුවෙන් පිටපත් කර ධාවනය කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
       <source>IMAGE_FILE_NET_RUN_FROM_SWAP: If Image is on Net, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_NET_RUN_FROM_SWAP: රූපය Net හි තිබේ නම්, swap ගොනුවෙන් පිටපත් කර ධාවනය කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
       <source>IMAGE_FILE_SYSTEM: System File.</source>
       <translation>IMAGE_FILE_SYSTEM: පද්ධති ගොනුව.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
       <source>IMAGE_FILE_DLL: File is a DLL.</source>
       <translation>IMAGE_FILE_DLL: ගොනුව DLL එකකි.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
       <source>IMAGE_FILE_UP_SYSTEM_ONLY: File should only be run on a UP machine</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_HI: යන්ත්‍ර වචන බයිට් ආපසු හරවා ඇත.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
       <source>DLL Characteristics (0x%X):
 </source>
       <translation>DLL ලක්ෂණ (0x%X):
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
       <source>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL can move.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL චලනය විය හැක.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
       <translation>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: කේත අඛණ්ඩතා රූපය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
       <source>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Image is NX compatible</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: රූපය NX අනුකූලයි</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: Image understands isolation and doesn't want it</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_SEH: Image does not use SEH. No SE handler may reside in this image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="343"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_BIND: මෙම රූපය බැඳ තබන්න එපා.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="344"/>
       <source>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: Driver uses WDM model.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: ධාවකය WDM ආකෘතිය භාවිතා කරයි.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="345"/>
       <source>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: Remote Desktop Services aware.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: දුරස්ථ ඩෙස්ක්ටොප් සේවා දැනුවත්.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="354"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="357"/>
       <source>Not enough arguments!</source>
       <translation>ප්රමාණවත් තර්ක නොවේ!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="369"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="381"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="372"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="384"/>
       <source>Invalid relocation table!</source>
       <translation>අවලංගු ස්ථානගත කිරීමේ වගුවක්!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="386"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="389"/>
       <source>Relocation table size: %X
 </source>
       <translation>ස්ථාන මාරු වගු ප්‍රමාණය: %X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="418"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="421"/>
       <source>Failed to get SEH (disabled?)</source>
       <translation>SEH ලබා ගැනීමට අපොහොසත් විය (අක්‍රියද?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="424"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="427"/>
       <source>Failed to get VEH (loaded symbols for ntdll.dll?)</source>
       <translation>VEH ලබා ගැනීමට අපොහොසත් විය (ntdll.dll සඳහා සංකේත පූරණය කර තිබේද?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="431"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="434"/>
       <source>Failed to get VCH (loaded symbols for ntdll.dll?)</source>
       <translation>VCH ලබා ගැනීමට අපොහොසත් විය (ntdll.dll සඳහා සංකේත පූරණය කර තිබේද?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="437"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="440"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernelbase.dll?)</source>
       <translation>UnhandledExceptionFilter ලබා ගැනීමට අපොහොසත් විය (kernelbase.dll සඳහා සංකේත පූරණය කර තිබේද?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="442"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernel32.dll?)</source>
       <translation>UnhandledExceptionFilter ලබා ගැනීමට නොහැකි විය (kernel32.dll සඳහා සංකේත පූරණය කර තිබේද?)</translation>
     </message>
@@ -7677,80 +7677,80 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="138"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="140"/>
       <source>Invalid PE file!</source>
       <translation>වලංගු නොවන PE ගොනුව!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="144"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="146"/>
       <source>Use x32dbg to debug this file!</source>
       <translation>මෙම ගොනුව නිදොස් කිරීමට x32dbg භාවිතා කරන්න!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="148"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="150"/>
       <source>Use x64dbg to debug this file!</source>
       <translation>මෙම ගොනුව නිදොස් කිරීමට x64dbg භාවිතා කරන්න!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="217"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
       <source>Finalizing the debugger thread took more than 10 seconds. This can happen if you are loading large symbol files or saving a large database.</source>
       <translation>නිදොස් නූල් අවසන් කිරීම තත්පර 10 කට වඩා වැඩි කාලයක් ගත විය. ඔබ විශාල සංකේත ගොනු පැටවීම හෝ විශාල දත්ත සමුදායක් ඉතිරි කරන්නේ නම් මෙය සිදුවිය හැකිය.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="225"/>
       <source>The debuggee did not stop after 10 seconds of requesting termination. The debugger state may be corrupted. It is recommended to restart x64dbg.</source>
       <translation>අවසන් කිරීම ඉල්ලා තත්පර 10 කට පසුව නිදොස්කරණය නතර කළේ නැත. නිදොස්කාර රාජ්යය දූෂිත විය හැකිය. x64dbg නැවත ආරම්භ කිරීම රෙකමදාරු කරනු ලැබේ.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="257"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="261"/>
       <source>Could not open process %X!
 </source>
       <translation>ක්රියාවලිය විවෘත කළ නොහැක %X!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="264"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
       <location filename="src/dbg/debugger.cpp" line="2960"/>
       <source>Process is already being debugged!</source>
       <translation>ක්‍රියාවලිය දැනටමත් නිදොස් කරමින් පවතී!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
       <location filename="src/dbg/debugger.cpp" line="2879"/>
       <source>IsWow64Process failed!</source>
       <translation>IsW64ක්රියාවලිය අසාර්ථකයි!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
       <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x32dbg භාවිතා කරන්න!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
       <location filename="src/dbg/debugger.cpp" line="2888"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x64dbg භාවිතා කරන්න!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="290"/>
       <source>Could not get module filename %X!
 </source>
       <translation>මොඩියුලය ගොනු කිරීම %Xලබා ගත නොහැක!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="340"/>
       <source>DetachDebuggerEx failed...</source>
       <translation>DetachDebuggerex අසමත් විය...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="342"/>
       <source>Detached!</source>
       <translation>වෙන්වූ!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="387"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="391"/>
       <location filename="src/dbg/value.cpp" line="1794"/>
       <location filename="src/dbg/value.cpp" line="2527"/>
       <location filename="src/dbg/value.cpp" line="2571"/>
@@ -7758,29 +7758,29 @@
       <translation>නිදොස්කරණය නොවේ!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="392"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="396"/>
       <source>Program is not running</source>
       <translation>වැඩසටහන ක්රියාත්මක නොවේ</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="402"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="406"/>
       <source>The active thread is suspended, switch to a running thread to pause the process</source>
       <translation>ක්රියාකාරී නූල් අත්හිටුවා ඇති අතර, ක්රියාවලිය විරාමයක් කිරීම සඳහා ධාවන නූල් වෙත මාරු වන්න</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="412"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="423"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="416"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="427"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="107"/>
       <source>Error resuming thread</source>
       <translation>නූල් නැවත ආරම්භ කිරීමේ දෝෂය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="434"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="438"/>
       <source>Exception will be swallowed</source>
       <translation>ව්යතිරේකය ගිල දමනු ඇත</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="443"/>
       <source>Exception will be thrown in the program</source>
       <translation>ව්යතිරේකය වැඩසටහන තුළ විසි කරනු ලැබේ</translation>
     </message>

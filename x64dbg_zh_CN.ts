@@ -6326,28 +6326,28 @@
       <translation>指令</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="100"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
       <source>%u functions
 </source>
       <translation>%u 个函数
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="144"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>间接指针︰ 0x%p 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="78"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
       <source>%u functions discovered!
 </source>
       <translation>发现了%u个函数！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="80"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>这种分析不能用在32位程序……
@@ -6386,7 +6386,7 @@
     <message>
       <location filename="src/dbg/breakpoint.cpp" line="554"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="413"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
       <translation>设置断点于 %p 失败！ (SetBPX)
@@ -6580,188 +6580,188 @@
       <translation>无效参数</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="311"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
       <source>Image information for %s
 </source>
       <translation>“%s”的映像信息
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>Characteristics (0x%X):
 </source>
       <translation>特性(0x%X)：</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="334"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
       <source>  None
 </source>
       <translation>  无
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
       <source>IMAGE_FILE_RELOCS_STRIPPED: Relocation info stripped from file.</source>
       <translation>IMAGE_FILE_RELOCS_STRIPPED： 重定向信息已从文件删除。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
       <translation>IMAGE_FILE_EXECUTABLE_IMAGE：文件是可执行文件（即没有无法解析的外部引用）。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
       <source>IMAGE_FILE_LINE_NUMS_STRIPPED: Line numbers stripped from file.</source>
       <translation>IMAGE_FILE_LINE_NUMS_STRIPPED： 行号信息已从文件删除。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_LOCAL_SYMS_STRIPPED: Local symbols stripped from file.</source>
       <translation>IMAGE_FILE_LOCAL_SYMS_STRIPPED： 局部符号信息已从文件删除。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
       <source>IMAGE_FILE_AGGRESIVE_WS_TRIM: Agressively trim working set</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
       <source>IMAGE_FILE_LARGE_ADDRESS_AWARE: App can handle &gt;2gb addresses</source>
       <translation>IMAGE_FILE_LARGE_ADDRESS_AWARE：应用程序可以处理 &gt; 2 gb 地址</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
       <source>IMAGE_FILE_BYTES_REVERSED_LO: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_LO: 机器的字节序是反转的。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
       <source>IMAGE_FILE_32BIT_MACHINE: 32 bit word machine.</source>
       <translation>IMAGE_FILE_32BIT_MACHINE：32 位机。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
       <source>IMAGE_FILE_DEBUG_STRIPPED: Debugging info stripped from file in .DBG file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
       <source>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: If Image is on removable media, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: 如果文件在可移动媒体上，复制并从交换文件中运行。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
       <source>IMAGE_FILE_NET_RUN_FROM_SWAP: If Image is on Net, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_NET_RUN_FROM_SWAP: 如果文件在网络上，复制并从交换文件中运行。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
       <source>IMAGE_FILE_SYSTEM: System File.</source>
       <translation>IMAGE_FILE_SYSTEM︰系统文件。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
       <source>IMAGE_FILE_DLL: File is a DLL.</source>
       <translation>IMAGE_FILE_DLL：文件是一个 DLL。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
       <source>IMAGE_FILE_UP_SYSTEM_ONLY: File should only be run on a UP machine</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
       <source>DLL Characteristics (0x%X):
 </source>
       <translation>DLL 特性(0x%X)：
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
       <source>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL can move.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE：DLL 可以重定位。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
       <source>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Image is NX compatible</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NX_COMPAT：映像支持NX</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: Image understands isolation and doesn't want it</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_SEH: Image does not use SEH. No SE handler may reside in this image</source>
       <translation>IMAGE_DLLLCHARACTERISTICS_NO_SEH：映像不使用 SEH。此映像中没有任何结构化异常处理程序</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="343"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="344"/>
       <source>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: Driver uses WDM model.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER：使用 WDM 模型的驱动程序。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="345"/>
       <source>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: Remote Desktop Services aware.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE︰支持远程桌面服务。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="354"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="357"/>
       <source>Not enough arguments!</source>
       <translation>参数个数不足！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="369"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="381"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="372"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="384"/>
       <source>Invalid relocation table!</source>
       <translation>无效的迁移表！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="386"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="389"/>
       <source>Relocation table size: %X
 </source>
       <translation>重新定位表大小：%X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="418"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="421"/>
       <source>Failed to get SEH (disabled?)</source>
       <translation>无法获取 SEH (禁用？)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="424"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="427"/>
       <source>Failed to get VEH (loaded symbols for ntdll.dll?)</source>
       <translation>获取 VEH 失败（是否已经加载 ntdll.dll 的符号？）</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="431"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="434"/>
       <source>Failed to get VCH (loaded symbols for ntdll.dll?)</source>
       <translation>获取 VCH 失败（是否已经加载 ntdll.dll 的符号？）</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="437"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="440"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernelbase.dll?)</source>
       <translation>获取 UnhandledExceptionFilter 失败（是否已经加载 kernelbase.dll 的符号？）</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="442"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernel32.dll?)</source>
       <translation>获取 UnhandledExceptionFilter 失败（是否已经加载 kernel32.dll 的符号？）</translation>
     </message>
@@ -7674,80 +7674,80 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="138"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="140"/>
       <source>Invalid PE file!</source>
       <translation>无效的PE文件！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="144"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="146"/>
       <source>Use x32dbg to debug this file!</source>
       <translation>请您用x32dbg来调试这个程序！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="148"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="150"/>
       <source>Use x64dbg to debug this file!</source>
       <translation>请您用x64dbg来调试这个程序！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="217"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
       <source>Finalizing the debugger thread took more than 10 seconds. This can happen if you are loading large symbol files or saving a large database.</source>
       <translation>调试器线程未在 10 秒内结束，通常在加载较大的符号文件或存储较大的数据库时会出现这种情况。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="225"/>
       <source>The debuggee did not stop after 10 seconds of requesting termination. The debugger state may be corrupted. It is recommended to restart x64dbg.</source>
       <translation>被调试对象未能在 10 秒内终止，调试器内部状态可能已被破坏。建议重启 x64dbg。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="257"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="261"/>
       <source>Could not open process %X!
 </source>
       <translation>无法打开进程 %X！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="264"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
       <location filename="src/dbg/debugger.cpp" line="2960"/>
       <source>Process is already being debugged!</source>
       <translation>进程已经在调试！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
       <location filename="src/dbg/debugger.cpp" line="2879"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失败 ！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="277"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
       <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>请您用x32dbg来调试这个程序！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
       <location filename="src/dbg/debugger.cpp" line="2888"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>请您用x64dbg来调试这个程序！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="290"/>
       <source>Could not get module filename %X!
 </source>
       <translation>无法获取模块文件名 %X！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="340"/>
       <source>DetachDebuggerEx failed...</source>
       <translation>DetachDebuggerEx 失败……</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="342"/>
       <source>Detached!</source>
       <translation>已脱离！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="387"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="391"/>
       <location filename="src/dbg/value.cpp" line="1794"/>
       <location filename="src/dbg/value.cpp" line="2527"/>
       <location filename="src/dbg/value.cpp" line="2571"/>
@@ -7755,29 +7755,29 @@
       <translation>未在调试！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="392"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="396"/>
       <source>Program is not running</source>
       <translation>程序尚未运行</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="402"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="406"/>
       <source>The active thread is suspended, switch to a running thread to pause the process</source>
       <translation>当前线程已暂停，请切换到正在运行的线程才能暂停进程。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="412"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="423"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="416"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="427"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="107"/>
       <source>Error resuming thread</source>
       <translation>恢复线程时出错</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="434"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="438"/>
       <source>Exception will be swallowed</source>
       <translation>异常将会忽略</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="439"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="443"/>
       <source>Exception will be thrown in the program</source>
       <translation>异常将会传递给程序</translation>
     </message>
