@@ -7752,8 +7752,8 @@
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="391"/>
       <location filename="src/dbg/value.cpp" line="1794"/>
-      <location filename="src/dbg/value.cpp" line="2527"/>
-      <location filename="src/dbg/value.cpp" line="2571"/>
+      <location filename="src/dbg/value.cpp" line="2526"/>
+      <location filename="src/dbg/value.cpp" line="2570"/>
       <source>Not debugging!</source>
       <translation>නිදොස්කරණය නොවේ!</translation>
     </message>
@@ -7881,8 +7881,8 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="961"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="992"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1014"/>
-      <location filename="src/dbg/value.cpp" line="2355"/>
-      <location filename="src/dbg/value.cpp" line="2373"/>
+      <location filename="src/dbg/value.cpp" line="2354"/>
+      <location filename="src/dbg/value.cpp" line="2372"/>
       <source>Failed to read register context...</source>
       <translation>රෙජිස්ටර් සන්දර්භය කියවීමට අපොහොසත් විය...</translation>
     </message>
@@ -10784,8 +10784,8 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/value.cpp" line="1655"/>
       <location filename="src/dbg/value.cpp" line="1812"/>
-      <location filename="src/dbg/value.cpp" line="2405"/>
-      <location filename="src/dbg/value.cpp" line="2556"/>
+      <location filename="src/dbg/value.cpp" line="2404"/>
+      <location filename="src/dbg/value.cpp" line="2555"/>
       <source>Not debugging</source>
       <translation>නිදොස්කරණය නොවේ</translation>
     </message>
@@ -10809,7 +10809,7 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="2515"/>
+      <location filename="src/dbg/value.cpp" line="2514"/>
       <source>Failed to write memory</source>
       <translation>මතකය ලිවීමට අසමත් විය</translation>
     </message>
