@@ -7694,25 +7694,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2960"/>
+      <location filename="src/dbg/debugger.cpp" line="2967"/>
       <source>Process is already being debugged!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2879"/>
+      <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process başarısız oldu!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2886"/>
+      <location filename="src/dbg/debugger.cpp" line="2893"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Bu işlemde hata ayıklama için x32dbg kullanın!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2888"/>
+      <location filename="src/dbg/debugger.cpp" line="2895"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Bu işlemde hata ayıklama için x64dbg kullanın!</translation>
     </message>
@@ -9919,86 +9919,86 @@ Geçersiz veritabanı dosyası (JSON)!</translation>
       <translation>DebugString: "%s"</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2114"/>
+      <location filename="src/dbg/debugger.cpp" line="2118"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2132"/>
+      <location filename="src/dbg/debugger.cpp" line="2139"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>İlk şans istisna durumu %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2134"/>
+      <location filename="src/dbg/debugger.cpp" line="2141"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>İlk şans istisna durumu %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2145"/>
+      <location filename="src/dbg/debugger.cpp" line="2152"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>Son şans istisna durumu %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2147"/>
+      <location filename="src/dbg/debugger.cpp" line="2154"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>Son şans istisna durumu %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2205"/>
+      <location filename="src/dbg/debugger.cpp" line="2212"/>
       <source>Attached to process!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2770"/>
+      <location filename="src/dbg/debugger.cpp" line="2777"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2819"/>
+      <location filename="src/dbg/debugger.cpp" line="2826"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2852"/>
+      <location filename="src/dbg/debugger.cpp" line="2860"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>Yürütülebilir dosya, hata ayıklama için yükseltmeye ihtiyaç duyuyor. Yönetici olarak yeniden başlatılsın mı?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2853"/>
+      <location filename="src/dbg/debugger.cpp" line="2861"/>
       <source>Elevation</source>
       <translation>Yükselt</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2871"/>
+      <location filename="src/dbg/debugger.cpp" line="2877"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>İşlem başlatılırken hata oluştu (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2962"/>
+      <location filename="src/dbg/debugger.cpp" line="2969"/>
       <source>Attach to process failed: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3000"/>
+      <location filename="src/dbg/debugger.cpp" line="3007"/>
       <source>Debugging stopped!</source>
       <translation>Hata ayıklayıcı durdu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3052"/>
+      <location filename="src/dbg/debugger.cpp" line="3059"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10663,12 +10663,12 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="35"/>
+      <location filename="src/dbg/thread.cpp" line="32"/>
       <source>Main Thread</source>
       <translation>Ana İşlem</translation>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="338"/>
+      <location filename="src/dbg/thread.cpp" line="328"/>
       <source>Failed to suspend thread 0x%X...
 </source>
       <translation>0x%X bölümünü imha etmek başarısız oldu...

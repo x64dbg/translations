@@ -7694,25 +7694,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2960"/>
+      <location filename="src/dbg/debugger.cpp" line="2967"/>
       <source>Process is already being debugged!</source>
       <translation>프로세스가 이미 디버그되었습니다!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2879"/>
+      <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 실패!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2886"/>
+      <location filename="src/dbg/debugger.cpp" line="2893"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>이 프로세스를 디버깅하기 위해서 x32dbg를 사용합니다!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2888"/>
+      <location filename="src/dbg/debugger.cpp" line="2895"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>이 프로세스를 디버깅하기 위해서 x64dbg를 사용합니다!</translation>
     </message>
@@ -9920,87 +9920,87 @@ x64dbg를 관리자권한으로 실행해주세요.</translation>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2114"/>
+      <location filename="src/dbg/debugger.cpp" line="2118"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>%p (%X, "%s")에서 SetThreadName 예외가 발생했습니다</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2132"/>
+      <location filename="src/dbg/debugger.cpp" line="2139"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s)에서 첫번째 예외발생!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2134"/>
+      <location filename="src/dbg/debugger.cpp" line="2141"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X)에서 첫번째 예외발생!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2145"/>
+      <location filename="src/dbg/debugger.cpp" line="2152"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s)에서 마지막 예외발생!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2147"/>
+      <location filename="src/dbg/debugger.cpp" line="2154"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X)에서 마지막 예외발생!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2205"/>
+      <location filename="src/dbg/debugger.cpp" line="2212"/>
       <source>Attached to process!</source>
       <translation>프로세스에 연결되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2770"/>
+      <location filename="src/dbg/debugger.cpp" line="2777"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>디버깅 DLL 에러 (로더를 복사하는데 실패)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2819"/>
+      <location filename="src/dbg/debugger.cpp" line="2826"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>디버깅 DLL 에러 (loaddll.exe가 발견되지 않음)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2852"/>
+      <location filename="src/dbg/debugger.cpp" line="2860"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>디버깅하려는 실행 프로그램에 권한상승이 필요합니다. 관리자로 다시 시작하겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2853"/>
+      <location filename="src/dbg/debugger.cpp" line="2861"/>
       <source>Elevation</source>
       <translation>권한 상승</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2871"/>
+      <location filename="src/dbg/debugger.cpp" line="2877"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>프로세스 시작 오류 (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2962"/>
+      <location filename="src/dbg/debugger.cpp" line="2969"/>
       <source>Attach to process failed: %s
 </source>
       <translation>프로세스에 연결하는데 실패했습니다: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3000"/>
+      <location filename="src/dbg/debugger.cpp" line="3007"/>
       <source>Debugging stopped!</source>
       <translation>디버깅 중지됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3052"/>
+      <location filename="src/dbg/debugger.cpp" line="3059"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10639,12 +10639,12 @@ Do you want to continue debugging?</source>
       <translation>%s 심볼을 다운로드 완료했습니다. %.03f초 </translation>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="35"/>
+      <location filename="src/dbg/thread.cpp" line="32"/>
       <source>Main Thread</source>
       <translation>주 스레드</translation>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="338"/>
+      <location filename="src/dbg/thread.cpp" line="328"/>
       <source>Failed to suspend thread 0x%X...
 </source>
       <translation>스레드 0x%X 를 일시중단하지 못했습니다...

@@ -7689,25 +7689,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2960"/>
+      <location filename="src/dbg/debugger.cpp" line="2967"/>
       <source>Process is already being debugged!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2879"/>
+      <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process-komento epäonnistui!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2886"/>
+      <location filename="src/dbg/debugger.cpp" line="2893"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Käytä x32dbg-ohjelmaa tutkiakseksi tätä prosessia!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2888"/>
+      <location filename="src/dbg/debugger.cpp" line="2895"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Käytä x64dbg-ohjelmaa tutkiakseksi tätä prosessia!</translation>
     </message>
@@ -9915,86 +9915,86 @@ Tietokantatiedosto ei kelpaa (JSON)!</translation>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2114"/>
+      <location filename="src/dbg/debugger.cpp" line="2118"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2132"/>
+      <location filename="src/dbg/debugger.cpp" line="2139"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>Ensimmäisen tilaisuuden poikkeama kohdassa %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2134"/>
+      <location filename="src/dbg/debugger.cpp" line="2141"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>Ensimmäisen tilaisuuden poikkeama kohdassa %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2145"/>
+      <location filename="src/dbg/debugger.cpp" line="2152"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>Viimeisen tilaisuuden poikkeama kohdassa %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2147"/>
+      <location filename="src/dbg/debugger.cpp" line="2154"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>Viimeisen tilaisuuden poikkeama kohdassa %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2205"/>
+      <location filename="src/dbg/debugger.cpp" line="2212"/>
       <source>Attached to process!</source>
       <translation>Kytketty prosessiin!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2770"/>
+      <location filename="src/dbg/debugger.cpp" line="2777"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>Tapahtui virhe DLL:n virhejäljityksessä (latauskoodin kopiointi epäonnistui)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2819"/>
+      <location filename="src/dbg/debugger.cpp" line="2826"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>Tapahtui virhe DLL:n virhejäljityksessä (loaddll.exe-tiedostoa ei löytynyt)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2852"/>
+      <location filename="src/dbg/debugger.cpp" line="2860"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>Ohjelma, jota yrität tutkia, vaatii korotusta. Käynnistetäänkö uudelleen pääkäyttäjänä?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2853"/>
+      <location filename="src/dbg/debugger.cpp" line="2861"/>
       <source>Elevation</source>
       <translation>Korotus</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2871"/>
+      <location filename="src/dbg/debugger.cpp" line="2877"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>Virhe aloittaessa prosessia (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2962"/>
+      <location filename="src/dbg/debugger.cpp" line="2969"/>
       <source>Attach to process failed: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3000"/>
+      <location filename="src/dbg/debugger.cpp" line="3007"/>
       <source>Debugging stopped!</source>
       <translation>Virheenjäljitys lopetettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3052"/>
+      <location filename="src/dbg/debugger.cpp" line="3059"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10664,12 +10664,12 @@ Haluatko jatkaa virheenjäljitystä?</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="35"/>
+      <location filename="src/dbg/thread.cpp" line="32"/>
       <source>Main Thread</source>
       <translation>Pääsäie</translation>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="338"/>
+      <location filename="src/dbg/thread.cpp" line="328"/>
       <source>Failed to suspend thread 0x%X...
 </source>
       <translation>Säikeen 0x%X keskeyttäminen epäonnistui...

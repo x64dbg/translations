@@ -7685,25 +7685,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2960"/>
+      <location filename="src/dbg/debugger.cpp" line="2967"/>
       <source>Process is already being debugged!</source>
       <translation>Процес вже відлагоджений!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2879"/>
+      <location filename="src/dbg/debugger.cpp" line="2886"/>
       <source>IsWow64Process failed!</source>
       <translation>Не вдалося виконати IsWow64Process!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2886"/>
+      <location filename="src/dbg/debugger.cpp" line="2893"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Використовуйте x32dbg для відлагодження цього процесу!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2888"/>
+      <location filename="src/dbg/debugger.cpp" line="2895"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Використовуйте x64dbg для відлагодження цього процесу!</translation>
     </message>
@@ -9896,90 +9896,90 @@ Invalid database file (JSON)!</source>
       <translation>Рядок відлагодження: "%s"</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2114"/>
+      <location filename="src/dbg/debugger.cpp" line="2118"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>Виняток SetThreadName на %p (%X, "%s")
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2132"/>
+      <location filename="src/dbg/debugger.cpp" line="2139"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>Перша спроба виключення на %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2134"/>
+      <location filename="src/dbg/debugger.cpp" line="2141"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>Перша спроба виключення на %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2145"/>
+      <location filename="src/dbg/debugger.cpp" line="2152"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>Остання спроба виключення на %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2147"/>
+      <location filename="src/dbg/debugger.cpp" line="2154"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>Остання спроба виключення на %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2205"/>
+      <location filename="src/dbg/debugger.cpp" line="2212"/>
       <source>Attached to process!</source>
       <translation>Приєднатися до процесу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2770"/>
+      <location filename="src/dbg/debugger.cpp" line="2777"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>Помилка налагодження DLL (не вдалося скопіювати лоадер)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2819"/>
+      <location filename="src/dbg/debugger.cpp" line="2826"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>Помилка налагодження DLL (loaddll.exe не знайдено)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2852"/>
+      <location filename="src/dbg/debugger.cpp" line="2860"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>Виконуваному файлу, який ви намагаєтеся відлагоджувати, потрібно підвищення прав. Перезапустити від імені адміністратора?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2853"/>
+      <location filename="src/dbg/debugger.cpp" line="2861"/>
       <source>Elevation</source>
       <translation>Підвищення</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2871"/>
+      <location filename="src/dbg/debugger.cpp" line="2877"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>Не вдалося запустити процес (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2962"/>
+      <location filename="src/dbg/debugger.cpp" line="2969"/>
       <source>Attach to process failed: %s
 </source>
       <translation>Приєднання до процесу не вдалося: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3000"/>
+      <location filename="src/dbg/debugger.cpp" line="3007"/>
       <source>Debugging stopped!</source>
       <translation>Відлагодження призупинено!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3052"/>
+      <location filename="src/dbg/debugger.cpp" line="3059"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10643,12 +10643,12 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="35"/>
+      <location filename="src/dbg/thread.cpp" line="32"/>
       <source>Main Thread</source>
       <translation>Головний потік</translation>
     </message>
     <message>
-      <location filename="src/dbg/thread.cpp" line="338"/>
+      <location filename="src/dbg/thread.cpp" line="328"/>
       <source>Failed to suspend thread 0x%X...
 </source>
       <translation>Не вдалося призупинити потік 0x%X...
