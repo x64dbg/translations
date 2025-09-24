@@ -15242,92 +15242,92 @@ Do you want to apply these patches anyway?</source>
   <context>
     <name>REToolSync</name>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="23"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="24"/>
       <source>Client no longer registered at: %1 (token: %2)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="42"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="43"/>
       <source>Already connected</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="54"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="55"/>
       <source>Pinging failed: %1/api/ping</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="57"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="58"/>
       <source>Endpoint working: %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="63"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="64"/>
       <source>Thread already running (bad)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="77"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="78"/>
       <source>Server not running after starting thread</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="86"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="87"/>
       <source>Client registration failed (no response, error: %1)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="91"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="92"/>
       <source>Client registration failed (status: %1, body: %2)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="97"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="98"/>
       <source>Client registration failed (JSON error: %1)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="103"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="104"/>
       <source>Client registration failed (no token in body: %1)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="106"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="107"/>
       <source>Client registration success (token: %1)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="132"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="133"/>
       <source>Failed to unregister (no response, error: %1)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="136"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="137"/>
       <source>Failed to unregister (token: %1, body: %2)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="140"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="141"/>
       <source>Unregistered client (token: %1)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="185"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="186"/>
       <source>Failed to bind to %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="188"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="189"/>
       <source>Listening on http://%1:%2</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="191"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="192"/>
       <source>Error listening on %1:%2</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/REToolSync.cpp" line="194"/>
+      <location filename="src/cross/minidump/REToolSync.cpp" line="195"/>
       <source>Server stopped</source>
       <translation type="unfinished"/>
     </message>
