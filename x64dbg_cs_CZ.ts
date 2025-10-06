@@ -1399,153 +1399,153 @@
       <translation>&amp; Kopírovat</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="289"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="299"/>
       <source>Inactive</source>
       <translation>Neaktivní</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="291"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="301"/>
       <source>One-time</source>
       <translation>Jednou</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="291"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="301"/>
       <source>Enabled</source>
       <translation>Povolit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="303"/>
       <source>Disabled</source>
       <translation>Zakázat</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="368"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="378"/>
       <source>byte</source>
       <translation>bit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="380"/>
       <source>word</source>
       <translation>slovo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="372"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="382"/>
       <source>dword</source>
       <translation>Hodnota DWORD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="374"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="384"/>
       <source>qword</source>
       <translation>QWORD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="384"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="412"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="422"/>
       <source>access</source>
       <translation>Přístup</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="391"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="416"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="426"/>
       <source>write</source>
       <translation>Psát</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="398"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="418"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="408"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="428"/>
       <source>execute</source>
       <translation>Vykonat</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="414"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="424"/>
       <source>read</source>
       <translation>číst</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="446"/>
       <source>load</source>
       <translation>Načíst</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="441"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="451"/>
       <source>unload</source>
       <translation>uvolnit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="456"/>
       <source>all</source>
       <translation>všechny</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="457"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="467"/>
       <source>firstchance</source>
       <translation>první šanci</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="472"/>
       <source>secondchance</source>
       <translation>druhá šance
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="477"/>
       <source>anychance</source>
       <translation>jakýkoliv</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="480"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
       <source>breakif</source>
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="500"/>
       <source>fastresume</source>
       <translation>rychlé řešení</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="499"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="509"/>
       <source>logif</source>
       <translation>logif</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="507"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="517"/>
       <source>log</source>
       <translation>protokol</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="527"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="537"/>
       <source>cmdif</source>
       <translation>cmdif</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="535"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="545"/>
       <source>cmd</source>
       <translation>příkaz cmd</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="598"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="604"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="608"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="614"/>
       <source>Cannot follow this breakpoint.
 </source>
       <translation>Tento breakpoint nelze sledovat.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="756"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
       <source>Enter the module name</source>
       <translation>Zadejte název modulu</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="756"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
       <source>Example: mydll.dll</source>
       <translation>Příklad: sestavení mydll.dll</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="763"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
       <source>Enter the exception code</source>
       <translation>Zadej aktivačný kód</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="763"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
       <source>Example: EXCEPTION_ACCESS_VIOLATION</source>
       <translation>Příklad: EXCEPTION_ACCESS_VIOLATION</translation>
     </message>

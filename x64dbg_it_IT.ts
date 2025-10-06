@@ -1392,152 +1392,152 @@
       <translation>&amp;Copia</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="289"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="299"/>
       <source>Inactive</source>
       <translation>Inattivo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="291"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="301"/>
       <source>One-time</source>
       <translation>Solo una volta</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="291"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="301"/>
       <source>Enabled</source>
       <translation>Abilitato</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="303"/>
       <source>Disabled</source>
       <translation>Disabilitato</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="368"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="378"/>
       <source>byte</source>
       <translation>byte</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="380"/>
       <source>word</source>
       <translation>word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="372"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="382"/>
       <source>dword</source>
       <translation>dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="374"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="384"/>
       <source>qword</source>
       <translation>qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="384"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="412"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="422"/>
       <source>access</source>
       <translation>accesso</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="391"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="416"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="426"/>
       <source>write</source>
       <translation>scrivi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="398"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="418"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="408"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="428"/>
       <source>execute</source>
       <translation>esegui</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="414"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="424"/>
       <source>read</source>
       <translation>Leggi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="446"/>
       <source>load</source>
       <translation>Carica</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="441"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="451"/>
       <source>unload</source>
       <translation>Scarica </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="456"/>
       <source>all</source>
       <translation>tutti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="457"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="467"/>
       <source>firstchance</source>
       <translation>prima possibilità</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="472"/>
       <source>secondchance</source>
       <translation>seconda possibilità</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="477"/>
       <source>anychance</source>
       <translation>qualsiasi possibilità</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="480"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
       <source>breakif</source>
       <translation>interrompi se</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="500"/>
       <source>fastresume</source>
       <translation>riprendi veloce</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="499"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="509"/>
       <source>logif</source>
       <translation>logga se</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="507"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="517"/>
       <source>log</source>
       <translation>log</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="527"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="537"/>
       <source>cmdif</source>
       <translation>comando se</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="535"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="545"/>
       <source>cmd</source>
       <translation>cmd</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="598"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="604"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="608"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="614"/>
       <source>Cannot follow this breakpoint.
 </source>
       <translation>Impossibile seguire questo breakpoint</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="756"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
       <source>Enter the module name</source>
       <translation>Inserisci il nome del modulo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="756"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
       <source>Example: mydll.dll</source>
       <translation>Esempio: mydll.dll</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="763"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
       <source>Enter the exception code</source>
       <translation>Inserisci il codice dell'eccezione</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="763"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
       <source>Example: EXCEPTION_ACCESS_VIOLATION</source>
       <translation>Eempio: EXCEPTION_ACCESS_VIOLATION</translation>
     </message>

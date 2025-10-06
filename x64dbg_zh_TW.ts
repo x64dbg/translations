@@ -1391,152 +1391,152 @@
       <translation>複製(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="289"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="299"/>
       <source>Inactive</source>
       <translation>停用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="291"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="301"/>
       <source>One-time</source>
       <translation>一次性</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="291"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="301"/>
       <source>Enabled</source>
       <translation>已啟用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="303"/>
       <source>Disabled</source>
       <translation>已停用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="368"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="378"/>
       <source>byte</source>
       <translation>一個位元組</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="370"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="380"/>
       <source>word</source>
       <translation>word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="372"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="382"/>
       <source>dword</source>
       <translation>dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="374"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="384"/>
       <source>qword</source>
       <translation>qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="384"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="412"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="422"/>
       <source>access</source>
       <translation>存取</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="391"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="416"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="426"/>
       <source>write</source>
       <translation>寫入</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="398"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="418"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="408"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="428"/>
       <source>execute</source>
       <translation>執行</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="414"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="424"/>
       <source>read</source>
       <translation>讀取</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="446"/>
       <source>load</source>
       <translation>載入</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="441"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="451"/>
       <source>unload</source>
       <translation>移除</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="456"/>
       <source>all</source>
       <translation>所有</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="457"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="467"/>
       <source>firstchance</source>
       <translation>首次</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="472"/>
       <source>secondchance</source>
       <translation>二次</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="477"/>
       <source>anychance</source>
       <translation>首次或二次</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="480"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
       <source>breakif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="500"/>
       <source>fastresume</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="499"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="509"/>
       <source>logif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="507"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="517"/>
       <source>log</source>
       <translation>記錄檔</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="527"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="537"/>
       <source>cmdif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="535"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="545"/>
       <source>cmd</source>
       <translation>命令提示字元</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="598"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="604"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="608"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="614"/>
       <source>Cannot follow this breakpoint.
 </source>
       <translation>無法跟隨此斷點</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="756"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
       <source>Enter the module name</source>
       <translation>請輸入模組名稱</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="756"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
       <source>Example: mydll.dll</source>
       <translation>範例: mydll.dll</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="763"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
       <source>Enter the exception code</source>
       <translation>請輸入例外代碼</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="763"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
       <source>Example: EXCEPTION_ACCESS_VIOLATION</source>
       <translation>範例：EXCEPTION_ACCESS_VIOLATION</translation>
     </message>
