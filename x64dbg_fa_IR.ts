@@ -2585,331 +2585,343 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="875"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
       <source>Signed byte (8-bit)</source>
       <translation>(بایت علامت‌دار (۸بیتی</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="900"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
       <source>Signed short (16-bit)</source>
       <translation>(علامت‌دار کوتاه (۱۶بیتی</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="925"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
       <source>Signed long (32-bit)</source>
       <translation>(علامت‌دار بلند (۳۲بیتی</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="950"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
       <source>Signed long long (64-bit)</source>
       <translation>(علامت‌دار بلند طولانی (۶۴بیتی</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="975"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>(بایت بی‌علامت (۸بیتی</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1000"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
       <source>Unsigned short (16-bit)</source>
       <translation>(بی‌علامت کوتاه (۱۶بیتی</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1025"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
       <source>Unsigned long (32-bit)</source>
       <translation>(بی‌علامت بلند (۳۲بیتی</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1050"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>(بی‌علامت بلند طولانی (۶۴بیتی</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1075"/>
+      <source>Hex byte (8-bit)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
       <source>Hex short (16-bit)</source>
       <translation>(حالت مبنای ۱۶ کوتاه (۱۶بیتی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1100"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
       <source>Hex long (32-bit)</source>
       <translation>(حالت مبنای ۱۶ بلند (۳۲بیتی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1125"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="236"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
       <source>Hex long long (64-bit)</source>
       <translation>(حالت مبنای ۱۶ بلند طولانی (۶۴بیتی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="236"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="237"/>
       <source>&amp;Integer</source>
       <translation>عدد &amp;صحیح</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="239"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="240"/>
       <source>&amp;Float (32-bit)</source>
       <translation>(&amp;اعشار (۳۲بیتی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="241"/>
       <source>&amp;Double (64-bit)</source>
       <translation>(اعشار &amp;دوبرابری (۶۴بیتی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="241"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
       <source>&amp;Long double (80-bit)</source>
       <translation>(اعشار دوبرابری &amp;بلند (۸۰بیتی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
       <source>&amp;Half float (16-bit)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="244"/>
       <source>&amp;Float</source>
       <translation>ا&amp;عشار</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="245"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="246"/>
       <source>&amp;Address</source>
       <translation>ن&amp;شانی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="247"/>
       <source>&amp;Disassembly</source>
       <translation>کد ماشین تبدیل‌شده به &amp;زبان نمادین</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="445"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
       <source>System Code</source>
       <translation>کد سیستم</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
       <source>System Data</source>
       <translation>داده‌های سیستم</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="447"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
       <source>User Code</source>
       <translation>کد کاربر</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
       <source>User Data</source>
       <translation>داده‌های کاربر</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="450"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
       <source> (Real4)</source>
       <translation>(واقعی۴) </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="455"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
       <source> (Real8)</source>
       <translation>(واقعی۸) </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="458"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
       <source> (BYTE)</source>
       <translation>(بایت) </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="461"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
       <source> (WORD)</source>
       <translation>(کلمه) </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="464"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
       <source> (DWORD)</source>
       <translation>(دوکلمه‌ای) </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="468"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="473"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="474"/>
       <source> (QWORD)</source>
       <translation>(چهارکلمه‌ای) </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="480"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
       <source> (String)</source>
       <translation>(رشته) </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="482"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="483"/>
       <source>(Unknown String)</source>
       <translation>(رشته‌ی نامعلوم)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="516"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="532"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="549"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="517"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="550"/>
       <source>Modify value</source>
       <translation>اصلاح مقدار</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1596"/>
       <source>Error</source>
       <translation>خطا</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
       <source>The input text is not a number!</source>
       <translation>متن واردشده عدد نیست!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="564"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="565"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>...عبارت را برای دنبال کردن درون داده‌ها وارد نمایید</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
       <source>Error!</source>
       <translation>!خطا</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
       <source>Not inside a module...</source>
       <translation>درون قطعه‌کدی نیست...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="588"/>
       <source>Goto File Offset in %1</source>
       <translation>%1 رفتن به موقعیت‌های نشانی اضافی فایل در</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="648"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="682"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="720"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="752"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="649"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="721"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="753"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1076"/>
       <source>Hex</source>
       <translation>حالت مبنای ۱۶</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="656"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="802"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1270"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="657"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1298"/>
       <source>ASCII</source>
       <translation>(ASCII) کاآتا</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="690"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="828"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1315"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="691"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1345"/>
       <source>UNICODE</source>
       <translation>(UNICODE) رمزنویسه‌ی‌عمومی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1150"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
       <source>Float (32-bit)</source>
       <translation>(اعشار (۳۲بیتی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1175"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
       <source>Double (64-bit)</source>
       <translation>(اعشار دوبرابری (۶۴بیتی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1200"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
       <source>Long double (80-bit)</source>
       <translation>(اعشار دوبرابری بلند (۸۰</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1225"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1251"/>
       <source>Half float (16-bit)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1255"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1300"/>
-      <source>Value</source>
-      <translation>مقدار</translation>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
+      <source>Address (QWORD)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1278"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1323"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1281"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1328"/>
+      <source>Address (DWORD)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1306"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1353"/>
       <source>Comments</source>
       <translation>یادداشت‌ها</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1378"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1408"/>
       <source>Edit data at %1</source>
       <translation>%1 ویرایش داده‌ها در</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1395"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1425"/>
       <source>Fill data at %1</source>
       <translation>%1 پُرسازی داده‌ها در</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1491"/>
       <source>Save to file</source>
       <translation>ذخیره‌سازی درون فایل</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1491"/>
       <source>All files (*.*)</source>
       <translation>(*.*) تمامی فایل‌ها</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1481"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1511"/>
       <source>Find Pattern...</source>
       <translation>...یافتن الگو</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
       <source>Selection not in a file...</source>
       <translation>انتخاب‌شده درون فایلی نیست...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1521"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
       <source>Dump</source>
       <translation>داده‌ها</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1533"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1563"/>
       <source>Enter expression to sync with...</source>
       <translation>...عبارت را وارد نمایید برای همگام‌سازی با</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1544"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1574"/>
       <source>Size</source>
       <translation>اندازه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1580"/>
       <source>Warning</source>
       <translation>اخطار</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1580"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>شما در حال تلاش برای اختصاص دادن یک حافظه‌ی موقت ذخیره‌ساز با اندازه‌ی صفر هستید.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1585"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>اندازه‌ی حافظه‌ی موقت ذخیره‌سازی که می‌خواهید اختصاص دهید، بیش از ۱ گ‌ب است. لطفاً عبارت خود را برای حصول اطمینان از اشتباه نبودن چیزی، بررسی نمایید.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1596"/>
       <source>Memory allocation failed!</source>
       <translation>تخصیص حافظه موفقیت‌آمیز نبود!</translation>
     </message>

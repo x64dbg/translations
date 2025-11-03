@@ -2587,331 +2587,343 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="875"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
       <source>Signed byte (8-bit)</source>
       <translation>Signed byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="900"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
       <source>Signed short (16-bit)</source>
       <translation>Signed short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="925"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
       <source>Signed long (32-bit)</source>
       <translation>Signed long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="950"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
       <source>Signed long long (64-bit)</source>
       <translation>Signed long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="975"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>Unsigned byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1000"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
       <source>Unsigned short (16-bit)</source>
       <translation>Unsigned short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1025"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
       <source>Unsigned long (32-bit)</source>
       <translation>Unsigned long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1050"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>Unsigned long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1075"/>
+      <source>Hex byte (8-bit)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
       <source>Hex short (16-bit)</source>
       <translation>Hex short (16-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1100"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
       <source>Hex long (32-bit)</source>
       <translation>Hex long (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1125"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="236"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
       <source>Hex long long (64-bit)</source>
       <translation>Hex long long (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="236"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="237"/>
       <source>&amp;Integer</source>
       <translation>&amp;Integer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="239"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="240"/>
       <source>&amp;Float (32-bit)</source>
       <translation>&amp;Float (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="241"/>
       <source>&amp;Double (64-bit)</source>
       <translation>&amp;Double (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="241"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
       <source>&amp;Long double (80-bit)</source>
       <translation>&amp;Long double (80-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
       <source>&amp;Half float (16-bit)</source>
       <translation>&amp;Hälfte float (16-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="244"/>
       <source>&amp;Float</source>
       <translation>&amp;Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="245"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="246"/>
       <source>&amp;Address</source>
       <translation>&amp;Adresse</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="247"/>
       <source>&amp;Disassembly</source>
       <translation>&amp;Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="445"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
       <source>System Code</source>
       <translation>Systemcode</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="433"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
       <source>System Data</source>
       <translation>System-Daten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="447"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
       <source>User Code</source>
       <translation>User-Code</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
       <source>User Data</source>
       <translation>User-Daten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="450"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
       <source> (Real4)</source>
       <translation> (Real4)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="455"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
       <source> (Real8)</source>
       <translation> (Real8)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="458"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
       <source> (BYTE)</source>
       <translation> (BYTE)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="461"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
       <source> (WORD)</source>
       <translation> (WORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="464"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
       <source> (DWORD)</source>
       <translation> (DWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="468"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="473"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="474"/>
       <source> (QWORD)</source>
       <translation> (QWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="480"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
       <source> (String)</source>
       <translation> (String)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="482"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="483"/>
       <source>(Unknown String)</source>
       <translation>(Unbekannter String)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="516"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="532"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="549"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="517"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="550"/>
       <source>Modify value</source>
       <translation>Wert ändern</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1596"/>
       <source>Error</source>
       <translation>Fehler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
       <source>The input text is not a number!</source>
       <translation>Der Eingabetext ist keine Zahl!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="564"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="565"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>Gebe Ausdruck zum Anschauen im Dump ein...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
       <source>Error!</source>
       <translation>Fehler!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="580"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
       <source>Not inside a module...</source>
       <translation>Nicht innerhalb eines Moduls...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="588"/>
       <source>Goto File Offset in %1</source>
       <translation>Zu Dateioffset in %1 gehen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="648"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="682"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="720"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="752"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="649"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="721"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="753"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1076"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="656"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="802"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1270"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="657"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1298"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="690"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="828"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1315"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="691"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1345"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1150"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
       <source>Float (32-bit)</source>
       <translation>Float (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1175"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
       <source>Double (64-bit)</source>
       <translation>Double (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1200"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
       <source>Long double (80-bit)</source>
       <translation>Long double (80-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1225"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1251"/>
       <source>Half float (16-bit)</source>
       <translation>Hälfte float (16-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1255"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1300"/>
-      <source>Value</source>
-      <translation>Wert</translation>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
+      <source>Address (QWORD)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1278"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1323"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1281"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1328"/>
+      <source>Address (DWORD)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1306"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1353"/>
       <source>Comments</source>
       <translation>Kommentare</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1378"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1408"/>
       <source>Edit data at %1</source>
       <translation>Daten bei %1 bearbeiten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1395"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1425"/>
       <source>Fill data at %1</source>
       <translation>Bei %1 mit Daten füllen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1491"/>
       <source>Save to file</source>
       <translation>Speichern unter</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1461"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1491"/>
       <source>All files (*.*)</source>
       <translation>Alle Dateien (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1481"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1511"/>
       <source>Find Pattern...</source>
       <translation>Finde Muster im Speicher...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1504"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
       <source>Selection not in a file...</source>
       <translation>Auswahl nicht in einer Datei...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1521"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
       <source>Dump</source>
       <translation>Dump</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1533"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1563"/>
       <source>Enter expression to sync with...</source>
       <translation>Synchronisieren mit Ausdruck...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1544"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1574"/>
       <source>Size</source>
       <translation>Größe</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1580"/>
       <source>Warning</source>
       <translation>Warnung</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1550"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1580"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>Sie versuchen, einen 0-Byte-Puffer anzufordern.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1555"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1585"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>Sie versuchen mehr als 1 GB anzufordern. Bitte überprüfen Sie Ihren Ausdruck noch einmal.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1596"/>
       <source>Memory allocation failed!</source>
       <translation>Speicheranforderung fehlgeschlagen!</translation>
     </message>
