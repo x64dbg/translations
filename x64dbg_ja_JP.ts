@@ -2636,7 +2636,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
       <source>Hex byte (8-bit)</source>
-      <translation type="unfinished"/>
+      <translation>16進バイト (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
@@ -2848,13 +2848,13 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
       <source>Address (QWORD)</source>
-      <translation type="unfinished"/>
+      <translation>アドレス (QWORD)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1281"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1328"/>
       <source>Address (DWORD)</source>
-      <translation type="unfinished"/>
+      <translation>アドレス (DWORD)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1306"/>
