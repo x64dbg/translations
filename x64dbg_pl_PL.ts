@@ -16,7 +16,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="120"/>
       <source>&lt;a href="https://x64dbg.com"&gt;https://x64dbg.com&lt;/a&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;a href="https://x64dbg.com"&gt;https://x64dbg.com&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="155"/>
@@ -36,7 +36,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="302"/>
       <source>An open-source x64/x32 debugger for windows.</source>
-      <translation type="unfinished"/>
+      <translation>Otwartoźródłowy odpluskwiacz x64/x32 dla Windows.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="342"/>

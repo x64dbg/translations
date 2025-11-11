@@ -633,7 +633,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="497"/>
       <source>Breakpoint bullets</source>
-      <translation type="unfinished"/>
+      <translation>AppearanceDialog['Marcadores de ponto de interrupção']</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="498"/>
@@ -1058,7 +1058,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
       <source>Symbol System Module Text</source>
-      <translation type="unfinished"/>
+      <translation>AppearanceDialog['Texto do Módulo do Sistema de Símbolos']</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="626"/>
@@ -1800,7 +1800,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="296"/>
       <source>Selection (Bytes only)</source>
-      <translation type="unfinished"/>
+      <translation>Cpudisassembly['Seleção (Somente Bytes)']</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="297"/>
