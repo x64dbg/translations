@@ -1834,7 +1834,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="303"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1344"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1353"/>
       <source>Disassembly</source>
       <translation>Vue Désassembleur</translation>
     </message>
@@ -2230,10 +2230,10 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="808"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="942"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="996"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1682"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1703"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1727"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1822"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1691"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1712"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1736"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
       <source>Error!</source>
       <translation>Erreur!</translation>
     </message>
@@ -2269,79 +2269,79 @@
       <translation>Entrez une constante</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1223"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1235"/>
       <source>Find Pattern...</source>
       <translation>&amp;Rechercher patron...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1370"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1379"/>
       <source>Edit code at %1</source>
       <translation>Modifier le code à %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1387"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1396"/>
       <source>Fill code at %1</source>
       <translation>Remplir le code à %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1408"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2018"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2039"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1417"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2027"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2048"/>
       <source>Size</source>
       <translation>Taille</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1506"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1515"/>
       <source>Open File</source>
       <translation>Ouvrir le fichier</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1506"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1515"/>
       <source>Text Files (*.txt)</source>
       <translation>Fichiers texte (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1512"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
       <source>Error</source>
       <translation>Erreur</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1512"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
       <source>Could not open file</source>
       <translation>Impossible d'ouvrir le fichier</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1682"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1727"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1691"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1736"/>
       <source>Selection not in a module...</source>
       <translation>La sélection n'est pas dans un module...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1703"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1712"/>
       <source>Selection not in a file...</source>
       <translation>La sélection n'est pas dans un fichier...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1806"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1815"/>
       <source>Start from &amp;Selection</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1822"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
       <source>Failed to assemble instruction "</source>
       <translation>Impossible d'assembler l'instruction "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1933"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1950"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1967"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1942"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1959"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1976"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>Impossible d'activer la couverture des traces pour la page %1.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1984"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1993"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>Impossible de désactiver la couverture des traces pour la page %1.
@@ -2768,8 +2768,8 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1585"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1596"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1592"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1603"/>
       <source>Error</source>
       <translation>Erreur</translation>
     </message>
@@ -2786,7 +2786,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1541"/>
       <source>Error!</source>
       <translation>Erreur!</translation>
     </message>
@@ -2882,47 +2882,47 @@
       <translation>Tous les fichiers (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1511"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1519"/>
       <source>Find Pattern...</source>
       <translation>Rechercher patron...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1534"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1541"/>
       <source>Selection not in a file...</source>
       <translation>La sélection n'est pas dans un fichier...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1551"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1558"/>
       <source>Dump</source>
       <translation>Vue Hexa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1563"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1570"/>
       <source>Enter expression to sync with...</source>
       <translation>Entrez une expression à synchroniser avec...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1574"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1581"/>
       <source>Size</source>
       <translation>Taille</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1580"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1587"/>
       <source>Warning</source>
       <translation>Attention</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1580"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1587"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>Vous avez essayé d’allouer une buffer de taille vide.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1592"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>La taille de mémoire tampon que vous essayez d’attribuer est supérieure à 1 Go. S’il vous plaît vérifier votre expression pour s’assurer que tout va bien.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1596"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1603"/>
       <source>Memory allocation failed!</source>
       <translation>Allocation mémoire a échoué !</translation>
     </message>
@@ -3265,7 +3265,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="98"/>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="900"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="909"/>
       <source>Modify</source>
       <translation>Modifier</translation>
     </message>
@@ -3503,7 +3503,7 @@
       <translation>Remplir les données à %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="869"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="868"/>
       <source>Find Pattern...</source>
       <translation>&amp;Rechercher patron...</translation>
     </message>
@@ -6274,31 +6274,31 @@
   <context>
     <name>DBG</name>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="418"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="419"/>
       <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="529"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="538"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="530"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="539"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="549"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="550"/>
       <source>Started trace recording to file: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="564"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="565"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="576"/>
       <source>Trace recording stopped.</source>
       <translation type="unfinished"/>
     </message>
@@ -7007,7 +7007,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="454"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="542"/>
-      <location filename="src/dbg/debugger.cpp" line="1223"/>
+      <location filename="src/dbg/debugger.cpp" line="1234"/>
       <source>You can only set 4 hardware breakpoints</source>
       <translation>Vous ne pouvez définir que 4 points d'arrêt matériels</translation>
     </message>
@@ -7052,7 +7052,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="510"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="529"/>
-      <location filename="src/dbg/debugger.cpp" line="805"/>
+      <location filename="src/dbg/debugger.cpp" line="816"/>
       <source>Delete hardware breakpoint failed: %p (DeleteHardwareBreakPoint)
 </source>
       <translation type="unfinished"/>
@@ -7686,25 +7686,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2967"/>
+      <location filename="src/dbg/debugger.cpp" line="2978"/>
       <source>Process is already being debugged!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2886"/>
+      <location filename="src/dbg/debugger.cpp" line="2897"/>
       <source>IsWow64Process failed!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2893"/>
+      <location filename="src/dbg/debugger.cpp" line="2904"/>
       <source>Use x32dbg to debug this process!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2895"/>
+      <location filename="src/dbg/debugger.cpp" line="2906"/>
       <source>Use x64dbg to debug this process!</source>
       <translation type="unfinished"/>
     </message>
@@ -8748,21 +8748,49 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="24"/>
-      <location filename="src/dbg/commands/cmd-tracing.cpp" line="110"/>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="138"/>
       <source>Cannot start a trace when running, pause execution first.</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="34"/>
-      <location filename="src/dbg/commands/cmd-tracing.cpp" line="153"/>
-      <location filename="src/dbg/commands/cmd-tracing.cpp" line="165"/>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="181"/>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="193"/>
       <source>Invalid expression "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-tracing.cpp" line="116"/>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="55"/>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="74"/>
+      <source>Unsupported party filter: %d
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="144"/>
       <source>Run to party is busy.
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="214"/>
+      <source>Step filter set to: none</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="219"/>
+      <source>Step filter set to: user</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="224"/>
+      <source>Step filter set to: system</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-tracing.cpp" line="228"/>
+      <source>Invalid step filter "%s", valid options are: none, user, system
 </source>
       <translation type="unfinished"/>
     </message>
@@ -9453,449 +9481,449 @@ Invalid database file (JSON)!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="278"/>
+      <location filename="src/dbg/debugger.cpp" line="289"/>
       <source>Thread switched from %X to %X !
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="491"/>
+      <location filename="src/dbg/debugger.cpp" line="502"/>
       <source>Module: %s - </source>
       <translation>Module : %s- </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="504"/>
+      <location filename="src/dbg/debugger.cpp" line="515"/>
       <source> (switched from %s)</source>
       <translation> (passé de %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="514"/>
+      <location filename="src/dbg/debugger.cpp" line="525"/>
       <source>%s - PID: %s - %sThread: %s%s%s</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="633"/>
+      <location filename="src/dbg/debugger.cpp" line="644"/>
       <source>%s breakpoint "%s" at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="635"/>
+      <location filename="src/dbg/debugger.cpp" line="646"/>
       <source>%s breakpoint at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="662"/>
+      <location filename="src/dbg/debugger.cpp" line="673"/>
       <source>execute</source>
       <translation>Exécuter</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="666"/>
+      <location filename="src/dbg/debugger.cpp" line="677"/>
       <source>read/write</source>
       <translation>lecture/écriture</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="669"/>
+      <location filename="src/dbg/debugger.cpp" line="680"/>
       <source>write</source>
       <translation>écrire</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="676"/>
+      <location filename="src/dbg/debugger.cpp" line="687"/>
       <source>Hardware breakpoint (%s%s) "%s" at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="678"/>
+      <location filename="src/dbg/debugger.cpp" line="689"/>
       <source>Hardware breakpoint (%s%s) at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="688"/>
+      <location filename="src/dbg/debugger.cpp" line="699"/>
       <source> (read)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="691"/>
+      <location filename="src/dbg/debugger.cpp" line="702"/>
       <source> (write)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="694"/>
+      <location filename="src/dbg/debugger.cpp" line="705"/>
       <source> (execute)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="697"/>
+      <location filename="src/dbg/debugger.cpp" line="708"/>
       <source> (read/write/execute)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="705"/>
+      <location filename="src/dbg/debugger.cpp" line="716"/>
       <source>Memory breakpoint%s "%s" at %s, exception address: %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="714"/>
+      <location filename="src/dbg/debugger.cpp" line="725"/>
       <source>Memory breakpoint%s at %s, exception address: %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="729"/>
+      <location filename="src/dbg/debugger.cpp" line="740"/>
       <source>DLL Load</source>
       <translation>Chargement de DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="732"/>
+      <location filename="src/dbg/debugger.cpp" line="743"/>
       <source>DLL Unload</source>
       <translation>Déchargement de DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="735"/>
+      <location filename="src/dbg/debugger.cpp" line="746"/>
       <source>DLL Load and unload</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="741"/>
+      <location filename="src/dbg/debugger.cpp" line="752"/>
       <source>DLL Breakpoint %s (%s): Module %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="743"/>
+      <location filename="src/dbg/debugger.cpp" line="754"/>
       <source>DLL Breakpoint (%s): Module %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="750"/>
-      <location filename="src/dbg/debugger.cpp" line="752"/>
+      <location filename="src/dbg/debugger.cpp" line="761"/>
+      <location filename="src/dbg/debugger.cpp" line="763"/>
       <source>Exception Breakpoint %s (%p) at %p!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="779"/>
+      <location filename="src/dbg/debugger.cpp" line="790"/>
       <source>paused!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="881"/>
+      <location filename="src/dbg/debugger.cpp" line="892"/>
       <source>Breakpoint reached not in list!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="915"/>
-      <location filename="src/dbg/debugger.cpp" line="1389"/>
+      <location filename="src/dbg/debugger.cpp" line="926"/>
+      <location filename="src/dbg/debugger.cpp" line="1400"/>
       <source>Error when evaluating break condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="929"/>
-      <location filename="src/dbg/debugger.cpp" line="1404"/>
+      <location filename="src/dbg/debugger.cpp" line="940"/>
+      <location filename="src/dbg/debugger.cpp" line="1415"/>
       <source>Error when evaluating log condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="942"/>
-      <location filename="src/dbg/debugger.cpp" line="1410"/>
+      <location filename="src/dbg/debugger.cpp" line="953"/>
+      <location filename="src/dbg/debugger.cpp" line="1421"/>
       <source>Error when evaluating command condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1069"/>
+      <location filename="src/dbg/debugger.cpp" line="1080"/>
       <source>Failed to open breakpoint log: %s (%s)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1098"/>
+      <location filename="src/dbg/debugger.cpp" line="1109"/>
       <source>User code reached at %s</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1195"/>
+      <location filename="src/dbg/debugger.cpp" line="1206"/>
       <source>Breakpoint %p has been disabled because the bytes don't match! Expected: %02X %02X, Found: %02X %02X
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1202"/>
+      <location filename="src/dbg/debugger.cpp" line="1213"/>
       <source>Could not set breakpoint %p! (SetBPX)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1205"/>
+      <location filename="src/dbg/debugger.cpp" line="1216"/>
       <source>MemRead failed on breakpoint address %p!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1214"/>
+      <location filename="src/dbg/debugger.cpp" line="1225"/>
       <source>Could not set memory breakpoint %p! (SetMemoryBPXEx)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1230"/>
+      <location filename="src/dbg/debugger.cpp" line="1241"/>
       <source>Could not set hardware breakpoint %p! (SetHardwareBreakPoint)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1232"/>
+      <location filename="src/dbg/debugger.cpp" line="1243"/>
       <source>Set hardware breakpoint on %p!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1265"/>
+      <location filename="src/dbg/debugger.cpp" line="1276"/>
       <source>Could not delete breakpoint %p! (DeleteBPX)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1269"/>
+      <location filename="src/dbg/debugger.cpp" line="1280"/>
       <source>Could not delete memory breakpoint %p! (RemoveMemoryBPX)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1273"/>
+      <location filename="src/dbg/debugger.cpp" line="1284"/>
       <source>Could not delete hardware breakpoint %p! (DeleteHardwareBreakPoint)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1435"/>
+      <location filename="src/dbg/debugger.cpp" line="1446"/>
       <source>Trace finished after %llu steps!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1437"/>
+      <location filename="src/dbg/debugger.cpp" line="1448"/>
       <source>Trace finished after %u steps!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1508"/>
-      <location filename="src/dbg/debugger.cpp" line="1840"/>
+      <location filename="src/dbg/debugger.cpp" line="1519"/>
+      <location filename="src/dbg/debugger.cpp" line="1851"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1510"/>
+      <location filename="src/dbg/debugger.cpp" line="1521"/>
       <source>Process Started: %p %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1559"/>
+      <location filename="src/dbg/debugger.cpp" line="1570"/>
       <source>TLS Callback %d</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1567"/>
-      <location filename="src/dbg/debugger.cpp" line="1894"/>
+      <location filename="src/dbg/debugger.cpp" line="1578"/>
+      <location filename="src/dbg/debugger.cpp" line="1905"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1572"/>
-      <location filename="src/dbg/debugger.cpp" line="1866"/>
+      <location filename="src/dbg/debugger.cpp" line="1583"/>
+      <location filename="src/dbg/debugger.cpp" line="1877"/>
       <source>entry breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1636"/>
+      <location filename="src/dbg/debugger.cpp" line="1647"/>
       <source>Process stopped with exit code %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1676"/>
+      <location filename="src/dbg/debugger.cpp" line="1687"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1685"/>
+      <location filename="src/dbg/debugger.cpp" line="1696"/>
       <source>Thread Entry</source>
       <translation>Point d'entrée de Thread</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1714"/>
+      <location filename="src/dbg/debugger.cpp" line="1725"/>
       <source>Thread %s Stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1740"/>
+      <location filename="src/dbg/debugger.cpp" line="1751"/>
       <source>No threads left to switch to (bug?)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1749"/>
+      <location filename="src/dbg/debugger.cpp" line="1760"/>
       <source>Thread %s exit
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1772"/>
+      <location filename="src/dbg/debugger.cpp" line="1783"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1777"/>
+      <location filename="src/dbg/debugger.cpp" line="1788"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1798"/>
+      <location filename="src/dbg/debugger.cpp" line="1809"/>
       <source>System breakpoint reached!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1810"/>
+      <location filename="src/dbg/debugger.cpp" line="1821"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1885"/>
-      <location filename="src/dbg/debugger.cpp" line="1887"/>
+      <location filename="src/dbg/debugger.cpp" line="1896"/>
+      <location filename="src/dbg/debugger.cpp" line="1898"/>
       <source>TLS Callback</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1923"/>
+      <location filename="src/dbg/debugger.cpp" line="1934"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1929"/>
+      <location filename="src/dbg/debugger.cpp" line="1940"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1931"/>
+      <location filename="src/dbg/debugger.cpp" line="1942"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1935"/>
+      <location filename="src/dbg/debugger.cpp" line="1946"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1940"/>
+      <location filename="src/dbg/debugger.cpp" line="1951"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1945"/>
+      <location filename="src/dbg/debugger.cpp" line="1956"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2012"/>
+      <location filename="src/dbg/debugger.cpp" line="2023"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2055"/>
+      <location filename="src/dbg/debugger.cpp" line="2066"/>
       <source>DebugString: "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2118"/>
+      <location filename="src/dbg/debugger.cpp" line="2129"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2139"/>
+      <location filename="src/dbg/debugger.cpp" line="2150"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2141"/>
+      <location filename="src/dbg/debugger.cpp" line="2152"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2152"/>
+      <location filename="src/dbg/debugger.cpp" line="2163"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2154"/>
+      <location filename="src/dbg/debugger.cpp" line="2165"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2212"/>
+      <location filename="src/dbg/debugger.cpp" line="2223"/>
       <source>Attached to process!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2777"/>
+      <location filename="src/dbg/debugger.cpp" line="2788"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2826"/>
+      <location filename="src/dbg/debugger.cpp" line="2837"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2860"/>
+      <location filename="src/dbg/debugger.cpp" line="2871"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2861"/>
+      <location filename="src/dbg/debugger.cpp" line="2872"/>
       <source>Elevation</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2877"/>
+      <location filename="src/dbg/debugger.cpp" line="2888"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2969"/>
+      <location filename="src/dbg/debugger.cpp" line="2980"/>
       <source>Attach to process failed: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3007"/>
+      <location filename="src/dbg/debugger.cpp" line="3018"/>
       <source>Debugging stopped!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3059"/>
+      <location filename="src/dbg/debugger.cpp" line="3070"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10614,310 +10642,310 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="519"/>
+      <location filename="src/dbg/x64dbg.cpp" line="520"/>
       <source>command cut at ~%d characters
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="565"/>
+      <location filename="src/dbg/x64dbg.cpp" line="566"/>
       <source>[Script DLL] Calling export "AsyncStart"...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="567"/>
+      <location filename="src/dbg/x64dbg.cpp" line="568"/>
       <source>[Script DLL] "AsyncStart" returned!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="569"/>
-      <location filename="src/dbg/x64dbg.cpp" line="615"/>
+      <location filename="src/dbg/x64dbg.cpp" line="570"/>
+      <location filename="src/dbg/x64dbg.cpp" line="616"/>
       <source>[Script DLL] Calling FreeLibrary...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="571"/>
-      <location filename="src/dbg/x64dbg.cpp" line="617"/>
+      <location filename="src/dbg/x64dbg.cpp" line="572"/>
+      <location filename="src/dbg/x64dbg.cpp" line="618"/>
       <source>success!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="575"/>
-      <location filename="src/dbg/x64dbg.cpp" line="621"/>
+      <location filename="src/dbg/x64dbg.cpp" line="576"/>
+      <location filename="src/dbg/x64dbg.cpp" line="622"/>
       <source>failure (%s)...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="587"/>
+      <location filename="src/dbg/x64dbg.cpp" line="588"/>
       <source>[Script DLL] Loading Script DLL "%s"...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="592"/>
+      <location filename="src/dbg/x64dbg.cpp" line="593"/>
       <source>[Script DLL] DLL loaded on 0x%p!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="597"/>
+      <location filename="src/dbg/x64dbg.cpp" line="598"/>
       <source>[Script DLL] Creating thread to call the export "AsyncStart"...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="605"/>
+      <location filename="src/dbg/x64dbg.cpp" line="606"/>
       <source>[Script DLL] Calling export "Start"...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="607"/>
+      <location filename="src/dbg/x64dbg.cpp" line="608"/>
       <source>[Script DLL] "Start" returned!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="612"/>
+      <location filename="src/dbg/x64dbg.cpp" line="613"/>
       <source>[Script DLL] Failed to find the exports "AsyncStart" or "Start" (%s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="628"/>
+      <location filename="src/dbg/x64dbg.cpp" line="629"/>
       <source>[Script DLL] LoadLibary failed (%s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="644"/>
+      <location filename="src/dbg/x64dbg.cpp" line="645"/>
       <source>Retrieving syscall indices...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="646"/>
+      <location filename="src/dbg/x64dbg.cpp" line="647"/>
       <source>Syscall indices loaded!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="648"/>
+      <location filename="src/dbg/x64dbg.cpp" line="649"/>
       <source>Failed to load syscall indices...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="653"/>
+      <location filename="src/dbg/x64dbg.cpp" line="654"/>
       <source>Error codes database loaded!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="655"/>
+      <location filename="src/dbg/x64dbg.cpp" line="656"/>
       <source>Failed to load error codes...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="659"/>
+      <location filename="src/dbg/x64dbg.cpp" line="660"/>
       <source>Exception codes database loaded!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="661"/>
+      <location filename="src/dbg/x64dbg.cpp" line="662"/>
       <source>Failed to load exception codes...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="665"/>
+      <location filename="src/dbg/x64dbg.cpp" line="666"/>
       <source>NTSTATUS codes database loaded!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="667"/>
+      <location filename="src/dbg/x64dbg.cpp" line="668"/>
       <source>Failed to load NTSTATUS codes...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="671"/>
+      <location filename="src/dbg/x64dbg.cpp" line="672"/>
       <source>Windows constant database loaded!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="673"/>
+      <location filename="src/dbg/x64dbg.cpp" line="674"/>
       <source>Failed to load Windows constants...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="676"/>
+      <location filename="src/dbg/x64dbg.cpp" line="677"/>
       <source>Reading notes file...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="682"/>
+      <location filename="src/dbg/x64dbg.cpp" line="683"/>
       <source>Reading notes failed...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="684"/>
+      <location filename="src/dbg/x64dbg.cpp" line="685"/>
       <source>File read thread finished!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="834"/>
+      <location filename="src/dbg/x64dbg.cpp" line="835"/>
       <source>Initializing wait objects...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="837"/>
+      <location filename="src/dbg/x64dbg.cpp" line="838"/>
       <source>Initializing debugger...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="839"/>
+      <location filename="src/dbg/x64dbg.cpp" line="840"/>
       <source>Initializing debugger functions...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="842"/>
+      <location filename="src/dbg/x64dbg.cpp" line="843"/>
       <source>Setting JSON memory management functions...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="845"/>
+      <location filename="src/dbg/x64dbg.cpp" line="846"/>
       <source>Getting directory information...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="879"/>
+      <location filename="src/dbg/x64dbg.cpp" line="880"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="886"/>
+      <location filename="src/dbg/x64dbg.cpp" line="887"/>
       <source>Symbol Path: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <location filename="src/dbg/x64dbg.cpp" line="889"/>
       <source>Start file read thread...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="900"/>
+      <location filename="src/dbg/x64dbg.cpp" line="901"/>
       <source>Allocating message stack...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="904"/>
+      <location filename="src/dbg/x64dbg.cpp" line="905"/>
       <source>Initializing global script variables...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="906"/>
+      <location filename="src/dbg/x64dbg.cpp" line="907"/>
       <source>Registering debugger commands...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="908"/>
+      <location filename="src/dbg/x64dbg.cpp" line="909"/>
       <source>Registering GUI command handler...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="910"/>
+      <location filename="src/dbg/x64dbg.cpp" line="911"/>
       <source>Registering expression functions...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="912"/>
+      <location filename="src/dbg/x64dbg.cpp" line="913"/>
       <source>Registering format functions...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="914"/>
+      <location filename="src/dbg/x64dbg.cpp" line="915"/>
       <source>Default</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="923"/>
+      <location filename="src/dbg/x64dbg.cpp" line="924"/>
       <source>Registering Script DLL command handler...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="924"/>
+      <location filename="src/dbg/x64dbg.cpp" line="925"/>
       <source>Script DLL</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="927"/>
+      <location filename="src/dbg/x64dbg.cpp" line="928"/>
       <source>Starting command loop...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="934"/>
+      <location filename="src/dbg/x64dbg.cpp" line="935"/>
       <source>Initialization successful!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="936"/>
+      <location filename="src/dbg/x64dbg.cpp" line="937"/>
       <source>Loading plugins...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="938"/>
+      <location filename="src/dbg/x64dbg.cpp" line="939"/>
       <source>Handling command line...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="949"/>
+      <location filename="src/dbg/x64dbg.cpp" line="950"/>
       <source>Stopping command thread...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="953"/>
+      <location filename="src/dbg/x64dbg.cpp" line="954"/>
       <source>Stopping running debuggee...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="955"/>
+      <location filename="src/dbg/x64dbg.cpp" line="956"/>
       <source>Aborting scripts...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="957"/>
+      <location filename="src/dbg/x64dbg.cpp" line="958"/>
       <source>Unloading plugins...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="959"/>
+      <location filename="src/dbg/x64dbg.cpp" line="960"/>
       <source>Cleaning up allocated data...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="962"/>
+      <location filename="src/dbg/x64dbg.cpp" line="963"/>
       <source>Cleaning up wait objects...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="965"/>
+      <location filename="src/dbg/x64dbg.cpp" line="966"/>
       <source>Cleaning up debugger threads...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="967"/>
+      <location filename="src/dbg/x64dbg.cpp" line="968"/>
       <source>Saving notes...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="977"/>
+      <location filename="src/dbg/x64dbg.cpp" line="978"/>
       <source>Exit signal processed successfully!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1195"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1201"/>
       <source>%1 occurrence(s) in %2ms
 </source>
       <translation type="unfinished"/>
@@ -12191,7 +12219,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="277"/>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="72"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="73"/>
       <source>String</source>
       <translation>Chaîne</translation>
     </message>
@@ -12236,138 +12264,149 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="501"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="481"/>
+      <source>When enabled, the search starts at the current selection; when disabled, it starts at the beginning of the range.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="523"/>
       <source>&amp;OK</source>
       <translation>&amp;OK</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="514"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="536"/>
       <source>&amp;Cancel</source>
       <translation>&amp;Annuler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="55"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="56"/>
       <source>C-Style BYTE (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="56"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="57"/>
       <source>C-Style WORD (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="57"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="58"/>
       <source>C-Style DWORD (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="58"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="59"/>
       <source>C-Style QWORD (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="59"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="60"/>
       <source>C-Style String</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="60"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="61"/>
       <source>C-Style Unicode String</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="61"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="62"/>
       <source>C-Style Shellcode String</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="62"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="63"/>
       <source>ASM-Style BYTE (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="63"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="64"/>
       <source>ASM-Style WORD (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="64"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="65"/>
       <source>ASM-Style DWORD (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="65"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="66"/>
       <source>ASM-Style QWORD (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="66"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="67"/>
       <source>ASM-Style String</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="67"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="68"/>
       <source>Pascal BYTE (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="68"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="69"/>
       <source>Pascal WORD (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="69"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="70"/>
       <source>Pascal DWORD (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="70"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="71"/>
       <source>Pascal QWORD (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="71"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="72"/>
       <source>Python 3 BYTE (Hex)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="73"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="74"/>
       <source>Unicode String</source>
       <translation>Chaîne Unicode</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="74"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="75"/>
       <source>UTF8 String</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="75"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="76"/>
       <source>UCS4 String</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="76"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="77"/>
       <source>Hex Stream</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="77"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="78"/>
       <source>GUID</source>
       <translation>GUID</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="78"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="79"/>
       <source>IP Address (IPv4)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="79"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="80"/>
       <source>IP Address (IPv6)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="80"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="81"/>
       <source>Base64</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="123"/>
+      <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="124"/>
+      <source>Search range: %1 - %2</source>
       <translation type="unfinished"/>
     </message>
   </context>
@@ -14463,8 +14502,8 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="663"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="671"/>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="720"/>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="772"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="739"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="791"/>
       <source>Error</source>
       <translation>Erreur</translation>
     </message>
@@ -14479,53 +14518,53 @@ Make sure to fill in as much information as possible.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="680"/>
       <source>Find Pattern...</source>
       <translation>&amp;Rechercher patron...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="720"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="739"/>
       <source>Dumping non-consecutive memory ranges is not supported!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="730"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="749"/>
       <source>Save Memory Region</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="730"/>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="746"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="749"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="765"/>
       <source>Binary files (*.bin);;All files (*.*)</source>
       <translation>Fichiers binaires (*.bin);;Tous les fichiers (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="746"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="765"/>
       <source>Load Memory Region</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="772"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="791"/>
       <source>Address %0 not found in memory map...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="784"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="803"/>
       <source>Enter the address to find...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="882"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="901"/>
       <source>Add comment at </source>
       <translation>Ajouter un commentaire à l'adresse </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="886"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="905"/>
       <source>Error!</source>
       <translation>Erreur!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="886"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="905"/>
       <source>DbgSetCommentAt failed!</source>
       <translation>DbgSetCommentAt a échoué !</translation>
     </message>
@@ -16709,6 +16748,26 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>Texte du &amp;Journal :</translation>
     </message>
     <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="184"/>
+      <source>Module &amp;Filter</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="190"/>
+      <source>&amp;None</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="200"/>
+      <source>&amp;User</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="207"/>
+      <source>&amp;System</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="19"/>
       <source>Example: %1 (numbers are hex by default)</source>
       <translation type="unfinished"/>
@@ -16723,7 +16782,7 @@ The TEB can be used to get a lot of information on the process without calling W
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="46"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="97"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="110"/>
       <source>Trace log file</source>
       <translation type="unfinished"/>
     </message>
@@ -16737,7 +16796,8 @@ The TEB can be used to get a lot of information on the process without calling W
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="68"/>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="75"/>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="80"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="87"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="93"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="100"/>
       <source>Error</source>
       <translation>Erreur</translation>
     </message>
@@ -16762,22 +16822,27 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="87"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="93"/>
+      <source>Failed to set module filter!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="100"/>
       <source>Failed to start trace!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="98"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="111"/>
       <source>Enter the path to the log file.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="99"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="112"/>
       <source>Log Files (*.txt *.log);;All Files (*.*)</source>
       <translation>Fichiers DLL (*.dll);;Tous les fichiers (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="115"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="128"/>
       <source>Trace recording already started</source>
       <translation type="unfinished"/>
     </message>
@@ -18037,22 +18102,22 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>Tous les fichiers (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1186"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1192"/>
       <source>Find Pattern...</source>
       <translation>&amp;Rechercher patron...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1209"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1215"/>
       <source>Error!</source>
       <translation>Erreur!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1209"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1215"/>
       <source>Selection not in a file...</source>
       <translation>La sélection n'est pas dans un fichier...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1216"/>
+      <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1222"/>
       <source>Dump</source>
       <translation>Vue Hexa</translation>
     </message>
