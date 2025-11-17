@@ -8846,7 +8846,8 @@
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="74"/>
       <source>Unsupported party filter: %d
 </source>
-      <translation type="unfinished"/>
+      <translation>サポートされていないモジュール種別フィルター： %d
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="144"/>
@@ -8858,23 +8859,24 @@
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="214"/>
       <source>Step filter set to: none</source>
-      <translation type="unfinished"/>
+      <translation>ステップフィルターの設定：なし</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="219"/>
       <source>Step filter set to: user</source>
-      <translation type="unfinished"/>
+      <translation>ステップフィルターの設定：ユーザー</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="224"/>
       <source>Step filter set to: system</source>
-      <translation type="unfinished"/>
+      <translation>ステップフィルターの設定：システム</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="228"/>
       <source>Invalid step filter "%s", valid options are: none, user, system
 </source>
-      <translation type="unfinished"/>
+      <translation>無効なステップフィルター："%s", 有効なオプションは、なし,ユーザー,システムです
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-types.cpp" line="26"/>
@@ -12526,7 +12528,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="481"/>
       <source>When enabled, the search starts at the current selection; when disabled, it starts at the beginning of the range.</source>
-      <translation type="unfinished"/>
+      <translation>有効にすると、検索は現在の選択範囲から開始され、無効にすると、範囲の先頭から開始されます。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="523"/>
@@ -12667,7 +12669,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="123"/>
       <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="124"/>
       <source>Search range: %1 - %2</source>
-      <translation type="unfinished"/>
+      <translation>検索範囲： %1 - %2</translation>
     </message>
   </context>
   <context>
@@ -17030,22 +17032,22 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="184"/>
       <source>Module &amp;Filter</source>
-      <translation type="unfinished"/>
+      <translation>モジュール フィルター[&amp;F]</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="190"/>
       <source>&amp;None</source>
-      <translation type="unfinished"/>
+      <translation>なし[&amp;N]</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="200"/>
       <source>&amp;User</source>
-      <translation type="unfinished"/>
+      <translation>ユーザー[&amp;U]</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="207"/>
       <source>&amp;System</source>
-      <translation type="unfinished"/>
+      <translation>システム[&amp;S]</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="19"/>
@@ -17104,7 +17106,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="93"/>
       <source>Failed to set module filter!</source>
-      <translation type="unfinished"/>
+      <translation>モジュール フィルターの設定に失敗しました！</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="100"/>

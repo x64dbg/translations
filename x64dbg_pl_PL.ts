@@ -2095,7 +2095,7 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="650"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="664"/>
       <source>C&amp;ommand</source>
-      <translation type="unfinished"/>
+      <translation>Komenda</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="593"/>
@@ -14225,7 +14225,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
       <source>New language setting will take effect upon restart.</source>
-      <translation>Noe ustawienia językowe zaczną obowiązywać po ponownym uruchomieniu programu.</translation>
+      <translation>Nowe ustawienia języka zaczną obowiązywać po ponownym uruchomieniu programu.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2684"/>
