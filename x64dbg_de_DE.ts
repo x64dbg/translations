@@ -4417,7 +4417,6 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
@@ -4425,8 +4424,8 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
@@ -4434,6 +4433,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Graph</source>
       <translation>Diagramm</translation>
     </message>
@@ -5016,12 +5016,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
@@ -5171,12 +5172,13 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Actions</source>
       <translation>Aktionen</translation>
     </message>
@@ -5815,309 +5817,315 @@
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
-      <source>Load Script</source>
-      <translation>Skript laden</translation>
+      <source>Copy Disassembly</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
-      <source>Reload Script</source>
-      <translation>Skript neu laden</translation>
+      <source>Load Script</source>
+      <translation>Skript laden</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
-      <source>Unload Script</source>
-      <translation>Skript entladen</translation>
+      <source>Reload Script</source>
+      <translation>Skript neu laden</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
-      <source>Edit Script</source>
-      <translation>Skript bearbeiten</translation>
+      <source>Unload Script</source>
+      <translation>Skript entladen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
-      <source>Run Script</source>
-      <translation>Skript ausführen</translation>
+      <source>Edit Script</source>
+      <translation>Skript bearbeiten</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
-      <source>Toggle Script Breakpoint</source>
-      <translation>Skript-Haltepunkt umschalten</translation>
+      <source>Run Script</source>
+      <translation>Skript ausführen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
-      <source>Run Script to Cursor</source>
-      <translation>Skript bis Cursor ausführen</translation>
+      <source>Toggle Script Breakpoint</source>
+      <translation>Skript-Haltepunkt umschalten</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
-      <source>Step Script</source>
-      <translation>Skript schrittweise ausführen</translation>
+      <source>Run Script to Cursor</source>
+      <translation>Skript bis Cursor ausführen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
-      <source>Abort Script</source>
-      <translation>Skript abbrechen</translation>
+      <source>Step Script</source>
+      <translation>Skript schrittweise ausführen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
-      <source>Execute Script Command</source>
-      <translation>Skriptbefehl ausführen</translation>
+      <source>Abort Script</source>
+      <translation>Skript abbrechen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
+      <source>Execute Script Command</source>
+      <translation>Skriptbefehl ausführen</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
       <source>Refresh</source>
       <translation>Aktualisieren</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <source>Zoom to cursor</source>
       <translation>Zoom zum Cursor</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
       <source>Fit To Window</source>
       <translation>An Fenstergröße anpassen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>Follow in disassembler</source>
       <translation>Inspiziere im Disassembler</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Save as image</source>
       <translation>Als Bild speichern</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Toggle overview</source>
       <translation>Übersicht umschalten</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Toggle summary</source>
       <translation>Zusammenfassung umschalten</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <source>Toggle sync with EIP/RIP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Increment x87 Stack</source>
       <translation>x87 Stapel inkrementieren</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Decrement x87 Stack</source>
       <translation>x87 Stapel dekrementieren</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Redirect Log</source>
       <translation>Protokoll umleiten</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Browse in Explorer</source>
       <translation>Im Explorer anzeigen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Download Symbols for This Module</source>
       <translation>Symbole für dieses Modul herunterladen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <source>Download Symbols for All Modules</source>
       <translation>Symbole für alle Module herunterladen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Create New Thread Here</source>
       <translation>Erstelle einen neuen Thread hier</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Open Source File</source>
       <translation>Quelldatei öffnen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Follow in Memory Map</source>
       <translation>Inspiziere Speicherbereich</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Follow in Stack</source>
       <translation>Inspiziere im Stapel</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Follow in Disassembler</source>
       <translation>Inspiziere im Disassembler</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation>DWORD/QWORD im Disassembler folgen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation>DWORD/QWORD im Dump folgen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Freeze the stack</source>
       <translation>Stapel einfrieren</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Go to Base of Stack Frame</source>
       <translation>Gehe zur Basis des Stack-Rahmens</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Go to Previous Stack Frame</source>
       <translation>Gehe zu vorherigen Stapel Rahmen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Go to Next Stack Frame</source>
       <translation>Gehe zu nächsten Stapel Rahmen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Go to Previous Reference</source>
       <translation>Gehe zu vorheriger Referenz</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Go to Next Reference</source>
       <translation>Gehe zu nächster Referenz</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Modify value</source>
       <translation>Wert ändern</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Watch DWORD/QWORD</source>
       <translation>DWORD/QWORD beobachten</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Copy File Offset</source>
       <translation>Datei-Offset kopieren</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Start/Stop trace recording</source>
       <translation>Trace-Aufnahme starten/stoppen</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>Kopieren -&gt; Zugeschnittene Tabelle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Copy -&gt; Table</source>
       <translation>Kopieren-&gt; Tabelle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>Kopieren -&gt; Zeile, zum Log</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>Kopieren -&gt; Zugeschnittene Tabelle, ins Log</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>Kopieren-&gt; Tabelle, zum Log</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Copy -&gt; Export Table</source>
       <translation>Kopieren-&gt; Tabelle exportieren</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="869"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="885"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="894"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="913"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="922"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="937"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="946"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="965"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="974"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="988"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1002"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1020"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="794"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="810"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="819"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="838"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="847"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="862"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="871"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="890"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="899"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="915"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="929"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="947"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="870"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="886"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="895"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="914"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="923"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="938"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="947"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="966"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="975"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="989"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1003"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1021"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="795"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="811"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="820"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="839"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="848"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="863"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="872"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="891"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="900"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="916"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="930"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="948"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>NICHT IN CONFIG GEFUNDEN!</translation>
     </message>
@@ -6148,12 +6156,12 @@
       <translation>ZMMWord</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Copy image</source>
       <translation>Bild kopieren</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Display type</source>
       <translation>Anzeigetyp</translation>
     </message>
@@ -6299,14 +6307,14 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="565"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="568"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>Die Trace-Aufzeichnungsdatei kann nicht erstellt werden. GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="576"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="579"/>
       <source>Trace recording stopped.</source>
       <translation>Trace-Aufnahme gestoppt.</translation>
     </message>
