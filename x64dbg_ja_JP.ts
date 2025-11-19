@@ -11,7 +11,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="95"/>
       <source>Website:</source>
-      <translation>ウェブサイト：</translation>
+      <translation>ウェブサイト :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="120"/>
@@ -21,12 +21,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="155"/>
       <source>Version:</source>
-      <translation>バージョン：</translation>
+      <translation>バージョン :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="209"/>
       <source>Icons:</source>
-      <translation>アイコン：</translation>
+      <translation>アイコン :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AboutDialog.ui" line="234"/>
@@ -64,12 +64,12 @@
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="17"/>
       <source>Cropped &amp;Table</source>
-      <translation>クロップされたテーブル (&amp;T)</translation>
+      <translation>切り取られたテーブル(&amp;T)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="18"/>
       <source>&amp;Full Table</source>
-      <translation>テーブル全体 (&amp;F)</translation>
+      <translation>テーブル全体(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="19"/>
@@ -79,7 +79,7 @@
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="20"/>
       <source>Cropped Table, To Log</source>
-      <translation>クロップされたテーブルをログへ</translation>
+      <translation>切り取られたテーブルをログへ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="21"/>
@@ -89,7 +89,7 @@
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="22"/>
       <source>&amp;Export Table</source>
-      <translation>テーブルのエクスポート (&amp;E)</translation>
+      <translation>テーブルのエクスポート(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1021"/>
@@ -168,7 +168,7 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="648"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="451"/>
       <source>General Tables:</source>
-      <translation>テーブル全般:</translation>
+      <translation>テーブル全般 :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="678"/>
@@ -350,42 +350,42 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="787"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="459"/>
       <source>Disassembly:</source>
-      <translation>逆アセンブル：</translation>
+      <translation>逆アセンブル :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="926"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="550"/>
       <source>HexDump:</source>
-      <translation>16進ダンプ：</translation>
+      <translation>16進ダンプ :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1065"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="570"/>
       <source>Stack:</source>
-      <translation>スタック：</translation>
+      <translation>スタック :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1204"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="502"/>
       <source>Registers:</source>
-      <translation>レジスタ：</translation>
+      <translation>レジスタ :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1343"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="585"/>
       <source>HexEdit:</source>
-      <translation>バイナリエディタ：</translation>
+      <translation>バイナリエディタ :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1482"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="605"/>
       <source>Log:</source>
-      <translation>ログ：</translation>
+      <translation>ログ :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1621"/>
       <source>&amp;Application Font*</source>
-      <translation>アプリケーションのフォント (&amp;A)*</translation>
+      <translation>アプリケーションのフォント(&amp;A)*</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1634"/>
@@ -395,7 +395,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1647"/>
       <source>&amp;Defaults</source>
-      <translation>既定 (&amp;D)</translation>
+      <translation>既定(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1680"/>
@@ -410,7 +410,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1721"/>
       <source>&amp;Cancel</source>
-      <translation>キャンセル (&amp;C)</translation>
+      <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="365"/>
@@ -466,14 +466,14 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
       <source>EIP</source>
-      <translation>EIP</translation>
+      <translation>拡張命令 ポインタ(EIP)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
       <source>RIP</source>
-      <translation>RIP</translation>
+      <translation>レジスタ命令ポインタ(RIP)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="463"/>
@@ -583,7 +583,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="484"/>
       <source>SideBar:</source>
-      <translation>サイドバー：</translation>
+      <translation>サイドバー :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="486"/>
@@ -823,22 +823,22 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="547"/>
       <source>Highlighting</source>
-      <translation>ハイライト</translation>
+      <translation>強調表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="558"/>
       <source>0x00 Bytes</source>
-      <translation>0x00バイト</translation>
+      <translation>0x00 バイト</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="559"/>
       <source>0x7F Bytes</source>
-      <translation>0x7Fバイト</translation>
+      <translation>0x7F バイト</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="560"/>
       <source>0xFF Bytes</source>
-      <translation>0xFFバイト</translation>
+      <translation>0xFF バイト</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="561"/>
@@ -848,42 +848,42 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="562"/>
       <source>User Code Pointer Highlight Color</source>
-      <translation>ユーザ ーコードポインタのハイライトカラー</translation>
+      <translation>ユーザ ーコード ポインタの強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="563"/>
       <source>User Data Pointer Highlight Color</source>
-      <translation>ユーザーデータポインタのハイライトカラー</translation>
+      <translation>ユーザーデータ ポインタの強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="564"/>
       <source>System Code Pointer Highlight Color</source>
-      <translation>システムコードポインタのハイライトカラー</translation>
+      <translation>システムコード ポインタの強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="565"/>
       <source>System Data Pointer Highlight Color</source>
-      <translation>システムデータポインタのハイライトカラー</translation>
+      <translation>システムデータ ポインタの強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="566"/>
       <source>Unknown Code Pointer Highlight Color</source>
-      <translation>不明なコードポインタのハイライトカラー</translation>
+      <translation>不明なコード ポインタの強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="567"/>
       <source>Unknown Data Pointer Highlight Color</source>
-      <translation>不明なデータポインタのハイライトカラー</translation>
+      <translation>不明なデータ ポインタの強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
       <source>ESP</source>
-      <translation>ESP</translation>
+      <translation>拡張スタック ポインタ(ESP)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
       <source>RSP</source>
-      <translation>RSP</translation>
+      <translation>レジスタ スタック ポインタ(RSP)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
@@ -918,7 +918,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="592"/>
       <source>Graph:</source>
-      <translation>グラフ：</translation>
+      <translation>グラフ :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
@@ -978,7 +978,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="609"/>
       <source>Other:</source>
-      <translation>その他：</translation>
+      <translation>その他 :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="610"/>
@@ -988,7 +988,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="611"/>
       <source>Search Highlight Color</source>
-      <translation>検索結果のハイライトカラー</translation>
+      <translation>検索結果の強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="612"/>
@@ -1013,7 +1013,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
       <source>Memory Map %1</source>
-      <translation>メモリマップ%1</translation>
+      <translation>メモリマップ  %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
@@ -1088,7 +1088,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="656"/>
       <source>&amp;Default Value</source>
-      <translation>既定値 (&amp;D)</translation>
+      <translation>既定値(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="659"/>
@@ -1176,7 +1176,7 @@
       <location filename="src/gui/Src/Gui/AssembleDialog.cpp" line="158"/>
       <location filename="src/gui/Src/Gui/AssembleDialog.cpp" line="166"/>
       <source>&lt;br&gt;Bytes: %1</source>
-      <translation>&lt;br&gt;バイト：%1</translation>
+      <translation>&lt;br&gt;バイト : %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AssembleDialog.cpp" line="148"/>
@@ -1222,12 +1222,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="116"/>
       <source>&amp;Attach</source>
-      <translation>アタッチ (&amp;A)</translation>
+      <translation>アタッチ(&amp;A)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="135"/>
       <source>&amp;Cancel</source>
-      <translation>キャンセル (&amp;C)</translation>
+      <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="36"/>
@@ -1328,7 +1328,7 @@
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="64"/>
       <source>&amp;Remove</source>
-      <translation>削除 (&amp;R)</translation>
+      <translation>削除(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="65"/>
@@ -1435,7 +1435,7 @@
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="394"/>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="422"/>
       <source>access</source>
-      <translation>アクセス</translation>
+      <translation>access</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="401"/>
@@ -1530,7 +1530,7 @@
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
       <source>Example: mydll.dll</source>
-      <translation>例：mydll.dll</translation>
+      <translation>例 : mydll.dll</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
@@ -1540,7 +1540,7 @@
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
       <source>Example: EXCEPTION_ACCESS_VIOLATION</source>
-      <translation>例：EXCEPTION_ACCESS_VIOLATION</translation>
+      <translation>例 : EXCEPTION_ACCESS_VIOLATION</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.h" line="97"/>
@@ -1599,22 +1599,22 @@
     <message>
       <location filename="src/gui/Src/Gui/BrowseDialog.ui" line="29"/>
       <source>Path:</source>
-      <translation>パス：</translation>
+      <translation>パス :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BrowseDialog.ui" line="42"/>
       <source>&amp;Browse...</source>
-      <translation>参照 (&amp;B)...</translation>
+      <translation>参照(&amp;B)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BrowseDialog.ui" line="66"/>
       <source>&amp;OK</source>
-      <translation>OK (&amp;O)</translation>
+      <translation>OK(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BrowseDialog.ui" line="76"/>
       <source>&amp;Cancel</source>
-      <translation>キャンセル (&amp;C)</translation>
+      <translation>キャンセル(&amp;C)</translation>
     </message>
   </context>
   <context>
@@ -1720,27 +1720,27 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="164"/>
       <source>&amp;Selected Address</source>
-      <translation>選択したアドレス (&amp;S)</translation>
+      <translation>選択したアドレス(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="189"/>
       <source>&amp;Address: </source>
-      <translation>アドレス (&amp;A)： </translation>
+      <translation>アドレス(&amp;A) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="192"/>
       <source>&amp;Constant: </source>
-      <translation>定数(&amp;C)： </translation>
+      <translation>定数(&amp;C) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="195"/>
       <source>&amp;Value: </source>
-      <translation>値(&amp;V)： </translation>
+      <translation>値(&amp;V) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="209"/>
       <source>Jump table%1: </source>
-      <translation>テーブル%1へジャンプ：  </translation>
+      <translation>テーブル %1 へジャンプ : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="238"/>
@@ -1750,22 +1750,22 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="240"/>
       <source>Constant: </source>
-      <translation>定数： </translation>
+      <translation>定数 : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="278"/>
       <source>&amp;Edit</source>
-      <translation>編集 (&amp;E)</translation>
+      <translation>編集(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="279"/>
       <source>&amp;Fill...</source>
-      <translation>埋め込み (&amp;F)...</translation>
+      <translation>埋め込み(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="280"/>
       <source>Fill with &amp;NOPs</source>
-      <translation>NOPで埋め込み (&amp;N)</translation>
+      <translation>NOP で埋め込み(&amp;N)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="282"/>
@@ -1776,42 +1776,42 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="283"/>
       <source>&amp;Paste</source>
-      <translation>貼り付け (&amp;P)</translation>
+      <translation>貼り付け(&amp;P)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="287"/>
       <source>Paste (&amp;Ignore Size)</source>
-      <translation>サイズを無視して貼り付け (&amp;I)</translation>
+      <translation>貼り付け(サイズを無視)(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="291"/>
       <source>&amp;Binary</source>
-      <translation>バイナリ (&amp;B)</translation>
+      <translation>バイナリ(&amp;B)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="294"/>
       <source>&amp;Selection</source>
-      <translation>選択範囲 (&amp;S)</translation>
+      <translation>選択範囲(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="295"/>
       <source>Selection to &amp;File</source>
-      <translation>選択範囲をファイルへ (&amp;F)</translation>
+      <translation>選択範囲をファイルへ(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="296"/>
       <source>Selection (Bytes only)</source>
-      <translation>選択範囲 (バイトコードのみ)</translation>
+      <translation>選択範囲 (バイトのみ)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="297"/>
       <source>Selection (&amp;No Bytes)</source>
-      <translation>選択範囲 (バイトコードなし) (&amp;N)</translation>
+      <translation>選択範囲(バイトなし)(&amp;N)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="298"/>
       <source>Selection to File (No Bytes)</source>
-      <translation>選択範囲をファイルへ (バイトコードなし)</translation>
+      <translation>選択範囲をファイルへ (バイトなし)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="299"/>
@@ -1821,17 +1821,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="300"/>
       <source>&amp;RVA</source>
-      <translation>RVA (&amp;R)</translation>
+      <translation>相対仮想アドレス(RVA)(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="301"/>
       <source>&amp;File Offset</source>
-      <translation>ファイル オフセット (&amp;F)</translation>
+      <translation>ファイル オフセット(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="302"/>
       <source>&amp;Header VA</source>
-      <translation>ヘッダ 仮想アドレス (&amp;H)</translation>
+      <translation>ヘッダ 仮想アドレス(&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="303"/>
@@ -1842,7 +1842,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="316"/>
       <source>&amp;Restore selection</source>
-      <translation>選択範囲を復元( &amp;R)</translation>
+      <translation>選択範囲を復元(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="329"/>
@@ -1873,12 +1873,12 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="358"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="364"/>
       <source>Show mnemonic brief</source>
-      <translation>ニーモニック概要を表示</translation>
+      <translation>ニーモニックの概要を表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="362"/>
       <source>Hide mnemonic brief</source>
-      <translation>ニーモニック概要を非表示</translation>
+      <translation>ニーモニックの概要を非表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="368"/>
@@ -1931,7 +1931,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
       <source>Trace coverage</source>
-      <translation>トレースカバレッジ</translation>
+      <translation>トレース カバレッジ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="415"/>
@@ -2096,7 +2096,7 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="650"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="664"/>
       <source>C&amp;ommand</source>
-      <translation>コマンド (&amp;O)</translation>
+      <translation>コマンド(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="593"/>
@@ -2106,7 +2106,7 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="651"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="665"/>
       <source>&amp;Constant</source>
-      <translation>定数 (&amp;C)</translation>
+      <translation>定数(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="594"/>
@@ -2116,7 +2116,7 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="652"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="666"/>
       <source>&amp;String references</source>
-      <translation>文字列参照 (&amp;S)</translation>
+      <translation>文字列参照(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="595"/>
@@ -2126,7 +2126,7 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="653"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="667"/>
       <source>&amp;Intermodular calls</source>
-      <translation>モジュール間呼び出し (&amp;I)</translation>
+      <translation>モジュール間呼び出し(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="596"/>
@@ -2171,12 +2171,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="681"/>
       <source>All User Modules</source>
-      <translation>すべてのユーザーモジュール</translation>
+      <translation>すべてのユーザー モジュール</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="682"/>
       <source>All System Modules</source>
-      <translation>すべてのシステムモジュール</translation>
+      <translation>すべてのシステム モジュール</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="683"/>
@@ -2191,12 +2191,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="686"/>
       <source>&amp;Selected Address(es)</source>
-      <translation>選択されたアドレス (&amp;S)</translation>
+      <translation>選択されたアドレス(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="688"/>
       <source>Find &amp;references to</source>
-      <translation>参照を検索 (&amp;R)</translation>
+      <translation>参照を検索(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="715"/>
@@ -2236,18 +2236,18 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1736"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
       <source>Error!</source>
-      <translation>エラー！</translation>
+      <translation>エラー!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="762"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="808"/>
       <source>DbgSetLabelAt failed!</source>
-      <translation>DbgSetLabelAt失敗！</translation>
+      <translation>DbgSetLabelAt 失敗!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="921"/>
       <source>Assemble at %1</source>
-      <translation>%1をアセンブル</translation>
+      <translation>%1 をアセンブル</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="942"/>
@@ -2299,7 +2299,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1515"/>
       <source>Text Files (*.txt)</source>
-      <translation>テキスト ファイル (*.txt)</translation>
+      <translation>テキスト ファイル(*.txt)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
@@ -2338,14 +2338,14 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1976"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
-      <translation>ページ%1のトレースカバレッジを有効にできませんでした。
+      <translation>ページ %1 のトレースカバレッジを有効にできませんでした。
 </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1993"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
-      <translation>ページ%1のトレースカバレッジを無効にできませんでした。
+      <translation>ページ %1 のトレースカバレッジを無効にできませんでした。
 </translation>
     </message>
   </context>
@@ -2354,12 +2354,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="50"/>
       <source>&amp;Edit</source>
-      <translation>編集 (&amp;E)</translation>
+      <translation>編集(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="51"/>
       <source>&amp;Fill...</source>
-      <translation>埋め込み (&amp;F)...</translation>
+      <translation>埋め込み(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="53"/>
@@ -2370,81 +2370,81 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="54"/>
       <source>&amp;Paste</source>
-      <translation>貼り付け (&amp;P)</translation>
+      <translation>貼り付け(&amp;P)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="58"/>
       <source>Paste (&amp;Ignore Size)</source>
-      <translation>サイズを無視して貼り付け (&amp;I)</translation>
+      <translation>貼り付け(サイズを無視)(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="62"/>
       <source>Save To a File</source>
-      <translation>ファイルに保存</translation>
+      <translation>ファイルへ保存</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="63"/>
       <source>B&amp;inary</source>
-      <translation>バイナリ (&amp;i)</translation>
+      <translation>バイナリ(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="72"/>
       <source>&amp;File Offset</source>
-      <translation>ファイルオフセット (&amp;F)</translation>
+      <translation>ファイル オフセット(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="79"/>
       <source>&amp;Restore selection</source>
-      <translation>選択範囲を復元 (&amp;R)</translation>
+      <translation>選択範囲を復元(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="87"/>
       <source>&amp;Modify Value</source>
-      <translation>値の修正 (&amp;M)</translation>
+      <translation>値の修正(&amp;M)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="118"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="124"/>
       <source>&amp;Byte</source>
-      <translation>Byte (&amp;B)</translation>
+      <translation>Byte(&amp;B)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="119"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="125"/>
       <source>&amp;Word</source>
-      <translation>Word (&amp;W)</translation>
+      <translation>Word(&amp;W)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="120"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="126"/>
       <source>&amp;Dword</source>
-      <translation>Dword (&amp;D)</translation>
+      <translation>Dword(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="122"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="128"/>
       <source>&amp;Qword</source>
-      <translation>Qword (&amp;Q)</translation>
+      <translation>Qword(&amp;Q)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="130"/>
       <source>Hardware, &amp;Access</source>
-      <translation>ハードウェア、アクセス (&amp;A)</translation>
+      <translation>ハードウェア、アクセス(&amp;A)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="131"/>
       <source>Hardware, &amp;Write</source>
-      <translation>ハードウェア、書き込み (&amp;W)</translation>
+      <translation>ハードウェア、書き込み(&amp;W)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="132"/>
       <source>Hardware, &amp;Execute</source>
-      <translation>ハードウェア、実行 (&amp;E)</translation>
+      <translation>ハードウェア、実行(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="136"/>
       <source>Remove &amp;Hardware</source>
-      <translation>ハードウェア、削除 (&amp;H)</translation>
+      <translation>ハードウェア、削除(&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="141"/>
@@ -2452,7 +2452,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="145"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="147"/>
       <source>&amp;Singleshoot</source>
-      <translation>1回限り (&amp;S)</translation>
+      <translation>1 回限り(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="142"/>
@@ -2460,7 +2460,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="146"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="148"/>
       <source>&amp;Restore on hit</source>
-      <translation>ヒット後に復元 (&amp;R)</translation>
+      <translation>ヒット後に復元(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="149"/>
@@ -2490,22 +2490,22 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="157"/>
       <source>&amp;Breakpoint</source>
-      <translation>ブレークポイント (&amp;B)</translation>
+      <translation>ブレークポイント(&amp;B)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="159"/>
       <source>&amp;Find Pattern...</source>
-      <translation>パターンを検索 (&amp;F)...</translation>
+      <translation>パターンを検索(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="160"/>
       <source>Find &amp;References</source>
-      <translation>参照を検索 (&amp;R)</translation>
+      <translation>参照を検索(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="162"/>
       <source>&amp;Sync with expression</source>
-      <translation>式と同期させる (&amp;S)</translation>
+      <translation>式と同期させる(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="163"/>
@@ -2567,7 +2567,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="194"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="210"/>
       <source>&amp;Extended ASCII</source>
-      <translation>拡張ASCII (&amp;E)</translation>
+      <translation>拡張ASCII(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="205"/>
@@ -2578,60 +2578,60 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="206"/>
       <source>&amp;Hex</source>
-      <translation>16進数 (&amp;H)</translation>
+      <translation>16進数(&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="222"/>
       <source>&amp;Text</source>
-      <translation>テキスト (&amp;T)</translation>
+      <translation>テキスト(&amp;T)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
       <source>Signed byte (8-bit)</source>
-      <translation>Signed byte (8-bit)</translation>
+      <translation>符号付き バイト (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
       <source>Signed short (16-bit)</source>
-      <translation>Signed short (16-bit)</translation>
+      <translation>符号付き ショート (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
       <source>Signed long (32-bit)</source>
-      <translation>Signed long (32-bit)</translation>
+      <translation>符号付き ロング (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
       <source>Signed long long (64-bit)</source>
-      <translation>Signed long long (64-bit)</translation>
+      <translation>符号付き ロングロング (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
       <source>Unsigned byte (8-bit)</source>
-      <translation>Unsigned byte (8-bit)</translation>
+      <translation>符号無し バイト (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
       <source>Unsigned short (16-bit)</source>
-      <translation>Unsigned short (16-bit)</translation>
+      <translation>符号無し ショート (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
       <source>Unsigned long (32-bit)</source>
-      <translation>Unsigned long (32-bit)</translation>
+      <translation>符号無し ロング (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
       <source>Unsigned long long (64-bit)</source>
-      <translation>Unsigned long long (64-bit)</translation>
+      <translation>符号無し ロングロング (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
@@ -2642,49 +2642,49 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
       <source>Hex short (16-bit)</source>
-      <translation>16進数 short (16-bit)</translation>
+      <translation>16進数 ショート (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
       <source>Hex long (32-bit)</source>
-      <translation>16進数 long(32-bit)</translation>
+      <translation>16進数 ロング (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="236"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
       <source>Hex long long (64-bit)</source>
-      <translation>16進数 long long(64-bit)</translation>
+      <translation>16進数 ロングロング (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="237"/>
       <source>&amp;Integer</source>
-      <translation>整数 (&amp;I)</translation>
+      <translation>整数(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="240"/>
       <source>&amp;Float (32-bit)</source>
-      <translation>Float (&amp;F) (32-bit)</translation>
+      <translation>浮動小数点数(&amp;F) (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="241"/>
       <source>&amp;Double (64-bit)</source>
-      <translation>Double (&amp;D) (64-bit)</translation>
+      <translation>倍精度浮動小数点数(&amp;D) (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
       <source>&amp;Long double (80-bit)</source>
-      <translation>Long double (&amp;L) (80-bit)</translation>
+      <translation>拡張倍精度浮動小数点数(&amp;L) (80-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation>Half float 16-bit (&amp;H)</translation>
+      <translation>半精度浮動小数点数(&amp;H) (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="244"/>
       <source>&amp;Float</source>
-      <translation>Float (&amp;F)</translation>
+      <translation>浮動小数点数(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="246"/>
@@ -2705,18 +2705,18 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
       <source>System Data</source>
-      <translation>システムデータ</translation>
+      <translation>システム データ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
       <source>User Code</source>
-      <translation>ユーザーコード</translation>
+      <translation>ユーザー コード</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
       <source>User Data</source>
-      <translation>ユーザーデータ</translation>
+      <translation>ユーザー データ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
@@ -2764,7 +2764,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="533"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="550"/>
       <source>Modify value</source>
-      <translation>値を変更</translation>
+      <translation>値の修正</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
@@ -2789,7 +2789,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1541"/>
       <source>Error!</source>
-      <translation>エラー！</translation>
+      <translation>エラー!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
@@ -2827,22 +2827,22 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
       <source>Float (32-bit)</source>
-      <translation>Float (32-bit)</translation>
+      <translation>浮動小数点数 (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
       <source>Double (64-bit)</source>
-      <translation>Double (64-bit)</translation>
+      <translation>倍精度浮動小数点数 (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
       <source>Long double (80-bit)</source>
-      <translation>Long double (80-bit)</translation>
+      <translation>拡張倍精度浮動小数点数 (80-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1251"/>
       <source>Half float (16-bit)</source>
-      <translation>Half float (16-bit)</translation>
+      <translation>半精度浮動小数点数 (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
@@ -2870,7 +2870,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1425"/>
       <source>Fill data at %1</source>
-      <translation>%1のデータを埋め込み</translation>
+      <translation>%1 のデータを埋め込み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1491"/>
@@ -2985,54 +2985,54 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="638"/>
       <source>Modify Value</source>
-      <translation>値を変更</translation>
+      <translation>値の修正</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="693"/>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="757"/>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="821"/>
       <source>&amp;Address: </source>
-      <translation>アドレス (&amp;A)： </translation>
+      <translation>アドレス(&amp;A) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="698"/>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="762"/>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="826"/>
       <source>&amp;Constant: </source>
-      <translation>定数 (&amp;C)： </translation>
+      <translation>定数(&amp;C) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="701"/>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="765"/>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="829"/>
       <source>&amp;Value: </source>
-      <translation>値 (&amp;V)： </translation>
+      <translation>値(&amp;V) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="737"/>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="801"/>
       <source>&amp;Selected Address</source>
-      <translation>選択したアドレス (&amp;S)</translation>
+      <translation>選択したアドレス(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="887"/>
       <source>&amp;Follow in Dump</source>
-      <translation>ダンプ画面で追跡 (&amp;F)</translation>
+      <translation>ダンプ画面で追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="890"/>
       <source>&amp;Modify Value</source>
-      <translation>値を変更 (&amp;M)</translation>
+      <translation>値の修正(&amp;M)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="894"/>
       <source>&amp;Watch</source>
-      <translation>ウォッチ (&amp;W)</translation>
+      <translation>ウォッチ(&amp;W)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="898"/>
       <source>&amp;Show References</source>
-      <translation>参照を表示 (&amp;S)</translation>
+      <translation>参照を表示(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
@@ -3065,7 +3065,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="242"/>
       <source>Change Tab %1 Name</source>
-      <translation>タブ%1の名前を変更</translation>
+      <translation>タブ %1 の名前を変更</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUMultiDump.cpp" line="242"/>
@@ -3083,7 +3083,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="58"/>
       <source>Modify value</source>
-      <translation>値を変更</translation>
+      <translation>値の修正</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="60"/>
@@ -3133,7 +3133,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="73"/>
       <source>&amp;Remove hardware breakpoint</source>
-      <translation>ハードウェアブレークポイントを削除 (&amp;R)</translation>
+      <translation>ハードウェア ブレークポイントを削除(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="74"/>
@@ -3148,7 +3148,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="76"/>
       <source>Highlight</source>
-      <translation>ハイライト</translation>
+      <translation>強調表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
@@ -3159,7 +3159,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="308"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="487"/>
       <source>Edit %1</source>
-      <translation>%1の編集</translation>
+      <translation>%1 の編集</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
@@ -3174,12 +3174,12 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="328"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="331"/>
       <source>Edit %1 register</source>
-      <translation>%1レジスタの編集</translation>
+      <translation>%1 レジスタの編集</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="338"/>
       <source>Edit FPU register</source>
-      <translation>FPUレジスタを編集</translation>
+      <translation>FPU レジスタの編集</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
@@ -3199,7 +3199,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="683"/>
       <source>Follow in &amp;Dump</source>
-      <translation>ダンプ画面で追跡 (&amp;D)</translation>
+      <translation>ダンプ画面で追跡(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="725"/>
@@ -3275,12 +3275,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="103"/>
       <source>&amp;Edit</source>
-      <translation>編集 (&amp;E)</translation>
+      <translation>編集(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="106"/>
       <source>&amp;Fill...</source>
-      <translation>埋め込み (&amp;F)...</translation>
+      <translation>埋め込み(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="112"/>
@@ -3291,32 +3291,32 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="115"/>
       <source>&amp;Paste</source>
-      <translation>貼り付け (&amp;P)</translation>
+      <translation>貼り付け(&amp;P)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="118"/>
       <source>Paste (&amp;Ignore Size)</source>
-      <translation>サイズを無視して貼り付け (&amp;I)</translation>
+      <translation>貼り付け(サイズを無視)(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="120"/>
       <source>B&amp;inary</source>
-      <translation>バイナリ (&amp;I)</translation>
+      <translation>バイナリ(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;DWORD</source>
-      <translation>DWORD (&amp;D)</translation>
+      <translation>DWORD(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;QWORD</source>
-      <translation>QWORD (&amp;Q)</translation>
+      <translation>QWORD(&amp;Q)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="135"/>
       <source>&amp;Comments</source>
-      <translation>コメント (&amp;C)</translation>
+      <translation>コメント(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="140"/>
@@ -3392,12 +3392,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="206"/>
       <source>&amp;Restore selection</source>
-      <translation>選択範囲を復元 (&amp;R)</translation>
+      <translation>選択範囲を復元(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="214"/>
       <source>&amp;Find Pattern...</source>
-      <translation>パターンを検索 (&amp;F)...</translation>
+      <translation>パターンを検索(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="217"/>
@@ -3579,37 +3579,37 @@
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="32"/>
       <source>Signed:</source>
-      <translation>符号付き：</translation>
+      <translation>符号付き :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="42"/>
       <source>Unsigned:</source>
-      <translation>符号無し：</translation>
+      <translation>符号無し :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="52"/>
       <source>Unicode:</source>
-      <translation>Unicode：</translation>
+      <translation>Unicode :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="62"/>
       <source>Octal:</source>
-      <translation>8進数：</translation>
+      <translation>8進数 :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="72"/>
       <source>Expression:</source>
-      <translation>式：</translation>
+      <translation>式 :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="118"/>
       <source>Binary:</source>
-      <translation>バイナリ：</translation>
+      <translation>バイナリ :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="128"/>
       <source>ASCII:</source>
-      <translation>ASCII：</translation>
+      <translation>ASCII :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="168"/>
@@ -3619,7 +3619,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="244"/>
       <source>Hexadecimal:</source>
-      <translation>16進数：</translation>
+      <translation>16進数 :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="275"/>
@@ -3629,7 +3629,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="285"/>
       <source>Bytes:</source>
-      <translation>バイト：</translation>
+      <translation>バイト :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="299"/>
@@ -3657,7 +3657,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="10"/>
       <source>Thread ID</source>
-      <translation>スレッドID</translation>
+      <translation>スレッド ID</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="11"/>
@@ -3756,7 +3756,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CloseDialog.ui" line="20"/>
       <source>Closing Debugger...</source>
-      <translation>デバッガーを閉じています...</translation>
+      <translation>デバッガを閉じています...</translation>
     </message>
   </context>
   <context>
@@ -3769,12 +3769,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CodepageSelectionDialog.ui" line="38"/>
       <source>&amp;OK</source>
-      <translation>OK (&amp;O)</translation>
+      <translation>OK(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CodepageSelectionDialog.ui" line="48"/>
       <source>&amp;Cancel</source>
-      <translation>キャンセル (&amp;C)</translation>
+      <translation>キャンセル(&amp;C)</translation>
     </message>
   </context>
   <context>
@@ -3792,7 +3792,7 @@
     <message>
       <location filename="src/gui/Src/Gui/ColumnReorderDialog.ui" line="41"/>
       <source>&lt;- &amp;Add</source>
-      <translation>&lt;- 追加 (&amp;A)</translation>
+      <translation>&lt;- 追加(&amp;A)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ColumnReorderDialog.ui" line="48"/>
@@ -3812,7 +3812,7 @@
     <message>
       <location filename="src/gui/Src/Gui/ColumnReorderDialog.ui" line="69"/>
       <source>&lt;&lt; A&amp;dd all</source>
-      <translation>&lt;&lt; すべて追加 (&amp;D)</translation>
+      <translation>&lt;&lt; すべて追加(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ColumnReorderDialog.ui" line="80"/>
@@ -3822,12 +3822,12 @@
     <message>
       <location filename="src/gui/Src/Gui/ColumnReorderDialog.ui" line="116"/>
       <source>&amp;Ok</source>
-      <translation>OK (&amp;O)</translation>
+      <translation>OK(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ColumnReorderDialog.ui" line="126"/>
       <source>&amp;Cancel</source>
-      <translation>キャンセル (&amp;C)</translation>
+      <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ColumnReorderDialog.cpp" line="48"/>
@@ -3855,12 +3855,12 @@
     <message>
       <location filename="src/gui/Src/Gui/ComboBoxDialog.ui" line="75"/>
       <source>&amp;OK</source>
-      <translation>OK (&amp;O)</translation>
+      <translation>OK(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ComboBoxDialog.ui" line="85"/>
       <source>&amp;Cancel</source>
-      <translation>キャンセル (&amp;C)</translation>
+      <translation>キャンセル(&amp;C)</translation>
     </message>
   </context>
   <context>
@@ -4101,7 +4101,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="269"/>
       <source>DbgSetLabelAt failed!</source>
-      <translation>DbgSetLabelAt失敗！</translation>
+      <translation>DbgSetLabelAt 失敗!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="290"/>
@@ -4188,7 +4188,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="373"/>
       <source>Detach</source>
-      <translation>切り離す</translation>
+      <translation>デタッチ</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
@@ -4316,13 +4316,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <source>Memory Map</source>
-      <translation>メモリ マップ</translation>
+      <translation>メモリマップ</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <source>Call Stack</source>
-      <translation>コール スタック</translation>
+      <translation>コールスタック</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
@@ -4679,7 +4679,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Trace coverage</source>
-      <translation>トレースカバレッジ</translation>
+      <translation>トレース カバレッジ</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
@@ -5203,7 +5203,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <source>Toggle Breakpoint</source>
-      <translation>ブレークポイントの切り替え</translation>
+      <translation>ブックマークの設定/解除</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
@@ -5412,7 +5412,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <source>Goto File Offset</source>
-      <translation>ファイル オフセットに移動</translation>
+      <translation>ファイル オフセットへ移動</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
@@ -5472,7 +5472,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
       <source>Toggle Mnemonic Brief</source>
-      <translation>ニーモニック概要の切り替え</translation>
+      <translation>ニーモニック概要の表示/非表示</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
@@ -5684,7 +5684,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <source>Double</source>
-      <translation>倍精度浮動小数点</translation>
+      <translation>倍精度浮動小数点数</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
@@ -5799,7 +5799,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
       <source>Copy RVA</source>
-      <translation>相対仮想アドレスをコピー</translation>
+      <translation>相対仮想アドレス(RVA)をコピー</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
@@ -5817,7 +5817,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <source>Copy Disassembly</source>
-      <translation type="unfinished"/>
+      <translation>逆アセンブリをコピー</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
@@ -6044,7 +6044,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Modify value</source>
-      <translation>値を変更</translation>
+      <translation>値の修正</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
@@ -6068,7 +6068,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy -&gt; Cropped Table</source>
-      <translation>コピー -&gt; クロップされたテーブル</translation>
+      <translation>コピー -&gt; 切り取られたテーブル</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
@@ -6086,7 +6086,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
-      <translation>コピー -&gt; クロップされたテーブルをログへ</translation>
+      <translation>コピー -&gt; 切り取られたテーブルをログへ</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
@@ -6210,7 +6210,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="38"/>
       <source>Call Stack</source>
-      <translation>コール スタック</translation>
+      <translation>コールスタック</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="40"/>
@@ -8315,7 +8315,7 @@
       <location filename="src/dbg/commands/cmd-misc.cpp" line="500"/>
       <source>JIT %s: %s
 </source>
-      <translation>JIT %s: %s
+      <translation>JIT %s : %s
 </translation>
     </message>
     <message>
@@ -8345,7 +8345,7 @@
       <location filename="src/dbg/commands/cmd-misc.cpp" line="545"/>
       <source>JIT auto %s: %s
 </source>
-      <translation>JIT 自動 %s: %s
+      <translation>JIT 自動 %s : %s
 </translation>
     </message>
     <message>
@@ -8454,7 +8454,7 @@
       <location filename="src/dbg/commands/cmd-operating-system-control.cpp" line="90"/>
       <source>DuplicateHandle failed: %s
 </source>
-      <translation>DuplicateHandle 失敗: %s
+      <translation>DuplicateHandle 失敗 : %s
 </translation>
     </message>
     <message>
@@ -8727,7 +8727,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="1101"/>
       <source>Invalid expression: "%s"</source>
-      <translation>無効な式："%s"</translation>
+      <translation>無効な式 : "%s"</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="30"/>
@@ -9724,14 +9724,14 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="752"/>
       <source>DLL Breakpoint %s (%s): Module %s
 </source>
-      <translation>DLL ブレークポイント %s (%s): モジュール %s
+      <translation>DLL ブレークポイント %s (%s) : モジュール %s
 </translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="754"/>
       <source>DLL Breakpoint (%s): Module %s
 </source>
-      <translation>DLLブレークポイント (%s) : モジュール %s
+      <translation>DLLブレークポイント (%s)  : モジュール %s
 </translation>
     </message>
     <message>
@@ -10205,7 +10205,7 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/formatfunctions.cpp" line="73"/>
       <source>Failed to read memory...</source>
-      <translation>メモリの書込みに失敗しました...</translation>
+      <translation>メモリの読み込みに失敗しました...</translation>
     </message>
     <message>
       <location filename="src/dbg/formatfunctions.cpp" line="243"/>
@@ -10242,12 +10242,12 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/memory.cpp" line="460"/>
       <source>TEB (%s)</source>
-      <translation>スレッド環境ブロック (%s)</translation>
+      <translation>スレッド環境ブロック(TEB) (%s)</translation>
     </message>
     <message>
       <location filename="src/dbg/memory.cpp" line="467"/>
       <source>WoW64 TEB (%s)</source>
-      <translation>WoW64 スレッド環境ブロック (%s)</translation>
+      <translation>WoW64 スレッド環境ブロック(TEB) (%s)</translation>
     </message>
     <message>
       <location filename="src/dbg/memory.cpp" line="476"/>
@@ -11286,17 +11286,17 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2287"/>
       <source>&amp;Address: </source>
-      <translation>アドレス (&amp;A)： </translation>
+      <translation>アドレス(&amp;A) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2288"/>
       <source>&amp;Constant: </source>
-      <translation>定数(&amp;C)： </translation>
+      <translation>定数(&amp;C) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2289"/>
       <source>&amp;Value: </source>
-      <translation>値(&amp;V)： </translation>
+      <translation>値(&amp;V) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2304"/>
@@ -11341,7 +11341,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2330"/>
       <source>S&amp;ummary</source>
-      <translation>要約の表示/非表示(&amp;U)</translation>
+      <translation>概要の表示/非表示(&amp;U)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2332"/>
@@ -11356,7 +11356,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
       <source>Copy image</source>
-      <translation>イメージのコピー</translation>
+      <translation>画像のコピー</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
@@ -11386,7 +11386,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2353"/>
       <source>Detach</source>
-      <translation>切り離す</translation>
+      <translation>デタッチ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2365"/>
@@ -11457,7 +11457,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="35"/>
       <source>&amp;Address:</source>
-      <translation>アドレス [&amp;A]：</translation>
+      <translation>アドレス(&amp;A) :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="51"/>
@@ -11467,22 +11467,22 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="63"/>
       <source>color: gray;</source>
-      <translation>色: グレイ；</translation>
+      <translation>色 : グレー;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="66"/>
       <source>Address: Not set</source>
-      <translation>アドレス: 設定なし</translation>
+      <translation>アドレス : 設定なし</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="122"/>
       <source>&amp;OK</source>
-      <translation>OK (&amp;O)</translation>
+      <translation>OK(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="132"/>
       <source>&amp;Cancel</source>
-      <translation>キャンセル (&amp;C)</translation>
+      <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="19"/>
@@ -11512,12 +11512,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="90"/>
       <source>Address: %1</source>
-      <translation>アドレス: %1</translation>
+      <translation>アドレス : %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="95"/>
       <source>Address: %1 (Invalid memory)</source>
-      <translation>アドレス: %1 (無効なメモリ)</translation>
+      <translation>アドレス : %1 (無効なメモリ)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="101"/>
@@ -11974,7 +11974,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/FavouriteTools.ui" line="102"/>
       <location filename="src/gui/Src/Gui/FavouriteTools.ui" line="158"/>
       <source>&amp;Edit</source>
-      <translation>編集 (&amp;E)</translation>
+      <translation>編集(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/FavouriteTools.ui" line="53"/>
@@ -12130,7 +12130,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/cross/hex_viewer/GotoDialog.cpp" line="9"/>
       <location filename="src/cross/minidump/GotoDialog.cpp" line="9"/>
       <source>Address:</source>
-      <translation>アドレス：</translation>
+      <translation>アドレス :</translation>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/GotoDialog.cpp" line="10"/>
@@ -12677,7 +12677,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="123"/>
       <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="124"/>
       <source>Search range: %1 - %2</source>
-      <translation>検索範囲： %1 - %2</translation>
+      <translation>検索範囲 :  %1 - %2</translation>
     </message>
   </context>
   <context>
@@ -12723,7 +12723,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LineEditDialog.cpp" line="89"/>
       <source>&lt;font color='red'&gt;CT: %1%2&lt;/font&gt;</source>
-      <translation>&lt;font color='red'&gt;CT: %1%2&lt;/font&gt;</translation>
+      <translation>&lt;font color='red'&gt;CT : %1%2&lt;/font&gt;</translation>
     </message>
   </context>
   <context>
@@ -12781,7 +12781,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="82"/>
       <source>&amp;Modify Value</source>
-      <translation>値の修正 (&amp;M)</translation>
+      <translation>値の修正(&amp;M)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="87"/>
@@ -12801,12 +12801,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="259"/>
       <source>Local%1</source>
-      <translation>ローカル%1</translation>
+      <translation>ローカル %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="261"/>
       <source>Arg%1</source>
-      <translation>Arg%1</translation>
+      <translation>引数 %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="306"/>
@@ -12839,7 +12839,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="99"/>
       <source>&amp;Paste</source>
-      <translation>貼り付け (&amp;P)</translation>
+      <translation>貼り付け(&amp;P)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="100"/>
@@ -13040,7 +13040,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.ui" line="51"/>
       <source>&amp;Load file</source>
-      <translation>ファイルの読み込み[&amp;L]</translation>
+      <translation>ファイルの読み込み(&amp;L)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/MainWindow.ui" line="14"/>
@@ -13239,12 +13239,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="442"/>
       <source>&amp;Memory Map</source>
-      <translation>メモリ マップ(&amp;M)</translation>
+      <translation>メモリマップ(&amp;M)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="445"/>
       <source>Show the Memory Map tab.</source>
-      <translation>メモリ マップ タブを表示。</translation>
+      <translation>メモリマップ タブを表示。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="454"/>
@@ -13356,7 +13356,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="577"/>
       <source>Show the CPU tab to display the disassembly.</source>
-      <translation>逆アセンブリを表示するには、CPU タブを表示します。</translation>
+      <translation>逆アセンブリを表示する為に、CPU タブを表示。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="586"/>
@@ -13526,7 +13526,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
-      <translation>コール スタック</translation>
+      <translation>コールスタック</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="769"/>
@@ -13715,7 +13715,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="988"/>
       <source>Show the Notes tab.</source>
-      <translation>ノート タブを表示する。</translation>
+      <translation>ノート タブを表示。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="997"/>
@@ -13726,7 +13726,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1000"/>
       <source>Show the Handles tab.</source>
-      <translation>ハンドル タブを表示する。</translation>
+      <translation>ハンドル タブを表示。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1009"/>
@@ -14033,7 +14033,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1393"/>
       <source>Next View</source>
-      <translation>次の表示</translation>
+      <translation>次を表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1396"/>
@@ -14164,7 +14164,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1553"/>
       <source>Output the detailed help information about an assembly mnemonic to the log. Equivalent command "mnemonichelp name".</source>
-      <translation>アセンブリのニーモニックに関する詳細なヘルプ情報をログに出力します。等価コマンド "mnemonichelp name".</translation>
+      <translation>アセンブリのニーモニックに関する詳細なヘルプ情報をログに出力します。同等のコマンド "mnemonichelp name".</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1562"/>
@@ -14208,12 +14208,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
-      <translation>メモリ マップ</translation>
+      <translation>メモリマップ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="193"/>
       <source>SEH</source>
-      <translation>構造化例外処理</translation>
+      <translation>構造化例外処理(SEH)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="389"/>
@@ -14293,7 +14293,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="802"/>
       <source>&amp;Continue debugging</source>
-      <translation>デバッグを続行する(&amp;C)</translation>
+      <translation>デバッグを続行(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
@@ -14475,7 +14475,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
       <source>Settings (*.ini);;All files (*.*)</source>
-      <translation>設定(*.ini);;すべてのファイル(*.*)</translation>
+      <translation>設定 (*.ini);;すべてのファイル (*.*)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
@@ -14495,7 +14495,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
       <source>Databases (%1);;All files (*.*)</source>
-      <translation>データベース(%1);;すべてのファイル(*.*)</translation>
+      <translation>データベース (%1);;すべてのファイル (*.*)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2775"/>
@@ -14661,7 +14661,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="166"/>
       <source>&amp;Find Pattern...</source>
-      <translation>パターンを検索 (&amp;F)...</translation>
+      <translation>パターンを検索(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="173"/>
@@ -14836,7 +14836,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="905"/>
       <source>Error!</source>
-      <translation>エラー！</translation>
+      <translation>エラー!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="905"/>
@@ -15280,7 +15280,7 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialogGroupSelector.ui" line="14"/>
       <source>Group Selector</source>
-      <translation>グループ選択</translation>
+      <translation>グループを選択</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialogGroupSelector.ui" line="38"/>
@@ -15498,7 +15498,7 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1335"/>
       <source>Copy value</source>
-      <translation>値のコピー</translation>
+      <translation>値をコピー</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1336"/>
@@ -15548,12 +15548,12 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
       <source>Float</source>
-      <translation>単精度浮動小数点</translation>
+      <translation>浮動小数点数</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
       <source>Double</source>
-      <translation>倍精度浮動小数点</translation>
+      <translation>倍精度浮動小数点数</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
@@ -16153,7 +16153,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/ScriptView.cpp" line="385"/>
       <source>&amp;Paste</source>
-      <translation>貼り付け (&amp;P)</translation>
+      <translation>貼り付け(&amp;P)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ScriptView.cpp" line="395"/>
@@ -16913,7 +16913,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="639"/>
       <source>Settings saved!</source>
-      <translation>設定を保存しました！</translation>
+      <translation>設定を保存しました!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="707"/>
@@ -17040,22 +17040,22 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="184"/>
       <source>Module &amp;Filter</source>
-      <translation>モジュール フィルター[&amp;F]</translation>
+      <translation>モジュール フィルター(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="190"/>
       <source>&amp;None</source>
-      <translation>なし[&amp;N]</translation>
+      <translation>なし(&amp;N)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="200"/>
       <source>&amp;User</source>
-      <translation>ユーザー[&amp;U]</translation>
+      <translation>ユーザー(&amp;U)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="207"/>
       <source>&amp;System</source>
-      <translation>システム[&amp;S]</translation>
+      <translation>システム(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="19"/>
@@ -17262,7 +17262,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="66"/>
       <source>&amp;Refresh values</source>
-      <translation>値を更新 [&amp;R]</translation>
+      <translation>値を更新(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="66"/>
@@ -17882,37 +17882,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="849"/>
       <source>&amp;Selection</source>
-      <translation>選択範囲 (&amp;S)</translation>
+      <translation>選択範囲(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="850"/>
       <source>Selection to &amp;File</source>
-      <translation>選択範囲をファイルへ (&amp;F)</translation>
+      <translation>選択範囲をファイルへ(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="851"/>
       <source>Selection (&amp;No Bytes)</source>
-      <translation>選択範囲 (バイトコードなし)(&amp;N)</translation>
+      <translation>選択範囲(バイトなし)(&amp;N)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
       <source>Selection to File (No Bytes)</source>
-      <translation>選択範囲をファイルへ (バイトコードなし)</translation>
+      <translation>選択範囲をファイルへ (バイトなし)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
       <source>&amp;Export Table</source>
-      <translation>テーブルのエクスポート (&amp;E)</translation>
+      <translation>テーブルのエクスポート(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
       <source>&amp;RVA</source>
-      <translation>相対仮想アドレス(&amp;R)</translation>
+      <translation>相対仮想アドレス(RVA)(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
       <source>&amp;File Offset</source>
-      <translation>ファイル オフセット (&amp;F)</translation>
+      <translation>ファイル オフセット(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
@@ -17938,12 +17938,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="871"/>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="877"/>
       <source>Show mnemonic brief</source>
-      <translation>ニーモニック概要を表示</translation>
+      <translation>ニーモニックの概要を表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="875"/>
       <source>Hide mnemonic brief</source>
-      <translation>ニーモニック概要を非表示</translation>
+      <translation>ニーモニックの概要を非表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="881"/>
@@ -17988,12 +17988,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
       <source>&amp;Intermodular Calls</source>
-      <translation>モジュール間コール[&amp;I]</translation>
+      <translation>モジュール間呼び出し(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
       <source>&amp;All Calls</source>
-      <translation>すべてのコール[&amp;A]</translation>
+      <translation>すべての呼び出し(&amp;A)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
@@ -18096,7 +18096,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1671"/>
       <source>Text Files (*.txt)</source>
-      <translation>テキスト ファイル (*.txt)</translation>
+      <translation>テキスト ファイル(*.txt)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1677"/>
@@ -18150,7 +18150,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="52"/>
       <source>Save To a File</source>
-      <translation>ファイルに保存</translation>
+      <translation>ファイルへ保存</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="53"/>
@@ -18160,12 +18160,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="62"/>
       <source>&amp;File Offset</source>
-      <translation>ファイル オフセット (&amp;F)</translation>
+      <translation>ファイル オフセット(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="86"/>
       <source>&amp;Find Pattern...</source>
-      <translation>パターンを検索 (&amp;F)...</translation>
+      <translation>パターンを検索(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="93"/>
@@ -18202,7 +18202,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="114"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="130"/>
       <source>&amp;Extended ASCII</source>
-      <translation>拡張ASCII (&amp;E)</translation>
+      <translation>拡張ASCII(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="125"/>
@@ -18272,7 +18272,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="153"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="858"/>
       <source>Hex short (16-bit)</source>
-      <translation>16進数 short (16-bit)</translation>
+      <translation>16進数 ショート (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="154"/>
@@ -18294,22 +18294,22 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="159"/>
       <source>&amp;Float (32-bit)</source>
-      <translation>単精度浮動小数点(&amp;F) (32-bit)</translation>
+      <translation>浮動小数点数(&amp;F) (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="160"/>
       <source>&amp;Double (64-bit)</source>
-      <translation>倍精度浮動小数点(&amp;D) (64-bit)</translation>
+      <translation>倍精度浮動小数点数(&amp;D) (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="161"/>
       <source>&amp;Long double (80-bit)</source>
-      <translation>拡張倍精度浮動小数点(&amp;L) (80-bit)</translation>
+      <translation>拡張倍精度浮動小数点数(&amp;L) (80-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="162"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation>半精度浮動小数点数 16-bit (&amp;H)</translation>
+      <translation>半精度浮動小数点数(&amp;H) (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="163"/>
@@ -18356,17 +18356,17 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="933"/>
       <source>Float (32-bit)</source>
-      <translation>Float (32-bit)</translation>
+      <translation>浮動小数点数 (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="958"/>
       <source>Double (64-bit)</source>
-      <translation>倍精度浮動小数点 (64-bit)</translation>
+      <translation>倍精度浮動小数点数 (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="983"/>
       <source>Long double (80-bit)</source>
-      <translation>拡張倍精度浮動小数点 (80-bit)</translation>
+      <translation>拡張倍精度浮動小数点数 (80-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1008"/>
@@ -18612,7 +18612,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="28"/>
       <source>Highlight</source>
-      <translation>ハイライト</translation>
+      <translation>強調表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="153"/>
@@ -18646,17 +18646,17 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="105"/>
       <source>&amp;DWORD</source>
-      <translation>DWORD (&amp;D)</translation>
+      <translation>DWORD(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="105"/>
       <source>&amp;QWORD</source>
-      <translation>QWORD (&amp;Q)</translation>
+      <translation>QWORD(&amp;Q)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="109"/>
       <source>&amp;Comments</source>
-      <translation>コメント (&amp;C)</translation>
+      <translation>コメント(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="116"/>
@@ -18824,12 +18824,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="339"/>
       <source>&amp;Selected Address</source>
-      <translation>選択したアドレス (&amp;S)</translation>
+      <translation>選択したアドレス(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="353"/>
       <source>&amp;Address: </source>
-      <translation>アドレス (&amp;A)： </translation>
+      <translation>アドレス(&amp;A) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="365"/>
@@ -18839,7 +18839,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="369"/>
       <source>&amp;Value: </source>
-      <translation>値(&amp;V)： </translation>
+      <translation>値(&amp;V) : </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="375"/>
@@ -18849,7 +18849,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="386"/>
       <source>&amp;Constant: </source>
-      <translation>定数(&amp;C)： </translation>
+      <translation>定数(&amp;C) : </translation>
     </message>
   </context>
   <context>
@@ -18862,12 +18862,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceXrefBrowseDialog.ui" line="44"/>
       <source>&amp;OK</source>
-      <translation>OK (&amp;O)</translation>
+      <translation>OK(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceXrefBrowseDialog.ui" line="51"/>
       <source>&amp;Cancel</source>
-      <translation>キャンセル (&amp;C)</translation>
+      <translation>キャンセル(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceXrefBrowseDialog.cpp" line="57"/>
@@ -19093,7 +19093,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/WatchView.cpp" line="153"/>
       <source>&amp;Modify...</source>
-      <translation>変更(&amp;M)...</translation>
+      <translation>修正(&amp;M)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/WatchView.cpp" line="155"/>
@@ -19183,17 +19183,17 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/WordEditDialog.ui" line="106"/>
       <source>Unsigned:</source>
-      <translation>符号無し：</translation>
+      <translation>符号無し :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/WordEditDialog.ui" line="116"/>
       <source>ASCII:</source>
-      <translation>ASCII：</translation>
+      <translation>ASCII :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/WordEditDialog.ui" line="126"/>
       <source>Signed:</source>
-      <translation>符号付き：</translation>
+      <translation>符号付き :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/WordEditDialog.ui" line="247"/>
@@ -19242,7 +19242,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="91"/>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="100"/>
       <source>&amp;Byte</source>
-      <translation>Byte (&amp;B)</translation>
+      <translation>Byte(&amp;B)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="92"/>
@@ -19254,13 +19254,13 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="93"/>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="102"/>
       <source>&amp;Dword</source>
-      <translation>Dword (&amp;D)</translation>
+      <translation>Dword(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="95"/>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="104"/>
       <source>&amp;Qword</source>
-      <translation>Qword (&amp;Q)</translation>
+      <translation>Qword(&amp;Q)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="99"/>
