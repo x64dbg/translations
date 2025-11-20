@@ -64,7 +64,7 @@
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="17"/>
       <source>Cropped &amp;Table</source>
-      <translation>切り取られたテーブル(&amp;T)</translation>
+      <translation>トリミングされたテーブル(&amp;T)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="18"/>
@@ -79,7 +79,7 @@
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="20"/>
       <source>Cropped Table, To Log</source>
-      <translation>切り取られたテーブルをログへ</translation>
+      <translation>トリミングされたテーブルをログへ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="21"/>
@@ -663,17 +663,17 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="509"/>
       <source>Highlight Read</source>
-      <translation>読み取りレジスタをハイライト</translation>
+      <translation>読み取りレジスタの強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="510"/>
       <source>Highlight Write</source>
-      <translation>書き込みレジスタをハイライト</translation>
+      <translation>書き込みレジスタの強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="511"/>
       <source>Highlight Read+Write</source>
-      <translation>読み書きレジスタをハイライト</translation>
+      <translation>読取+書込レジスタの強調色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="512"/>
@@ -683,7 +683,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="515"/>
       <source>Instructions:</source>
-      <translation>命令：</translation>
+      <translation>命令 :</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="516"/>
@@ -708,17 +708,17 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="520"/>
       <source>Conditional Jumps</source>
-      <translation>条件付ジャンプ</translation>
+      <translation>条件付 ジャンプ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="521"/>
       <source>Unconditional Jumps</source>
-      <translation>無条件ジャンプ</translation>
+      <translation>無条件 ジャンプ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="522"/>
       <source>NOPs</source>
-      <translation>NOPs</translation>
+      <translation>NOP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="523"/>
@@ -763,12 +763,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="534"/>
       <source>MMX Registers</source>
-      <translation>MMXレジスタ</translation>
+      <translation>MMX レジスタ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="535"/>
       <source>XMM Registers</source>
-      <translation>XMMレジスタ</translation>
+      <translation>XMM レジスタ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="536"/>
@@ -783,12 +783,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="538"/>
       <source>Memory Sizes</source>
-      <translation>メモリサイズ</translation>
+      <translation>メモリ サイズ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="539"/>
       <source>Memory Segments</source>
-      <translation>メモリセグメント</translation>
+      <translation>メモリ セグメント</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="541"/>
@@ -798,17 +798,17 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="542"/>
       <source>Memory Stack Brackets</source>
-      <translation>メモリスタックの括弧</translation>
+      <translation>メモリ スタックの括弧</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="543"/>
       <source>Memory Base Registers</source>
-      <translation>メモリのベースレジスタ</translation>
+      <translation>メモリのベース レジスタ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="544"/>
       <source>Memory Index Registers</source>
-      <translation>メモリのインデックスレジスタ</translation>
+      <translation>メモリのインデックス レジスタ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="545"/>
@@ -888,12 +888,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
       <source>User Stack Frame Line</source>
-      <translation>ユーザースタックフレームの線</translation>
+      <translation>ユーザー スタック フレームの線</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
       <source>System Stack Frame Line</source>
-      <translation>システムスタックフレームの線</translation>
+      <translation>システム スタック フレームの線</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="579"/>
@@ -973,7 +973,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="607"/>
       <source>Log Link Color</source>
-      <translation>ログリンク色</translation>
+      <translation>ログのリンク色</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="609"/>
@@ -1003,22 +1003,22 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="614"/>
       <source>Watch (When Watchdog is Triggered)</source>
-      <translation>ウォッチ (ウォッチドッグがトリガーされた場合)</translation>
+      <translation>ウォッチ (ウォッチドッグがトリガーされたとき)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
       <source>Memory Map Breakpoint</source>
-      <translation>メモリマップのブレークポイント</translation>
+      <translation>メモリ マップのブレークポイント</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
       <source>Memory Map %1</source>
-      <translation>メモリマップ  %1</translation>
+      <translation>メモリ マップ  %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>Memory Map Section Text</source>
-      <translation>メモリマップのセクションテキスト</translation>
+      <translation>メモリ マップのセクション テキスト</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
@@ -1121,12 +1121,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AssembleDialog.ui" line="62"/>
       <source>&amp;XEDParse</source>
-      <translation>XEDParse (&amp;X)</translation>
+      <translation>XEDParse(&amp;X)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AssembleDialog.ui" line="72"/>
       <source>&amp;asmjit</source>
-      <translation>asmjit (&amp;A)</translation>
+      <translation>asmjit(&amp;A)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AssembleDialog.ui" line="98"/>
@@ -1707,7 +1707,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="285"/>
       <source>Calls</source>
-      <translation>Calls</translation>
+      <translation>Call</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
@@ -1847,12 +1847,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="329"/>
       <source>&amp;Follow in Dump</source>
-      <translation>ダンプ画面で追跡 (&amp;F)</translation>
+      <translation>ダンプ画面で追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="335"/>
       <source>&amp;Follow in Disassembler</source>
-      <translation>逆アセンブラで追跡 (&amp;F)</translation>
+      <translation>逆アセンブラで追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="343"/>
@@ -2444,7 +2444,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="136"/>
       <source>Remove &amp;Hardware</source>
-      <translation>ハードウェア、削除(&amp;H)</translation>
+      <translation>ハードウェアBP-削除(&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="141"/>
@@ -2485,7 +2485,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="153"/>
       <source>Remove &amp;Memory</source>
-      <translation>メモリ削除 (&amp;M)</translation>
+      <translation>メモリの削除(&amp;M)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="157"/>
@@ -2505,7 +2505,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="162"/>
       <source>&amp;Sync with expression</source>
-      <translation>式と同期させる(&amp;S)</translation>
+      <translation>式と同期(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="163"/>
@@ -2515,7 +2515,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="166"/>
       <source>&amp;Expression</source>
-      <translation>式 (&amp;E)</translation>
+      <translation>式(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="167"/>
@@ -2589,72 +2589,72 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
       <source>Signed byte (8-bit)</source>
-      <translation>符号付き バイト (8-bit)</translation>
+      <translation>Signed byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
       <source>Signed short (16-bit)</source>
-      <translation>符号付き ショート (16-bit)</translation>
+      <translation>Signed short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
       <source>Signed long (32-bit)</source>
-      <translation>符号付き ロング (32-bit)</translation>
+      <translation>Signed long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
       <source>Signed long long (64-bit)</source>
-      <translation>符号付き ロングロング (64-bit)</translation>
+      <translation>Signed long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
       <source>Unsigned byte (8-bit)</source>
-      <translation>符号無し バイト (8-bit)</translation>
+      <translation>Unsigned byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
       <source>Unsigned short (16-bit)</source>
-      <translation>符号無し ショート (16-bit)</translation>
+      <translation>Unsigned short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
       <source>Unsigned long (32-bit)</source>
-      <translation>符号無し ロング (32-bit)</translation>
+      <translation>Unsigned long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
       <source>Unsigned long long (64-bit)</source>
-      <translation>符号無し ロングロング (64-bit)</translation>
+      <translation>Unsigned long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
       <source>Hex byte (8-bit)</source>
-      <translation>16進バイト (8-bit)</translation>
+      <translation>Hex byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
       <source>Hex short (16-bit)</source>
-      <translation>16進数 ショート (16-bit)</translation>
+      <translation>Hex short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
       <source>Hex long (32-bit)</source>
-      <translation>16進数 ロング (32-bit)</translation>
+      <translation>Hex long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="236"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
       <source>Hex long long (64-bit)</source>
-      <translation>16進数 ロングロング (64-bit)</translation>
+      <translation>Hex long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="237"/>
@@ -2664,27 +2664,27 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="240"/>
       <source>&amp;Float (32-bit)</source>
-      <translation>浮動小数点数(&amp;F) (32-bit)</translation>
+      <translation>Float(&amp;F) (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="241"/>
       <source>&amp;Double (64-bit)</source>
-      <translation>倍精度浮動小数点数(&amp;D) (64-bit)</translation>
+      <translation>Double(&amp;D) (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
       <source>&amp;Long double (80-bit)</source>
-      <translation>拡張倍精度浮動小数点数(&amp;L) (80-bit)</translation>
+      <translation>Long double(&amp;L) (80-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation>半精度浮動小数点数(&amp;H) (16-bit)</translation>
+      <translation>Half float(&amp;H) (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="244"/>
       <source>&amp;Float</source>
-      <translation>浮動小数点数(&amp;F)</translation>
+      <translation>Float(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="246"/>
@@ -2700,7 +2700,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
       <source>System Code</source>
-      <translation>システムコード</translation>
+      <translation>システム コード</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
@@ -2799,7 +2799,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="588"/>
       <source>Goto File Offset in %1</source>
-      <translation>%1のファイル オフセットに移動</translation>
+      <translation>%1 のファイル オフセットに移動</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="649"/>
@@ -2808,7 +2808,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="753"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1076"/>
       <source>Hex</source>
-      <translation>16進数</translation>
+      <translation>Hex</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="657"/>
@@ -2827,22 +2827,22 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
       <source>Float (32-bit)</source>
-      <translation>浮動小数点数 (32-bit)</translation>
+      <translation>Float (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
       <source>Double (64-bit)</source>
-      <translation>倍精度浮動小数点数 (64-bit)</translation>
+      <translation>Double (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
       <source>Long double (80-bit)</source>
-      <translation>拡張倍精度浮動小数点数 (80-bit)</translation>
+      <translation>Long double (80-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1251"/>
       <source>Half float (16-bit)</source>
-      <translation>半精度浮動小数点数 (16-bit)</translation>
+      <translation>Half float (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
@@ -2925,7 +2925,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1603"/>
       <source>Memory allocation failed!</source>
-      <translation>メモリの割り当てに失敗しました！</translation>
+      <translation>メモリの割り当てに失敗しました!</translation>
     </message>
   </context>
   <context>
@@ -2979,7 +2979,7 @@
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="602"/>
       <source>Accessed %n time(s)</source>
       <translation>
-        <numerusform>%n回アクセスしました</numerusform>
+        <numerusform>アクセス数 %n 回</numerusform>
       </translation>
     </message>
     <message>
@@ -3128,7 +3128,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="72"/>
       <source>Follow in Memory Map</source>
-      <translation>メモリマップ画面で追跡</translation>
+      <translation>メモリ マップ画面で追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="73"/>
@@ -3138,12 +3138,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="74"/>
       <source>Increment x87 Stack</source>
-      <translation>x87スタックをインクリメント</translation>
+      <translation>x87 スタックを増やす</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="75"/>
       <source>Decrement x87 Stack</source>
-      <translation>x87スタックをデクリメント</translation>
+      <translation>x87 スタックを減らす</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="76"/>
@@ -3209,7 +3209,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="770"/>
       <source>Set Hardware Breakpoint on %1</source>
-      <translation>%1にハードウェア ブレークポイントを設定</translation>
+      <translation>%1 にハードウェア ブレークポイントを設定</translation>
     </message>
   </context>
   <context>
@@ -3321,41 +3321,41 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="140"/>
       <source>Hardware, Access</source>
-      <translation>ハードウェア、アクセス</translation>
+      <translation>ハードウェアBP、アクセス</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="141"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="150"/>
       <source>&amp;Byte</source>
-      <translation>Byte (&amp;B)</translation>
+      <translation>Byte(&amp;B)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="142"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="151"/>
       <source>&amp;Word</source>
-      <translation>Word (&amp;W)</translation>
+      <translation>Word(&amp;W)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="143"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="152"/>
       <source>&amp;Dword</source>
-      <translation>Dword (&amp;D)</translation>
+      <translation>Dword(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="145"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="154"/>
       <source>&amp;Qword</source>
-      <translation>Qword (&amp;Q)</translation>
+      <translation>Qword(&amp;Q)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="149"/>
       <source>Hardware, Write</source>
-      <translation>ハードウェア、書き込み</translation>
+      <translation>ハードウェアBP、書き込み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="158"/>
       <source>Remove &amp;Hardware</source>
-      <translation>ハードウェアを削除 (&amp;H)</translation>
+      <translation>ハードウェアBPを削除(&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="161"/>
@@ -3366,13 +3366,13 @@
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="162"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="167"/>
       <source>&amp;Singleshoot</source>
-      <translation>1回限り (&amp;S)</translation>
+      <translation>1 回限り(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="163"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="168"/>
       <source>&amp;Restore on hit</source>
-      <translation>ヒット後に復元 (&amp;R)</translation>
+      <translation>ヒット後に復元(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="166"/>
@@ -3382,12 +3382,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="171"/>
       <source>Remove &amp;Memory</source>
-      <translation>メモリを削除 (&amp;M)</translation>
+      <translation>メモリを削除(&amp;M)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="203"/>
       <source>Brea&amp;kpoint</source>
-      <translation>ブレークポイント (&amp;K)</translation>
+      <translation>ブレークポイント(&amp;K)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="206"/>
@@ -3402,32 +3402,32 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="217"/>
       <source>Follow E&amp;SP</source>
-      <translation>ESPを追跡 (&amp;S)</translation>
+      <translation>拡張スタック ポインタ(ESP)を追跡(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="217"/>
       <source>Follow R&amp;SP</source>
-      <translation>RSPを追跡 (&amp;S)</translation>
+      <translation>レジスタ スタック ポインタ(RSP)を追跡(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="218"/>
       <source>Follow E&amp;BP</source>
-      <translation>EBPを追跡 (&amp;B)</translation>
+      <translation>拡張ベース ポインタ(EBP)を追跡(&amp;B)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="218"/>
       <source>Follow R&amp;BP</source>
-      <translation>RBPを追跡 (&amp;B)</translation>
+      <translation>レジスタ ベース ポインタ(RBP)を追跡(&amp;B)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="226"/>
       <source>Go to &amp;Expression</source>
-      <translation>アドレスへ移動 (&amp;E)</translation>
+      <translation>アドレスへ移動(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="229"/>
       <source>Go to Base of Stack Frame</source>
-      <translation>スタックフレームのベースへ移動</translation>
+      <translation>スタック フレームのベースへ移動</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="232"/>
@@ -3463,22 +3463,22 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="259"/>
       <source>Follow DWORD in &amp;Stack</source>
-      <translation>スタック画面でDWORDを追跡 (&amp;S)</translation>
+      <translation>スタック画面で DWORD を追跡(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="259"/>
       <source>Follow QWORD in &amp;Stack</source>
-      <translation>スタック画面でQWORDを追跡 (&amp;S)</translation>
+      <translation>スタック画面で QWORD を追跡(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="275"/>
       <source>&amp;Follow DWORD in Disassembler</source>
-      <translation>逆アセンブラでDWORDを追跡 (&amp;F)</translation>
+      <translation>逆アセンブラで DWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="275"/>
       <source>&amp;Follow QWORD in Disassembler</source>
-      <translation>逆アセンブラでQWORDを追跡 (&amp;F)</translation>
+      <translation>逆アセンブラで QWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="286"/>
@@ -3503,7 +3503,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="803"/>
       <source>Fill data at %1</source>
-      <translation>%1のデータを埋め込み</translation>
+      <translation>%1 のデータを埋め込み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="868"/>
@@ -3634,17 +3634,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="299"/>
       <source>&amp;Follow in Disassembler</source>
-      <translation>逆アセンブラで追跡 (&amp;F)</translation>
+      <translation>逆アセンブラで追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="306"/>
       <source>Follow in &amp;Dump</source>
-      <translation>ダンプ画面で追跡 (&amp;D)</translation>
+      <translation>ダンプ画面で追跡(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="313"/>
       <source>Follow in Memory Map</source>
-      <translation>メモリマップ画面で追跡</translation>
+      <translation>メモリ マップ画面で追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="333"/>
@@ -3692,17 +3692,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="40"/>
       <source>Follow &amp;Address</source>
-      <translation>アドレスを追跡 (&amp;A)</translation>
+      <translation>アドレスを追跡(&amp;A)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="44"/>
       <source>Follow &amp;To</source>
-      <translation>呼び出し先を追跡( &amp;T)</translation>
+      <translation>呼び出し先を追跡(&amp;T)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="48"/>
       <source>Follow &amp;From</source>
-      <translation>呼び出し元を追跡 (&amp;F)</translation>
+      <translation>呼び出し元を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="52"/>
@@ -3713,12 +3713,12 @@
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="65"/>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="74"/>
       <source>Show Suspected Call Stack Frame</source>
-      <translation>疑似コールスタックフレームを表示</translation>
+      <translation>疑似コールスタック フレームを表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="72"/>
       <source>Show Active Call Stack Frame</source>
-      <translation>アクティブなコールスタックフレームを表示</translation>
+      <translation>アクティブなコールスタック フレームを表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="79"/>
@@ -3837,7 +3837,7 @@
     <message>
       <location filename="src/gui/Src/Gui/ColumnReorderDialog.cpp" line="48"/>
       <source>There isn't anything to display yet!</source>
-      <translation>まだ表示するものがありません！</translation>
+      <translation>まだ表示するものがありません!</translation>
     </message>
   </context>
   <context>
@@ -3886,12 +3886,12 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="40"/>
       <source>&amp;Follow DWORD in Disassembler</source>
-      <translation>逆アセンブラでDWORDを追跡 (&amp;F)</translation>
+      <translation>逆アセンブラで DWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="40"/>
       <source>&amp;Follow QWORD in Disassembler</source>
-      <translation>逆アセンブラでQWORDを追跡 (&amp;F)</translation>
+      <translation>逆アセンブラで QWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="44"/>
@@ -3906,12 +3906,12 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="48"/>
       <source>&amp;Follow DWORD in Current Dump</source>
-      <translation>現在のダンプ画面でDWORDを追跡 (&amp;F)</translation>
+      <translation>現在のダンプ画面で DWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="48"/>
       <source>&amp;Follow QWORD in Current Dump</source>
-      <translation>現在のダンプ画面でQWORDを追跡 (&amp;F)</translation>
+      <translation>現在のダンプ画面で QWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="61"/>
@@ -3921,12 +3921,12 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="67"/>
       <source>Follow DWORD in Dump</source>
-      <translation>ダンプ画面でDWORDを追跡</translation>
+      <translation>ダンプ画面で DWORD を追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="67"/>
       <source>Follow QWORD in Dump</source>
-      <translation>ダンプ画面でQWORDを追跡</translation>
+      <translation>ダンプ画面で QWORD を追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="71"/>
@@ -3941,12 +3941,12 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="79"/>
       <source>Follow in Memory Map</source>
-      <translation>メモリマップ画面で追跡</translation>
+      <translation>メモリ マップ画面で追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="79"/>
       <source>Show this address in memory map view. Equivalent command "memmapdump address".</source>
-      <translation>このアドレスをメモリマップに表示。 同等のコマンド"memmapdump address"。</translation>
+      <translation>このアドレスをメモリ マップに表示。 同等のコマンド "memmapdump address"。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="83"/>
@@ -3984,12 +3984,12 @@
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="108"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="111"/>
       <source>Set Hardware on Execution</source>
-      <translation>実行時にハードウェアをセット</translation>
+      <translation>実行時にハードウェアBPをセット</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="109"/>
       <source>Remove Hardware</source>
-      <translation>ハードウェアを削除</translation>
+      <translation>ハードウェアBPを削除</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="113"/>
@@ -4316,7 +4316,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <source>Memory Map</source>
-      <translation>メモリマップ</translation>
+      <translation>メモリ マップ</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
@@ -5676,7 +5676,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <source>Float</source>
-      <translation>浮動小数点数</translation>
+      <translation>Float</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
@@ -5684,7 +5684,7 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <source>Double</source>
-      <translation>倍精度浮動小数点数</translation>
+      <translation>Double</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
@@ -5859,7 +5859,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
       <source>Run Script to Cursor</source>
-      <translation>カーソルまでスクリプトを実行</translation>
+      <translation>カーソル行までスクリプトを実行</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
@@ -5919,7 +5919,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Toggle summary</source>
-      <translation>一覧の切り替え</translation>
+      <translation>概要の切り替え</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
@@ -6068,7 +6068,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy -&gt; Cropped Table</source>
-      <translation>コピー -&gt; 切り取られたテーブル</translation>
+      <translation>コピー -&gt; トリミングされたテーブル</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
@@ -6086,7 +6086,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
-      <translation>コピー -&gt; 切り取られたテーブルをログへ</translation>
+      <translation>コピー -&gt; トリミングされたテーブルをログへ</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
@@ -6157,12 +6157,12 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Copy image</source>
-      <translation>イメージのコピー</translation>
+      <translation>画像のコピー</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Display type</source>
-      <translation>表示タイプ</translation>
+      <translation>表示形式</translation>
     </message>
   </context>
   <context>
@@ -11439,7 +11439,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/BasicView/Disassembly.cpp" line="48"/>
       <source>Mnemonic brief</source>
-      <translation>ニーモニック概要</translation>
+      <translation>ニーモニックの概要</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/Disassembly.cpp" line="49"/>
@@ -11487,7 +11487,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="19"/>
       <source>Display type</source>
-      <translation>表示タイプ</translation>
+      <translation>表示形式</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.cpp" line="28"/>
@@ -12450,7 +12450,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="37"/>
       <source>Hex</source>
-      <translation>16進数</translation>
+      <translation>Hex</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="53"/>
@@ -12746,7 +12746,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="44"/>
       <source>&amp;Follow in Dump</source>
-      <translation>ダンプ画面で追跡 (&amp;F)</translation>
+      <translation>ダンプ画面で追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LocalVarsView.cpp" line="48"/>
@@ -13239,12 +13239,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="442"/>
       <source>&amp;Memory Map</source>
-      <translation>メモリマップ(&amp;M)</translation>
+      <translation>メモリ マップ(&amp;M)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="445"/>
       <source>Show the Memory Map tab.</source>
-      <translation>メモリマップ タブを表示。</translation>
+      <translation>メモリ マップ タブを表示。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="454"/>
@@ -14208,7 +14208,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
-      <translation>メモリマップ</translation>
+      <translation>メモリ マップ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="193"/>
@@ -14575,7 +14575,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="53"/>
       <source>&amp;Follow in Dump</source>
-      <translation>ダンプ画面で追跡 (&amp;F)</translation>
+      <translation>ダンプ画面で追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="57"/>
@@ -14821,7 +14821,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="791"/>
       <source>Address %0 not found in memory map...</source>
-      <translation>アドレス %0 がメモリマップに見つかりません...</translation>
+      <translation>アドレス %0 がメモリ マップに見つかりません...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="803"/>
@@ -14898,7 +14898,7 @@ Make sure to fill in as much information as possible.</source>
       <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="35"/>
       <location filename="src/cross/minidump/MiniHexDump.cpp" line="33"/>
       <source>Hex</source>
-      <translation>16進数</translation>
+      <translation>Hex</translation>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="43"/>
@@ -15543,62 +15543,62 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1347"/>
       <source>Hexadecimal</source>
-      <translation>16進数</translation>
+      <translation>Hexadecimal</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
       <source>Float</source>
-      <translation>浮動小数点数</translation>
+      <translation>Float</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
       <source>Double</source>
-      <translation>倍精度浮動小数点数</translation>
+      <translation>Double</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
       <source>Signed Word</source>
-      <translation>符号付き Word</translation>
+      <translation>Signed Word</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1351"/>
       <source>Signed Dword</source>
-      <translation>符号付き Dword</translation>
+      <translation>Signed Dword</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1352"/>
       <source>Signed Qword</source>
-      <translation>符号付き Qword</translation>
+      <translation>Signed Qword</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1353"/>
       <source>Unsigned Word</source>
-      <translation>符号無し Word</translation>
+      <translation>Unsigned Word</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1354"/>
       <source>Unsigned Dword</source>
-      <translation>符号無し Dword</translation>
+      <translation>Unsigned Dword</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1355"/>
       <source>Unsigned Qword</source>
-      <translation>符号無し Qword</translation>
+      <translation>Unsigned Qword</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1356"/>
       <source>Hexadecimal Word</source>
-      <translation>16進数 Word</translation>
+      <translation>Hexadecimal Word</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1357"/>
       <source>Hexadecimal Dword</source>
-      <translation>16進数 Dword</translation>
+      <translation>Hexadecimal Dword</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1358"/>
       <source>Hexadecimal Qword</source>
-      <translation>16進数 Qword</translation>
+      <translation>Hexadecimal Qword</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1390"/>
@@ -16095,7 +16095,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SEHChainView.cpp" line="9"/>
       <source>Handler</source>
-      <translation>ハンドラー</translation>
+      <translation>ハンドラ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SEHChainView.cpp" line="10"/>
@@ -16115,7 +16115,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SEHChainView.cpp" line="24"/>
       <source>Follow Handler</source>
-      <translation>ハンドラーを追跡</translation>
+      <translation>ハンドラを追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SEHChainView.cpp" line="71"/>
@@ -16438,7 +16438,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="227"/>
       <source>Calculation Type</source>
-      <translation>計算機のタイプ</translation>
+      <translation>計算機の形式</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="233"/>
@@ -17225,7 +17225,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="54"/>
       <source>Display type</source>
-      <translation>表示タイプ</translation>
+      <translation>表示形式</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="55"/>
@@ -17922,7 +17922,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="862"/>
       <source>&amp;Follow in Dump</source>
-      <translation>ダンプ画面で追跡 (&amp;F)</translation>
+      <translation>ダンプ画面で追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="869"/>
@@ -18170,7 +18170,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="93"/>
       <source>&amp;Expression</source>
-      <translation>式 (&amp;E)</translation>
+      <translation>式(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="100"/>
@@ -18224,67 +18224,67 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="145"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="658"/>
       <source>Signed byte (8-bit)</source>
-      <translation>符号付き バイト (8-bit)</translation>
+      <translation>Signed byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="146"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="683"/>
       <source>Signed short (16-bit)</source>
-      <translation>符号付き ショート (16-bit)</translation>
+      <translation>Signed short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="147"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="708"/>
       <source>Signed long (32-bit)</source>
-      <translation>符号付き ロング (32-bit)</translation>
+      <translation>Signed long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="148"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="733"/>
       <source>Signed long long (64-bit)</source>
-      <translation>符号付き ロングロング (64-bit)</translation>
+      <translation>Signed long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="149"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="758"/>
       <source>Unsigned byte (8-bit)</source>
-      <translation>符号無し バイト (8-bit)</translation>
+      <translation>Unsigned byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="150"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="783"/>
       <source>Unsigned short (16-bit)</source>
-      <translation>符号無し ショート (16-bit)</translation>
+      <translation>Unsigned short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="151"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="808"/>
       <source>Unsigned long (32-bit)</source>
-      <translation>符号無し ロング (32-bit)</translation>
+      <translation>Unsigned long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="152"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="833"/>
       <source>Unsigned long long (64-bit)</source>
-      <translation>符号無し ロングロング (64-bit)</translation>
+      <translation>Unsigned long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="153"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="858"/>
       <source>Hex short (16-bit)</source>
-      <translation>16進数 ショート (16-bit)</translation>
+      <translation>Hex short (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="154"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="883"/>
       <source>Hex long (32-bit)</source>
-      <translation>16進数 ロング (32-bit)</translation>
+      <translation>Hex long (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="155"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="908"/>
       <source>Hex long long (64-bit)</source>
-      <translation>16進数 ロングロング (64-bit)</translation>
+      <translation>Hex long long (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="156"/>
@@ -18294,27 +18294,27 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="159"/>
       <source>&amp;Float (32-bit)</source>
-      <translation>浮動小数点数(&amp;F) (32-bit)</translation>
+      <translation>Float(&amp;F) (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="160"/>
       <source>&amp;Double (64-bit)</source>
-      <translation>倍精度浮動小数点数(&amp;D) (64-bit)</translation>
+      <translation>Double(&amp;D) (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="161"/>
       <source>&amp;Long double (80-bit)</source>
-      <translation>拡張倍精度浮動小数点数(&amp;L) (80-bit)</translation>
+      <translation>Long double(&amp;L) (80-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="162"/>
       <source>&amp;Half float (16-bit)</source>
-      <translation>半精度浮動小数点数(&amp;H) (16-bit)</translation>
+      <translation>Half float(&amp;H) (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="163"/>
       <source>&amp;Float</source>
-      <translation>浮動小数点数(&amp;F)</translation>
+      <translation>Float(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="165"/>
@@ -18337,7 +18337,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="503"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="535"/>
       <source>Hex</source>
-      <translation>16進数</translation>
+      <translation>Hex</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="439"/>
@@ -18356,22 +18356,22 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="933"/>
       <source>Float (32-bit)</source>
-      <translation>浮動小数点数 (32-bit)</translation>
+      <translation>Float (32-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="958"/>
       <source>Double (64-bit)</source>
-      <translation>倍精度浮動小数点数 (64-bit)</translation>
+      <translation>Double (64-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="983"/>
       <source>Long double (80-bit)</source>
-      <translation>拡張倍精度浮動小数点数 (80-bit)</translation>
+      <translation>Long double (80-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1008"/>
       <source>Half float (16-bit)</source>
-      <translation>半精度浮動小数点数 (16-bit)</translation>
+      <translation>Half float (16-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1038"/>
@@ -18531,7 +18531,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceInfoBox.cpp" line="239"/>
       <source>&amp;Follow in Dump</source>
-      <translation>ダンプ画面で追跡 (&amp;F)</translation>
+      <translation>ダンプ画面で追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceInfoBox.cpp" line="243"/>
@@ -19113,7 +19113,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/WatchView.cpp" line="168"/>
       <source>Float</source>
-      <translation>浮動小数点数</translation>
+      <translation>Float</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/WatchView.cpp" line="169"/>
@@ -19265,7 +19265,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="99"/>
       <source>Hardware, Write</source>
-      <translation>ハードウェアBP-書き込み</translation>
+      <translation>ハードウェアBP、書き込み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="108"/>
@@ -19297,7 +19297,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="121"/>
       <source>Remove &amp;Memory</source>
-      <translation>メモリ削除 (&amp;M)</translation>
+      <translation>メモリの削除(&amp;M)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="153"/>
