@@ -16362,7 +16362,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="74"/>
       <source>System DLL Load</source>
-      <translation>システムDLLの読み込み</translation>
+      <translation>システム DLL の読み込み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="94"/>
@@ -18503,7 +18503,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="326"/>
       <source>Calls (Trace)</source>
-      <translation>コール (トレース)</translation>
+      <translation>Call (トレース)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="331"/>
@@ -18950,12 +18950,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="213"/>
       <source>You have a development build (%1) of x64dbg!</source>
-      <translation>X64dbg の開発ビルド (%1) があります!</translation>
+      <translation>X64dbg の開発ビルド (%1) を使用しています!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="217"/>
       <source>You have the latest build (%1) of x64dbg!</source>
-      <translation>x64dbg の最新ビルド (%1) があります!</translation>
+      <translation>x64dbg の最新ビルド (%1) を使用しています!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="220"/>
@@ -18965,7 +18965,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="233"/>
       <source>&lt;p&gt;&lt;b&gt;New x64dbg version available&lt;/b&gt;: &lt;a href="%1"&gt;%2&lt;/a&gt;&lt;/p&gt;</source>
-      <translation>&lt;p&gt;&lt;b&gt;新しい x64dbg バージョンが利用可能です&lt;/b&gt;： &lt;a href="%1"&gt;%2&lt;/a&gt;&lt;/p&gt;</translation>
+      <translation>&lt;p&gt;&lt;b&gt;x64dbg の新しいバージョンが利用可能です&lt;/b&gt; :  &lt;a href="%1"&gt;%2&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
   </context>
   <context>
@@ -19248,7 +19248,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="92"/>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="101"/>
       <source>&amp;Word</source>
-      <translation>ワード(&amp;W)</translation>
+      <translation>Word(&amp;W)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="93"/>
@@ -19292,7 +19292,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="116"/>
       <source>Memory, Write</source>
-      <translation>メモリBP-書き込み</translation>
+      <translation>メモリ、書き込み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="121"/>
