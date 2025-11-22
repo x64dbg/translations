@@ -1852,7 +1852,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="335"/>
       <source>&amp;Follow in Disassembler</source>
-      <translation>逆アセンブラで追跡(&amp;F)</translation>
+      <translation>逆アセンブルで追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="343"/>
@@ -3113,7 +3113,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="69"/>
       <source>Follow in Disassembler</source>
-      <translation>逆アセンブラで追跡</translation>
+      <translation>逆アセンブルで追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="70"/>
@@ -3473,12 +3473,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="275"/>
       <source>&amp;Follow DWORD in Disassembler</source>
-      <translation>逆アセンブラで DWORD を追跡(&amp;F)</translation>
+      <translation>逆アセンブルで DWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="275"/>
       <source>&amp;Follow QWORD in Disassembler</source>
-      <translation>逆アセンブラで QWORD を追跡(&amp;F)</translation>
+      <translation>逆アセンブルで QWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="286"/>
@@ -3634,7 +3634,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="299"/>
       <source>&amp;Follow in Disassembler</source>
-      <translation>逆アセンブラで追跡(&amp;F)</translation>
+      <translation>逆アセンブルで追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CalculatorDialog.ui" line="306"/>
@@ -3876,22 +3876,22 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="36"/>
       <source>Follow in Disassembler</source>
-      <translation>逆アセンブラで追跡</translation>
+      <translation>逆アセンブルで追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="36"/>
       <source>Show this address in disassembler. Equivalent command "d address".</source>
-      <translation>このアドレスを逆アセンブラに表示。 同等のコマンド"d address"。</translation>
+      <translation>このアドレスを逆アセンブルに表示。 同等のコマンド"d address"。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="40"/>
       <source>&amp;Follow DWORD in Disassembler</source>
-      <translation>逆アセンブラで DWORD を追跡(&amp;F)</translation>
+      <translation>逆アセンブルで DWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="40"/>
       <source>&amp;Follow QWORD in Disassembler</source>
-      <translation>逆アセンブラで QWORD を追跡(&amp;F)</translation>
+      <translation>逆アセンブルで QWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="44"/>
@@ -5901,7 +5901,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>Follow in disassembler</source>
-      <translation>逆アセンブラで追跡</translation>
+      <translation>逆アセンブルで追跡</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
@@ -5990,13 +5990,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Follow in Disassembler</source>
-      <translation>逆アセンブラで追跡</translation>
+      <translation>逆アセンブルで追跡</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
-      <translation>逆アセンブラで DWORD/QWORD を追跡</translation>
+      <translation>逆アセンブルで DWORD/QWORD を追跡</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
@@ -6275,7 +6275,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="64"/>
       <source>Trace disassembler</source>
-      <translation>逆アセンブラのトレース</translation>
+      <translation>逆アセンブルのトレース</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CustomizeMenuDialog.cpp" line="66"/>
@@ -8625,7 +8625,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="597"/>
       <source>Follow in Disassembly and Dump</source>
-      <translation>逆アセンブラとダンプ画面で追跡</translation>
+      <translation>逆アセンブルとダンプ画面で追跡</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="598"/>
@@ -11261,7 +11261,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2227"/>
       <source>Follow in &amp;Disassembler</source>
-      <translation>逆アセンブラで追跡(&amp;D)</translation>
+      <translation>逆アセンブルで追跡(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2233"/>
@@ -12352,7 +12352,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="120"/>
       <source>Follow Proc in Disassembler</source>
-      <translation>逆アセンブラで関連するプロセスを追跡</translation>
+      <translation>逆アセンブルで関連するプロセスを追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HandlesView.cpp" line="124"/>
@@ -14580,7 +14580,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="57"/>
       <source>Follow in &amp;Disassembler</source>
-      <translation>逆アセンブラで追跡(&amp;D)</translation>
+      <translation>逆アセンブルで追跡(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="63"/>
@@ -15417,7 +15417,7 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="66"/>
       <source>&amp;Follow in Disassembler</source>
-      <translation>逆アセンブラで追跡(&amp;F)</translation>
+      <translation>逆アセンブルで追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="69"/>
@@ -17220,7 +17220,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="49"/>
       <source>Follow value in Disassembler</source>
-      <translation>逆アセンブラの値を追跡</translation>
+      <translation>逆アセンブルの値を追跡</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="54"/>
@@ -17336,7 +17336,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
       <location filename="src/gui/Src/Gui/SymbolView.cpp" line="305"/>
       <location filename="src/gui/Src/Gui/SymbolView.cpp" line="330"/>
       <source>&amp;Follow in Disassembler</source>
-      <translation>逆アセンブラで追跡(&amp;F)</translation>
+      <translation>逆アセンブルで追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SymbolView.cpp" line="308"/>
@@ -17366,7 +17366,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SymbolView.cpp" line="335"/>
       <source>Follow &amp;Entry Point in Disassembler</source>
-      <translation>逆アセンブラでエントリー ポイントを追跡(&amp;E)</translation>
+      <translation>逆アセンブルでエントリー ポイントを追跡(&amp;E)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SymbolView.cpp" line="338"/>
@@ -18716,12 +18716,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="164"/>
       <source>&amp;Follow DWORD in Disassembler</source>
-      <translation>逆アセンブラで DWORD を追跡(&amp;F)</translation>
+      <translation>逆アセンブルで DWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="164"/>
       <source>&amp;Follow QWORD in Disassembler</source>
-      <translation>逆アセンブラで QWORD を追跡(&amp;F)</translation>
+      <translation>逆アセンブルで QWORD を追跡(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="177"/>

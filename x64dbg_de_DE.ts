@@ -14126,7 +14126,7 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1550"/>
       <source>Mnemonic Help</source>
-      <translation type="unfinished"/>
+      <translation>Mnemonische Hilfe</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1553"/>
@@ -14136,7 +14136,7 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1562"/>
       <source>Release Notes</source>
-      <translation type="unfinished"/>
+      <translation>Versionshinweise</translation>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
@@ -14286,7 +14286,7 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1218"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
-      <translation type="unfinished"/>
+      <translation>Versionshinweise sind nicht verfügbar, siehe &lt;a href="%1"&gt;%2&lt;/a&gt; für die neuesten Updates.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1278"/>
@@ -14371,7 +14371,7 @@ Achten Sie darauf, so viele Informationen wie möglich anzugeben.</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2195"/>
       <source>Mnemonic help</source>
-      <translation type="unfinished"/>
+      <translation>Mnemonische Hilfe</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2234"/>
@@ -16064,7 +16064,7 @@ Die TEB kann verwendet werden, um eine Vielzahl von Informationen
     <message>
       <location filename="src/gui/Src/Gui/ReleaseNotesDialog.ui" line="14"/>
       <source>Release Notes</source>
-      <translation type="unfinished"/>
+      <translation>Versionshinweise</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ReleaseNotesDialog.ui" line="72"/>
