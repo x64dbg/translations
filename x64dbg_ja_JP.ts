@@ -733,7 +733,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="525"/>
       <source>Unusual Instructions</source>
-      <translation>珍しい命令</translation>
+      <translation>特殊命令</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="527"/>
@@ -1053,7 +1053,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="624"/>
       <source>Symbol User Module Text</source>
-      <translation>シンボルユーザーモジュールテキスト</translation>
+      <translation>シンボル ユーザーモジュール テキスト</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
@@ -1068,12 +1068,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="627"/>
       <source>Symbol Loading Text</source>
-      <translation>シンボル読み込み中テキスト</translation>
+      <translation>シンボル 読み込み中 テキスト</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="628"/>
       <source>Symbol Loaded Text</source>
-      <translation>シンボル読み込み済みテキスト</translation>
+      <translation>シンボル 読み込み済み テキスト</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="629"/>
@@ -1093,7 +1093,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="659"/>
       <source>&amp;Current Setting</source>
-      <translation>現在の設定 (&amp;C)</translation>
+      <translation>現在の設定(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="714"/>
@@ -1111,12 +1111,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AssembleDialog.ui" line="48"/>
       <source>Keep &amp;Size</source>
-      <translation>サイズを維持する (&amp;S)</translation>
+      <translation>サイズを維持(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AssembleDialog.ui" line="55"/>
       <source>&amp;Fill with NOP's</source>
-      <translation>NOPで埋める (&amp;F)</translation>
+      <translation>NOPで埋める(&amp;F)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AssembleDialog.ui" line="62"/>
@@ -1665,6 +1665,11 @@
       <translation>コピー(&amp;C)</translation>
     </message>
     <message>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
+      <source>Copy Value</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="210"/>
       <source>Default (x64 fastcall)</source>
       <translation>既定 (x64 fastcall)</translation>
@@ -1677,7 +1682,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
       <source>Default (stdcall, EBP stack)</source>
-      <translation>既定 (stdcall、EBPスタック)</translation>
+      <translation>既定 (stdcall、EBP スタック)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="223"/>
@@ -2201,12 +2206,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="715"/>
       <source>Copy token &amp;text</source>
-      <translation>トークンテキストのコピー (&amp;T)</translation>
+      <translation>トークン テキストのコピー(&amp;T)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="716"/>
       <source>Copy token &amp;value</source>
-      <translation>トークン値のコピー (&amp;V)</translation>
+      <translation>トークン値のコピー(&amp;V)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="745"/>
@@ -2252,7 +2257,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="942"/>
       <source>Failed to assemble instruction " %1 " (%2)</source>
-      <translation>命令"%1"のアセンブルに失敗しました (%2)</translation>
+      <translation>命令 "%1" のアセンブルに失敗しました (%2)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="996"/>
@@ -2277,12 +2282,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1379"/>
       <source>Edit code at %1</source>
-      <translation>%1のコードを編集</translation>
+      <translation>%1 のコードを編集</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1396"/>
       <source>Fill code at %1</source>
-      <translation>%1のコードを埋める</translation>
+      <translation>%1 のコードを埋める</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1417"/>
@@ -2325,7 +2330,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1815"/>
       <source>Start from &amp;Selection</source>
-      <translation>選択範囲から開始 (&amp;S)</translation>
+      <translation>選択範囲から開始(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
@@ -2778,7 +2783,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
       <source>The input text is not a number!</source>
-      <translation>入力テキストは数字ではありません！</translation>
+      <translation>入力テキストは数字ではありません!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="565"/>
@@ -3184,7 +3189,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
       <source>ERROR CONVERTING TO HEX</source>
-      <translation>16進数への変換エラーが発生しました</translation>
+      <translation>HEX への変換エラー</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="447"/>
@@ -3204,7 +3209,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="725"/>
       <source>Copy old value: %1</source>
-      <translation>古い値をコピー：%1</translation>
+      <translation>変更前の値をコピー : %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="770"/>
@@ -3220,7 +3225,7 @@
       <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="375"/>
       <source>Cannot fold selection.
 </source>
-      <translation>選択範囲を折りたたむことができません。
+      <translation>選択範囲を折りたためません。
 </translation>
     </message>
     <message>
@@ -3264,7 +3269,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="92"/>
       <source>Align Stack Pointer</source>
-      <translation>スタックポインタの整列</translation>
+      <translation>スタックポインタを整列</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="98"/>
@@ -3868,7 +3873,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CommandLineEdit.cpp" line="285"/>
       <source>Commands are comma separated (like assembly instructions): mov eax, ebx</source>
-      <translation>コマンドはカンマ区切りで入力してください (アセンブリ命令のように)： mov eax, ebx</translation>
+      <translation>コマンドはカンマで区切ります(アセンブリ命令のように) : mov eax, ebx</translation>
     </message>
   </context>
   <context>
@@ -3901,7 +3906,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="44"/>
       <source>Show the address in dump. Equivalent command "dump address".</source>
-      <translation>このアドレスをダンプに表示。 同等のコマンド"dump address"。</translation>
+      <translation>このアドレスをダンプに表示。 同等のコマンド "dump address"。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="48"/>
@@ -3936,7 +3941,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="71"/>
       <source>Show this address in stack view. Equivalent command "sdump address".</source>
-      <translation>このアドレスをスタックに表示。 同等のコマンド"sdump address"。</translation>
+      <translation>このアドレスをスタックに表示。 同等のコマンド "sdump address"。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="79"/>
@@ -3956,7 +3961,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="83"/>
       <source>Show the control flow graph of this function in CPU view. Equivalent command "graph address".</source>
-      <translation>この機能の制御フローグラフをCPUに表示。 同等のコマンド"graph address"。</translation>
+      <translation>この機能の制御フローグラフをCPUに表示。 同等のコマンド "graph address"。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
@@ -4545,13 +4550,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>Run (pass exception)</source>
-      <translation>実行 (例外をパス)</translation>
+      <translation>実行 (例外を渡す)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <source>Run (swallow exception)</source>
-      <translation>実行 (例外をスキップ)</translation>
+      <translation>実行 (例外を無視)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
@@ -4593,13 +4598,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
       <source>Step into (pass exception)</source>
-      <translation>ステップイン (例外をパス)</translation>
+      <translation>ステップイン (例外を渡す)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
       <source>Step into (swallow exception)</source>
-      <translation>ステップイン (例外をスキップ)</translation>
+      <translation>ステップイン (例外を無視)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
@@ -4617,13 +4622,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
       <source>Step over (pass exception)</source>
-      <translation>ステップオーバー (例外をパス)</translation>
+      <translation>ステップオーバー (例外を渡す)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
       <source>Step over (swallow exception)</source>
-      <translation>ステップオーバー (例外をスキップ)</translation>
+      <translation>ステップオーバー (例外を無視)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
@@ -4641,13 +4646,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
       <source>Execute till return (pass exception)</source>
-      <translation>リターンまで実行 (例外をパス)</translation>
+      <translation>リターンまで実行 (例外を渡す)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <source>Run to user code</source>
-      <translation>ユーザーコードまで実行</translation>
+      <translation>ユーザー コードまで実行</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
@@ -5889,7 +5894,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <source>Zoom to cursor</source>
-      <translation>カーソル位置までズーム</translation>
+      <translation>カーソル位置にズーム</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
@@ -6676,7 +6681,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
       <source>IMAGE_FILE_NET_RUN_FROM_SWAP: If Image is on Net, copy and run from the swap file.</source>
-      <translation>IMAGE_FILE_NET_RUN_FROM_SWAP: 画像 がネット上にある場合、スワップファイルからコピーして実行します。</translation>
+      <translation>IMAGE_FILE_NET_RUN_FROM_SWAP: イメージ がネット上にある場合、スワップファイルからコピーして実行します。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
@@ -6696,7 +6701,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
-      <translation>IMAGE_FILE_BYTES_REVERSED_HI: 機械語のバイトが逆になります。</translation>
+      <translation>IMAGE_FILE_BYTES_REVERSED_HI: マシンワードのバイトが反転されています。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
@@ -6713,27 +6718,27 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
-      <translation>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: コード整合性画像</translation>
+      <translation>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: コード整合性イメージ</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
       <source>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Image is NX compatible</source>
-      <translation>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: 画像はNX互換です</translation>
+      <translation>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: イメージはNX互換です</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: Image understands isolation and doesn't want it</source>
-      <translation>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: 画像は単離を理解し、それを望んでいません</translation>
+      <translation>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: イメージは分離を認識していますが、それを望んでいません</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_SEH: Image does not use SEH. No SE handler may reside in this image</source>
-      <translation>IMAGE_DLLCHARACTERISTICS_NO_SEH: 画像が SEH を使用しません。この画像にはSEハンドラが存在しません</translation>
+      <translation>IMAGE_DLLCHARACTERISTICS_NO_SEH: イメージは SEH を使用しません。このイメージには SE ハンドラーを置くことはできません</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="343"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
-      <translation>IMAGE_DLLCHARACTERISTICS_NO_BIND: この画像をバインドしないでください。</translation>
+      <translation>IMAGE_DLLCHARACTERISTICS_NO_BIND: このイメージをバインドしない。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="344"/>
@@ -7046,7 +7051,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="472"/>
       <source>Error setting hardware breakpoint (bpnew)!</source>
-      <translation>ハードウェア ブレークポイントの設定中にエラー (bpnew)!</translation>
+      <translation>ハードウェア ブレークポイントの設定エラー (bpnew)!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="477"/>
@@ -7368,12 +7373,12 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1071"/>
       <source>No DLL breakpoints to delete!</source>
-      <translation>削除するDLLブレークポイントがありません!</translation>
+      <translation>削除する DLL ブレークポイントがありません!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1076"/>
       <source>All DLL breakpoints deleted!</source>
-      <translation>すべてのDLLブレークポイントを削除しました!</translation>
+      <translation>すべての DLL ブレークポイントを削除しました!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1084"/>
@@ -7510,7 +7515,7 @@
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1324"/>
       <source>Delete exception breakpoint failed (bpdel): %p
 </source>
-      <translation>例外ブレークポイントの削除に失敗しました (bpdel): %p
+      <translation>例外ブレークポイントの削除に失敗しました (bpdel) : %p
 </translation>
     </message>
     <message>
@@ -8352,7 +8357,7 @@
       <location filename="src/dbg/commands/cmd-misc.cpp" line="556"/>
       <source>Error run the debugger as Admin to setjitauto
 </source>
-      <translation>エラー: デバッガーを管理者として実行して setjitauto を実行
+      <translation>エラー : setjitautoを実行するには、デバッガを管理者として実行してください
 </translation>
     </message>
     <message>
@@ -8666,7 +8671,7 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="736"/>
       <source>%u function pointer(s) in %ums
 </source>
-      <translation>%u関数ポインタ (%uミリ秒)
+      <translation>%u 関数 ポインタ ( %u ミリ秒)
 </translation>
     </message>
     <message>
@@ -8688,7 +8693,7 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="846"/>
       <source>%u call(s) in %ums
 </source>
-      <translation>%u call(s) ( %u ミリ秒)
+      <translation>%u call ( %u ミリ秒)
 </translation>
     </message>
     <message>
@@ -8721,7 +8726,7 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="1088"/>
       <source>%u GUID(s) in %ums
 </source>
-      <translation>%u GUID(s) ( %u ミリ秒)
+      <translation>%u GUID ( %u ミリ秒)
 </translation>
     </message>
     <message>
@@ -8877,13 +8882,13 @@
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="224"/>
       <source>Step filter set to: system</source>
-      <translation>ステップフィルターの設定：システム</translation>
+      <translation>ステップフィルターの設定 : システム</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="228"/>
       <source>Invalid step filter "%s", valid options are: none, user, system
 </source>
-      <translation>無効なステップフィルター："%s", 有効なオプションは、なし,ユーザー,システムです
+      <translation>無効なステップフィルター : "%s", 有効なオプション : なし,ユーザー,システム
 </translation>
     </message>
     <message>
@@ -9004,7 +9009,7 @@
       <location filename="src/dbg/commands/cmd-undocumented.cpp" line="198"/>
       <source>Failed to get variable size "%s"!
 </source>
-      <translation>可変サイズ "%s" を取得できませんでした!
+      <translation>変数 "%s" のサイズを取得できませんでした!
 </translation>
     </message>
     <message>
@@ -9012,7 +9017,7 @@
       <location filename="src/dbg/commands/cmd-undocumented.cpp" line="204"/>
       <source>Failed to get variable data "%s"!
 </source>
-      <translation>可変データ "%s" の取得に失敗しました!
+      <translation>変数 "%s" のデータ取得に失敗しました!
 </translation>
     </message>
     <message>
@@ -9468,7 +9473,7 @@
     <message>
       <location filename="src/dbg/database.cpp" line="52"/>
       <source>Saving database to %s </source>
-      <translation>データベースを %s に保存しています </translation>
+      <translation>データベースの保存中 : %s </translation>
     </message>
     <message>
       <location filename="src/dbg/database.cpp" line="143"/>
@@ -9495,12 +9500,12 @@ Failed to write database file !(GetLastError() = %s)
     <message>
       <location filename="src/dbg/database.cpp" line="189"/>
       <source>Loading database from %s </source>
-      <translation>%s からデータベースを読み込み中 </translation>
+      <translation>データベースを読み込み中 : %s </translation>
     </message>
     <message>
       <location filename="src/dbg/database.cpp" line="214"/>
       <source>(migrating breakpoints) </source>
-      <translation>(ブレークポイントの移行) </translation>
+      <translation>(ブレークポイントを移行中) </translation>
     </message>
     <message>
       <location filename="src/dbg/database.cpp" line="232"/>
@@ -9739,7 +9744,7 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="763"/>
       <source>Exception Breakpoint %s (%p) at %p!
 </source>
-      <translation>例外ブレークポイント %s (%p) %p!
+      <translation>例外ブレークポイント %s (%p) at %p!
 </translation>
     </message>
     <message>
@@ -9941,7 +9946,7 @@ Invalid database file (JSON)!</source>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1809"/>
       <source>System breakpoint reached!</source>
-      <translation>システム ブレークポイントに達しました!</translation>
+      <translation>システム ブレークポイントに到達しました!</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1821"/>
@@ -10078,14 +10083,14 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="2888"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
-      <translation>プロセス開始時にエラーが発生しました(CreateProcess, %s)!
+      <translation>プロセス開始時にエラーが発生しました (CreateProcess, %s)!
 </translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="2980"/>
       <source>Attach to process failed: %s
 </source>
-      <translation>プロセスのアタッチに失敗しました: %s5
+      <translation>プロセスのアタッチに失敗しました : %s
 </translation>
     </message>
     <message>
@@ -10608,6 +10613,12 @@ Do you want to continue debugging?</source>
       <translation>すべてのモジュール (%s)</translation>
     </message>
     <message>
+      <location filename="src/dbg/reference.cpp" line="317"/>
+      <source>Invalid scan size 0 passed to RefFindInRange
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <location filename="src/dbg/simplescript.cpp" line="141"/>
       <source>FileHelper::ReadAllText failed...</source>
       <translation>FileHelper::ReadAllText 失敗...</translation>
@@ -10749,7 +10760,7 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/symbolinfo.cpp" line="321"/>
       <source>Connection succeeded, but download failed (status code: %d)...
 </source>
-      <translation>接続に成功しましたが、ダウンロードに失敗しました (ステータスコード: %d)...
+      <translation>接続に成功しましたが、ダウンロードに失敗しました (ステータスコード : %d)...
 </translation>
     </message>
     <message>
@@ -10859,7 +10870,7 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/value.cpp" line="1774"/>
       <source>Failed to read memory</source>
-      <translation>メモリの読出しに失敗しました</translation>
+      <translation>メモリの読み込みに失敗しました</translation>
     </message>
     <message>
       <location filename="src/dbg/value.cpp" line="1899"/>
@@ -11043,7 +11054,7 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/x64dbg.cpp" line="683"/>
       <source>Reading notes failed...</source>
-      <translation>ノートが読み込めません...</translation>
+      <translation>ノートを読み込めません...</translation>
     </message>
     <message>
       <location filename="src/dbg/x64dbg.cpp" line="685"/>
@@ -11247,7 +11258,7 @@ Do you want me to fix this?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2142"/>
       <source>Large number of nodes</source>
-      <translation>大きな数のノード</translation>
+      <translation>多数のノード</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2143"/>
@@ -11396,7 +11407,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
       <source>Copy token &amp;value</source>
-      <translation>トークン値のコピー (&amp;V)</translation>
+      <translation>トークン値のコピー(&amp;V)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2590"/>
@@ -11886,64 +11897,64 @@ Do you want to continue rendering this graph?</source>
   <context>
     <name>ExportCSV</name>
     <message>
-      <location filename="src/cross/widgets/MiscUtil.cpp" line="191"/>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="208"/>
       <source>Export data in CSV format</source>
       <translation>データをCSV形式でエクスポート</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/MiscUtil.cpp" line="192"/>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="209"/>
       <source>Enter the CSV file name to export</source>
       <translation>エクスポートするCSVファイル名の入力</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/MiscUtil.cpp" line="193"/>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="210"/>
       <source>CSV files (*.csv);;All files (*.*)</source>
       <translation>CSV ファイル (*.csv);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/MiscUtil.cpp" line="206"/>
-      <location filename="src/cross/widgets/MiscUtil.cpp" line="245"/>
-      <location filename="src/cross/widgets/MiscUtil.cpp" line="257"/>
-      <location filename="src/cross/widgets/MiscUtil.cpp" line="284"/>
-      <location filename="src/cross/widgets/MiscUtil.cpp" line="296"/>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="223"/>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="262"/>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="274"/>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="301"/>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="313"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="316"/>
       <source>CSV export error
 </source>
       <translation>CSV エクスポート エラー
 </translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/MiscUtil.cpp" line="302"/>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="292"/>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="319"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="310"/>
       <source>Saved CSV data at %1
 </source>
       <translation>%1 に CSV データを保存しました
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="216"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="234"/>
       <source>Export data in CSV/TSV format</source>
       <translation>CSV/TSV形式でデータをエクスポート</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="217"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="235"/>
       <source>Enter the CSV/TSV file name to export</source>
       <translation>エクスポートするCSV/TSVファイル名を入力してください</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="218"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="236"/>
       <source>CSV files (*.csv);;TSV files (*.tsv);;All files (*.*)</source>
       <translation>CSV ファイル (*.csv);;TSV ファイル (*.tsv);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="292"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="310"/>
       <source>Saved TSV data at %1
 </source>
       <translation>TSV データを %1 に保存しました
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="298"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="316"/>
       <source>TSV export error
 </source>
       <translation>TSV エクスポート エラー
@@ -12531,7 +12542,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="478"/>
       <source>Start from &amp;Selection</source>
-      <translation>選択範囲から開始 (&amp;S)</translation>
+      <translation>選択範囲から開始(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="481"/>
@@ -13094,9 +13105,9 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1938"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1941"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1944"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1939"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1942"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1945"/>
       <source>&amp;Plugins</source>
       <translation>プラグイン(&amp;P)</translation>
     </message>
@@ -13214,7 +13225,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="409"/>
       <source>Execute a single instruction without entering the CALL instruction</source>
-      <translation>CALL 命令を入力せずに単一の命令を実行する</translation>
+      <translation>CALL 命令に入らずに、1 命令だけ実行します</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="418"/>
@@ -13234,7 +13245,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="433"/>
       <source>Trace over until the RET instruction would be executed and stack pointer is less than or equal to current value.</source>
-      <translation>RET命令が実行され、スタックポインタが現在の値以下になるまでトレースします。</translation>
+      <translation>RET命令が実行され、スタックポインタが現在の値以下になるまでトレースオーバーします。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="442"/>
@@ -13289,7 +13300,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="502"/>
       <source>Execute a single instruction, pass exceptions to the debuggee.</source>
-      <translation>単一の命令を実行し、デバッグ対象に例外を渡す。</translation>
+      <translation>１命令を実行し、例外をデバッグ対象に渡します。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="511"/>
@@ -13304,7 +13315,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="523"/>
       <source>Run the debuggee and pass all exceptions to the debuggee without pausing.</source>
-      <translation>デバッグ対象を実行し、一時停止せずにすべての例外をデバッグ対象に渡す。</translation>
+      <translation>デバッグ対象を実行し、一時停止せずにすべての例外をデバッグ対象に渡します。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="532"/>
@@ -13340,7 +13351,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="562"/>
       <source>Put a breakpoint on selection and run the debuggee.</source>
-      <translation>選択範囲にブレークポイントを置いてデバッグを実行する。</translation>
+      <translation>選択範囲にブレークポイントを設定して、デバッグ対象を実行します。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="571"/>
@@ -13443,7 +13454,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="664"/>
       <source>Open the Appearance dialog to adjust color and font settings.</source>
-      <translation>外観設定を開き、色とフォントを設定する。</translation>
+      <translation>外観設定を開き、色とフォントを設定します。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="673"/>
@@ -13479,7 +13490,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="706"/>
       <source>Show a list of comments. Equivalent command "commentlist"</source>
-      <translation>コメント一覧の表示。同等のコマンド "commentlist"</translation>
+      <translation>コメントの一覧を表示。同等のコマンド "commentlist"</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="715"/>
@@ -13550,7 +13561,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2137"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2138"/>
       <source>Donate</source>
       <translation>寄付</translation>
     </message>
@@ -13567,7 +13578,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="808"/>
       <source>Open the Calculator dialog.</source>
-      <translation>計算機ダイアログを開く。</translation>
+      <translation>計算機ダイアログを開きます。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="817"/>
@@ -13578,7 +13589,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="823"/>
       <source>Attach the debugger to a process to debug it.</source>
-      <translation>プロセスをデバッガにアタッチして、デバッグする。</translation>
+      <translation>プロセスをデバッガにアタッチして、デバッグします。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="832"/>
@@ -13629,7 +13640,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2163"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2164"/>
       <source>Report Bug</source>
       <translation>バグを報告する</translation>
     </message>
@@ -13731,7 +13742,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1009"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1012"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1300"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1301"/>
       <source>Trace over...</source>
       <translation>トレース オーバー...</translation>
     </message>
@@ -13743,7 +13754,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1024"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1027"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1283"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1284"/>
       <source>Trace into...</source>
       <translation>トレース イントゥ...</translation>
     </message>
@@ -13800,12 +13811,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1090"/>
       <source>Step over until reaching an instruction that was not covered before. Equivalent command "tobt"</source>
-      <translation>以前の未実行命令に到達するまでステップオーバーします。同等のコマンド "tobt"</translation>
+      <translation>まだ実行されていない命令に到達するまでステップオーバーします。同等のコマンド "tobt"</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1099"/>
       <source>Step into until reaching covered code</source>
-      <translation>実行済みコードに到達するまでステップイン</translation>
+      <translation>実行済みコードに到達するまでステップインします</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1102"/>
@@ -13815,7 +13826,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1111"/>
       <source>Step over until reaching covered code</source>
-      <translation>実行済みコードに到達するまでステップオーバー</translation>
+      <translation>実行済みコードに到達するまでステップオーバーします</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1114"/>
@@ -13854,13 +13865,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2176"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2177"/>
       <source>Generate crash dump</source>
       <translation>クラッシュ ダンプを生成</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2421"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2422"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>お気に入りの管理(&amp;M)...</translation>
     </message>
@@ -13872,7 +13883,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1186"/>
       <source>Execute a single line of source code without entering the subroutine. Equivalent to "TraceOverConditional src.line(cip) &amp;&amp; !src.disp(cip)"</source>
-      <translation>サブルーチンに入らずにソースコードの 1 行を実行します。"TraceOverConditional src.line(cip) &amp;&amp; !src.disp(cip)" と同等</translation>
+      <translation>サブルーチンに入らずにソースコードの 1 行を実行します。同等のコマンド "TraceOverConditional src.line(cip) &amp;&amp; !src.disp(cip)"</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1195"/>
@@ -13882,7 +13893,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1198"/>
       <source>Execute a single source code line. Equivalent to "TraceIntoConditional src.line(cip) &amp;&amp; !src.disp(cip)"</source>
-      <translation>単一のソースコード行を実行します。"TraceIntoConditional src.line(cip) &amp;&amp; !src.disp(cip)" と同等</translation>
+      <translation>単一のソースコード行を実行します。同等のコマンド "TraceIntoConditional src.line(cip) &amp;&amp; !src.disp(cip)"</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1207"/>
@@ -13916,7 +13927,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2150"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2151"/>
       <source>Blog</source>
       <translation>ブログ</translation>
     </message>
@@ -13933,7 +13944,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1267"/>
       <source>Execute the step into command at a fixed pace</source>
-      <translation>固定ペースでステップイン コマンドを実行します</translation>
+      <translation>一定間隔でステップイン コマンドを実行します</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1276"/>
@@ -13943,7 +13954,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1279"/>
       <source>Execute the step over command at a fixed pace</source>
-      <translation>固定ペースでステップオーバー コマンドを実行します</translation>
+      <translation>一定間隔でステップオーバー コマンドを実行します</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1288"/>
@@ -13953,7 +13964,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1291"/>
       <source>Execute a command at a fixed pace</source>
-      <translation>固定ペースでコマンドを実行します</translation>
+      <translation>一定間隔でコマンドを実行します</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1300"/>
@@ -13963,7 +13974,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1303"/>
       <source>Set the script file to run automatically when the system breakpoint is reached.</source>
-      <translation>システムブレークポイントに達したときに、スクリプトファイルを自動的に実行するように設定します。</translation>
+      <translation>システム ブレークポイント到達時に、スクリプトファイルを自動実行するように設定します。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1312"/>
@@ -14164,7 +14175,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1553"/>
       <source>Output the detailed help information about an assembly mnemonic to the log. Equivalent command "mnemonichelp name".</source>
-      <translation>アセンブリのニーモニックに関する詳細なヘルプ情報をログに出力します。同等のコマンド "mnemonichelp name".</translation>
+      <translation>アセンブリのニーモニックに関する詳細なヘルプ情報をログに出力します。同等のコマンド "mnemonichelp name"。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1562"/>
@@ -14173,10 +14184,10 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1217"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1278"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1295"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2272"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1218"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2273"/>
       <source>Error</source>
       <translation>エラー</translation>
     </message>
@@ -14233,10 +14244,10 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="491"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="494"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2583"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2590"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2603"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2610"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2584"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2591"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2604"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
       <source>Languages</source>
       <translation>言語</translation>
     </message>
@@ -14317,189 +14328,189 @@ Do you want to continue rendering this graph?</source>
       <translation>サポートされていないオペレーティング システム バージョンで x64dbg を実行しています。&lt;b&gt;今後のアップデートは、このシステムでは完全に実行されなくなります。&lt;/b&gt;&lt;br&gt;&lt;br&gt;詳細については、公式の &lt;a href="%1"&gt;アナウンス&lt;/a&gt;を参照してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1218"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1219"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
       <translation>リリースノートは利用できません。最新のアップデートについては、 &lt;a href="%1"&gt;%2&lt;/a&gt; を参照してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1278"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1295"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
       <source>Cannot start a trace when running, pause execution first.</source>
       <translation>実行中はトレースを開始できません。最初に実行を一時停止します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1334"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2706"/>
       <source>Open file</source>
       <translation>ファイルを開く</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1334"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>実行ファイル(*.exe *.dll);;すべてのファイル(*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1938"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1939"/>
       <source>Disassembly</source>
       <translation>逆アセンブル</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1941"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1942"/>
       <source>Dump</source>
       <translation>ダンプ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1944"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1945"/>
       <source>Stack</source>
       <translation>スタック</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2057"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2058"/>
       <source>Enter expression to run to...</source>
       <translation>実行する条件式を入力...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2080"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2249"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2081"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2250"/>
       <source>Error!</source>
       <translation>エラー!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2080"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2081"/>
       <source>Patches can only be shown while debugging...</source>
       <translation>デバッグ中にのみパッチを表示できます...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2137"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2138"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>寄付はすべて x64dbg の開発に充てられます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2150"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2151"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>X64dbg の公式ブログをみてください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2163"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2164"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>バグを報告するためのウェブサイトが表示されます。できるだけ多くの情報を入力してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2176"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2177"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>このアクションはデバッガをクラッシュさせてクラッシュ ダンプを生成します。そのため保存していないデータは失われます。続行しますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2189"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2190"/>
       <source>Have fun debugging the debugger!</source>
       <translation>x64dbg デバッガを使ってデバッグを楽しんでください!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2189"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2190"/>
       <source>Debugger detected!</source>
       <translation>デバッガが検出されました!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2195"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
       <source>Mnemonic help</source>
       <translation>ニーモニックのヘルプ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2234"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2235"/>
       <source>Change Command Line</source>
       <translation>コマンドラインの変更</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2239"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2240"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>リモートのコマンド ラインを取得できません。詳しくは'getcmdline'を使ってみてください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2249"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2250"/>
       <source>Could not set command line!</source>
       <translation>コマンドラインを設定できませんでした!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2255"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2256"/>
       <source>New command line: </source>
       <translation>新しいコマンドライン : </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2273"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2274"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>マニュアルを開くことができません。x64dbg.chmが存在するかどうか、また、システムに別の問題がないことを確認してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2274"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2275"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>オンラインマニュアルを https://help.x64dbg.com で開きますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2422"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2423"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation>お気に入りのメニューを管理するには、お気に入りダイアログを開きます</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2537"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2538"/>
       <source>Starting tool %1
 </source>
       <translation>ツール %1 を起動中
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2591"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2592"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>ほとんど翻訳されていませんが、この言語を使用しますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2612"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>言語の変更は再起動後に有効になります。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2684"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2685"/>
       <source>Animate command</source>
       <translation>アニメーション コマンド</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2684"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2685"/>
       <source>Example: StepInto</source>
       <translation>例 : ステップイン</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2697"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2698"/>
       <source>Customize Menus</source>
       <translation>メニューのカスタマイズ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2706"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>設定 (*.ini);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
       <source>Import database</source>
       <translation>データベースのインポート</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>データベース (%1);;データベースのバックアップ (%1.bak);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
       <source>Export database</source>
       <translation>データベースのエクスポート</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>データベース (%1);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2775"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2785"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2776"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2786"/>
       <source>More Commands</source>
       <translation>他のコマンド</translation>
     </message>
@@ -15305,6 +15316,12 @@ Do you want to apply these patches anyway?</source>
   </context>
   <context>
     <name>QObject</name>
+    <message>
+      <location filename="src/cross/widgets/MiscUtil.cpp" line="104"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="99"/>
+      <source>Do not show again</source>
+      <translation type="unfinished"/>
+    </message>
     <message>
       <location filename="src/gui/Src/main.cpp" line="214"/>
       <source>DbgInit Error!</source>
@@ -16523,7 +16540,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="373"/>
       <source>&amp;Ignore inconsistent breakpoints</source>
-      <translation>矛盾したブレークポイントを無視(&amp;I)</translation>
+      <translation>矛盾するブレークポイントを無視(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="380"/>
@@ -16543,7 +16560,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="401"/>
       <source>Disable ASLR</source>
-      <translation>アドレス空間配置のランダム化を無効にする</translation>
+      <translation>ASLR(アドレス空間配置のランダム化)を無効にする</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="410"/>
@@ -16553,7 +16570,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="452"/>
       <source>Animation per-step interval (ms)</source>
-      <translation>アニメーション/ステップ間隔 (ミリ秒)</translation>
+      <translation>アニメーションのステップ間隔 (ミリ秒)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="462"/>
@@ -17114,7 +17131,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="93"/>
       <source>Failed to set module filter!</source>
-      <translation>モジュール フィルターの設定に失敗しました！</translation>
+      <translation>モジュール フィルターの設定に失敗しました!</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="100"/>
