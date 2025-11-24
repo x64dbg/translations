@@ -728,7 +728,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="524"/>
       <source>INT3s</source>
-      <translation>INT3s</translation>
+      <translation>INT3</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="525"/>
@@ -1667,7 +1667,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
       <source>Copy Value</source>
-      <translation type="unfinished"/>
+      <translation>値をコピー</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="210"/>
@@ -2449,7 +2449,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="136"/>
       <source>Remove &amp;Hardware</source>
-      <translation>ハードウェアBP-削除(&amp;H)</translation>
+      <translation>ハードウェア、削除(&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="141"/>
@@ -3326,7 +3326,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="140"/>
       <source>Hardware, Access</source>
-      <translation>ハードウェアBP、アクセス</translation>
+      <translation>ハードウェア、アクセス</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="141"/>
@@ -3355,12 +3355,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="149"/>
       <source>Hardware, Write</source>
-      <translation>ハードウェアBP、書き込み</translation>
+      <translation>ハードウェア、書き込み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="158"/>
       <source>Remove &amp;Hardware</source>
-      <translation>ハードウェアBPを削除(&amp;H)</translation>
+      <translation>ハードウェアを削除(&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="161"/>
@@ -3994,7 +3994,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="109"/>
       <source>Remove Hardware</source>
-      <translation>ハードウェアBPを削除</translation>
+      <translation>ハードウェアを削除</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="113"/>
@@ -8687,7 +8687,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="843"/>
       <source>Calls</source>
-      <translation>Calls</translation>
+      <translation>Call</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="846"/>
@@ -10616,7 +10616,8 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/reference.cpp" line="317"/>
       <source>Invalid scan size 0 passed to RefFindInRange
 </source>
-      <translation type="unfinished"/>
+      <translation>RefFindInRange に無効なスキャンサイズ 0 が渡されました
+</translation>
     </message>
     <message>
       <location filename="src/dbg/simplescript.cpp" line="141"/>
@@ -11626,7 +11627,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="196"/>
       <source>Singlesho&amp;ot</source>
-      <translation>1回限り(&amp;O)</translation>
+      <translation>1 回限り(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="203"/>
@@ -14619,7 +14620,7 @@ Make sure to fill in as much information as possible.</source>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="104"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="115"/>
       <source>&amp;Singleshoot</source>
-      <translation>1回限り(&amp;S)</translation>
+      <translation>1 回限り(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="85"/>
@@ -14627,7 +14628,7 @@ Make sure to fill in as much information as possible.</source>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="107"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="118"/>
       <source>&amp;Restore</source>
-      <translation>ヒット後に復元(&amp;R)</translation>
+      <translation>復元(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="91"/>
@@ -15320,7 +15321,7 @@ Do you want to apply these patches anyway?</source>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="104"/>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="99"/>
       <source>Do not show again</source>
-      <translation type="unfinished"/>
+      <translation>次回から表示しない</translation>
     </message>
     <message>
       <location filename="src/gui/Src/main.cpp" line="214"/>
@@ -16685,7 +16686,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="698"/>
       <source>Only show FS/GS segments</source>
-      <translation>FS/GS セグメントのみ表示</translation>
+      <translation>FS/GS セグメントのみ表示する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="705"/>
@@ -16765,12 +16766,12 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="890"/>
       <source>Show FPU registers as little endian</source>
-      <translation>FPU レジスタをリトルエンディアンとして表示</translation>
+      <translation>FPU レジスタをリトルエンディアンとして表示する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="897"/>
       <source>Save GUI layout and column orders</source>
-      <translation>GUI レイアウトと列の順序を保存</translation>
+      <translation>GUI レイアウトと列の順序を保存する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="904"/>
@@ -16785,7 +16786,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="918"/>
       <source>Show Watch Labels in Side Bar</source>
-      <translation>サイドバーにウォッチ ラベルを表示</translation>
+      <translation>サイドバーにウォッチ ラベルを表示する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="925"/>
@@ -16795,7 +16796,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="932"/>
       <source>Show RVA addresses in graph view</source>
-      <translation>グラフ ビューに相対仮想アドレスを表示</translation>
+      <translation>グラフ ビューに相対仮想アドレスを表示する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="939"/>
@@ -16805,12 +16806,12 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="946"/>
       <source>Auto follow operand in stack</source>
-      <translation>スタック内のオペランドを自動追跡</translation>
+      <translation>スタック内のオペランドを自動追跡する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="953"/>
       <source>Show exit confirmation dialog</source>
-      <translation>終了確認ダイアログを表示</translation>
+      <translation>終了確認ダイアログを表示する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="960"/>
@@ -19253,7 +19254,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="90"/>
       <source>Hardware, Access</source>
-      <translation>ハードウェアBP-アクセス</translation>
+      <translation>ハードウェア、アクセス</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="91"/>
@@ -19282,12 +19283,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="99"/>
       <source>Hardware, Write</source>
-      <translation>ハードウェアBP、書き込み</translation>
+      <translation>ハードウェア、書き込み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="108"/>
       <source>Remove &amp;Hardware</source>
-      <translation>ハードウェアBPの削除(&amp;H)</translation>
+      <translation>ハードウェアを削除(&amp;H)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="111"/>
@@ -19298,7 +19299,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="112"/>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="117"/>
       <source>&amp;Singleshoot</source>
-      <translation>1回限り(&amp;S)</translation>
+      <translation>1 回限り(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="113"/>
