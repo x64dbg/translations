@@ -12,10 +12,10 @@ jobs:
       contents: write
     steps:
       - name: Checkout (main branch)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Java
-        uses: actions/setup-java@v4
+        uses: actions/setup-java@v5
         with:
           distribution: 'temurin'
           java-version: '21'
@@ -35,8 +35,15 @@ jobs:
         run: |
           .\crowdin-sync.bat
 
+      - name: Send Discord notification on failure
+        if: failure()
+        shell: bash
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: ./send-discord-notification.sh
+
       - name: Checkout (translations branch)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ssh-key: ${{ secrets.UPDATE_SSH_KEY }}
           ref: translations

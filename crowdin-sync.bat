@@ -14,8 +14,9 @@ if not %ERRORLEVEL%==0 (
 )
 
 echo Checking translations...
-TranslationChecker.exe translations
+TranslationChecker.exe translations > TranslationChecker.log 2>&1
 set CHECKER_ERRORLEVEL=%ERRORLEVEL%
+type TranslationChecker.log
 
 echo Generating Qt translations...
 for %%f in (translations\*.ts) do (
