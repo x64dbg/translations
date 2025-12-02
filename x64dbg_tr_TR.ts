@@ -6526,258 +6526,258 @@
       <translation> (Adres: %p)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="142"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="131"/>
       <source>Invalid parameter [base]!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="147"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="136"/>
       <source>Invalid memory address!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="155"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="144"/>
       <source>Invalid parameter [size]</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="161"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="150"/>
       <source>Failed to load module (ModLoad)...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="169"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="158"/>
       <source>Virtual module "%s" loaded on %p[%p]!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="176"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="165"/>
       <source>This may take very long, depending on your network connection and data in the debug directory...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="188"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="206"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="244"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="177"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="195"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="233"/>
       <source>Done! See symbol log for more information</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="195"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="218"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="256"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="184"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="207"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="245"/>
       <source>Invalid module "%s"!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="202"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="191"/>
       <source>Symbol download failed... See symbol log for more information</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="224"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="213"/>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="113"/>
       <source>File does not exist!</source>
       <translation>Dosya bulunamıyor!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="229"/>
       <source>Symbol load failed... See symbol log for more information</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="258"/>
       <location filename="src/dbg/commands/cmd-types.cpp" line="387"/>
       <source>Done!</source>
       <translation>Bitti!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="280"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="289"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="278"/>
       <source>Invalid argument</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="303"/>
       <source>Image information for %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="305"/>
       <source>Characteristics (0x%X):
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="307"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
       <source>  None
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="308"/>
       <source>IMAGE_FILE_RELOCS_STRIPPED: Relocation info stripped from file.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="309"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="310"/>
       <source>IMAGE_FILE_LINE_NUMS_STRIPPED: Line numbers stripped from file.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="311"/>
       <source>IMAGE_FILE_LOCAL_SYMS_STRIPPED: Local symbols stripped from file.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="312"/>
       <source>IMAGE_FILE_AGGRESIVE_WS_TRIM: Agressively trim working set</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
       <source>IMAGE_FILE_LARGE_ADDRESS_AWARE: App can handle &gt;2gb addresses</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
       <source>IMAGE_FILE_BYTES_REVERSED_LO: Bytes of machine word are reversed.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
       <source>IMAGE_FILE_32BIT_MACHINE: 32 bit word machine.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>IMAGE_FILE_DEBUG_STRIPPED: Debugging info stripped from file in .DBG file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
       <source>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: If Image is on removable media, copy and run from the swap file.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
       <source>IMAGE_FILE_NET_RUN_FROM_SWAP: If Image is on Net, copy and run from the swap file.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
       <source>IMAGE_FILE_SYSTEM: System File.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
       <source>IMAGE_FILE_DLL: File is a DLL.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
       <source>IMAGE_FILE_UP_SYSTEM_ONLY: File should only be run on a UP machine</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
       <source>DLL Characteristics (0x%X):
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
       <source>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL can move.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
       <source>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Image is NX compatible</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: Image understands isolation and doesn't want it</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_SEH: Image does not use SEH. No SE handler may reside in this image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="343"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="344"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
       <source>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: Driver uses WDM model.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="345"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="334"/>
       <source>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: Remote Desktop Services aware.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="357"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="346"/>
       <source>Not enough arguments!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="372"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="384"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="361"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="373"/>
       <source>Invalid relocation table!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="389"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="378"/>
       <source>Relocation table size: %X
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="421"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="410"/>
       <source>Failed to get SEH (disabled?)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="427"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="416"/>
       <source>Failed to get VEH (loaded symbols for ntdll.dll?)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="434"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="423"/>
       <source>Failed to get VCH (loaded symbols for ntdll.dll?)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="440"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="429"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernelbase.dll?)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="442"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="431"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernel32.dll?)</source>
       <translation type="unfinished"/>
     </message>
@@ -7922,7 +7922,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="22"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="23"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="57"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="79"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="101"/>
@@ -7934,11 +7934,11 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="56"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="64"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="91"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="113"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="343"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="57"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="65"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="92"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="114"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="361"/>
       <location filename="src/dbg/commands/cmd-undocumented.cpp" line="210"/>
       <source>Invalid address "%s"!
 </source>
@@ -7946,43 +7946,43 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="100"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="101"/>
       <source>Invalid stack address!</source>
       <translation>Geçersiz yığın adresi!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="136"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="148"/>
       <source>Invalid address %p!
 </source>
       <translation>Geçersiz adres %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="153"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="170"/>
       <source>No graph generated...</source>
       <translation>Hiçbir grafik oluşturulmadı...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="191"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="209"/>
       <source>Stack is now frozen
 </source>
       <translation>Yığın dondu
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="193"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="211"/>
       <source>Stack is now unfrozen
 </source>
       <translation>Yığın çözüldü
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="201"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="219"/>
       <source>Script</source>
       <translation>Komut Dosyası</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="203"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="221"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="401"/>
@@ -7998,28 +7998,28 @@
       <translation>Adres</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="204"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="222"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="196"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="350"/>
       <source>Data</source>
       <translation>Veri</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="302"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="320"/>
       <source>Invalid argument 1 : %s
 </source>
       <translation>Geçersiz argüman 1 : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="307"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="325"/>
       <source>Invalid argument 2 : %s
 </source>
       <translation>Geçersiz argüman 2 : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="350"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="368"/>
       <source>Address "%s" doesn't belong to any module!
 </source>
       <translation type="unfinished"/>
@@ -13033,9 +13033,9 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1939"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1942"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1945"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
       <source>&amp;Plugins</source>
       <translation>&amp;Eklentiler</translation>
     </message>
@@ -13489,7 +13489,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2138"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
       <source>Donate</source>
       <translation>Bağış</translation>
     </message>
@@ -13568,7 +13568,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2164"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
       <source>Report Bug</source>
       <translation>Hata Raporla</translation>
     </message>
@@ -13793,13 +13793,13 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2177"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
       <source>Generate crash dump</source>
       <translation>Çökme dökümü oluştur</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2422"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2441"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>&amp;Sık Kullanılan Araçları Yönet...</translation>
     </message>
@@ -13855,7 +13855,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2151"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
       <source>Blog</source>
       <translation>Blog</translation>
     </message>
@@ -14115,7 +14115,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1218"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2273"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2292"/>
       <source>Error</source>
       <translation>Hata</translation>
     </message>
@@ -14172,10 +14172,10 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="491"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="494"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2584"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2591"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2604"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2603"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2610"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2630"/>
       <source>Languages</source>
       <translation>Diller</translation>
     </message>
@@ -14268,7 +14268,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2706"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
       <source>Open file</source>
       <translation>Dosya Aç</translation>
     </message>
@@ -14278,167 +14278,167 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
       <translation>Çalıştırılabilinir (*.exe *.dll);;Tüm Dosyalar (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1939"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
       <source>Disassembly</source>
       <translation>Disassembly</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1942"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
       <source>Dump</source>
       <translation>Döküm</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1945"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
       <source>Stack</source>
       <translation>Yığın</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2058"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2077"/>
       <source>Enter expression to run to...</source>
       <translation>Çalıştırılacak ifadeyi girin...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2081"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2250"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
       <source>Error!</source>
       <translation>Hata!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2081"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
       <source>Patches can only be shown while debugging...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2138"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>Yolladığınız tüm para x64dbg geliştirilmesine harcanıyor.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2151"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>x64dbg resmi blog sayfasını ziyaret ediceksin.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2164"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>Bir hatayı rapor edebileceğiniz bir web sitesine yönlendirileceksiniz.
 Mümkün olduğunca çok bilgi girdiğinizden emin olun.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2177"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>Bu eylem, hata ayıklayıcıyı çökertecek ve bir çökme dökümü oluşturtacak. KAYDEDİLMEMİŞ TÜM VERİLERİNİZİ KAYBEDİCEKSİNİZ. Gerçekten devam etmek istiyor musunuz?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2190"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
       <source>Have fun debugging the debugger!</source>
       <translation>Hata ayıklayıcı ile hata ayıklarken iyi eğlenceler!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2190"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
       <source>Debugger detected!</source>
       <translation>Hata ayıklayıcı algılandı!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2215"/>
       <source>Mnemonic help</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2235"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2254"/>
       <source>Change Command Line</source>
       <translation>Komut Satırını Değiştir</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2240"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2259"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>Uzak komut satırı alınamıyor, daha fazla bilgi için 'getcmdline' komutunu kullanın.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2250"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
       <source>Could not set command line!</source>
       <translation>Komut satırı ayarlanamadı!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2256"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2275"/>
       <source>New command line: </source>
       <translation>Yeni komut satırı: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2274"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2293"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>Kullanım kılavuzu açılamıyor. x64dbg.chm dosyanızın olduğunu kontrol edin ve sisteminizde ile ilgili başka bir sorun olmadığından emin olun.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2275"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2294"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2423"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2442"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2538"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2557"/>
       <source>Starting tool %1
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2592"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>Çeviri neredeyse boş. Yine de bu dili kullanmak istiyormusunuz?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2612"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2631"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>Yeniden başlatıldığında, yeni dil geçerli olucak.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2685"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
       <source>Animate command</source>
       <translation>İzleme komutu</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2685"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
       <source>Example: StepInto</source>
       <translation>Örnek: StepInto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2698"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2717"/>
       <source>Customize Menus</source>
       <translation>Menüleri Özelleştir</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2706"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>Ayarlar (*.ini);;Tüm dosyalar (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
       <source>Import database</source>
       <translation>Veritabanını içe aktar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
       <source>Export database</source>
       <translation>Veritabanını dışa aktar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>Veritabanları (%1);;Tüm dosyalar (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2776"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2786"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2795"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2805"/>
       <source>More Commands</source>
       <translation>Daha Fazla Komut</translation>
     </message>
@@ -15251,7 +15251,7 @@ Bu yamaları yine de uygulamak istiyor musunuz?</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/main.cpp" line="214"/>
+      <location filename="src/gui/Src/main.cpp" line="243"/>
       <source>DbgInit Error!</source>
       <translation>DbgInit Hatası!</translation>
     </message>
@@ -16929,156 +16929,171 @@ TEB, Win32 API'sini çağırmadan süreç hakkında bir çok bilgi almak için k
   <context>
     <name>SimpleTraceDialog</name>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="20"/>
-      <source>Hint: History is available in every text field with the Up/Down arrows!</source>
-      <translation>Hint: History is available in every text field with the Up/Down arrows!</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="30"/>
-      <source>Lo&amp;g Condition:</source>
-      <translation>&amp;Günlük Koşulu:</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="40"/>
-      <source>&amp;Command Text:</source>
-      <translation>Komut Metni:</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="59"/>
-      <source>&amp;Break Condition:</source>
-      <translation>Kesme Koşulu:</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="90"/>
-      <source>&amp;Record trace</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="97"/>
-      <source>Log &amp;File...</source>
-      <translation>Günlük &amp;Dosyası...</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="110"/>
-      <source>&amp;OK</source>
-      <translation>&amp;Tamam</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="126"/>
-      <source>C&amp;ancel</source>
-      <translation>&amp;İptal</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="135"/>
-      <source>C&amp;ommand Condition:</source>
-      <translation>Komut &amp;Durumu:</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="151"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="26"/>
       <source>&amp;Maximum trace count:</source>
       <translation>&amp;Maksimum iz sayısı:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="174"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="36"/>
+      <source>Hint: History is available in every text field with the Up/Down arrows!</source>
+      <translation>Hint: History is available in every text field with the Up/Down arrows!</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="61"/>
+      <source>&amp;Record trace</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="68"/>
+      <source>Log &amp;File...</source>
+      <translation>Günlük &amp;Dosyası...</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="81"/>
+      <source>&amp;OK</source>
+      <translation>&amp;Tamam</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="97"/>
+      <source>C&amp;ancel</source>
+      <translation>&amp;İptal</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="109"/>
+      <source>Lo&amp;g Condition:</source>
+      <translation>&amp;Günlük Koşulu:</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="125"/>
+      <source>Module Filter:</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="132"/>
       <source>&amp;Log Text:</source>
       <translation>Günlük &amp;Metni:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="184"/>
-      <source>Module &amp;Filter</source>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="142"/>
+      <source>C&amp;ommand Condition:</source>
+      <translation>Komut &amp;Durumu:</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="167"/>
+      <source>Trace all modules (no filter).</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="170"/>
+      <source>&amp;All Modules</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="180"/>
+      <source>Conditions, logging, and recording only apply when execution is in a User module. System code is stepped through silently.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="183"/>
+      <source>&amp;User Only</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="190"/>
-      <source>&amp;None</source>
+      <source>Conditions, logging, and recording only apply when execution is in a System module. User code is stepped through silently.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="200"/>
-      <source>&amp;User</source>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="193"/>
+      <source>&amp;System Only</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="207"/>
-      <source>&amp;System</source>
-      <translation type="unfinished"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="215"/>
+      <source>&amp;Break Condition:</source>
+      <translation>Kesme Koşulu:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="19"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="228"/>
+      <source>&amp;Command Text:</source>
+      <translation>Komut Metni:</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="20"/>
       <source>Example: %1 (numbers are hex by default)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="20"/>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="21"/>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="22"/>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="23"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="24"/>
       <source>Example: %1</source>
       <translation>Örnek: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="46"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="110"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="47"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="111"/>
       <source>Trace log file</source>
       <translation>Günlük dosyaları girdileri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="47"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="48"/>
       <source>It appears you have set the log file, but not the log text. &lt;b&gt;This will result in an empty log&lt;/b&gt;. Do you really want to continue?</source>
       <translation>Girdi dosyasını ayarladınız ancak girdi metnini girmediniz. &lt;b&gt;Bu boş bir girdiye neden olur&lt;/b&gt;. devam etmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="59"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="68"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="75"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="80"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="93"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="60"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="69"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="76"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="81"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="94"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="101"/>
       <source>Error</source>
       <translation>Hata</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="59"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="60"/>
       <source>Trace recording was requested, but not enabled.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="68"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="69"/>
       <source>Failed to set log text/condition!</source>
       <translation>Failed to set log text/condition!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="75"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="76"/>
       <source>Failed to set command text/condition!</source>
       <translation>Failed to set command text/condition!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="80"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="81"/>
       <source>Failed to set log file!</source>
       <translation>Günlük dosyası ayarlanamadı!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="93"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="94"/>
       <source>Failed to set module filter!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="101"/>
       <source>Failed to start trace!</source>
       <translation>Failed to start trace!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="111"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="112"/>
       <source>Enter the path to the log file.</source>
       <translation>Girdi dosyasının yolunu girin.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="112"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="113"/>
       <source>Log Files (*.txt *.log);;All Files (*.*)</source>
       <translation>Günlük dosyaları (*.txt *.log);;Tüm dosyalar (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="128"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="129"/>
       <source>Trace recording already started</source>
       <translation type="unfinished"/>
     </message>

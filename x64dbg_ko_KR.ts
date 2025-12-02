@@ -6526,258 +6526,258 @@
       <translation> (주소: %p)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="142"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="131"/>
       <source>Invalid parameter [base]!</source>
       <translation>유효하지 않은 매개변수 [base]!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="147"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="136"/>
       <source>Invalid memory address!</source>
       <translation>유효하지 않은 메모리 주소!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="155"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="144"/>
       <source>Invalid parameter [size]</source>
       <translation>유효하지 않은 매개변수 [size]</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="161"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="150"/>
       <source>Failed to load module (ModLoad)...</source>
       <translation>모듈(ModLoad)를 로드하는데 실패했습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="169"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="158"/>
       <source>Virtual module "%s" loaded on %p[%p]!
 </source>
       <translation>가상 모듈 "%s"이 %p[%p]에 로드되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="176"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="165"/>
       <source>This may take very long, depending on your network connection and data in the debug directory...</source>
       <translation>네트워크 연결 상태와 디버그 디렉토리에 따라 시간이 오래걸릴 수 있습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="188"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="206"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="244"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="177"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="195"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="233"/>
       <source>Done! See symbol log for more information</source>
       <translation>완료! 자세한 정보는 심볼 로그를 참조하세요</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="195"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="218"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="256"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="184"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="207"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="245"/>
       <source>Invalid module "%s"!
 </source>
       <translation>유효하지 않은 모듈 "%s"!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="202"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="191"/>
       <source>Symbol download failed... See symbol log for more information</source>
       <translation>심볼 다운로드 실패... 자세한 정보는 심볼 로그를 참조하세요</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="224"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="213"/>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="113"/>
       <source>File does not exist!</source>
       <translation>파일이 존재 하지 않습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="229"/>
       <source>Symbol load failed... See symbol log for more information</source>
       <translation>심볼 로드 실패... 자세한 정보는 심볼 로그를 참조하세요</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="258"/>
       <location filename="src/dbg/commands/cmd-types.cpp" line="387"/>
       <source>Done!</source>
       <translation>완료!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="280"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="289"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="269"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="278"/>
       <source>Invalid argument</source>
       <translation>유효하지 않은 인자</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="303"/>
       <source>Image information for %s
 </source>
       <translation>%s에 대한 이미지 정보</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="305"/>
       <source>Characteristics (0x%X):
 </source>
       <translation>특성 (0x%X):</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="337"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="307"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
       <source>  None
 </source>
       <translation>  None</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="308"/>
       <source>IMAGE_FILE_RELOCS_STRIPPED: Relocation info stripped from file.</source>
       <translation>IMAGE_FILE_RELOCS_STRIPPED: 파일에서 재배치 정보가 삭제되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="309"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
       <translation>IMAGE_FILE_EXECUTABLE_IMAGE: 파일이 실행가능합니다 (즉, 해결되지 않은 외부 참조가 없음).</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="310"/>
       <source>IMAGE_FILE_LINE_NUMS_STRIPPED: Line numbers stripped from file.</source>
       <translation>IMAGE_FILE_LINE_NUMS_STRIPPED: 줄 번호가 파일에서 삭제되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="311"/>
       <source>IMAGE_FILE_LOCAL_SYMS_STRIPPED: Local symbols stripped from file.</source>
       <translation>IMAGE_FILE_LOCAL_SYMS_STRIPPED: 파일에서 로컬 심볼이 삭제되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="323"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="312"/>
       <source>IMAGE_FILE_AGGRESIVE_WS_TRIM: Agressively trim working set</source>
       <translation>IMAGE_FILE_AGGRESIVE_WS_TRIM: 적극적으로 현재 메모리 내의 데이터 최적화</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
       <source>IMAGE_FILE_LARGE_ADDRESS_AWARE: App can handle &gt;2gb addresses</source>
       <translation>IMAGE_FILE_LARGE_ADDRESS_AWARE: 2gb를 초과하는 주소를 처리할 수 있습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
       <source>IMAGE_FILE_BYTES_REVERSED_LO: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_LO: 기계어의 바이트가 반대로 되어있습니다. (리틀엔디안)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
       <source>IMAGE_FILE_32BIT_MACHINE: 32 bit word machine.</source>
       <translation>IMAGE_FILE_32BIT_MACHINE: 32비트 아키텍처 기계입니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>IMAGE_FILE_DEBUG_STRIPPED: Debugging info stripped from file in .DBG file</source>
       <translation>IMAGE_FILE_DEBUG_STRIPPED: 디버깅 정보가 .DBG파일로 부터 삭제 되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
       <source>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: If Image is on removable media, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_REMOVABLE_RUN_FROM_SWAP: 이미지가 이동식 미디어에 있는 경우 복사하여 스왑파일에서 실행합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="318"/>
       <source>IMAGE_FILE_NET_RUN_FROM_SWAP: If Image is on Net, copy and run from the swap file.</source>
       <translation>IMAGE_FILE_NET_RUN_FROM_SWAP: 이미지가 네트워크에 있는 경우 복사하여 스왑파일에서 실행합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="319"/>
       <source>IMAGE_FILE_SYSTEM: System File.</source>
       <translation>IMAGE_FILE_SYSTEM: 시스템 파일입니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="320"/>
       <source>IMAGE_FILE_DLL: File is a DLL.</source>
       <translation>IMAGE_FILE_DLL: DLL 파일입니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
       <source>IMAGE_FILE_UP_SYSTEM_ONLY: File should only be run on a UP machine</source>
       <translation>IMAGE_FILE_UP_SYSTEM_ONLY: 파일이 UP(단일 프로세서) 기계에서만 실행되어야 합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
       <translation>IMAGE_FILE_BYTES_REVERSED_HI: 기계어의 바이트가 반대로 되어있습니다. (빅엔디안)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
       <source>DLL Characteristics (0x%X):
 </source>
       <translation>DLL 특성 (0x%X):</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="338"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="327"/>
       <source>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL can move.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE: DLL 이동이 가능합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="339"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
       <translation>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: 코드 무결성 이미지</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="340"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
       <source>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: Image is NX compatible</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NX_COMPAT: 이미지가 NX호환성이 있습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: Image understands isolation and doesn't want it</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: 이미지는 아이솔레이션을 하지 않습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="342"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_SEH: Image does not use SEH. No SE handler may reside in this image</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_SEH: 이미지가 SEH를 사용하지 않습니다. 이 이미지에는 SE 핸들러가 존재할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="343"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_NO_BIND: 이 이미지를 바인드할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="344"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
       <source>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: Driver uses WDM model.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_WDM_DRIVER: 드라이버는 WDM모델을 사용합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="345"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="334"/>
       <source>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: Remote Desktop Services aware.</source>
       <translation>IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE: 원격 데스크톱 서비스를 인식합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="357"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="346"/>
       <source>Not enough arguments!</source>
       <translation>인자가 부족합니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="372"/>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="384"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="361"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="373"/>
       <source>Invalid relocation table!</source>
       <translation>유효하지 않은 재배치 테이블입니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="389"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="378"/>
       <source>Relocation table size: %X
 </source>
       <translation>재배치 테이블 크기: %X</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="421"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="410"/>
       <source>Failed to get SEH (disabled?)</source>
       <translation>SEH를 가져오지 못했습니다 (비활성화?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="427"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="416"/>
       <source>Failed to get VEH (loaded symbols for ntdll.dll?)</source>
       <translation>VEH를 가져오지 못했습니다 (ntdll.dll에 대한 심볼이 로드?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="434"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="423"/>
       <source>Failed to get VCH (loaded symbols for ntdll.dll?)</source>
       <translation>VCH를 가져오지 못했습니다 (ntdll.dll에 대한 심볼이 로드?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="440"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="429"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernelbase.dll?)</source>
       <translation>UnhandledExceptionFilter를 가져오지 못했습니다 (kernelbase.dll에 대한 심볼이 로드?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-analysis.cpp" line="442"/>
+      <location filename="src/dbg/commands/cmd-analysis.cpp" line="431"/>
       <source>Failed to get UnhandledExceptionFilter (loaded symbols for kernel32.dll?)</source>
       <translation>UnhandledExceptionFilter를 가져오지 못했습니다 (kernel32.dll에 대한 심볼이 로드?)
 </translation>
@@ -7922,7 +7922,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="22"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="23"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="57"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="79"/>
       <location filename="src/dbg/commands/cmd-thread-control.cpp" line="101"/>
@@ -7934,11 +7934,11 @@
       <translation>유효하지 않은 스레드 %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="56"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="64"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="91"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="113"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="343"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="57"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="65"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="92"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="114"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="361"/>
       <location filename="src/dbg/commands/cmd-undocumented.cpp" line="210"/>
       <source>Invalid address "%s"!
 </source>
@@ -7946,43 +7946,43 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="100"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="101"/>
       <source>Invalid stack address!</source>
       <translation>잘못 된 스택 주소!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="136"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="148"/>
       <source>Invalid address %p!
 </source>
       <translation>잘못 된 주소 %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="153"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="170"/>
       <source>No graph generated...</source>
       <translation>그래프 생성되지 않음...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="191"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="209"/>
       <source>Stack is now frozen
 </source>
       <translation>지금 스택이 동결되었습니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="193"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="211"/>
       <source>Stack is now unfrozen
 </source>
       <translation>지금 스택이 동결해제되었습니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="201"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="219"/>
       <source>Script</source>
       <translation>스크립트</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="203"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="221"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="401"/>
@@ -7998,28 +7998,28 @@
       <translation>주소</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="204"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="222"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="196"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="350"/>
       <source>Data</source>
       <translation>데이터</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="302"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="320"/>
       <source>Invalid argument 1 : %s
 </source>
       <translation>잘못 된 인자 1: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="307"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="325"/>
       <source>Invalid argument 2 : %s
 </source>
       <translation>잘못 된 인자 2: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="350"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="368"/>
       <source>Address "%s" doesn't belong to any module!
 </source>
       <translation>주소 "%s"는 어떤 모듈에도 속해있지 않습니다!</translation>
@@ -13017,9 +13017,9 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1939"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1942"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1945"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
       <source>&amp;Plugins</source>
       <translation>플러그인(&amp;P)</translation>
     </message>
@@ -13473,7 +13473,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2138"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
       <source>Donate</source>
       <translation>기부</translation>
     </message>
@@ -13552,7 +13552,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2164"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
       <source>Report Bug</source>
       <translation>버그 보고</translation>
     </message>
@@ -13782,13 +13782,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2177"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
       <source>Generate crash dump</source>
       <translation>크래시 덤프 생성</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2422"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2441"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>즐겨찾기 도구 관리(&amp;M)...</translation>
     </message>
@@ -13844,7 +13844,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2151"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
       <source>Blog</source>
       <translation>블로그</translation>
     </message>
@@ -14106,7 +14106,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1218"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2273"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2292"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
@@ -14163,10 +14163,10 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="491"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="494"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2584"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2591"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2604"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2603"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2610"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2630"/>
       <source>Languages</source>
       <translation>언어</translation>
     </message>
@@ -14259,7 +14259,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2706"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
       <source>Open file</source>
       <translation>파일 열기</translation>
     </message>
@@ -14269,167 +14269,167 @@ Do you want to continue rendering this graph?</source>
       <translation>실행 파일(*.exe *.dll);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1939"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
       <source>Disassembly</source>
       <translation>디스어셈블리</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1942"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
       <source>Dump</source>
       <translation>덤프</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1945"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
       <source>Stack</source>
       <translation>스택</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2058"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2077"/>
       <source>Enter expression to run to...</source>
       <translation>실행할 표현식 입력...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2081"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2250"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
       <source>Error!</source>
       <translation>오류발생!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2081"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
       <source>Patches can only be shown while debugging...</source>
       <translation>패치는 디버깅 중에만 보입니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2138"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>모든 기부금은 x64dbg 개발에 사용됩니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2151"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>x64dbg 공식 블로그에 방문합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2164"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>버그를 보고하기 위해서 웹사이트에 방문합니다.
 가능한 많은 정보를 입력해주세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2177"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>이 작업은 디버거 충돌시켜서 크래시 덤프를 생성합니다. 저장하지 않은 데이터는 모두 잃어버립니다. 정말로 계속 하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2190"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
       <source>Have fun debugging the debugger!</source>
       <translation>디버거 디버깅하기로 즐거운 시간 보내세요!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2190"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
       <source>Debugger detected!</source>
       <translation>디버거 감지됨!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2215"/>
       <source>Mnemonic help</source>
       <translation>연상기호 도움말</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2235"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2254"/>
       <source>Change Command Line</source>
       <translation>명령줄 바꾸기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2240"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2259"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>원격 명령줄을 가져올 수 없습니다, 명령 'getcmdline'을 사용해서 자세한 정보를 확인하세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2250"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
       <source>Could not set command line!</source>
       <translation>명령줄을 설정할 수 없음!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2256"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2275"/>
       <source>New command line: </source>
       <translation>새로운 명령줄: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2274"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2293"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>사용설명서를 열 수 없습니다. x64dbg.chm 파일이 존재하는지, 시스템의 다른 프로그램에서 사용되지는 않는지 확인해보세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2275"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2294"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>https://help.x64dbg.com에서 온라인 메뉴얼을 여시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2423"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2442"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation>즐겨찾기 메뉴를 관리할 수 있는 즐겨찾기 창을 엽니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2538"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2557"/>
       <source>Starting tool %1
 </source>
       <translation>%1 도구 시작</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2592"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>번역문이 거의 비어있습니다. 이 언어를 계속 사용하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2612"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2631"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>새로운 언어 설정이 재시작하면 적용됩니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2685"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
       <source>Animate command</source>
       <translation>자동진행 명령</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2685"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
       <source>Example: StepInto</source>
       <translation>예시: StepInto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2698"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2717"/>
       <source>Customize Menus</source>
       <translation>사용자 지정 메뉴</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2706"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>설정 파일 (*.ini);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
       <source>Import database</source>
       <translation>데이터베이스 가져오기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>데이터베이스 (%1);;데이터베이스 백업 (%1.bak);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
       <source>Export database</source>
       <translation>데이터베이스 내보내기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>데이터베이스 (%1);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2776"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2786"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2795"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2805"/>
       <source>More Commands</source>
       <translation>더 많은 명령어</translation>
     </message>
@@ -15242,7 +15242,7 @@ Do you want to apply these patches anyway?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/main.cpp" line="214"/>
+      <location filename="src/gui/Src/main.cpp" line="243"/>
       <source>DbgInit Error!</source>
       <translation>DbgInit 오류!</translation>
     </message>
@@ -16927,156 +16927,171 @@ The TEB can be used to get a lot of information on the process without calling W
   <context>
     <name>SimpleTraceDialog</name>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="20"/>
-      <source>Hint: History is available in every text field with the Up/Down arrows!</source>
-      <translation>조언: 작업내역은 위/아래 화살표로 텍스트 필드 어디에서든 사용하실 수 있습니다!</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="30"/>
-      <source>Lo&amp;g Condition:</source>
-      <translation>로그 조건(&amp;G):</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="40"/>
-      <source>&amp;Command Text:</source>
-      <translation>명령 텍스트(&amp;C):</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="59"/>
-      <source>&amp;Break Condition:</source>
-      <translation>중단 조건(&amp;B):</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="90"/>
-      <source>&amp;Record trace</source>
-      <translation>추적 기록(&amp;R)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="97"/>
-      <source>Log &amp;File...</source>
-      <translation>로그 파일(&amp;F)...</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="110"/>
-      <source>&amp;OK</source>
-      <translation>확인(&amp;O)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="126"/>
-      <source>C&amp;ancel</source>
-      <translation>취소(&amp;A)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="135"/>
-      <source>C&amp;ommand Condition:</source>
-      <translation>명령 조건(&amp;O):</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="151"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="26"/>
       <source>&amp;Maximum trace count:</source>
       <translation>최대 추적 횟수(&amp;M):</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="174"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="36"/>
+      <source>Hint: History is available in every text field with the Up/Down arrows!</source>
+      <translation>조언: 작업내역은 위/아래 화살표로 텍스트 필드 어디에서든 사용하실 수 있습니다!</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="61"/>
+      <source>&amp;Record trace</source>
+      <translation>추적 기록(&amp;R)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="68"/>
+      <source>Log &amp;File...</source>
+      <translation>로그 파일(&amp;F)...</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="81"/>
+      <source>&amp;OK</source>
+      <translation>확인(&amp;O)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="97"/>
+      <source>C&amp;ancel</source>
+      <translation>취소(&amp;A)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="109"/>
+      <source>Lo&amp;g Condition:</source>
+      <translation>로그 조건(&amp;G):</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="125"/>
+      <source>Module Filter:</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="132"/>
       <source>&amp;Log Text:</source>
       <translation>&amp;로그 내용:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="184"/>
-      <source>Module &amp;Filter</source>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="142"/>
+      <source>C&amp;ommand Condition:</source>
+      <translation>명령 조건(&amp;O):</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="167"/>
+      <source>Trace all modules (no filter).</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="170"/>
+      <source>&amp;All Modules</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="180"/>
+      <source>Conditions, logging, and recording only apply when execution is in a User module. System code is stepped through silently.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="183"/>
+      <source>&amp;User Only</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="190"/>
-      <source>&amp;None</source>
+      <source>Conditions, logging, and recording only apply when execution is in a System module. User code is stepped through silently.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="200"/>
-      <source>&amp;User</source>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="193"/>
+      <source>&amp;System Only</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="207"/>
-      <source>&amp;System</source>
-      <translation type="unfinished"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="215"/>
+      <source>&amp;Break Condition:</source>
+      <translation>중단 조건(&amp;B):</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="19"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="228"/>
+      <source>&amp;Command Text:</source>
+      <translation>명령 텍스트(&amp;C):</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="20"/>
       <source>Example: %1 (numbers are hex by default)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="20"/>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="21"/>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="22"/>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="23"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="24"/>
       <source>Example: %1</source>
       <translation>예: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="46"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="110"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="47"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="111"/>
       <source>Trace log file</source>
       <translation>로그 파일 추적</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="47"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="48"/>
       <source>It appears you have set the log file, but not the log text. &lt;b&gt;This will result in an empty log&lt;/b&gt;. Do you really want to continue?</source>
       <translation>로그 파일을 설정하였을시 표시됩니다. 로그할 내용이 없다면, &lt;b&gt;비어있는 로그를 생성합니다.&lt;/b&gt; 정말로 계속하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="59"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="68"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="75"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="80"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="93"/>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="60"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="69"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="76"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="81"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="94"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="101"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="59"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="60"/>
       <source>Trace recording was requested, but not enabled.</source>
       <translation>추적 기록이 요청되었지만, 활성화되지 못했습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="68"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="69"/>
       <source>Failed to set log text/condition!</source>
       <translation>로그 텍스트/조건을 설정하지 못했습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="75"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="76"/>
       <source>Failed to set command text/condition!</source>
       <translation>명령 텍스트/조건을 설정하지 못했습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="80"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="81"/>
       <source>Failed to set log file!</source>
       <translation>로그 파일 설정에 실패하였습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="93"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="94"/>
       <source>Failed to set module filter!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="101"/>
       <source>Failed to start trace!</source>
       <translation>추적을 시작하지 못했습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="111"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="112"/>
       <source>Enter the path to the log file.</source>
       <translation>로그 파일의 경로를 입력합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="112"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="113"/>
       <source>Log Files (*.txt *.log);;All Files (*.*)</source>
       <translation>로그 파일 (*.txt *.log);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="128"/>
+      <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="129"/>
       <source>Trace recording already started</source>
       <translation>추적 기록이 이미 시작됨</translation>
     </message>
