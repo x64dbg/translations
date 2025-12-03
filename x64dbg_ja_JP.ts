@@ -6637,7 +6637,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="309"/>
       <source>IMAGE_FILE_EXECUTABLE_IMAGE: File is executable (i.e. no unresolved externel references).</source>
-      <translation>IMAGE_FILE_EXECUTABLE_IMAGE: ファイルは実行可能です(未解決の相互参照はありません)。</translation>
+      <translation>IMAGE_FILE_EXECUTABLE_IMAGE: ファイルは実行可能です(つまり、未解決の外部参照はありません)。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="310"/>
@@ -6672,7 +6672,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>IMAGE_FILE_DEBUG_STRIPPED: Debugging info stripped from file in .DBG file</source>
-      <translation>IMAGE_FILE_DEBUG_STRIPPED: .DBGファイル内のファイルからファイルから情報を取り除くデバッグ</translation>
+      <translation>IMAGE_FILE_DEBUG_STRIPPED: .DBG ファイル内のファイルからデバッグ情報が削除されました</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
@@ -8077,7 +8077,7 @@
       <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="95"/>
       <source>Memory %p (size: %.8X) set to %.2X
 </source>
-      <translation>メモリ %p (サイズ: %.8X) が %.2X に設定されました
+      <translation>メモリ %p (サイズ : %.8X) が %.2X に設定されました
 </translation>
     </message>
     <message>
@@ -8485,7 +8485,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-plugins.cpp" line="23"/>
       <source>Could not find export 'ScyllaStartGui' inside Scylla.dll</source>
-      <translation>Scylla.dll 内に 'ScyllaStartGui' のエクスポートが見つかりませんでした</translation>
+      <translation>Scylla.dll 内にエクスポート 'ScyllaStartGui' が見つかりませんでした</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-plugins.cpp" line="40"/>
@@ -8721,7 +8721,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="1057"/>
       <source>RegOpenKeyExW() failed. Cannot enumerate GUIDs.</source>
-      <translation>RegOpenKeyExW() に失敗しました。GUIDを列挙できません。</translation>
+      <translation>RegOpenKeyExW() 失敗。GUIDを列挙できません。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="1088"/>
@@ -9792,8 +9792,7 @@ Invalid database file (JSON)!</source>
       <location filename="src/dbg/debugger.cpp" line="1206"/>
       <source>Breakpoint %p has been disabled because the bytes don't match! Expected: %02X %02X, Found: %02X %02X
 </source>
-      <translation>ブレークポイント %p  はバイトが一致しないため無効になっています! 期待値: %02X %02X, 
-取得: %02X %02X
+      <translation>ブレークポイント %p  はバイトが一致しないため無効になっています! 期待値 : %02X %02X, 検出 : %02X %02X
 </translation>
     </message>
     <message>
@@ -10139,7 +10138,7 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/expressionparser.cpp" line="839"/>
       <source>Expression evaluated to a string: "%s"
 </source>
-      <translation>文字列として評価される式 : "%s"
+      <translation>文字列として評価された式 : "%s"
 </translation>
     </message>
     <message>
@@ -10440,7 +10439,7 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/plugin_loader.cpp" line="306"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
-      <translation>[PLUGIN] GuiMenuAdd(%d) が失敗 (プラグイン : %s )
+      <translation>[PLUGIN] GuiMenuAdd(%d) が失敗しました (プラグイン : %s )
 </translation>
     </message>
     <message>
@@ -11608,7 +11607,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="153"/>
       <source>If this expression evaluates to 1, the command specified above is executed.</source>
-      <translation>この式が 1 に評価された場合、上記で指定されたコマンドが実行されます。</translation>
+      <translation>この式が 1 と評価された場合、上記で指定されたコマンドが実行されます。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditBreakpointDialog.ui" line="156"/>
@@ -15959,7 +15958,7 @@ denormal operand condition.</source>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1741"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
-      <translation>TEB LastStatusValueフィールドの NTSTATUS。</translation>
+      <translation>TEB の LastStatusValue フィールドにある NTSTATUS。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1745"/>
