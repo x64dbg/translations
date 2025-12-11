@@ -6662,7 +6662,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="314"/>
       <source>IMAGE_FILE_BYTES_REVERSED_LO: Bytes of machine word are reversed.</source>
-      <translation>IMAGE_FILE_BYTES_REVERSED_LO: 機械語のバイト数が逆になります。</translation>
+      <translation>IMAGE_FILE_BYTES_REVERSED_LO: マシン語のバイトが逆になります。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="315"/>
@@ -6702,7 +6702,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
-      <translation>IMAGE_FILE_BYTES_REVERSED_HI: マシンワードのバイトが反転されています。</translation>
+      <translation>IMAGE_FILE_BYTES_REVERSED_HI: ママシン語のバイトが逆になります。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
