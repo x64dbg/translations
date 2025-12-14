@@ -10996,179 +10996,179 @@ Do you want me to fix this?</source>
   <context>
     <name>DisassemblerGraphView</name>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="830"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="831"/>
       <source>Use Graph command or menu action to draw control flow graph here...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2142"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2143"/>
       <source>Large number of nodes</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2143"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2144"/>
       <source>The graph you are trying to render has a large number of nodes (%1). This can cause x64dbg to hang or crash. It is recommended to save your data before you continue.
 
 Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2227"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2228"/>
       <source>Follow in &amp;Disassembler</source>
       <translation>&amp;Suivre dans le Désassembleur</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2233"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2234"/>
       <source>Xrefs...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2236"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2237"/>
       <source>Expression</source>
       <translation>Expression</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2238"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2239"/>
       <source>Previous</source>
       <translation>Précédent</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2242"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2243"/>
       <source>Next</source>
       <translation>Suivant</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2287"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2288"/>
       <source>&amp;Address: </source>
       <translation>&amp;Adresse : </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2288"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2289"/>
       <source>&amp;Constant: </source>
       <translation>&amp;Constante : </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2289"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2290"/>
       <source>&amp;Value: </source>
       <translation>&amp;Valeur : </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2304"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2305"/>
       <source>Block incoming: %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2309"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2310"/>
       <source>Block exit %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2317"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2318"/>
       <source>Go to</source>
       <translation>Aller à</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2318"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2319"/>
       <source>Help on mnemonic</source>
       <translation>Aide sur mnémonique</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2319"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2320"/>
       <source>&amp;Highlighting mode</source>
       <translation>&amp;Mode de mise en surbrillance</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2326"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2327"/>
       <source>&amp;Zoom 100%</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2327"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2328"/>
       <source>&amp;Fit to window</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2328"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2329"/>
       <source>&amp;Overview</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2330"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2331"/>
       <source>S&amp;ummary</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2332"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2333"/>
       <source>&amp;Sync with %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2333"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
       <source>&amp;Refresh</source>
       <translation>&amp;Rafraichir</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
       <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2336"/>
       <source>&amp;Save as image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2339"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2340"/>
       <source>Narrow</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2341"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2342"/>
       <source>Medium</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2343"/>
       <source>Wide</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2349"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2350"/>
       <source>Layout</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2353"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2354"/>
       <source>Detach</source>
       <translation>Détacher</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2365"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
       <source>Copy token &amp;text</source>
       <translation>Copier le &amp;texte du jeton</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2367"/>
       <source>Copy token &amp;value</source>
       <translation>Copier le &amp;valeur du jeton</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2590"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2595"/>
       <source>Save as image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2590"/>
-      <source>PNG file (*.png);;WebP file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif)</source>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2595"/>
+      <source>PNG file (*.png);;WebP lossless file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif);;PDF file (*.pdf)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2602"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2619"/>
       <source>Error</source>
       <translation>Erreur</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2602"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2619"/>
       <source>Image saving failed!</source>
       <translation type="unfinished"/>
     </message>
@@ -13499,8 +13499,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1039"/>
-      <source>Bit</source>
-      <translation>Bit</translation>
+      <source>Mark covered (yes/no)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1042"/>
@@ -13509,8 +13509,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1051"/>
-      <source>Byte</source>
-      <translation>Octet</translation>
+      <source>Count hits (up to 255)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1054"/>
@@ -13519,8 +13519,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1063"/>
-      <source>Word</source>
-      <translation>Word</translation>
+      <source>Count hits (up to 65535)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1066"/>

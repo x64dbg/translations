@@ -11160,17 +11160,17 @@ Do you want me to fix this?</source>
   <context>
     <name>DisassemblerGraphView</name>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="830"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="831"/>
       <source>Use Graph command or menu action to draw control flow graph here...</source>
       <translation>그래프 명령어나 메뉴 작업을 사용하여 여기에 제어 흐름 그래프 그리기...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2142"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2143"/>
       <source>Large number of nodes</source>
       <translation>많은 수의 노드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2143"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2144"/>
       <source>The graph you are trying to render has a large number of nodes (%1). This can cause x64dbg to hang or crash. It is recommended to save your data before you continue.
 
 Do you want to continue rendering this graph?</source>
@@ -11179,162 +11179,162 @@ Do you want to continue rendering this graph?</source>
 이 그래프의 렌더링을 계속하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2227"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2228"/>
       <source>Follow in &amp;Disassembler</source>
       <translation>디스어셈블러에서 따라가기(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2233"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2234"/>
       <source>Xrefs...</source>
       <translation>외부참조...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2236"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2237"/>
       <source>Expression</source>
       <translation>표현식</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2238"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2239"/>
       <source>Previous</source>
       <translation>이전</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2242"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2243"/>
       <source>Next</source>
       <translation>다음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2287"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2288"/>
       <source>&amp;Address: </source>
       <translation>주소(&amp;A): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2288"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2289"/>
       <source>&amp;Constant: </source>
       <translation>상수(&amp;C): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2289"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2290"/>
       <source>&amp;Value: </source>
       <translation>값(&amp;V): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2304"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2305"/>
       <source>Block incoming: %1</source>
       <translation>Block incoming: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2309"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2310"/>
       <source>Block exit %1</source>
       <translation>Block exit %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2317"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2318"/>
       <source>Go to</source>
       <translation>이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2318"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2319"/>
       <source>Help on mnemonic</source>
       <translation>연상기호에 대한 도움말</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2319"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2320"/>
       <source>&amp;Highlighting mode</source>
       <translation>강조 모드(&amp;H)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2326"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2327"/>
       <source>&amp;Zoom 100%</source>
       <translation>확대 100%(&amp;Z)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2327"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2328"/>
       <source>&amp;Fit to window</source>
       <translation>창에 크기에 맞추기(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2328"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2329"/>
       <source>&amp;Overview</source>
       <translation>간략하게(&amp;O)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2330"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2331"/>
       <source>S&amp;ummary</source>
       <translation>요약(&amp;U)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2332"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2333"/>
       <source>&amp;Sync with %1</source>
       <translation>%1과 동기화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2333"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
       <source>&amp;Refresh</source>
       <translation>새로고침(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
       <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2336"/>
       <source>&amp;Save as image</source>
       <translation>이미지로 저장(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2339"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2340"/>
       <source>Narrow</source>
       <translation>좁게</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2341"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2342"/>
       <source>Medium</source>
       <translation>보통</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2343"/>
       <source>Wide</source>
       <translation>넓게</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2349"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2350"/>
       <source>Layout</source>
       <translation>표시방법</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2353"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2354"/>
       <source>Detach</source>
       <translation>분리</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2365"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
       <source>Copy token &amp;text</source>
       <translation>토큰 텍스트 복사(&amp;T)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2367"/>
       <source>Copy token &amp;value</source>
       <translation>토큰 값 복사(&amp;V)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2590"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2595"/>
       <source>Save as image</source>
       <translation>이미지로 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2590"/>
-      <source>PNG file (*.png);;WebP file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif)</source>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2595"/>
+      <source>PNG file (*.png);;WebP lossless file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif);;PDF file (*.pdf)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2602"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2619"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2602"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2619"/>
       <source>Image saving failed!</source>
       <translation type="unfinished"/>
     </message>
@@ -13678,8 +13678,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1039"/>
-      <source>Bit</source>
-      <translation>Bit</translation>
+      <source>Mark covered (yes/no)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1042"/>
@@ -13688,8 +13688,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1051"/>
-      <source>Byte</source>
-      <translation>Byte</translation>
+      <source>Count hits (up to 255)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1054"/>
@@ -13698,8 +13698,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1063"/>
-      <source>Word</source>
-      <translation>Word</translation>
+      <source>Count hits (up to 65535)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1066"/>
