@@ -11418,7 +11418,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2595"/>
       <source>PNG file (*.png);;WebP lossless file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif);;PDF file (*.pdf)</source>
-      <translation type="unfinished"/>
+      <translation>PNG ファイル (*.png);;WebP ロスレス ファイル (*.webp);;BMP ファイル (*.bmp);;TIFF ファイル (*.tif);;PDF ファイル (*.pdf)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2619"/>
@@ -13767,7 +13767,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1039"/>
       <source>Mark covered (yes/no)</source>
-      <translation type="unfinished"/>
+      <translation>カバー済みをマーク (はい/いいえ)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1042"/>
@@ -13777,7 +13777,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1051"/>
       <source>Count hits (up to 255)</source>
-      <translation type="unfinished"/>
+      <translation>ヒット数  (最大 255)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1054"/>
@@ -13787,7 +13787,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1063"/>
       <source>Count hits (up to 65535)</source>
-      <translation type="unfinished"/>
+      <translation>ヒット数  (最大 65535)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1066"/>
