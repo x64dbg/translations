@@ -13296,7 +13296,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="499"/>
       <source>Step into (pass all exceptions)</source>
-      <translation>ステップイン (すべての例外をパス)</translation>
+      <translation>ステップイン (すべての例外を渡す)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="502"/>
