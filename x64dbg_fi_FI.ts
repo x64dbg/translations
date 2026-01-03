@@ -13018,9 +13018,9 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1959"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1962"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1965"/>
       <source>&amp;Plugins</source>
       <translation>&amp;Liitännäiset</translation>
     </message>
@@ -13474,7 +13474,7 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2158"/>
       <source>Donate</source>
       <translation>Lahjoita</translation>
     </message>
@@ -13553,7 +13553,7 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2184"/>
       <source>Report Bug</source>
       <translation>Ilmoita viasta</translation>
     </message>
@@ -13655,7 +13655,7 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1009"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1012"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1301"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1302"/>
       <source>Trace over...</source>
       <translation>Jäljitä suoritus (älä seuraa kutsua)...</translation>
     </message>
@@ -13667,7 +13667,7 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1024"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1027"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1284"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1285"/>
       <source>Trace into...</source>
       <translation>Jäljitä suoritus (seuraten kutsua)...</translation>
     </message>
@@ -13778,13 +13778,13 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2197"/>
       <source>Generate crash dump</source>
       <translation>Luo kaatumisvedos</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2441"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2442"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>&amp;Hallitse suosikkityökaluja...</translation>
     </message>
@@ -13840,7 +13840,7 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2171"/>
       <source>Blog</source>
       <translation>Blogi</translation>
     </message>
@@ -14097,10 +14097,10 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1218"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2292"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1219"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1297"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2293"/>
       <source>Error</source>
       <translation>Virhe</translation>
     </message>
@@ -14140,290 +14140,290 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
       <translation>SEH</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="389"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="390"/>
       <source>Favourite Toolbox</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="466"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="467"/>
       <source>Command: </source>
       <translation>Komento: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="475"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
       <source>Ready</source>
       <translation>Valmis</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="491"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="494"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2603"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2610"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2630"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="492"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="495"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2604"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2624"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2631"/>
       <source>Languages</source>
       <translation>Kielet</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="732"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="733"/>
       <source>Dark</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="787"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="788"/>
       <source>Always stop the debuggee and exit</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="789"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="790"/>
       <source>The debuggee is still running and will be terminated if you exit. What do you want to do?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="790"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="791"/>
       <source>Debuggee is still running</source>
       <translation>Virheenjäljityksen kohde on edelleen käynnissä</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="793"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="794"/>
       <source>&amp;Exit</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="794"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="795"/>
       <source>Stop the debuggee and exit x64dbg.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="796"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="797"/>
       <source>&amp;Detach and exit</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="797"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="798"/>
       <source>Detach from the debuggee (leaving it running) and exit x64dbg.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="799"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
       <source>&amp;Restart debugging</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
       <source>Restart the debuggee and keep x64dbg open.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
       <source>&amp;Continue debugging</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="804"/>
       <source>Close this dialog and continue where you left off.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1054"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1062"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1055"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1063"/>
       <source>Unsupported system</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1055"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1056"/>
       <source>You are running x64dbg in ARM64 emulation mode. &lt;b&gt;This system is not supported by x64dbg and will cause unexpected behavior.&lt;/b&gt; Analyzing malware in this environment is dangerous and you should switch to an actual Intel/AMD CPU.&lt;br&gt;&lt;br&gt;For more information, see the &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1063"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1064"/>
       <source>You are running x64dbg on an unsupported operating system version. &lt;b&gt;Future updates will completely stop running on this system.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more information, see the official &lt;a href="%1"&gt;announcement&lt;/a&gt;.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1219"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1220"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1297"/>
       <source>Cannot start a trace when running, pause execution first.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1336"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
       <source>Open file</source>
       <translation>Avaa tiedosto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1336"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>Suoritettavat tiedostot (*.exe *.dll);;Kaikki tiedostot (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1959"/>
       <source>Disassembly</source>
       <translation>Purettu koodi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1962"/>
       <source>Dump</source>
       <translation>muistivedoksessa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1965"/>
       <source>Stack</source>
       <translation>pinossa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2077"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2078"/>
       <source>Enter expression to run to...</source>
       <translation>Syötä lauseke, johon asti suoritetaan...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2101"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
       <source>Error!</source>
       <translation>Virhe!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2101"/>
       <source>Patches can only be shown while debugging...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2158"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>Kaikki raha käytetään x64dbg:n kehitykseen.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2171"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>Siirryt vierailemaan x64dbg:n viralliseen blogiin.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2184"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>Siirryt verkkosivulle, jolla voit ilmoittaa viasta.
 Sisällytäthän ilmoitukseen niin paljon tietoja kuin mahdollista.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2197"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>Tämä toiminto aiheuttaa virheenjäljittimen kaatumisen ja luo kaatumisvdeoksen. MENETÄT KAIKKI TALLENTAMATTOMAT TIEDOT. Haluatko todella jatkaa?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2210"/>
       <source>Have fun debugging the debugger!</source>
       <translation>Antoisia hetkiä virheenjäljittimen virheenjäljityksen kanssa!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2210"/>
       <source>Debugger detected!</source>
       <translation>Virheenjäljitin havaittu!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2215"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2216"/>
       <source>Mnemonic help</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2254"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2255"/>
       <source>Change Command Line</source>
       <translation>Muuta komentoriviä</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2259"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2260"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>Kohteen komentoriviä ei voi hakea. Käytä getcmdline-komentoa saadaksesi lisätietoja.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
       <source>Could not set command line!</source>
       <translation>Komentorivin asettaminen epäonnistui!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2275"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2276"/>
       <source>New command line: </source>
       <translation>Uusi komentorivi: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2293"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2294"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>Käsikirjan avaaminen ei onnistu. Varmista, että x64dbg.chm-tiedosto on olemassa ja että järjestelmässäsi ei ole muita ongelmia.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2294"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2295"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2442"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2443"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2557"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2558"/>
       <source>Starting tool %1
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2612"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>Käännös on lähes tyhjä. Haluatko silti käyttää tätä kieltä?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2631"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2632"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>Kieliasetus tulee voimaan seuraavan käynnistyksen yhteydessä.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
       <source>Animate command</source>
       <translation>Suorita komento animoiden</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
       <source>Example: StepInto</source>
       <translation>Esimerkki: StepInto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2717"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2718"/>
       <source>Customize Menus</source>
       <translation>Muokkaa valikoita</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>Asetukset (*.ini);;Kaikki tiedostot (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
       <source>Import database</source>
       <translation>Tuo tietokanta</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
       <source>Export database</source>
       <translation>Vie tietokanta</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>Tietokannat (%1);;Kaikki tiedostot (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2795"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2805"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2796"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2806"/>
       <source>More Commands</source>
       <translation>Lisää komentoja</translation>
     </message>

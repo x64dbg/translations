@@ -13106,9 +13106,9 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1959"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1962"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1965"/>
       <source>&amp;Plugins</source>
       <translation>プラグイン(&amp;P)</translation>
     </message>
@@ -13562,7 +13562,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2158"/>
       <source>Donate</source>
       <translation>寄付</translation>
     </message>
@@ -13641,7 +13641,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2184"/>
       <source>Report Bug</source>
       <translation>バグを報告する</translation>
     </message>
@@ -13743,7 +13743,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1009"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1012"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1301"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1302"/>
       <source>Trace over...</source>
       <translation>トレース オーバー...</translation>
     </message>
@@ -13755,7 +13755,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1024"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1027"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1284"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1285"/>
       <source>Trace into...</source>
       <translation>トレース イントゥ...</translation>
     </message>
@@ -13866,13 +13866,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2197"/>
       <source>Generate crash dump</source>
       <translation>クラッシュ ダンプを生成</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2441"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2442"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>お気に入りの管理(&amp;M)...</translation>
     </message>
@@ -13928,7 +13928,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2171"/>
       <source>Blog</source>
       <translation>ブログ</translation>
     </message>
@@ -14185,10 +14185,10 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1218"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2292"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1219"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1297"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2293"/>
       <source>Error</source>
       <translation>エラー</translation>
     </message>
@@ -14228,290 +14228,290 @@ Do you want to continue rendering this graph?</source>
       <translation>構造化例外処理(SEH)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="389"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="390"/>
       <source>Favourite Toolbox</source>
       <translation>お気に入りツールバーの表示/非表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="466"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="467"/>
       <source>Command: </source>
       <translation>コマンド : </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="475"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
       <source>Ready</source>
       <translation>待機中</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="491"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="494"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2603"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2610"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2630"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="492"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="495"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2604"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2624"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2631"/>
       <source>Languages</source>
       <translation>言語</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="732"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="733"/>
       <source>Dark</source>
       <translation>ダーク</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="787"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="788"/>
       <source>Always stop the debuggee and exit</source>
       <translation>常にデバッグ対象を停止して終了する</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="789"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="790"/>
       <source>The debuggee is still running and will be terminated if you exit. What do you want to do?</source>
       <translation>デバッグ対象はまだ実行中です。終了すると強制終了されます。どうしますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="790"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="791"/>
       <source>Debuggee is still running</source>
       <translation>デバッグ対象はまだ実行中です</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="793"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="794"/>
       <source>&amp;Exit</source>
       <translation>終了(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="794"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="795"/>
       <source>Stop the debuggee and exit x64dbg.</source>
       <translation>デバッグ対象を停止し、x64dbg を終了します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="796"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="797"/>
       <source>&amp;Detach and exit</source>
       <translation>切り離して終了(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="797"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="798"/>
       <source>Detach from the debuggee (leaving it running) and exit x64dbg.</source>
       <translation>デバッグ対象から切り離し(実行中のまま)、x64dbg を終了します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="799"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
       <source>&amp;Restart debugging</source>
       <translation>デバッグを再開(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
       <source>Restart the debuggee and keep x64dbg open.</source>
       <translation>デバッグ対象を再起動し、x64dbg は開いたままにします。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
       <source>&amp;Continue debugging</source>
       <translation>デバッグを続行(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="804"/>
       <source>Close this dialog and continue where you left off.</source>
       <translation>このダイアログを閉じ、中断したところから続けます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1054"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1062"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1055"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1063"/>
       <source>Unsupported system</source>
       <translation>サポートされていないシステム</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1055"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1056"/>
       <source>You are running x64dbg in ARM64 emulation mode. &lt;b&gt;This system is not supported by x64dbg and will cause unexpected behavior.&lt;/b&gt; Analyzing malware in this environment is dangerous and you should switch to an actual Intel/AMD CPU.&lt;br&gt;&lt;br&gt;For more information, see the &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</source>
       <translation>x64dbg を ARM64 エミュレーション モードで実行しています。&lt;b&gt;このシステムは x64dbg ではサポートされていないため、予期しない動作が発生します。&lt;/b&gt; この環境でマルウェアを分析するのは危険なので、実際の Intel/AMD CPU に切り替える必要があります。&lt;br&gt;&lt;br&gt;詳細については、&lt;a href="%1"&gt;FAQ&lt;/a&gt; を参照してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1063"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1064"/>
       <source>You are running x64dbg on an unsupported operating system version. &lt;b&gt;Future updates will completely stop running on this system.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more information, see the official &lt;a href="%1"&gt;announcement&lt;/a&gt;.</source>
       <translation>サポートされていないオペレーティング システム バージョンで x64dbg を実行しています。&lt;b&gt;今後のアップデートは、このシステムでは完全に実行されなくなります。&lt;/b&gt;&lt;br&gt;&lt;br&gt;詳細については、公式の &lt;a href="%1"&gt;アナウンス&lt;/a&gt;を参照してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1219"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1220"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
       <translation>リリースノートは利用できません。最新のアップデートについては、 &lt;a href="%1"&gt;%2&lt;/a&gt; を参照してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1297"/>
       <source>Cannot start a trace when running, pause execution first.</source>
       <translation>実行中はトレースを開始できません。最初に実行を一時停止します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1336"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
       <source>Open file</source>
       <translation>ファイルを開く</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1336"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>実行ファイル(*.exe *.dll);;すべてのファイル(*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1959"/>
       <source>Disassembly</source>
       <translation>逆アセンブル</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1962"/>
       <source>Dump</source>
       <translation>ダンプ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1965"/>
       <source>Stack</source>
       <translation>スタック</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2077"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2078"/>
       <source>Enter expression to run to...</source>
       <translation>実行する条件式の入力...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2101"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
       <source>Error!</source>
       <translation>エラー!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2101"/>
       <source>Patches can only be shown while debugging...</source>
       <translation>デバッグ中にのみパッチを表示できます...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2158"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>寄付はすべて x64dbg の開発に充てられます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2171"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>X64dbg の公式ブログをみてください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2184"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>バグを報告するためのウェブサイトが表示されます。できるだけ多くの情報を入力してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2197"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>このアクションはデバッガをクラッシュさせてクラッシュ ダンプを生成します。そのため保存していないデータは失われます。本当に続行しますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2210"/>
       <source>Have fun debugging the debugger!</source>
       <translation>x64dbg デバッガを使ってデバッグを楽しんでください!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2210"/>
       <source>Debugger detected!</source>
       <translation>デバッガが検出されました!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2215"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2216"/>
       <source>Mnemonic help</source>
       <translation>ニーモニックのヘルプ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2254"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2255"/>
       <source>Change Command Line</source>
       <translation>コマンドラインの変更</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2259"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2260"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>リモートのコマンド ラインを取得できません。詳細は 'getcmdline' コマンドを参照してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
       <source>Could not set command line!</source>
       <translation>コマンドラインを設定できませんでした!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2275"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2276"/>
       <source>New command line: </source>
       <translation>新しいコマンドライン : </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2293"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2294"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>マニュアルを開くことができません。x64dbg.chmが存在するかどうか、また、システムに別の問題がないことを確認してください。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2294"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2295"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>オンラインマニュアルを https://help.x64dbg.com で開きますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2442"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2443"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation>お気に入りのメニューを管理するには、お気に入りダイアログを開きます</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2557"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2558"/>
       <source>Starting tool %1
 </source>
       <translation>ツール %1 を起動中
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2612"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>ほとんど翻訳されていませんが、この言語を使用しますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2631"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2632"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>言語の変更は再起動後に有効になります。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
       <source>Animate command</source>
       <translation>アニメーション コマンド</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
       <source>Example: StepInto</source>
       <translation>例 : ステップイン</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2717"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2718"/>
       <source>Customize Menus</source>
       <translation>メニューのカスタマイズ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>設定 (*.ini);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
       <source>Import database</source>
       <translation>データベースのインポート</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>データベース (%1);;データベースのバックアップ (%1.bak);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
       <source>Export database</source>
       <translation>データベースのエクスポート</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>データベース (%1);;すべてのファイル (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2795"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2805"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2796"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2806"/>
       <source>More Commands</source>
       <translation>他のコマンド</translation>
     </message>

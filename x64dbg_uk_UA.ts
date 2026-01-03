@@ -13010,9 +13010,9 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1959"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1962"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1965"/>
       <source>&amp;Plugins</source>
       <translation>&amp;Плагіни</translation>
     </message>
@@ -13467,7 +13467,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2158"/>
       <source>Donate</source>
       <translation>Пожертвувати</translation>
     </message>
@@ -13546,7 +13546,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2184"/>
       <source>Report Bug</source>
       <translation>Повідомити про помилку</translation>
     </message>
@@ -13648,7 +13648,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1009"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1012"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1301"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1302"/>
       <source>Trace over...</source>
       <translation>Трасування через...</translation>
     </message>
@@ -13660,7 +13660,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1024"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1027"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1284"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1285"/>
       <source>Trace into...</source>
       <translation>Трасування всередину...</translation>
     </message>
@@ -13771,13 +13771,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2197"/>
       <source>Generate crash dump</source>
       <translation>Створити аварійний дамп</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2441"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2442"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>&amp;Керування обраними інструментами...</translation>
     </message>
@@ -13833,7 +13833,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2171"/>
       <source>Blog</source>
       <translation>Блог</translation>
     </message>
@@ -14090,10 +14090,10 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1218"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2292"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1219"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1297"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2293"/>
       <source>Error</source>
       <translation>Помилка</translation>
     </message>
@@ -14133,178 +14133,178 @@ Do you want to continue rendering this graph?</source>
       <translation>SEH</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="389"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="390"/>
       <source>Favourite Toolbox</source>
       <translation>Обрані інструменти</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="466"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="467"/>
       <source>Command: </source>
       <translation>Команда: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="475"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
       <source>Ready</source>
       <translation>Готовий</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="491"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="494"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2603"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2610"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2630"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="492"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="495"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2604"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2624"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2631"/>
       <source>Languages</source>
       <translation>Мови</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="732"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="733"/>
       <source>Dark</source>
       <translation>Темна</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="787"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="788"/>
       <source>Always stop the debuggee and exit</source>
       <translation>Завжди зупиняти відлагоджуваний процес і виходити</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="789"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="790"/>
       <source>The debuggee is still running and will be terminated if you exit. What do you want to do?</source>
       <translation>Відлагоджуваний процес все ще працює і буде завершений, якщо ви вийдете. Що ви бажаєте зробити?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="790"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="791"/>
       <source>Debuggee is still running</source>
       <translation>Відлагодження ще виконується</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="793"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="794"/>
       <source>&amp;Exit</source>
       <translation>&amp;Вийти</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="794"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="795"/>
       <source>Stop the debuggee and exit x64dbg.</source>
       <translation>Зупинити відлагоджуваний процес та вийти з x64dbg.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="796"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="797"/>
       <source>&amp;Detach and exit</source>
       <translation>&amp;Від’єднати та вийти</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="797"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="798"/>
       <source>Detach from the debuggee (leaving it running) and exit x64dbg.</source>
       <translation>Від'єднайтеся від відлагоджуваного процесу (залишивши його запущеним) та вийти з x64dbg.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="799"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
       <source>&amp;Restart debugging</source>
       <translation>&amp;Перезапустити відлагодження</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
       <source>Restart the debuggee and keep x64dbg open.</source>
       <translation>Перезапустити відлагоджуваний процес і залишити x64dbg відкритим.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
       <source>&amp;Continue debugging</source>
       <translation>&amp;Продовжити дебаг</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="804"/>
       <source>Close this dialog and continue where you left off.</source>
       <translation>Закрийте це діалогове вікно і продовжте з того місця, де ви зупинилися.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1054"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1062"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1055"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1063"/>
       <source>Unsupported system</source>
       <translation>Система не підтримується</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1055"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1056"/>
       <source>You are running x64dbg in ARM64 emulation mode. &lt;b&gt;This system is not supported by x64dbg and will cause unexpected behavior.&lt;/b&gt; Analyzing malware in this environment is dangerous and you should switch to an actual Intel/AMD CPU.&lt;br&gt;&lt;br&gt;For more information, see the &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</source>
       <translation>Ви використовуєте x64gdb у режимі емуляції ARM64. &lt;b&gt;Ця система не підтримується і може спричинити неочікувану поведінку.&lt;/b&gt; Аналіз шкідливого програмного забезпечення в цьому середовищі є небезпечним, і вам слід перейти на фактичний процесор Intel/AMD/...&lt;br&gt;&lt;br&gt;Для отримання додаткової інформації див. &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1063"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1064"/>
       <source>You are running x64dbg on an unsupported operating system version. &lt;b&gt;Future updates will completely stop running on this system.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more information, see the official &lt;a href="%1"&gt;announcement&lt;/a&gt;.</source>
       <translation>Ви використовуєте x64dgb на непідтримуваній версії операційної системи. &lt;b&gt;Майбутні оновлення повністю перестануть працювати на цій системі.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Для отримання додаткової інформації див. офіційне &lt;a href="%1"&gt;оголішення&lt;/a&gt;.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1219"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1220"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1279"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1297"/>
       <source>Cannot start a trace when running, pause execution first.</source>
       <translation>Не можна почати трасу при виконанні, спочатку пауза після виконання.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1336"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
       <source>Open file</source>
       <translation>Відкрити файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1335"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1336"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>Виконувані файли (*.exe *.dll);;Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1958"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1959"/>
       <source>Disassembly</source>
       <translation>Дизасембльований код</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1961"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1962"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1964"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1965"/>
       <source>Stack</source>
       <translation>Стек</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2077"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2078"/>
       <source>Enter expression to run to...</source>
       <translation>Введіть вираз для запуску до...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2101"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
       <source>Error!</source>
       <translation>Помилка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2100"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2101"/>
       <source>Patches can only be shown while debugging...</source>
       <translation>Патчі можуть бути показані тільки під час дебагу...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2157"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2158"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>Усі гроші підуть на розробку x64dbg.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2170"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2171"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>Ви відвідаєте офіційний блог x64dbg.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2183"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2184"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>Ви будете переадресовані на сайт, де Ви можете повідомити про помилку.
 Будь ласка, надайте якомога більше інформації.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2197"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>Ця дія спричинить збій відлагоджувача та створить дамп збою. Ви ВТРАТИТЕ ВСІ НЕЗБЕРЕЖЕНІ ДАНІ. Ви дійсно бажаєте продовжити?
 
@@ -14313,114 +14313,114 @@ Make sure to fill in as much information as possible.</source>
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2210"/>
       <source>Have fun debugging the debugger!</source>
       <translation>Отримуйте задоволення від відлагодження відлагоджувача!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2209"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2210"/>
       <source>Debugger detected!</source>
       <translation>Виявлено відлагоджувач!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2215"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2216"/>
       <source>Mnemonic help</source>
       <translation>Мнемонічна допомога</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2254"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2255"/>
       <source>Change Command Line</source>
       <translation>Змінити аргументи командного рядка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2259"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2260"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>Не вдалося отримати параметри віддаленого командного рядку, використовуйте команду 'getcmdline' для отримання додаткової інформації.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2269"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
       <source>Could not set command line!</source>
       <translation>Не вдалося встановити параметри командного рядка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2275"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2276"/>
       <source>New command line: </source>
       <translation>Новий командний рядок: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2293"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2294"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>Не можливо відкрити довідку. Перевірте, чи існує x64dbg.chm та переконайтеся, що в вашій системі немає інших проблем.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2294"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2295"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>Бажаєте відкрити онлайн-посібник на http://help.x64dbg.co?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2442"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2443"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation>Відкрийте Favourites діалог для керування меню закладок</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2557"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2558"/>
       <source>Starting tool %1
 </source>
       <translation>Запуск інструменту %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2611"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2612"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>Переклад майже порожній. Ви все ще хочете використовувати цю мову?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2631"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2632"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>Нові мовні налаштування набудуть чинності після перезапуску.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
       <source>Animate command</source>
       <translation>Анімація команди</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2705"/>
       <source>Example: StepInto</source>
       <translation>Приклад: StepInto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2717"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2718"/>
       <source>Customize Menus</source>
       <translation>Налаштування меню</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2725"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2726"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>Налаштування (*.ini);;Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
       <source>Import database</source>
       <translation>Імпортувати базу даних</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2735"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>Бази даних (%1);; Резервна копія бази даних (%1.bak);;Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
       <source>Export database</source>
       <translation>Експортувати базу даних</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2745"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>Бази даних (%1);;Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2795"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2805"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2796"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2806"/>
       <source>More Commands</source>
       <translation>Більше команд</translation>
     </message>
