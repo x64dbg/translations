@@ -7735,25 +7735,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2978"/>
+      <location filename="src/dbg/debugger.cpp" line="2986"/>
       <source>Process is already being debugged!</source>
       <translation>ක්‍රියාවලිය දැනටමත් නිදොස් කරමින් පවතී!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2897"/>
+      <location filename="src/dbg/debugger.cpp" line="2905"/>
       <source>IsWow64Process failed!</source>
       <translation>IsW64ක්රියාවලිය අසාර්ථකයි!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2904"/>
+      <location filename="src/dbg/debugger.cpp" line="2912"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x32dbg භාවිතා කරන්න!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2906"/>
+      <location filename="src/dbg/debugger.cpp" line="2914"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x64dbg භාවිතා කරන්න!</translation>
     </message>
@@ -10073,26 +10073,26 @@ Invalid database file (JSON)!</source>
       <translation>උන්නතාංශය</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2888"/>
+      <location filename="src/dbg/debugger.cpp" line="2896"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>දෝෂ ආරම්භක ක්රියාවලිය (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2980"/>
+      <location filename="src/dbg/debugger.cpp" line="2988"/>
       <source>Attach to process failed: %s
 </source>
       <translation>ක්‍රියාවලියට ඇමිණීම අසාර්ථක විය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3018"/>
+      <location filename="src/dbg/debugger.cpp" line="3026"/>
       <source>Debugging stopped!</source>
       <translation>නිදොස්කරණය නැවැත්වුවා!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3070"/>
+      <location filename="src/dbg/debugger.cpp" line="3078"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:

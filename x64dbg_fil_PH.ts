@@ -7649,25 +7649,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2978"/>
+      <location filename="src/dbg/debugger.cpp" line="2986"/>
       <source>Process is already being debugged!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2897"/>
+      <location filename="src/dbg/debugger.cpp" line="2905"/>
       <source>IsWow64Process failed!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2904"/>
+      <location filename="src/dbg/debugger.cpp" line="2912"/>
       <source>Use x32dbg to debug this process!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2906"/>
+      <location filename="src/dbg/debugger.cpp" line="2914"/>
       <source>Use x64dbg to debug this process!</source>
       <translation type="unfinished"/>
     </message>
@@ -9842,24 +9842,24 @@ Invalid database file (JSON)!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2888"/>
+      <location filename="src/dbg/debugger.cpp" line="2896"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2980"/>
+      <location filename="src/dbg/debugger.cpp" line="2988"/>
       <source>Attach to process failed: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3018"/>
+      <location filename="src/dbg/debugger.cpp" line="3026"/>
       <source>Debugging stopped!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3070"/>
+      <location filename="src/dbg/debugger.cpp" line="3078"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:

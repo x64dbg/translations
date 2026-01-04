@@ -7732,25 +7732,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2978"/>
+      <location filename="src/dbg/debugger.cpp" line="2986"/>
       <source>Process is already being debugged!</source>
       <translation>进程已经在调试！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2897"/>
+      <location filename="src/dbg/debugger.cpp" line="2905"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失败 ！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2904"/>
+      <location filename="src/dbg/debugger.cpp" line="2912"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>请您用x32dbg来调试这个程序！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2906"/>
+      <location filename="src/dbg/debugger.cpp" line="2914"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>请您用x64dbg来调试这个程序！</translation>
     </message>
@@ -10065,26 +10065,26 @@ JSON数据库文件无效！</translation>
       <translation>提升权限</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2888"/>
+      <location filename="src/dbg/debugger.cpp" line="2896"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>启动进程 (CreateProcess，%s) 时出错！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2980"/>
+      <location filename="src/dbg/debugger.cpp" line="2988"/>
       <source>Attach to process failed: %s
 </source>
       <translation>附加到进程失败：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3018"/>
+      <location filename="src/dbg/debugger.cpp" line="3026"/>
       <source>Debugging stopped!</source>
       <translation>调试结束！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3070"/>
+      <location filename="src/dbg/debugger.cpp" line="3078"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
