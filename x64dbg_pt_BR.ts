@@ -7710,25 +7710,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2986"/>
+      <location filename="src/dbg/debugger.cpp" line="3016"/>
       <source>Process is already being debugged!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2905"/>
+      <location filename="src/dbg/debugger.cpp" line="2935"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process falhou!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2912"/>
+      <location filename="src/dbg/debugger.cpp" line="2942"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Use x32dbg para depurar esse processo!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2914"/>
+      <location filename="src/dbg/debugger.cpp" line="2944"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Use x64dbg para depurar esse processo!</translation>
     </message>
@@ -9748,7 +9748,7 @@ Arquivo de banco de dados inválido(JSON)!</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1519"/>
-      <location filename="src/dbg/debugger.cpp" line="1851"/>
+      <location filename="src/dbg/debugger.cpp" line="1882"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation type="unfinished"/>
     </message>
@@ -9766,14 +9766,14 @@ Arquivo de banco de dados inválido(JSON)!</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1578"/>
-      <location filename="src/dbg/debugger.cpp" line="1905"/>
+      <location filename="src/dbg/debugger.cpp" line="1935"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1583"/>
-      <location filename="src/dbg/debugger.cpp" line="1877"/>
+      <location filename="src/dbg/debugger.cpp" line="1907"/>
       <source>entry breakpoint</source>
       <translation type="unfinished"/>
     </message>
@@ -9831,139 +9831,139 @@ Arquivo de banco de dados inválido(JSON)!</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1896"/>
-      <location filename="src/dbg/debugger.cpp" line="1898"/>
+      <location filename="src/dbg/debugger.cpp" line="1926"/>
+      <location filename="src/dbg/debugger.cpp" line="1928"/>
       <source>TLS Callback</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1934"/>
+      <location filename="src/dbg/debugger.cpp" line="1964"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1940"/>
+      <location filename="src/dbg/debugger.cpp" line="1970"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1942"/>
+      <location filename="src/dbg/debugger.cpp" line="1972"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1946"/>
+      <location filename="src/dbg/debugger.cpp" line="1976"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1951"/>
+      <location filename="src/dbg/debugger.cpp" line="1981"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1956"/>
+      <location filename="src/dbg/debugger.cpp" line="1986"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL carregada: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2023"/>
+      <location filename="src/dbg/debugger.cpp" line="2053"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL Descarregada: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2066"/>
+      <location filename="src/dbg/debugger.cpp" line="2096"/>
       <source>DebugString: "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2129"/>
+      <location filename="src/dbg/debugger.cpp" line="2159"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2150"/>
+      <location filename="src/dbg/debugger.cpp" line="2180"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>Exceção de primeira chance em %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2152"/>
+      <location filename="src/dbg/debugger.cpp" line="2182"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2163"/>
+      <location filename="src/dbg/debugger.cpp" line="2193"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2165"/>
+      <location filename="src/dbg/debugger.cpp" line="2195"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2223"/>
+      <location filename="src/dbg/debugger.cpp" line="2253"/>
       <source>Attached to process!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2788"/>
+      <location filename="src/dbg/debugger.cpp" line="2818"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2837"/>
+      <location filename="src/dbg/debugger.cpp" line="2867"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2871"/>
+      <location filename="src/dbg/debugger.cpp" line="2901"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2872"/>
+      <location filename="src/dbg/debugger.cpp" line="2902"/>
       <source>Elevation</source>
       <translation>Elevação</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2896"/>
+      <location filename="src/dbg/debugger.cpp" line="2926"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>Erro ao iniciar processo (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2988"/>
+      <location filename="src/dbg/debugger.cpp" line="3018"/>
       <source>Attach to process failed: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3026"/>
+      <location filename="src/dbg/debugger.cpp" line="3056"/>
       <source>Debugging stopped!</source>
       <translation>Depuração interrompida!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3078"/>
+      <location filename="src/dbg/debugger.cpp" line="3108"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10187,6 +10187,18 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/module.cpp" line="785"/>
       <source>Module %s%s: invalid PE file!
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/module.cpp" line="966"/>
+      <source>Module %s%s loaded from file handle (path inaccessible)
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/module.cpp" line="1014"/>
+      <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
     </message>

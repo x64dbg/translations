@@ -7732,25 +7732,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2986"/>
+      <location filename="src/dbg/debugger.cpp" line="3016"/>
       <source>Process is already being debugged!</source>
       <translation>进程已经在调试！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2905"/>
+      <location filename="src/dbg/debugger.cpp" line="2935"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失败 ！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2912"/>
+      <location filename="src/dbg/debugger.cpp" line="2942"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>请您用x32dbg来调试这个程序！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2914"/>
+      <location filename="src/dbg/debugger.cpp" line="2944"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>请您用x64dbg来调试这个程序！</translation>
     </message>
@@ -9858,7 +9858,7 @@ JSON数据库文件无效！</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1519"/>
-      <location filename="src/dbg/debugger.cpp" line="1851"/>
+      <location filename="src/dbg/debugger.cpp" line="1882"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNameFromHandle 失败)</translation>
     </message>
@@ -9876,7 +9876,7 @@ JSON数据库文件无效！</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1578"/>
-      <location filename="src/dbg/debugger.cpp" line="1905"/>
+      <location filename="src/dbg/debugger.cpp" line="1935"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d个无效的TLS回调函数地址……
@@ -9884,7 +9884,7 @@ JSON数据库文件无效！</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1583"/>
-      <location filename="src/dbg/debugger.cpp" line="1877"/>
+      <location filename="src/dbg/debugger.cpp" line="1907"/>
       <source>entry breakpoint</source>
       <translation>入口断点</translation>
     </message>
@@ -9944,147 +9944,147 @@ JSON数据库文件无效！</translation>
       <translation>检测到调试器入口点位于程序的 MZ 头中，这将导致异常现象，因此系统断点已被强制开启。请注意！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1896"/>
-      <location filename="src/dbg/debugger.cpp" line="1898"/>
+      <location filename="src/dbg/debugger.cpp" line="1926"/>
+      <location filename="src/dbg/debugger.cpp" line="1928"/>
       <source>TLS Callback</source>
       <translation>TLS回调函数</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1934"/>
+      <location filename="src/dbg/debugger.cpp" line="1964"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>正在等待 ntdll.dll 符号载入...</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1940"/>
+      <location filename="src/dbg/debugger.cpp" line="1970"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>成功将 LdrpDebugFlags 设置为 0x%08X！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1942"/>
+      <location filename="src/dbg/debugger.cpp" line="1972"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>无法写入 LdrpDebugFlags</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1946"/>
+      <location filename="src/dbg/debugger.cpp" line="1976"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>找不到符号“LdrpDebugFlags”！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1951"/>
+      <location filename="src/dbg/debugger.cpp" line="1981"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>找不到LdrpDebugFlags（您需要为ntdll.dll加载符号）</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1956"/>
+      <location filename="src/dbg/debugger.cpp" line="1986"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL已载入： %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2023"/>
+      <location filename="src/dbg/debugger.cpp" line="2053"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL已卸载： %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2066"/>
+      <location filename="src/dbg/debugger.cpp" line="2096"/>
       <source>DebugString: "%s"
 </source>
       <translation>调试字符串： "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2129"/>
+      <location filename="src/dbg/debugger.cpp" line="2159"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>SetThreadName 异常发生于 %p (%X, "%s")
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2150"/>
+      <location filename="src/dbg/debugger.cpp" line="2180"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>第一次异常于 %p (%.8X, %s)！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2152"/>
+      <location filename="src/dbg/debugger.cpp" line="2182"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>第一次异常于 %p (%.8X)！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2163"/>
+      <location filename="src/dbg/debugger.cpp" line="2193"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>第二次异常于 %p (%.8X, %s)！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2165"/>
+      <location filename="src/dbg/debugger.cpp" line="2195"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>第二次异常于 %p (%.8X)！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2223"/>
+      <location filename="src/dbg/debugger.cpp" line="2253"/>
       <source>Attached to process!</source>
       <translation>已附加到进程！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2788"/>
+      <location filename="src/dbg/debugger.cpp" line="2818"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>调试DLL时发生错误 (无法复制加载器)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2837"/>
+      <location filename="src/dbg/debugger.cpp" line="2867"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>调试DLL时出错 (找不到 loaddll.exe)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2871"/>
+      <location filename="src/dbg/debugger.cpp" line="2901"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>您要调试的程序需要提升权限。以管理员身份重新启动吗？</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2872"/>
+      <location filename="src/dbg/debugger.cpp" line="2902"/>
       <source>Elevation</source>
       <translation>提升权限</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2896"/>
+      <location filename="src/dbg/debugger.cpp" line="2926"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>启动进程 (CreateProcess，%s) 时出错！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2988"/>
+      <location filename="src/dbg/debugger.cpp" line="3018"/>
       <source>Attach to process failed: %s
 </source>
       <translation>附加到进程失败：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3026"/>
+      <location filename="src/dbg/debugger.cpp" line="3056"/>
       <source>Debugging stopped!</source>
       <translation>调试结束！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3078"/>
+      <location filename="src/dbg/debugger.cpp" line="3108"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10326,6 +10326,18 @@ Do you want to continue debugging?</source>
 </source>
       <translation>模块 %s%s：无效的PE文件！
 </translation>
+    </message>
+    <message>
+      <location filename="src/dbg/module.cpp" line="966"/>
+      <source>Module %s%s loaded from file handle (path inaccessible)
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/module.cpp" line="1014"/>
+      <source>Module %s%s loaded from process memory (file inaccessible)
+</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/patches.cpp" line="198"/>

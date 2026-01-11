@@ -7714,25 +7714,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2986"/>
+      <location filename="src/dbg/debugger.cpp" line="3016"/>
       <source>Process is already being debugged!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2905"/>
+      <location filename="src/dbg/debugger.cpp" line="2935"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process-komento epäonnistui!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2912"/>
+      <location filename="src/dbg/debugger.cpp" line="2942"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Käytä x32dbg-ohjelmaa tutkiakseksi tätä prosessia!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2914"/>
+      <location filename="src/dbg/debugger.cpp" line="2944"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Käytä x64dbg-ohjelmaa tutkiakseksi tätä prosessia!</translation>
     </message>
@@ -9827,7 +9827,7 @@ Tietokantatiedosto ei kelpaa (JSON)!</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1519"/>
-      <location filename="src/dbg/debugger.cpp" line="1851"/>
+      <location filename="src/dbg/debugger.cpp" line="1882"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNameFromHandle epäonnistui)</translation>
     </message>
@@ -9845,7 +9845,7 @@ Tietokantatiedosto ei kelpaa (JSON)!</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1578"/>
-      <location filename="src/dbg/debugger.cpp" line="1905"/>
+      <location filename="src/dbg/debugger.cpp" line="1935"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d TLS-takaisinkutsuosoitetta ei kelpaa...
@@ -9853,7 +9853,7 @@ Tietokantatiedosto ei kelpaa (JSON)!</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1583"/>
-      <location filename="src/dbg/debugger.cpp" line="1877"/>
+      <location filename="src/dbg/debugger.cpp" line="1907"/>
       <source>entry breakpoint</source>
       <translation>aloituskohdan keskeytyskohta</translation>
     </message>
@@ -9911,143 +9911,143 @@ Tietokantatiedosto ei kelpaa (JSON)!</translation>
       <translation>Ilmeisesti tutkittavan ohjelman aloituskohta sijaitsee MZ-otsakkeessa. Tämä aiheuttaa outoja seuraamuksia, joten järjestelmäkeskeytyskohta on käytössä käyttäjän asetuksista huolimatta. Ole varovainen!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1896"/>
-      <location filename="src/dbg/debugger.cpp" line="1898"/>
+      <location filename="src/dbg/debugger.cpp" line="1926"/>
+      <location filename="src/dbg/debugger.cpp" line="1928"/>
       <source>TLS Callback</source>
       <translation>TLS-takaisinkutsu</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1934"/>
+      <location filename="src/dbg/debugger.cpp" line="1964"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>Odotetaan, kunnes ntdll.dll-kirjaston symbolit on ladattu...</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1940"/>
+      <location filename="src/dbg/debugger.cpp" line="1970"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>LdrpDebugFlags-liput asetettiin arvoon 0x%08X onnistuneesti!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1942"/>
+      <location filename="src/dbg/debugger.cpp" line="1972"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>LdrpDebugFlags-lippujen kirjoitus epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1946"/>
+      <location filename="src/dbg/debugger.cpp" line="1976"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>Symbolia 'LdrpDebugFlags' ei löytynyt!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1951"/>
+      <location filename="src/dbg/debugger.cpp" line="1981"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>LdrpDebugFlags-lippuja ei löytynyt (sinun on ladattava symbolit ntdll.dll-kirjastolle)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1956"/>
+      <location filename="src/dbg/debugger.cpp" line="1986"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL latautui: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2023"/>
+      <location filename="src/dbg/debugger.cpp" line="2053"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL:n lataus poistui: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2066"/>
+      <location filename="src/dbg/debugger.cpp" line="2096"/>
       <source>DebugString: "%s"
 </source>
       <translation>Virheenjäljitysmerkkijono: "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2129"/>
+      <location filename="src/dbg/debugger.cpp" line="2159"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2150"/>
+      <location filename="src/dbg/debugger.cpp" line="2180"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>Ensimmäisen tilaisuuden poikkeama kohdassa %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2152"/>
+      <location filename="src/dbg/debugger.cpp" line="2182"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>Ensimmäisen tilaisuuden poikkeama kohdassa %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2163"/>
+      <location filename="src/dbg/debugger.cpp" line="2193"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>Viimeisen tilaisuuden poikkeama kohdassa %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2165"/>
+      <location filename="src/dbg/debugger.cpp" line="2195"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>Viimeisen tilaisuuden poikkeama kohdassa %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2223"/>
+      <location filename="src/dbg/debugger.cpp" line="2253"/>
       <source>Attached to process!</source>
       <translation>Kytketty prosessiin!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2788"/>
+      <location filename="src/dbg/debugger.cpp" line="2818"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>Tapahtui virhe DLL:n virhejäljityksessä (latauskoodin kopiointi epäonnistui)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2837"/>
+      <location filename="src/dbg/debugger.cpp" line="2867"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>Tapahtui virhe DLL:n virhejäljityksessä (loaddll.exe-tiedostoa ei löytynyt)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2871"/>
+      <location filename="src/dbg/debugger.cpp" line="2901"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>Ohjelma, jota yrität tutkia, vaatii korotusta. Käynnistetäänkö uudelleen pääkäyttäjänä?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2872"/>
+      <location filename="src/dbg/debugger.cpp" line="2902"/>
       <source>Elevation</source>
       <translation>Korotus</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2896"/>
+      <location filename="src/dbg/debugger.cpp" line="2926"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>Virhe aloittaessa prosessia (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2988"/>
+      <location filename="src/dbg/debugger.cpp" line="3018"/>
       <source>Attach to process failed: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3026"/>
+      <location filename="src/dbg/debugger.cpp" line="3056"/>
       <source>Debugging stopped!</source>
       <translation>Virheenjäljitys lopetettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3078"/>
+      <location filename="src/dbg/debugger.cpp" line="3108"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10287,6 +10287,18 @@ Haluatko jatkaa virheenjäljitystä?</translation>
 </source>
       <translation>Moduuli %s%s: Virheellinen PE-tiedosto!
 </translation>
+    </message>
+    <message>
+      <location filename="src/dbg/module.cpp" line="966"/>
+      <source>Module %s%s loaded from file handle (path inaccessible)
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/module.cpp" line="1014"/>
+      <source>Module %s%s loaded from process memory (file inaccessible)
+</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/patches.cpp" line="198"/>

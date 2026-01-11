@@ -7735,25 +7735,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="268"/>
-      <location filename="src/dbg/debugger.cpp" line="2986"/>
+      <location filename="src/dbg/debugger.cpp" line="3016"/>
       <source>Process is already being debugged!</source>
       <translation>ක්‍රියාවලිය දැනටමත් නිදොස් කරමින් පවතී!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="275"/>
-      <location filename="src/dbg/debugger.cpp" line="2905"/>
+      <location filename="src/dbg/debugger.cpp" line="2935"/>
       <source>IsWow64Process failed!</source>
       <translation>IsW64ක්රියාවලිය අසාර්ථකයි!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="281"/>
-      <location filename="src/dbg/debugger.cpp" line="2912"/>
+      <location filename="src/dbg/debugger.cpp" line="2942"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x32dbg භාවිතා කරන්න!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="283"/>
-      <location filename="src/dbg/debugger.cpp" line="2914"/>
+      <location filename="src/dbg/debugger.cpp" line="2944"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x64dbg භාවිතා කරන්න!</translation>
     </message>
@@ -9860,7 +9860,7 @@ Invalid database file (JSON)!</source>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1519"/>
-      <location filename="src/dbg/debugger.cpp" line="1851"/>
+      <location filename="src/dbg/debugger.cpp" line="1882"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNamefromHandle අසමත් විය)</translation>
     </message>
@@ -9878,7 +9878,7 @@ Invalid database file (JSON)!</source>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1578"/>
-      <location filename="src/dbg/debugger.cpp" line="1905"/>
+      <location filename="src/dbg/debugger.cpp" line="1935"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d වලංගු නොවන TLS ඇමතුම් ලිපින...
@@ -9886,7 +9886,7 @@ Invalid database file (JSON)!</source>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="1583"/>
-      <location filename="src/dbg/debugger.cpp" line="1877"/>
+      <location filename="src/dbg/debugger.cpp" line="1907"/>
       <source>entry breakpoint</source>
       <translation>පිවිසුම් බිඳවැටීමක්</translation>
     </message>
@@ -9947,152 +9947,152 @@ Invalid database file (JSON)!</source>
       <translation>එය debuggee පිවිසුම් ස්ථානය ක්රියාත්මක කළ හැකි MZ ශීර්ෂයේ ඇති බව අනාවරණය වී ඇත. මෙය අමුතු හැසිරීමක් ඇති කරනු ඇත, එබැවින් ඔබේ සැකසුම නොසලකා පද්ධතිය බිඳ වැටීමක් සක්රීය කර ඇත. ප්රවේශම් වන්න!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1896"/>
-      <location filename="src/dbg/debugger.cpp" line="1898"/>
+      <location filename="src/dbg/debugger.cpp" line="1926"/>
+      <location filename="src/dbg/debugger.cpp" line="1928"/>
       <source>TLS Callback</source>
       <translation>ටීඑල්එස් ඇමතුම</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1934"/>
+      <location filename="src/dbg/debugger.cpp" line="1964"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>ntdll.dll සංකේත පටවන තෙක් බලා සිටීම...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1940"/>
+      <location filename="src/dbg/debugger.cpp" line="1970"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>LDRPDEbugකොඩි 0x%08X සාර්ථකව සකසන්න!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1942"/>
+      <location filename="src/dbg/debugger.cpp" line="1972"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>LDRPDEbugකොඩි වෙත ලිවීමට අසමත් විය
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1946"/>
+      <location filename="src/dbg/debugger.cpp" line="1976"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>සංකේත 'LDRPDEbugකොඩි' සොයාගත නොහැක!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1951"/>
+      <location filename="src/dbg/debugger.cpp" line="1981"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>LDRPDEbugකොඩි සොයා ගැනීමට අසමත් විය (ඔබට ntdll.dll සඳහා සංකේත පැටවිය යුතුය)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1956"/>
+      <location filename="src/dbg/debugger.cpp" line="1986"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>ඩීඑල්එල් ලෝඩඩ්: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2023"/>
+      <location filename="src/dbg/debugger.cpp" line="2053"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>ඩීඑල්එල් බෑම: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2066"/>
+      <location filename="src/dbg/debugger.cpp" line="2096"/>
       <source>DebugString: "%s"
 </source>
       <translation>නිදොස් කිරීම: "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2129"/>
+      <location filename="src/dbg/debugger.cpp" line="2159"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>%p (%X, "%s")
 මත SetThreadName ව්‍යතිරේකය</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2150"/>
+      <location filename="src/dbg/debugger.cpp" line="2180"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s) මත පළමු අවස්ථාව ව්යතිරේකය!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2152"/>
+      <location filename="src/dbg/debugger.cpp" line="2182"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X) මත පළමු අවස්ථාව ව්යතිරේකය!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2163"/>
+      <location filename="src/dbg/debugger.cpp" line="2193"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s) මත අවසාන අවස්ථාව ව්යතිරේකය!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2165"/>
+      <location filename="src/dbg/debugger.cpp" line="2195"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X) මත අවසාන අවස්ථාව ව්යතිරේකය!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2223"/>
+      <location filename="src/dbg/debugger.cpp" line="2253"/>
       <source>Attached to process!</source>
       <translation>ක්රියාවලියට අමුණා ඇත!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2788"/>
+      <location filename="src/dbg/debugger.cpp" line="2818"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>DLL නිදොස්කරණය දෝෂ (කාරකය පිටපත් කිරීමට අසමත් විය)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2837"/>
+      <location filename="src/dbg/debugger.cpp" line="2867"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>DLL නිදොස්කරණය දෝෂ (loaddll.exe සොයාගත නොහැක)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2871"/>
+      <location filename="src/dbg/debugger.cpp" line="2901"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>ඔබ නිදොස් කිරීමට උත්සාහ කරන ක්රියාත්මක කළ හැකි උන්නතාංශය අවශ්ය වේ. පරිපාලක ලෙස නැවත ආරම්භ කරන්න?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2872"/>
+      <location filename="src/dbg/debugger.cpp" line="2902"/>
       <source>Elevation</source>
       <translation>උන්නතාංශය</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2896"/>
+      <location filename="src/dbg/debugger.cpp" line="2926"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>දෝෂ ආරම්භක ක්රියාවලිය (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2988"/>
+      <location filename="src/dbg/debugger.cpp" line="3018"/>
       <source>Attach to process failed: %s
 </source>
       <translation>ක්‍රියාවලියට ඇමිණීම අසාර්ථක විය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3026"/>
+      <location filename="src/dbg/debugger.cpp" line="3056"/>
       <source>Debugging stopped!</source>
       <translation>නිදොස්කරණය නැවැත්වුවා!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3078"/>
+      <location filename="src/dbg/debugger.cpp" line="3108"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10337,6 +10337,18 @@ Do you want to continue debugging?</source>
 </source>
       <translation>මොඩියුලය %s%s: වලංගු නොවන PE ගොනුව!
 </translation>
+    </message>
+    <message>
+      <location filename="src/dbg/module.cpp" line="966"/>
+      <source>Module %s%s loaded from file handle (path inaccessible)
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/module.cpp" line="1014"/>
+      <source>Module %s%s loaded from process memory (file inaccessible)
+</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/patches.cpp" line="198"/>
