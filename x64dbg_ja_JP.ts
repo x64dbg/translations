@@ -10350,13 +10350,15 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/module.cpp" line="966"/>
       <source>Module %s%s loaded from file handle (path inaccessible)
 </source>
-      <translation type="unfinished"/>
+      <translation>モジュール %s%s はファイルハンドル経由で読み込まれました (パスにアクセスできません)
+</translation>
     </message>
     <message>
       <location filename="src/dbg/module.cpp" line="1014"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
-      <translation type="unfinished"/>
+      <translation>モジュール %s%s はプロセスメモリから読み込まれました (ファイルにアクセスできません)
+</translation>
     </message>
     <message>
       <location filename="src/dbg/patches.cpp" line="198"/>
