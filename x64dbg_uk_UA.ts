@@ -11580,43 +11580,43 @@ Do you want to continue rendering this graph?</source>
       <translation>&amp;Відміна</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="22"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="23"/>
       <source>Edit DLL Breakpoint %1</source>
       <translation>Редагувати точку зупину на DLL %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="25"/>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="37"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="26"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="38"/>
       <source>Edit Breakpoint %1</source>
       <translation>Редагувати точку зупину %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="28"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="29"/>
       <source>Edit Hardware Breakpoint %1</source>
       <translation>Редагувати апаратну точку зупину %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="31"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="32"/>
       <source>Edit Memory Breakpoint %1</source>
       <translation>Редагувати точку зупину пам'ять %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="34"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="35"/>
       <source>Edit Exception Breakpoint %1</source>
       <translation>Редагувати точку зупину на виняток %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="80"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="85"/>
       <source>Breakpoint log file</source>
       <translation>Лог точки зупинки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="81"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="86"/>
       <source>Enter the path to the log file.</source>
       <translation>Введіть шлях до файлу журналу.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="82"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="87"/>
       <source>Log Files (*.txt *.log);;All Files (*.*)</source>
       <translation>Файли журналу (*.txt *.log);;Всі файли (*.*)</translation>
     </message>

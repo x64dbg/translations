@@ -11642,43 +11642,43 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
       <translation>&amp;Abbrechen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="22"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="23"/>
       <source>Edit DLL Breakpoint %1</source>
       <translation>Dll-Haltepunkt %1 bearbeiten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="25"/>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="37"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="26"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="38"/>
       <source>Edit Breakpoint %1</source>
       <translation>Haltepunkt %1 bearbeiten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="28"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="29"/>
       <source>Edit Hardware Breakpoint %1</source>
       <translation>Hardware -Haltepunkt %1 bearbeiten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="31"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="32"/>
       <source>Edit Memory Breakpoint %1</source>
       <translation>Speicher-Haltepunkt %1 bearbeiten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="34"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="35"/>
       <source>Edit Exception Breakpoint %1</source>
       <translation>Ausnahme-Haltepunkt %1 bearbeiten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="80"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="85"/>
       <source>Breakpoint log file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="81"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="86"/>
       <source>Enter the path to the log file.</source>
       <translation>Gib den Pfad zur Log-Datei an.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="82"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="87"/>
       <source>Log Files (*.txt *.log);;All Files (*.*)</source>
       <translation>Log-Dateien (*.txt *.log);;Alle Dateien (*.*)</translation>
     </message>

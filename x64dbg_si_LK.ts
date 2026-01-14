@@ -11659,43 +11659,43 @@ Do you want to continue rendering this graph?</source>
       <translation>C &amp; ඇන්සල්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="22"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="23"/>
       <source>Edit DLL Breakpoint %1</source>
       <translation>ඩීඑල්එල් බ්රේක්පොයින්ට් %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="25"/>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="37"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="26"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="38"/>
       <source>Edit Breakpoint %1</source>
       <translation>බ්රේක්පොයින්ට් %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="28"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="29"/>
       <source>Edit Hardware Breakpoint %1</source>
       <translation>දෘඩාංග බ්රේක්පොයින්ට් %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="31"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="32"/>
       <source>Edit Memory Breakpoint %1</source>
       <translation>සංස්කරණය කරන්න මතක බ්රේක්පොයින්ට් %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="34"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="35"/>
       <source>Edit Exception Breakpoint %1</source>
       <translation>ව්යතිරේක බ්රේක්පොයින්ට් %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="80"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="85"/>
       <source>Breakpoint log file</source>
       <translation>බිඳුම් ලක්ෂ්‍ය ලොග් ගොනුව</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="81"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="86"/>
       <source>Enter the path to the log file.</source>
       <translation>ලොග් ගොනුවට මාර්ගය ඇතුල් කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="82"/>
+      <location filename="src/gui/Src/Gui/EditBreakpointDialog.cpp" line="87"/>
       <source>Log Files (*.txt *.log);;All Files (*.*)</source>
       <translation>ලොග් ගොනු (*.txt *.log); සියලුම ගොනු (*.*)</translation>
     </message>
