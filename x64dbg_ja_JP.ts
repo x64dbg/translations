@@ -1286,37 +1286,37 @@
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="164"/>
       <source>Already attached</source>
-      <translation type="unfinished"/>
+      <translation>既にアタッチ済み</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="164"/>
       <source>You are already debugging this process.</source>
-      <translation type="unfinished"/>
+      <translation>このプロセスは既にデバッグ中です。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="172"/>
       <source>Remember my choice</source>
-      <translation type="unfinished"/>
+      <translation>この選択肢を記憶する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="174"/>
       <source>You are already debugging a process. What would you like to do with the current process?</source>
-      <translation type="unfinished"/>
+      <translation>既にプロセスをデバッグ中です。現在のプロセスに対してどのような操作を行いますか？</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="175"/>
       <source>Already debugging</source>
-      <translation type="unfinished"/>
+      <translation>既にデバッグ中</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="179"/>
       <source>&amp;Terminate</source>
-      <translation type="unfinished"/>
+      <translation>強制終了(&amp;T)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="180"/>
       <source>Terminate the current process and attach to the new one.</source>
-      <translation type="unfinished"/>
+      <translation>現在のプロセスを終了し、新しいプロセスにアタッチする。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="183"/>
@@ -1326,12 +1326,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="184"/>
       <source>Detach from the current process (leaving it running) and attach to the new one.</source>
-      <translation type="unfinished"/>
+      <translation>現在のプロセスから切り離し(実行を継続したまま)、新しいプロセスにアタッチする。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="188"/>
       <source>Cancel and don't attach to the new process.</source>
-      <translation type="unfinished"/>
+      <translation>キャンセルし、新しいプロセスにアタッチしない。</translation>
     </message>
   </context>
   <context>
@@ -14325,7 +14325,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
       <source>Remember my choice</source>
-      <translation type="unfinished"/>
+      <translation>この選択肢を記憶する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="802"/>
@@ -16631,22 +16631,22 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="408"/>
       <source>Detach from process when attaching to another</source>
-      <translation type="unfinished"/>
+      <translation>別のプロセスにアタッチする際には、現在のプロセスから切り離す</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="411"/>
       <source>When enabled, attaching to a new process will detach from the current process instead of terminating it</source>
-      <translation type="unfinished"/>
+      <translation>有効にすると、新しいプロセスにアタッチする際、現在のプロセスを終了させずに切り離します</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="418"/>
       <source>Detach from process when exiting debugger</source>
-      <translation type="unfinished"/>
+      <translation>デバッガ終了時にプロセスから切り離す</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="421"/>
       <source>When enabled, exiting x64dbg will detach from the current process instead of terminating it</source>
-      <translation type="unfinished"/>
+      <translation>有効にすると、x64dbgを終了する際に現在のプロセスを終了さずに、プロセスから切り離します</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="430"/>
@@ -16901,7 +16901,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="980"/>
       <source>Show attach confirmation dialog</source>
-      <translation type="unfinished"/>
+      <translation>アタッチ確認ダイアログを表示する</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="987"/>
