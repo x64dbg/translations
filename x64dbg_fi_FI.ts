@@ -92,7 +92,7 @@
       <translation>&amp;Vie taulukko</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1021"/>
+      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1031"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopioi</translation>
     </message>
@@ -100,7 +100,7 @@
   <context>
     <name>AbstractTableView</name>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="179"/>
+      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="181"/>
       <source>Edit columns</source>
       <translation>Muokkaa sarakkeita</translation>
     </message>
@@ -354,13 +354,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="926"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="550"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="551"/>
       <source>HexDump:</source>
       <translation>HexDump:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1065"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="570"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="571"/>
       <source>Stack:</source>
       <translation>Pino:</translation>
     </message>
@@ -372,13 +372,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1343"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="585"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="586"/>
       <source>HexEdit:</source>
       <translation>HexEdit:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1482"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="605"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="606"/>
       <source>Log:</source>
       <translation>Loki:</translation>
     </message>
@@ -424,10 +424,10 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="460"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="485"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="503"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="551"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="571"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="586"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="552"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
       <source>Background</source>
       <translation>Tausta</translation>
     </message>
@@ -435,9 +435,9 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="453"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="461"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="504"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="552"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="580"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="553"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="588"/>
       <source>Selection</source>
       <translation>Valinta</translation>
     </message>
@@ -449,10 +449,10 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="455"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="507"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="540"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="555"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="578"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="588"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="541"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="589"/>
       <source>Text</source>
       <translation>Teksti</translation>
     </message>
@@ -463,29 +463,29 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>EIP</source>
       <translation>EIP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>RIP</source>
       <translation>RIP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="463"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="528"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="553"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="554"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="574"/>
       <source>Addresses</source>
       <translation>Osoitteet</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="464"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="574"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="575"/>
       <source>Selected Addresses</source>
       <translation>Valitut osoitteet</translation>
     </message>
@@ -501,8 +501,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="467"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="554"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="575"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="555"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
       <source>Labels</source>
       <translation>Nimikkeet</translation>
     </message>
@@ -513,13 +513,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="469"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="557"/>
       <source>Modified Bytes</source>
       <translation>Muokatut Tavut</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="470"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="557"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="558"/>
       <source>Restored Bytes</source>
       <translation>Palautetut Tavut</translation>
     </message>
@@ -751,352 +751,357 @@
       <translation>Pilkut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="532"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="531"/>
+      <source>New Values (Trace View)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
       <source>General Registers</source>
       <translation>Yleiset rekisterit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="534"/>
       <source>FPU Registers</source>
       <translation>FPU rekisterit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="534"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="535"/>
       <source>MMX Registers</source>
       <translation>MMX-rekisterit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="535"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="536"/>
       <source>XMM Registers</source>
       <translation>XMM rekisterit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="537"/>
       <source>YMM Registers</source>
       <translation>XMM rekisterit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="538"/>
       <source>ZMM Registers</source>
       <translation>ZMM rekisterit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="538"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="539"/>
       <source>Memory Sizes</source>
       <translation>Muisti koot</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="540"/>
       <source>Memory Segments</source>
       <translation>Muisti osiot</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="541"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="542"/>
       <source>Memory Brackets</source>
       <translation>Muistitoimintojen sulkeet</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="542"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="543"/>
       <source>Memory Stack Brackets</source>
       <translation>Pinomuistitoimintojen sulkeet</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="543"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="544"/>
       <source>Memory Base Registers</source>
       <translation>Muistioperaatioiden perusrekisterit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="544"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="545"/>
       <source>Memory Index Registers</source>
       <translation>Muistioperaatioiden indeksirekisterit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="546"/>
       <source>Memory Scales</source>
       <translation>Muistioperaatioiden kertoimet</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="546"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="547"/>
       <source>Memory Operators (+/-/*)</source>
       <translation>Muistiosoitteiden operaattorit (+/-/*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="547"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="548"/>
       <source>Highlighting</source>
       <translation>Korostus</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="558"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="559"/>
       <source>0x00 Bytes</source>
       <translation>0x00-tavut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="559"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="560"/>
       <source>0x7F Bytes</source>
       <translation>0x7F-tavut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="560"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="561"/>
       <source>0xFF Bytes</source>
       <translation>0xFF-tavut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="561"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="562"/>
       <source>IsPrint Bytes</source>
       <translation>Tulostuvat tavut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="562"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="563"/>
       <source>User Code Pointer Highlight Color</source>
       <translation>Käyttäjäalueen koodiosoittimen korostusväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="563"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="564"/>
       <source>User Data Pointer Highlight Color</source>
       <translation>Käyttäjäalueen dataosoittimen korostusväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="564"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="565"/>
       <source>System Code Pointer Highlight Color</source>
       <translation>Järjestelmän koodiosoittimen korostusväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="565"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="566"/>
       <source>System Data Pointer Highlight Color</source>
       <translation>Järjestelmän dataosoittimen korostusväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="566"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="567"/>
       <source>Unknown Code Pointer Highlight Color</source>
       <translation>Tuntemattoman koodiosoittimen korostusväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="567"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="568"/>
       <source>Unknown Data Pointer Highlight Color</source>
       <translation>Tuntemattoman dataosoittimen korostusväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
       <source>ESP</source>
       <translation>ESP</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
       <source>RSP</source>
       <translation>RSP</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
       <source>User Stack Frame Line</source>
       <translation>Käyttäjäalueen pinokehyksen rivi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="578"/>
       <source>System Stack Frame Line</source>
       <translation>Järjestelmän pinokehyksen rivi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="580"/>
       <source>Inactive Text</source>
       <translation>Ei-aktiivinen teksti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="582"/>
       <source>Return To Comment</source>
       <translation>Palaa kommenttiin</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="582"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="583"/>
       <source>SEH Chain Comment</source>
       <translation>SEH ketjun kommentti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="589"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="590"/>
       <source>Wildcards</source>
       <translation>Jokerimerkit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="592"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="593"/>
       <source>Graph:</source>
       <translation>Kaavio:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="596"/>
       <source>Breakpoint</source>
       <translation>Keskeytyskohta</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="596"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="597"/>
       <source>Disabled Breakpoint</source>
       <translation>Keskeytyskohta, joka ei ole käytössä</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="597"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="598"/>
       <source>Node</source>
       <translation>Solmu</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="598"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="599"/>
       <source>Current node shadow</source>
       <translation>Nykyisen solmun varjo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="599"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="600"/>
       <source>Terminal node shadow</source>
       <translation>Loppusolmun varjo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="600"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="601"/>
       <source>Indirect call shadow</source>
       <translation>Epäsuoran kutsun varjo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="601"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="602"/>
       <source>Unconditional branch line</source>
       <translation>Ehdoton haaraviiva</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="603"/>
       <source>True branch line</source>
       <translation>Tosi haaraviiva</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="603"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="604"/>
       <source>False branch line</source>
       <translation>Epätosi haaraviiva</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="606"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="607"/>
       <source>Log</source>
       <translation>Loki</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="607"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="608"/>
       <source>Log Link Color</source>
       <translation>Lokin linkin väri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="609"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="610"/>
       <source>Other:</source>
       <translation>Muut:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="610"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="611"/>
       <source>Background Flicker Color</source>
       <translation>Taustan välkyntäväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="611"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="612"/>
       <source>Search Highlight Color</source>
       <translation>Haun korotusväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="612"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="613"/>
       <source>Patch located in relocation region</source>
       <translation>Muutos, joka sijaitsee osoitesiirtoalueella</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="613"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="614"/>
       <source>Current Thread</source>
       <translation>Nykyinen säie</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="614"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
       <source>Watch (When Watchdog is Triggered)</source>
       <translation>Katsele (kun vahtikoira käynnistyy)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
       <source>Memory Map Breakpoint</source>
       <translation>Muistikartan keskeytyskohta</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>Memory Map %1</source>
       <translation>Muistikartta %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
       <source>Memory Map Section Text</source>
       <translation>Muistikartan osion teksti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="619"/>
       <source>Struct text</source>
       <translation>Tietueen teksti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="619"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="620"/>
       <source>Struct primary background</source>
       <translation>Tietueen ensisijainen taustaväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="620"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="621"/>
       <source>Struct secondary background</source>
       <translation>Tietueen toissijainen taustaväri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="621"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="622"/>
       <source>Breakpoint Summary Parentheses</source>
       <translation>Keskeytyskohdan lyhyen kuvauksen sulkeet</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="623"/>
       <source>Breakpoint Summary Keywords</source>
       <translation>Keskeytyskohdan lyhyen kuvauksen avainsanat</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="623"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="624"/>
       <source>Breakpoint Summary Strings</source>
       <translation>Keskeytyskohdan lyhyen kuvauksen merkkijonot</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="624"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
       <source>Symbol User Module Text</source>
       <translation>Symbolin käyttäjäalueen moduulin teksti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="626"/>
       <source>Symbol System Module Text</source>
       <translation>Symbolin järjestelmäalueen moduulin teksti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="626"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="627"/>
       <source>Symbol Unloaded Text</source>
       <translation>Symbolin latauksen poiston teksti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="628"/>
       <source>Symbol Loading Text</source>
       <translation>Symbolin latauksen edistymisen teksti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="628"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="629"/>
       <source>Symbol Loaded Text</source>
       <translation>Symbolin latauksen teksti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="629"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="630"/>
       <source>Link color</source>
       <translation>Linkkien väri</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="652"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="653"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>EI LÖYDY ASETUKSISTA!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="656"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="657"/>
       <source>&amp;Default Value</source>
       <translation>&amp;Oletusarvo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="659"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="660"/>
       <source>&amp;Current Setting</source>
       <translation>&amp;Nykyinen asetus</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="714"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="715"/>
       <source>Select Color</source>
       <translation>Valitse Väri</translation>
     </message>
@@ -1671,18 +1676,19 @@
     <name>CPUArgumentWidget</name>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="14"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="246"/>
       <source>Arguments</source>
       <translation>Argumentit</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="292"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
       <source>Unlocked</source>
       <translation>Lukitsematon</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="294"/>
       <source>Refresh is automatic.</source>
       <translation>Päivittyy automaattisesti.</translation>
     </message>
@@ -1750,22 +1756,22 @@
       <translation>Delphi (Borland fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="277"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
       <source>Locked</source>
       <translation>Lukittu</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="279"/>
       <source>Refresh is disabled.</source>
       <translation>Näkymä ei päivity automaattisesti.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="285"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
       <source>Calls</source>
       <translation>Kutsut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>Näkymä päivittyy vain CALL-käskyn suorituksen yhteydessä.</translation>
     </message>
@@ -2286,10 +2292,10 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="808"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="942"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="996"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1691"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1712"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1736"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1690"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1711"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1735"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1830"/>
       <source>Error!</source>
       <translation>Virhe!</translation>
     </message>
@@ -2341,8 +2347,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1417"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2027"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2048"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2026"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2047"/>
       <source>Size</source>
       <translation>Koko</translation>
     </message>
@@ -2367,36 +2373,36 @@
       <translation>Tiedoston avaaminen ei onnistunut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1691"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1736"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1690"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1735"/>
       <source>Selection not in a module...</source>
       <translation>Valinta ei ole moduulissa...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1712"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1711"/>
       <source>Selection not in a file...</source>
       <translation>Valinta ei ole tiedostossa...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1815"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1814"/>
       <source>Start from &amp;Selection</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1830"/>
       <source>Failed to assemble instruction "</source>
       <translation>Käskyn tulkkaaminen epäonnistui: "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1942"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1959"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1976"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1941"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1958"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1975"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>Jäljityksen kattavuuden käyttöönotto epäonnistui sivulla %1.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1993"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1992"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>Jäljityksen kattavuuden poistaminen käytöstä epäonnistui sivulla %1.</translation>
@@ -3205,63 +3211,63 @@
       <translation>Korosta</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
       <source>Error</source>
       <translation>Virhe</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="308"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="487"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="311"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="490"/>
       <source>Edit %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="317"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="319"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="318"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="320"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="322"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="325"/>
       <source>Edit</source>
       <translation>Muokkaa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="328"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="331"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="334"/>
       <source>Edit %1 register</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="338"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="341"/>
       <source>Edit FPU register</source>
       <translation>Muokkaa liukulukuprosessorin rekisteriä</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="435"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation>VIRHE MUUNTAESSA HEKSADESIMAALISEKSI</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="447"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="450"/>
       <source>Set Last Error</source>
       <translation>Aseta viimeisin virhekoodi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="468"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="471"/>
       <source>Set Last Status</source>
       <translation>Aseta viimeisin tilakoodi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="686"/>
       <source>Follow in &amp;Dump</source>
       <translation>Siirry &amp;muistivedoksessa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="725"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="728"/>
       <source>Copy old value: %1</source>
       <translation>Kopioi vanha arvo: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="770"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="773"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation>Aseta laitteistokeskeytyskohta kohtaan %1</translation>
     </message>
@@ -4211,8 +4217,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="372"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="373"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="374"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="375"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
@@ -4222,72 +4226,74 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <source>File</source>
       <translation>Tiedosto</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="372"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="374"/>
       <source>Open</source>
       <translation>Avaa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="373"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="375"/>
       <source>Attach</source>
       <translation>Kytke virheenjäljitin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="374"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
       <source>Detach</source>
       <translation>Irrota virheenjäljitin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="375"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
       <source>Save database</source>
       <translation>Tallenna tietokanta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="445"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <source>Restore backup database</source>
       <translation>Palauta varmuuskopiotietokanta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <source>Reload database</source>
       <translation>Lataa tietokanta uudelleen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
       <source>Clear database</source>
       <translation>Tyhjennä tietokanta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
       <source>Import database</source>
       <translation>Tuo tietokanta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
       <source>Export database</source>
       <translation>Vie tietokanta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
       <source>Restart as Admin</source>
       <translation>Käynnistä uudelleen järjestelmänvalvojana</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <source>Exit</source>
       <translation>Poistu</translation>
     </message>
@@ -4318,8 +4324,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
@@ -4344,126 +4348,128 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>View</source>
       <translation>Näytä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <source>CPU</source>
       <translation>Suoritin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <source>Log</source>
       <translation>Loki</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
       <source>Breakpoints</source>
       <translation>Keskeytyskohdat</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
       <source>Memory Map</source>
       <translation>Muistikartta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <source>Call Stack</source>
       <translation>Kutsupino</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <source>Notes</source>
       <translation>Muistiinpanot</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
       <source>SEH</source>
       <translation>SEH</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
       <source>Script</source>
       <translation>Skripti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
       <source>Symbol Info</source>
       <translation>Symbolien tiedot</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
       <source>Modules</source>
       <translation>Moduulit</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
       <source>Source</source>
       <translation>Lähde</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
       <source>References</source>
       <translation>Viittaukset</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
       <source>Threads</source>
       <translation>Säikeet</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
       <source>Patches</source>
       <translation>Muutokset</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
       <source>Comments</source>
       <translation>Kommentit</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
       <source>Labels</source>
       <translation>Nimikkeet</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
       <source>Bookmarks</source>
       <translation>Kirjanmerkit</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
       <source>Functions</source>
       <translation>Funktiot</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
       <source>Variables</source>
       <translation>Muuttujat</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
       <source>Handles</source>
       <translation>Kahvat</translation>
     </message>
@@ -4477,45 +4483,45 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Graph</source>
       <translation>Kaavio</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <source>Previous Tab</source>
       <translation>Edellinen välilehti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <source>Next Tab</source>
       <translation>Seuraava välilehti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
       <source>Previous View</source>
       <translation>Edellinen näkymä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
       <source>Next View</source>
       <translation>Seuraava näkymä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>Hide Tab</source>
       <translation>Piilota välilehti</translation>
     </message>
@@ -4553,8 +4559,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
@@ -4585,158 +4589,160 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Debug</source>
       <translation>Virheenjäljitys</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <source>Run</source>
       <translation>Jatka</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <source>Run (pass exception)</source>
       <translation>Jatka (päästä poikkeus läpi)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
       <source>Run (swallow exception)</source>
       <translation>Jatka (unohda poikkeus)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
       <source>Run until selection</source>
       <translation>Jatka valintaan asti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <source>Run until expression</source>
       <translation>Jatka lausekkeeseen asti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <source>Pause</source>
       <translation>Keskeytä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
       <source>Restart</source>
       <translation>Käynnistä uudelleen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
       <source>Close</source>
       <translation>Sulje</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
       <source>Step into</source>
       <translation>Suorita</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
       <source>Step into (pass exception)</source>
       <translation>Suorita (päästä poikkeus läpi)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
       <source>Step into (swallow exception)</source>
       <translation>Suorita (unohda poikkeus)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
       <source>Step into (source)</source>
       <translation>Suorita (lähde)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
       <source>Step over</source>
       <translation>Jätä väliin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
       <source>Step over (pass exception)</source>
       <translation>Jätä väliin (päästä poikkeus läpi)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
       <source>Step over (swallow exception)</source>
       <translation>Jätä väliin (unohda poikkeus)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <source>Step over (source)</source>
       <translation>Jätä väliin (lähde)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <source>Execute till return</source>
       <translation>Suorita loppuun</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
       <source>Execute till return (pass exception)</source>
       <translation>Suorita loppuun (päästä poikkeus läpi)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
       <source>Run to user code</source>
       <translation>Jatka käyttäjäalueen koodiin asti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
       <source>Skip next instruction</source>
       <translation>Hyppää seuraavan käskyn yli</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <source>Command</source>
       <translation>Komento</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
       <source>Trace into...</source>
       <translation>Jäljitä suoritus (seuraten kutsua)...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Trace over...</source>
       <translation>Jäljitä suoritus (älä seuraa kutsua)...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Trace coverage</source>
       <translation>Suorituksen jäljityksen kattavuus</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Bit</source>
       <translation>Bitti</translation>
     </message>
@@ -4747,73 +4753,73 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Undo instruction</source>
       <translation>Kumoa käsky</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Animate into</source>
       <translation>Suorita animoiden</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Animate over</source>
       <translation>Jätä väliin animoiden</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Animate command</source>
       <translation>Suorita komento animoiden</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step into until reaching uncovered code</source>
       <translation>Suorita, kunnes tullaan kattamattomaan koodiin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Step over until reaching uncovered code</source>
       <translation>Ohita, kunnes tullaan kattamattomaan koodiin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
       <source>Step into until reaching covered code</source>
       <translation>Suorita, kunnes tullaan katettuun koodiin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Step over until reaching covered code</source>
       <translation>Ohita, kunnes tullaan katettuun koodiin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Plugins</source>
       <translation>Liitännäiset</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Scylla</source>
       <translation>Scylla</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Favourites</source>
       <translation>Suosikit</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Manage Favourite Tools</source>
       <translation>Hallitse suosikkityökaluja</translation>
     </message>
@@ -4823,41 +4829,41 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Options</source>
       <translation>Asetukset</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Preferences</source>
       <translation>Asetukset</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <source>Appearance</source>
       <translation>Ulkoasu</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Hotkeys</source>
       <translation>Näppäinkomennot</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
       <source>Topmost</source>
       <translation>Ylin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Reload style.css</source>
       <translation>Lataa style.css uudelleen</translation>
     </message>
@@ -4869,55 +4875,55 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Help</source>
       <translation>Ohje</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <source>About</source>
       <translation>Tietoja</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <source>Blog</source>
       <translation>Blogi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Donate</source>
       <translation>Lahjoita</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <source>Calculator</source>
       <translation>Laskin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <source>Report Bug</source>
       <translation>Ilmoita viasta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Manual</source>
       <translation>Ohjekirja</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Generate Crash Dump</source>
       <translation>Luo kaatumisvedos</translation>
     </message>
@@ -5075,8 +5081,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
@@ -5087,8 +5091,8 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
@@ -5225,180 +5229,182 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Actions</source>
       <translation>Toiminnot</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <source>Find Strings</source>
       <translation>Etsi merkkijonoja</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <source>Find Strings in Current Module</source>
       <translation>Etsi merkkijonoja nykyisestä moduulista</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <source>Find Intermodular Calls</source>
       <translation>Etsi moduulien välisiä kutsuja</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
       <source>Toggle Breakpoint</source>
       <translation>Lisää/poista keskeytyskohta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <source>Set Conditional Breakpoint</source>
       <translation>Aseta ehdollinen keskeytyskohta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <source>Toggle Bookmark</source>
       <translation>Lisää/poista kirjanmerkki</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
       <source>Delete Breakpoint</source>
       <translation>Poista keskeytyskohta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <source>Enable/Disable Breakpoint</source>
       <translation>Ota keskeytyskohta käyttöön/pois käytöstä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <source>Reset breakpoint hit count</source>
       <translation>Tyhjennä keskeytyskohdan osumalaskuri</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
       <source>Enable all breakpoints</source>
       <translation>Ota kaikki keskeytyskohdat käyttöön</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <source>Disable all breakpoints</source>
       <translation>Poista kaikki keskeytyskohdat käytöstä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
       <source>Remove all breakpoints</source>
       <translation>Poista kaikki keskeytyskohdat</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <source>Binary Edit</source>
       <translation>Muokkaa binääriä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <source>Binary Fill</source>
       <translation>Täytä binääri</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
       <source>Binary Fill NOPs</source>
       <translation>Täytä binääri NOP-käskyillä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
       <source>Binary Copy</source>
       <translation>Kopio binääri</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <source>Binary Paste</source>
       <translation>Liitä binääri</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
       <source>Binary Paste (Ignore Size)</source>
       <translation>Liitä binääri (koosta huolimatta)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <source>Binary Save</source>
       <translation>Tallenna binääri</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
       <source>Undo Selection</source>
       <translation>Kumoa valinta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
       <source>Set Label</source>
       <translation>Aseta nimike</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
       <source>Set Label for the Operand</source>
       <translation>Aseta operandille nimike</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
       <source>Set Comment</source>
       <translation>Aseta kommentti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <source>Toggle Function</source>
       <translation>Lisää/poista funktio</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <source>Add Loop</source>
       <translation>Lisää silmukka</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <source>Delete Loop</source>
       <translation>Poista silmukka</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
       <source>Toggle Argument</source>
       <translation>Lisää/poista argumentti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
       <source>Assemble</source>
       <translation>Tulkkaa koodi</translation>
     </message>
@@ -5409,163 +5415,163 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
       <source>Goto Origin</source>
       <translation>Siirry alkupisteeseen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
       <source>Goto EBP/RBP</source>
       <translation>Siirry EBP/RBP-kohtaan</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
       <source>Goto Previous</source>
       <translation>Siirry edelliseen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
       <source>Goto Next</source>
       <translation>Siirry seuraavaan</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
       <source>Goto Expression</source>
       <translation>Siirry lausekkeeseen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
       <source>Goto Start of Page</source>
       <translation>Siirry muistisivun alkuun</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <source>Goto End of Page</source>
       <translation>Siirry muistisivun loppuun</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <source>Goto Start of Function</source>
       <translation>Siirry funktion alkuun</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
       <source>Goto End of Function</source>
       <translation>Siirry funktion loppuun</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
       <source>Goto File Offset</source>
       <translation>Siirry paikkaan tiedostossa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
       <source>Find References to Selected Address</source>
       <translation>Etsi vittaukset valittuun osoitteeseen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
       <source>Find Pattern</source>
       <translation>Etsi kuvio</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
       <source>Find Pattern in Current Module</source>
       <translation>Etsi kuvio nykyisestä moduulista</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
       <source>Find Names in Current Module</source>
       <translation>Etsi nimet nykyisestä moduulista</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
       <source>Find References</source>
       <translation>Etsi viittaukset</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
       <source>xrefs...</source>
       <translation>Viittaukset...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
       <source>Analyze Single Function</source>
       <translation>Analysoi yksittäinen funktio</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
       <source>Analyze Module</source>
       <translation>Analysoi moduuli</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
       <source>Help on Mnemonic</source>
       <translation>Tietoa käskylyhenteestä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
       <source>Toggle Mnemonic Brief</source>
       <translation>Näytä/piilota käskylyhenteen yhteenveto</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
       <source>Highlighting Mode</source>
       <translation>Korostustila</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
       <source>Enable/Disable Branch Destination Preview</source>
       <translation>Ota hypyn kohteen esikatselu käyttöön/pois käytöstä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
       <source>Find</source>
       <translation>Etsi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
       <source>Find in Current Module</source>
       <translation>Etsi nykyisestä moduulista</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
       <source>Enable/Disable Logging</source>
       <translation>Ota lokikirjoitus käyttöön/pois käytöstä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
       <source>Allocate Memory</source>
       <translation>Varaa muistia</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
       <source>Free Memory</source>
       <translation>Vapauta muistia</translation>
     </message>
@@ -5576,49 +5582,49 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
       <source>Copy All Registers</source>
       <translation>Kopioi kaikki rekisterit</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
       <source>Mark As User Module</source>
       <translation>Merkitse käyttäjäalueen moduuliksi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
       <source>Mark As System Module</source>
       <translation>Merkitse järjestelmämoduuliksi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
       <source>Mark As Party</source>
       <translation>Merkitse kuuluvaksi muistialueelle</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
       <source>Set Hardware Breakpoint (Execute)</source>
       <translation>Aseta laitteistokeskeytyskohta (suoritus)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
       <source>Remove Hardware Breakpoint</source>
       <translation>Poista laitteistokeskeytyskohta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
       <source>Remove Type Analysis From Module</source>
       <translation>Poista moduulista tyyppianalyysi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <source>Remove Type Analysis From Selection</source>
       <translation>Poista valinnasta tyyppianalyysi</translation>
     </message>
@@ -5639,8 +5645,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
@@ -5656,134 +5660,136 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <source>Treat Selection As</source>
       <translation>Katso valittu tyypiksi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <source>Code</source>
       <translation>Koodi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <source>Byte</source>
       <translation>Tavu</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
       <source>Word</source>
       <translation>Sana</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <source>Dword</source>
       <translation>Dword</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <source>Fword</source>
       <translation>Fword</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <source>Qword</source>
       <translation>Qword</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <source>Tbyte</source>
       <translation>Tbyte</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <source>Oword</source>
       <translation>Oword</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
       <source>Float</source>
       <translation>Liukuluku</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <source>LongDouble</source>
       <translation>LongDouble</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>MMWord</source>
       <translation>MMWord</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
       <source>XMMWord</source>
       <translation>XMMWord</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
       <source>YMMWord</source>
       <translation>YMMWord</translation>
     </message>
@@ -5804,8 +5810,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
@@ -5821,156 +5825,158 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <source>Treat Selection Head As</source>
       <translation>Katso valinnan alun tyypiksi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
       <source>Toggle Register Value</source>
       <translation>Vaihda rekisterin arvo</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
       <source>Clear</source>
       <translation>Tyhjennä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
       <source>Copy</source>
       <translation>Kopioi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
       <source>Copy Address</source>
       <translation>Kopioi osoite</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <source>Copy RVA</source>
       <translation>Kopioi RVA</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
       <source>Copy Symbol</source>
       <translation>Kopioi symboli</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
       <source>Copy Line</source>
       <translation>Kopioi rivi</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
       <source>Copy Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
       <source>Load Script</source>
       <translation>Lataa skripti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
       <source>Reload Script</source>
       <translation>Lataa skripti uudelleen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
       <source>Unload Script</source>
       <translation>Poista skriptin lataus</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
       <source>Edit Script</source>
       <translation>Muokkaa skriptiä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
       <source>Run Script</source>
       <translation>Suorita skripti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
       <source>Toggle Script Breakpoint</source>
       <translation>Lisää/poista skriptin keskeytyskohta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
       <source>Run Script to Cursor</source>
       <translation>Suorita skripti kursoriin asti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
       <source>Step Script</source>
       <translation>Suorita skriptiä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
       <source>Abort Script</source>
       <translation>Keskeytä skripti</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <source>Execute Script Command</source>
       <translation>Suorita skriptikomento</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
       <source>Refresh</source>
       <translation>Päivitä</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Zoom to cursor</source>
       <translation>Zoomaa kursorin kohdalla</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Fit To Window</source>
       <translation>Sovita ikkunaan</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Follow in disassembler</source>
       <translation>Siirry koodissa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Save as image</source>
       <translation>Tallenna kuvana</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Toggle overview</source>
       <translation>Näytä/piilota yleiskatsaus</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Toggle summary</source>
       <translation>Näytä/piilota yhteenveto</translation>
     </message>
@@ -5981,175 +5987,175 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Increment x87 Stack</source>
       <translation>Lisää x87-pinoa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Decrement x87 Stack</source>
       <translation>Vähennä x87-pinoa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <source>Redirect Log</source>
       <translation>Ohjaa loki</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Browse in Explorer</source>
       <translation>Selaa Resurssienhallinnassa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Download Symbols for This Module</source>
       <translation>Lataa symbolit tälle moduulille</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Download Symbols for All Modules</source>
       <translation>Lataa symbolit kaikille moduulille</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Create New Thread Here</source>
       <translation>Luo uusi säie tähän</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Open Source File</source>
       <translation>Avaa lähdetiedostossa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Follow in Memory Map</source>
       <translation>Siirry muistikartassa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Follow in Stack</source>
       <translation>Siirry pinossa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Follow in Disassembler</source>
       <translation>Siirry koodissa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation>Siirry DWORD:iin/QWORD:iin koodissa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation>Siirry DWORD:iin/QWORD:iin muistivedoksessa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Freeze the stack</source>
       <translation>Jäädytä pino</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Go to Base of Stack Frame</source>
       <translation>Siirry pinokehyksen alkuun</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Go to Previous Stack Frame</source>
       <translation>Siirry edelliseen pinokehykseen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Go to Next Stack Frame</source>
       <translation>Siirry seuraavaan pinokehykseen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Go to Previous Reference</source>
       <translation>Siirry edelliseen viittaukseen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Go to Next Reference</source>
       <translation>Siirry seuraavaan viittaukseen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Modify value</source>
       <translation>Muokkaa arvoa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Watch DWORD/QWORD</source>
       <translation>Tarkkaile DWORD:ia/QWORD:ia</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy File Offset</source>
       <translation>Kopioi paikka tiedostossa</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Start/Stop trace recording</source>
       <translation>Aloita/lopeta suorituksen jäljitystallennus</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>Kopioi -&gt; Rajattu taulukko</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Copy -&gt; Table</source>
       <translation>Kopioi -&gt; Taulukko</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>Kopioi -&gt; Rivi, lokiin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>Kopioi -&gt; Rajattu taulukko, lokiin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>Kopioi -&gt; Taulukko, lokiin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Copy -&gt; Export Table</source>
       <translation>Kopioi -&gt; Vie taulukko</translation>
     </message>
@@ -6166,54 +6172,54 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="990"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="1004"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="1022"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="796"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="812"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="821"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="840"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="849"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="864"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="873"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="892"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="901"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="917"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="931"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="949"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="798"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="814"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="823"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="842"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="851"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="866"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="875"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="894"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="903"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="919"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="933"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="951"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>EI LÖYDY ASETUKSISTA!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Tracing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Disable</source>
       <translation>Poista käytöstä</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
       <source>Set %1 Here</source>
       <translation>Aseta %1 tähän</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
       <source>Sync</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <source>ZMMWord</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
@@ -7806,9 +7812,9 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
-      <location filename="src/dbg/value.cpp" line="1794"/>
-      <location filename="src/dbg/value.cpp" line="2526"/>
-      <location filename="src/dbg/value.cpp" line="2570"/>
+      <location filename="src/dbg/value.cpp" line="1762"/>
+      <location filename="src/dbg/value.cpp" line="2456"/>
+      <location filename="src/dbg/value.cpp" line="2500"/>
       <source>Not debugging!</source>
       <translation>Virheenjäljitys ei ole käynnissä!</translation>
     </message>
@@ -7936,8 +7942,8 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="961"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="992"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1014"/>
-      <location filename="src/dbg/value.cpp" line="2354"/>
-      <location filename="src/dbg/value.cpp" line="2372"/>
+      <location filename="src/dbg/value.cpp" line="2284"/>
+      <location filename="src/dbg/value.cpp" line="2302"/>
       <source>Failed to read register context...</source>
       <translation type="unfinished"/>
     </message>
@@ -8038,8 +8044,8 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
       <source>Address</source>
       <translation>Osoite</translation>
     </message>
@@ -8583,8 +8589,8 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="748"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
       <source>Disassembly</source>
       <translation>Purettu koodi</translation>
     </message>
@@ -8670,9 +8676,9 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="646"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="164"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="327"/>
       <source>Label</source>
       <translation>Nimeä</translation>
     </message>
@@ -9073,8 +9079,8 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="83"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="240"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="241"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="329"/>
       <source>Comment</source>
       <translation>Kommentti</translation>
     </message>
@@ -9084,267 +9090,267 @@
       <translation>Ei kommentteja</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="111"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="187"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="270"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="364"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="455"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="555"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="112"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="188"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="365"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="456"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="556"/>
       <location filename="src/dbg/commands/cmd-variables.cpp" line="135"/>
       <source>Delete</source>
       <translation>Poista</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="112"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="113"/>
       <source>%d comment(s) listed in Reference View
 </source>
       <translation>%d kommentti(a) listataan viittausnäkymässä
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="121"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="122"/>
       <source>All comments deleted!</source>
       <translation>Kaikki kommentit poistettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="135"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="136"/>
       <source>Error setting label</source>
       <translation>Virhe asettaessa nimikettä</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="151"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="152"/>
       <source>Error deleting label</source>
       <translation>Virhe poistaessa nimikettä</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="160"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
       <source>Labels</source>
       <translation>Nimikkeet</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="170"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="171"/>
       <source>No labels</source>
       <translation>Ei nimikkeitä</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="188"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="189"/>
       <source>%d label(s) listed in Reference View
 </source>
       <translation>%d nimike(ttä) listataan vittausnäkymässä
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="197"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="198"/>
       <source>All labels deleted!</source>
       <translation>Kaikki nimikkeet poistettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="210"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="211"/>
       <source>Failed to set bookmark!</source>
       <translation>Kirjanmerkin asettaminen epäonnistui!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="213"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="214"/>
       <source>Bookmark set!</source>
       <translation>Kirjanmerkki asetettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="226"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="227"/>
       <source>Failed to delete bookmark!</source>
       <translation>Kirjanmerkin poistaminen epäonnistui!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="229"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="230"/>
       <source>Bookmark deleted!</source>
       <translation>Kirjanmerkki poistettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="236"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
       <source>Bookmarks</source>
       <translation>Kirjanmerkit</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="247"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="248"/>
       <source>No bookmarks found</source>
       <translation>Kirjanmerkkejä ei löydy</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="272"/>
       <source>%d bookmark(s) listed
 </source>
       <translation>%d kirjanmerkki(ä) listassa
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="280"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="281"/>
       <source>All bookmarks deleted!</source>
       <translation>Kaikki kirjanmerkit poistettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="294"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="295"/>
       <source>Failed to add function</source>
       <translation>Funktion lisääminen epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="297"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="298"/>
       <source>Function added!</source>
       <translation>Funktio lisätty!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="311"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="312"/>
       <source>Failed to delete function</source>
       <translation>Funktion poistaminen epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="314"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="315"/>
       <source>Function deleted!</source>
       <translation>Funktio poistettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="323"/>
       <source>Functions</source>
       <translation>Funktiot</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="323"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="417"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="511"/>
-      <source>Start</source>
-      <translation>Alku</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="324"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="418"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="512"/>
+      <source>Start</source>
+      <translation>Alku</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="419"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="513"/>
       <source>End</source>
       <translation>Loppu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="326"/>
       <source>Size</source>
       <translation>Koko</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="327"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="419"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="515"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="420"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="516"/>
       <source>Disassembly (Start)</source>
       <translation>Koodin purku (alku)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="336"/>
       <source>No functions</source>
       <translation>Ei funktioita</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="365"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="366"/>
       <source>%d function(s) listed
 </source>
       <translation>%d funktio(ta) listassa
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="374"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="375"/>
       <source>All functions deleted!</source>
       <translation>Kaikki funktiot poistettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="388"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="389"/>
       <source>Failed to add argument</source>
       <translation>Argumentin lisääminen epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="391"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="392"/>
       <source>Argument added!</source>
       <translation>Argumentti lisätty!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="405"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="406"/>
       <source>Failed to delete argument</source>
       <translation>Argumentin poistaminen epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="408"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="409"/>
       <source>Argument deleted!</source>
       <translation>Argumentti poistettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="416"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="417"/>
       <source>Arguments</source>
       <translation>Argumentit</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="420"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="516"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="421"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="517"/>
       <source>Label/Comment</source>
       <translation>Nimike/kommentti</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="427"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="428"/>
       <source>No arguments</source>
       <translation>Ei argumentteja</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="456"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="457"/>
       <source>%d argument(s) listed
 </source>
       <translation>%d argumentti(a) listassa
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="465"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="466"/>
       <source>All arguments deleted!</source>
       <translation>Kaikki argumentit poistettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="479"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="480"/>
       <source>Failed to add loop</source>
       <translation>Silmukan lisääminen epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="482"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="483"/>
       <source>Loop added!</source>
       <translation>Silmukka lisätty!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="499"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="500"/>
       <source>Failed to delete loop</source>
       <translation>Silmukan poisto epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="502"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="503"/>
       <source>Loop deleted!</source>
       <translation>Silmukka poistettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="510"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="511"/>
       <source>Loops</source>
       <translation>Silmukat</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="513"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="514"/>
       <source>Depth</source>
       <translation>Syvyys</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="514"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="515"/>
       <source>Parent</source>
       <translation>Ylätaso</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="523"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="524"/>
       <source>No loops</source>
       <translation>Ei silmukoita</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="556"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="557"/>
       <source>%d loop(s) listed
 </source>
       <translation>%d silmukka(a) listassa
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="565"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="566"/>
       <source>All loops deleted!</source>
       <translation>Kaikki silmukat poistettu!</translation>
     </message>
@@ -10127,64 +10133,64 @@ Haluatko jatkaa virheenjäljitystä?</translation>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="721"/>
+      <location filename="src/dbg/expressionparser.cpp" line="730"/>
       <source>invalid dest "%s"
 </source>
       <translation>kohde "%s" ei kelpaa
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="839"/>
+      <location filename="src/dbg/expressionparser.cpp" line="860"/>
       <source>Expression evaluated to a string: "%s"
 </source>
       <translation>Lauseke evaluoitiin merkkijonoksi: "%s"</translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="948"/>
+      <location filename="src/dbg/expressionparser.cpp" line="969"/>
       <source>No such expression function '%s'
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="973"/>
+      <location filename="src/dbg/expressionparser.cpp" line="994"/>
       <source>number</source>
       <translation>numero</translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="976"/>
+      <location filename="src/dbg/expressionparser.cpp" line="997"/>
       <source>string</source>
       <translation>merkkijono</translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="979"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1000"/>
       <source>any</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="981"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1002"/>
       <source>invalid</source>
       <translation>virheellinen</translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1017"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1038"/>
       <source>Bad argument count for expression function %s (expected %s, got %d)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1082"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1103"/>
       <source>Expression function %s argument %d/%d (%s) type mismatch (expected %s, got %s)!
 </source>
       <translation>Lausekefunktion %s argumentin %d/%d (%s) tyyppi ei täsmää (tarvitaan %s, saatiin %s)!</translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1101"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1122"/>
       <source>Expression function %s errored!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1115"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1136"/>
       <source>Expression function %s returned an invalid value!
 </source>
       <translation type="unfinished"/>
@@ -10340,13 +10346,13 @@ Haluatko jatkaa virheenjäljitystä?</translation>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="966"/>
+      <location filename="src/dbg/module.cpp" line="969"/>
       <source>Module %s%s loaded from file handle (path inaccessible)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1014"/>
+      <location filename="src/dbg/module.cpp" line="1017"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
@@ -10846,32 +10852,32 @@ Haluatko jatkaa virheenjäljitystä?</translation>
       <translation>Argumentin %s %s.%s lisääminen epäonnistui;</translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1655"/>
-      <location filename="src/dbg/value.cpp" line="1812"/>
-      <location filename="src/dbg/value.cpp" line="2404"/>
-      <location filename="src/dbg/value.cpp" line="2555"/>
+      <location filename="src/dbg/value.cpp" line="1630"/>
+      <location filename="src/dbg/value.cpp" line="1776"/>
+      <location filename="src/dbg/value.cpp" line="2334"/>
+      <location filename="src/dbg/value.cpp" line="2485"/>
       <source>Not debugging</source>
       <translation>Virheenjäljitys ei ole käynnissä</translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1766"/>
+      <location filename="src/dbg/value.cpp" line="1738"/>
       <source>valfromstring_noexpr failed on %s
 </source>
       <translation>valfromstring_noexpr epäonnistui merkkijonolle %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1774"/>
+      <location filename="src/dbg/value.cpp" line="1746"/>
       <source>Failed to read memory</source>
       <translation>Muistin lukeminen epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1899"/>
+      <location filename="src/dbg/value.cpp" line="1829"/>
       <source>Invalid value: "%s"!
 </source>
       <translation>Arvo ei kelpaa: ”%s”!</translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="2514"/>
+      <location filename="src/dbg/value.cpp" line="2444"/>
       <source>Failed to write memory</source>
       <translation>Muistin kirjoittaminen epäonnistui</translation>
     </message>
@@ -11218,22 +11224,22 @@ Korjataanko tämä?</translation>
   <context>
     <name>DebugStatusLabel</name>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="8"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
       <source>Initialized</source>
       <translation>Alustettu</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
       <source>Paused</source>
       <translation>Keskeytetty</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
       <source>Running</source>
       <translation>Käynnissä</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="12"/>
       <source>Terminated</source>
       <translation>Päättynyt</translation>
     </message>
@@ -12411,27 +12417,27 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
   <context>
     <name>HexDump</name>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="382"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="384"/>
       <source>&amp;Selected lines</source>
       <translation>&amp;Valitut rivit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="388"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="390"/>
       <source>&amp;Address</source>
       <translation>&amp;Osoite</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="416"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="418"/>
       <source>Error!</source>
       <translation>Virhe!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="416"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="418"/>
       <source>Selection not in a module...</source>
       <translation>Valinta ei ole moduulissa...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1644"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1668"/>
       <source>Address</source>
       <translation>Osoite</translation>
     </message>
@@ -15299,7 +15305,7 @@ Haluatko silti toteuttaa nämä muutokset?</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/main.cpp" line="243"/>
+      <location filename="src/gui/Src/main.cpp" line="247"/>
       <source>DbgInit Error!</source>
       <translation>DbgInit-käskyn virhe!</translation>
     </message>
@@ -15481,200 +15487,205 @@ Haluatko silti toteuttaa nämä muutokset?</translation>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2640"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2645"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1335"/>
-      <source>Copy value</source>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="919"/>
+      <source>Registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1336"/>
-      <source>Copy floating point value</source>
+      <source>Copy value</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1337"/>
-      <source>Copy Symbol Value</source>
+      <source>Copy floating point value</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1338"/>
-      <source>Copy all registers</source>
+      <source>Copy Symbol Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1339"/>
-      <source>Change view</source>
+      <source>Copy all registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1340"/>
+      <source>Change view</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1341"/>
       <source>Change SIMD Register Display Mode</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1342"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1343"/>
       <source>Display ST(x)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1343"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1344"/>
       <source>Display x87rX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1344"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1345"/>
       <source>Display MMX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1347"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
       <source>Hexadecimal</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
       <source>Float</source>
       <translation>Liukuluku</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1351"/>
       <source>Signed Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1351"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1352"/>
       <source>Signed Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1352"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1353"/>
       <source>Signed Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1353"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1354"/>
       <source>Unsigned Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1354"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1355"/>
       <source>Unsigned Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1355"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1356"/>
       <source>Unsigned Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1356"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1357"/>
       <source>Hexadecimal Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1357"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1358"/>
       <source>Hexadecimal Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1358"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1359"/>
       <source>Hexadecimal Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1390"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
       <source>Always show maximum vector length</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1392"/>
       <source>Always show all AVX-512 registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>CF (Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>PF (Parity flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>ZF (Zero flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>SF (Sign flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>TF (Trap flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
       <source>IF (Interrupt enable flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
       <source>DF (Direction flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
       <source>OF (Overflow flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>Bit #</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>Mask</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>Flag</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1608"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1609"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1611"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1612"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (bitti 2) : Parillisuusbitti - Tulee asetetuksi, jos tuloksen viimeinen tavu sisältää parillisen lukumäärän ykkösbittejä; muutoin tulee tyhjennetyksi.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1613"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1614"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (bitti 4) : Apumuistibitti - Tulee asetetuksi, jos aritmeettisen laskutoimituksen tuloksena
@@ -15682,12 +15693,12 @@ kolmannen bitin kohdalta jää muistinumero tai lainaus; muutoin se tyhjennetä�
 käytetään binäärikoodattujen desimaalilukujen (BCD) aritmetiikassa.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1616"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1617"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (bitti 6) : Nollabitti - Tulee asetetuksi, jos tulos on nolla; muutoin tulee tyhjennetyksi.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1618"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1619"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (bitti 7) : Etumerkkibitti - Asetetaan samaksi kuin tuloksen korkein bitti, joka on
@@ -15695,7 +15706,7 @@ etumerkillisen kokonaisluvun etumerkkibitti. (0 merkitsee positiivista arvoa ja 
 negatiivista.)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1621"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1622"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
@@ -15705,7 +15716,7 @@ tyhjennetään muutoin. Tämä bitti ilmaisee laskualueen ylitystä etumerkillis
 laskutoimituksissa.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1625"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1626"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
@@ -15715,42 +15726,42 @@ Suuntabitin asettaminen saa käskyt liikkumaan muistissa suuremmasta osoitteesta
 Suuntabitin tyhjentäminen saa käskyt liikkumaan muistissa pienemmästä osoitteesta suurempaan.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1629"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1630"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (bitti 8) : Ansabitti - Tulee asetetuksi, kun virheenjäljitin suorittaa koodia käsky kerrallaan; tyhjennetään, kun tätä tilaa ei käytetä.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1631"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1632"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (bitti 9) : Keskeytysten käyttöönottobitti - Määrittää prosessorin toimintaan, kun tapahtuu maskitettavia keskeytyspyyntöjä. Kun bitti on asetettu, prosessori vastaa maskitettaviin keskeytyksiin; kun ei, prosessori ei reagoi niihin.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1633"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1634"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>16-bittinen x87-liukulukuprosessorin hallintaluku määrittää käytettävän tarkkuuden ja pyöristysmenetelmän. Se sisältää myös liukulukupoikkeusten maskibitit.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1635"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1636"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>16-bittinen x87-liukulukuprosessorin tilaluku ilmoittaa prosessorin senhetkisen tilan.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1637"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1638"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>16-bittinen tagiluku kuvaa x87-liukulukuprosessorin kahdeksan rekisterin senhetkistä sisältöä (yksi 2-bittinen tagi rekisteriä kohden).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1640"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1641"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>Tarkkuushallintatietue (PC, x87-liukulukuprosessorin hallintaluvun bitit 8-9) määrittää prosessorin tekemien laskutoimitusten käyttämän tarkkuuden (64, 53 tai 24 bittiä).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1642"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1643"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>Pyöristyshallintatietue (RC, x87-liukulukuprosessorin hallintaluvun bitit 10 ja 11) määrittää, kuinka prosessorin liukulukukäskyjen tulokset pyöristetään.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1644"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1645"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>Äärettömyyden hallintabitti (x87-liukulukuprosessorin hallintaluvun bitti 12) on käytettävissä, jotta
@@ -15758,227 +15769,227 @@ saataisiin aikaan yhteensopivuus Intel 287 -sivuprosessorin kanssa;
 se ei merkitse mitään x87-prosessorin myöhemmissä versioissa tai IA-32-prosessoreissa.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1647"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1648"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Virheellisen käskyn poikkeusmaskibitti (bitti 0). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen
 luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1649"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1650"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Epänormaalin luvun poikkeusmaskibitti (bitti 0). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen
 luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1651"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1652"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Nollalla jakamisen poikkeusmaskibitti (bitti 3). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1653"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1654"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Laskualueen ylityksen poikkeusmaskibitti (bitti 4). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1655"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1656"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Mahdollisen laskualueen alituksen poikkeusmaskibitti (bitti 5). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1657"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1658"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Epätarkan tuloksen poikkeusmaskibitti (bitti 6). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen
 luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1660"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1661"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation>Varausbitti (bitti 15) merkitsee, että FPU on varattu (B=1) ja suorittaa parhaillaan komentoa tai että se on vapaa (B=0).
 B-bitti (bitti 15) on olemassa vain 8087-yhteensopivuutta varten. Se vastaa ES-bitin sisältöä.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1663"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1665"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1669"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1664"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1670"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation>Tilakoodibittiä C%1 (bitti %2) käytetään ilmoittamaan liukulukujen aritmeettisten laskujen ja vertailujen tuloksia.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1671"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1672"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation>Virhe-/poikkeusyhteenvetotilabitti (bitti 7) asetetaan silloin, kun mikä tahansa estämättömistä poikkeustilabiteistä asetetaan.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1673"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1674"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>Pinovirhebitti (x87-liukulukuprosessorin tilaluvun bitti 6) ilmoittaa, että x87-prosessorin rekisteripinossa on tapahtunut pinon ali- tai ylivuoto.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>Osoitin x87-prosessorin siihen datarekisteriin, joka on sillä hetkellä pinon päällimmäisenä, löytyy x87-prosessorin tilaluvun biteistä 11–13. Tämä osoitin, jota usein kutsutaan nimellä TOP (top-of-stack), on binääriluku välillä 0–7.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1679"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation>Prosessori luo kelpaamattoman laskutoimituksen poikkeuksen (bitti 0), jos yksi tai useampi operandi ei kelpaa.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1680"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1681"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation>Prosessori ilmoittaa epänormaalin luvun poikkeuksen (bitti 2), jos aritmeettisessa laskutoimituksessa yritetään käyttää epänormaalia lukua.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1682"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation>Prosessori ilmoittaa nollalla jakamisen poikkeuksen (bitti 3), kun käsky yrittää jakaa äärellistä, nollasta poikkeavaa lukua nollalla.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation>Prosessori ilmoittaa liukuluvun laskualueen ylityksen poikkeuksen (bitti 4), kun käskyn tulos pyöristettynä ylittää suurimman mahdollisen äärellisen arvon, joka mahtuu annettuun kohdeoperandiin.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1686"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1687"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation>Prosessori havaitsee mahdollisen liukulukujen laskualueen alituksen (bitti 5), kun pyöristyksen tulos ilman eksponentin rajoituksia eroaa nollasta, mutta on hyvin pieni.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1688"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1689"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation>Epätarkan tuloksen poikkeus (bitti 6) luodaan, kun käskyn tulosta ei voi esittää tarkasti kohteen vaatimassa muodossa.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1691"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1692"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>32-bittinen MXCSR-rekisteri sisältää hallinta- ja tilatietoa SIMD-liukulukulaskutoimituksia koskien.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bitti 0 (IE) : Virheellisen laskutoimituksen bitti; ilmoittaa, jos SIMD-liukulukupoikkeus on havaittu.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1695"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bitti 1 (DE) : Epänormaalibitti; ilmoittaa, mikäli SIMD-liukulukupoikkeus on havaittu.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1697"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1698"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bitti 2 (ZE) : Nollalla jakamisen bitti; ilmoittaa, mikäli SIMD-liukulukupoikkeus on havaittu.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1699"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bitti 3 (OE) : Ylivuotobitti; ilmoittaa, mikäli SIMD-liukulukupoikkeus on havaittu.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1702"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bitti 4 (UE) : Alivuotobitti; ilmoittaa, mikäli SIMD-liukulukupoikkeus on havaittu.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1703"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bitti 5 (PE) : Tarkkuusbitti; ilmoittaa, mikäli SIMD-liukulukupoikkeus on havaittu.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1705"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bitti 7 (IM) : Virheellisen käskyn maski. Kun maskibitti on asetettu, sitä vastaan poikkeuksen luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1707"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bitti 8 (DM) : Epänormaalin luvun maski. Kun maskibitti on asetettu, sitä vastaavan poikkeuksen
 luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1709"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bitti 9 (ZM) : Nollalla jakamisen maski. Kun maskibitti on asetettu, sitä vastaavan poikkeuksen luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bitti 10 (OM) : Ylivuotomaski. Kun maskibitti on asetettu, sitä vastaavan poikkeuksen
 luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bitti 11 (UM) : Alivuotomaski. Kun maskibitti on asetettu, sitä vastaavan poikkeuksen
 luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1715"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bitti 12 (PM) : Tarkkuusmaski. Kun maskibitti on asetettu, sitä vastaavan poikkeuksen
 luominen estyy.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1717"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>MXCSR-rekisterin bitti 15 (FZ) ottaa käyttöön ”huuhdo nollaksi” -tilan, joka vaikuttaa prosessorin toimintaan, kun SIMD-
 liukulukuoperandi on epänormaali.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1719"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1720"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>MXCSR-rekisterin bitti 6 (DAZ) ottaa käyttöön ”epänormaalit luvut ovat nollia” -tilan, joka vaikuttaa prosessorin toimintaan, kun SIMD-
 liukulukuoperandi on epänormaali.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1722"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>MXCSR-rekisterin bitit 13 ja 14 (pyöristyksen hallinta -tietue eli RC) määräävät, miten SIMD-liukulukulaskutoimitusten tulokset pyöristetään.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1731"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>GetLastError()-kutsun tulos. Tämä arvo säilytetään TEB:ssä.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1741"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation>NTSTATUS TEB:n LastStatusValue-tietueessa.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1745"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>Nykyisen säikeen TEB:tä voi käyttää lukemalla muistia alkaen GS-segmenttirekisteristä (x64).
 TEB:n avulla voi kerätä paljon tietoa prosessista kutsumatta Win32-rajapinnan kirjastoja.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>Nykyisen säikeen TEB:tä voi käyttää lukemalla muistia alkaen FS-segmenttirekisteristä (x86).
 TEB:n avulla voi kerätä paljon tietoa prosessista kutsumatta Win32-rajapinnan kirjastoja.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1823"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1826"/>
       <source>Hide FPU</source>
       <translation>Piilota liukulukuprosessori</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1828"/>
       <source>Show FPU</source>
       <translation>Näytä liukulukuprosessori</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2117"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2157"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2205"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2247"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2289"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2122"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2162"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2210"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2252"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2294"/>
       <source>Unknown</source>
       <translation>Tuntematon</translation>
     </message>
@@ -15986,82 +15997,82 @@ TEB:n avulla voi kerätä paljon tietoa prosessista kutsumatta Win32-rajapinnan 
   <context>
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="323"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2258"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="324"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2263"/>
       <source>Nonzero</source>
       <translation>Ei nolla</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="325"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2259"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="326"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2264"/>
       <source>Zero</source>
       <translation>Nollaa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="327"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2260"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2265"/>
       <source>Special</source>
       <translation>Erityinen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="329"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2261"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="330"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2266"/>
       <source>Empty</source>
       <translation>Tyhjä</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2087"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2092"/>
       <source>Toward Zero</source>
       <translation>Nollaa kohti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2088"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2093"/>
       <source>Toward Positive</source>
       <translation>Positiivista kohti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2089"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2094"/>
       <source>Toward Negative</source>
       <translation>Negatiivista kohti</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2090"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2130"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2095"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2135"/>
       <source>Round Near</source>
       <translation>Pyöristä lähimpään</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2127"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2132"/>
       <source>Truncate</source>
       <translation>Katkaise desimaalit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2128"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2133"/>
       <source>Round Up</source>
       <translation>Pyöristä ylöspäin</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2129"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2134"/>
       <source>Round Down</source>
       <translation>Pyöristä alaspäin</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2221"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2217"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2222"/>
       <source>Not Used</source>
       <translation>Käyttämätön</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2218"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2223"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2219"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2224"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
@@ -17355,160 +17366,170 @@ TEB:n avulla voi kerätä paljon tietoa prosessista kutsumatta Win32-rajapinnan 
       <translation>Lomake</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="191"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="179"/>
+      <source>Symbols</source>
+      <translation>Symbolit</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="188"/>
+      <source>Modules</source>
+      <translation>Moduulit</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
       <source>Base</source>
       <translation>Alkuosoite</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="192"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
       <source>Module</source>
       <translation>Moduuli</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
       <source>Party</source>
       <translation>Muistialue</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="196"/>
       <source>Path</source>
       <translation>Polku</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="197"/>
       <source>Status</source>
       <translation>Tila</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="305"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="330"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="307"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="332"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>&amp;Siirry koodissa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="308"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="310"/>
       <source>Follow in &amp;Dump</source>
       <translation>Siirry &amp;muistivedoksessa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="311"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="313"/>
       <source>Follow &amp;imported address</source>
       <translation>Siirry &amp;tuotuun osoitteeseen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="314"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="316"/>
       <source>Toggle Breakpoint</source>
       <translation>Lisää/poista keskeytyskohta</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="320"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="322"/>
       <source>Toggle Bookmark</source>
       <translation>Lisää/poista kirjanmerkki</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="326"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="328"/>
       <source>Help on Symbolic Name</source>
       <translation>Ohjeita symboliseen nimeen liittyen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="335"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="337"/>
       <source>Follow &amp;Entry Point in Disassembler</source>
       <translation>Siirry &amp;alkuosoitteeseen koodissa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="338"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="340"/>
       <source>Follow in Memory Map</source>
       <translation>Siirry muistikartassa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="344"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="346"/>
       <source>&amp;Download Symbols for This Module</source>
       <translation>&amp;Lataa tämän moduulin symbolit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="350"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="352"/>
       <source>Download Symbols for &amp;All Modules</source>
       <translation>Lataa &amp;kaikkien moduulien symbolit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="356"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="358"/>
       <source>Copy File &amp;Path</source>
       <translation>Kopioi tiedoston &amp;polku</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="362"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="364"/>
       <source>Browse in Explorer</source>
       <translation>Selaa Resurssienhallinnassa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="368"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="370"/>
       <source>Load library...</source>
       <translation>Lataa kirjasto...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="374"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="376"/>
       <source>Free library</source>
       <translation>Vapauta kirjasto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="380"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="382"/>
       <source>Mark as &amp;user module</source>
       <translation>Merkitse &amp;käyttäjäalueen moduuliksi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="386"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="388"/>
       <source>Mark as &amp;system module</source>
       <translation>Merkitse &amp;järjestelmämoduuliksi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="392"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="394"/>
       <source>Mark as &amp;party...</source>
       <translation>Valitse &amp;muistialue...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="508"/>
       <source>User</source>
       <translation>Käyttäjäalue</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="510"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="512"/>
       <source>System</source>
       <translation>Järjestelmäalue</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="514"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="516"/>
       <source>Party: %1</source>
       <translation>Muistialue: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="535"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="622"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="782"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="624"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="784"/>
       <source>Import</source>
       <translation>Tuo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="659"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="661"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopioi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="736"/>
       <source>Select DLL</source>
       <translation>Valitse DLL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="736"/>
       <source>Enter the path of a DLL to load in the debuggee.</source>
       <translation>Syötä kohdeohjelmassa ladattavan DLL-tiedoston polku.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="736"/>
       <source>DLL Files (*.dll);;All Files (*.*)</source>
       <translation>DLL-tiedostot (*.dll);;Kaikki tiedostot (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="750"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="752"/>
       <source>Are you sure you want to free the module: %1?
 
 This could introduce unexpected behaviour to your debugging session...</source>
@@ -17517,37 +17538,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
 Se voi aiheuttaa odottamatonta toimintaa virheenjäljitysistunnossa...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="752"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="754"/>
       <source>Free Library</source>
       <translation>Vapauta kirjasto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="831"/>
       <source>Error!</source>
       <translation>Virhe!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="831"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt epäonnistui!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="867"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>Mark the party of the module as</source>
       <translation>Valitse moduulin muistialue</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="867"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>0 is user module, 1 is system module.</source>
       <translation>0 tarkoittaa käyttäjäaluetta, 1 järjestelmäaluetta.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="881"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>Error</source>
       <translation>Virhe</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="881"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>The party number can only be 0 or 1</source>
       <translation type="unfinished"/>
     </message>
@@ -17910,7 +17931,7 @@ Se voi aiheuttaa odottamatonta toimintaa virheenjäljitysistunnossa...</translat
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1677"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
       <source>Error</source>
       <translation>Virhe</translation>
     </message>
@@ -18079,7 +18100,7 @@ Se voi aiheuttaa odottamatonta toimintaa virheenjäljitysistunnossa...</translat
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1328"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
       <source>Delete recording</source>
       <translation type="unfinished"/>
     </message>
@@ -18099,87 +18120,87 @@ Se voi aiheuttaa odottamatonta toimintaa virheenjäljitysistunnossa...</translat
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1290"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1292"/>
       <source>Open trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1291"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1293"/>
       <source>Trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1292"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1294"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1328"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1395"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1397"/>
       <source>Address not found in trace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1398"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1407"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1409"/>
       <source>The address %1 is not found in trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1398"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1671"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
       <source>Open File</source>
       <translation>Avaa tiedosto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1671"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
       <source>Text Files (*.txt)</source>
       <translation>Tekstitiedostot (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1677"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
       <source>Could not open file</source>
       <translation>Tiedoston avaaminen ei onnistunut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1766"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1791"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
       <source>Error!</source>
       <translation>Virhe!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1766"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
       <source>Selection not in a module...</source>
       <translation>Valinta ei ole moduulissa...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1791"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
       <source>Selection not in a file...</source>
       <translation>Valinta ei ole tiedostossa...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1890"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1889"/>
       <source>Constant</source>
       <translation>Vakio</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1897"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1913"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1923"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1896"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1912"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1922"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1904"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1903"/>
       <source>References</source>
       <translation>Viittaukset</translation>
     </message>

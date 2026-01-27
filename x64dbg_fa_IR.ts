@@ -92,7 +92,7 @@
       <translation>خروجی‌&amp;گیری از جدول</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1021"/>
+      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1031"/>
       <source>&amp;Copy</source>
       <translation>&amp;نسخه‌برداری</translation>
     </message>
@@ -100,7 +100,7 @@
   <context>
     <name>AbstractTableView</name>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="179"/>
+      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="181"/>
       <source>Edit columns</source>
       <translation>ویرایش ستون‌ها</translation>
     </message>
@@ -354,13 +354,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="926"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="550"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="551"/>
       <source>HexDump:</source>
       <translation>:داده‌ها در حالت مبنای ۱۶</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1065"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="570"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="571"/>
       <source>Stack:</source>
       <translation>:پشته</translation>
     </message>
@@ -372,13 +372,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1343"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="585"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="586"/>
       <source>HexEdit:</source>
       <translation>:ویرایش در حالت مبنای ۱۶</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1482"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="605"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="606"/>
       <source>Log:</source>
       <translation>:گزارش</translation>
     </message>
@@ -424,10 +424,10 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="460"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="485"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="503"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="551"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="571"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="586"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="552"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
       <source>Background</source>
       <translation>پس‌زمینه</translation>
     </message>
@@ -435,9 +435,9 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="453"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="461"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="504"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="552"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="580"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="553"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="588"/>
       <source>Selection</source>
       <translation>انتخاب‌شده</translation>
     </message>
@@ -449,10 +449,10 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="455"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="507"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="540"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="555"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="578"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="588"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="541"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="589"/>
       <source>Text</source>
       <translation>متن</translation>
     </message>
@@ -463,29 +463,29 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>EIP</source>
       <translation>(EIP) ادت=اشاره‌گر دستورالعمل تعمیم‌یافته</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>RIP</source>
       <translation>(RIP) ادث=اشاره‌گر دستورالعمل ثبات</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="463"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="528"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="553"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="554"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="574"/>
       <source>Addresses</source>
       <translation>نشانی‌ها</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="464"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="574"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="575"/>
       <source>Selected Addresses</source>
       <translation>نشانی‌های انتخاب‌شده</translation>
     </message>
@@ -501,8 +501,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="467"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="554"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="575"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="555"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
       <source>Labels</source>
       <translation>برچسب‌ها</translation>
     </message>
@@ -513,13 +513,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="469"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="557"/>
       <source>Modified Bytes</source>
       <translation>بایت‌های اصلاح‌شده</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="470"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="557"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="558"/>
       <source>Restored Bytes</source>
       <translation>بایت‌های بازگردانی‌شده</translation>
     </message>
@@ -751,352 +751,357 @@
       <translation>ویرگول‌ها</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="532"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="531"/>
+      <source>New Values (Trace View)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
       <source>General Registers</source>
       <translation>ثبات‌های عمومی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="534"/>
       <source>FPU Registers</source>
       <translation>(FPU) ثبات‌های ومم=واحد ممیز متغیرمکان</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="534"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="535"/>
       <source>MMX Registers</source>
       <translation>(MMX) ثبات‌های اچر=افزونه‌های چندرسانه‌ای</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="535"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="536"/>
       <source>XMM Registers</source>
       <translation>(XMM) ثبات‌های ۱۲۸چر=۱۲۸بیتی چندرسانه‌ای</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="537"/>
       <source>YMM Registers</source>
       <translation>(YMM) ثبات‌های ۲۵۶چر=۲۵۶بیتی چندرسانه‌ای</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="538"/>
       <source>ZMM Registers</source>
       <translation>(ZMM) ثبات‌های ۵۱۲چر=۵۱۲بیتی چندرسانه‌ای</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="538"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="539"/>
       <source>Memory Sizes</source>
       <translation>اندازه‌های حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="540"/>
       <source>Memory Segments</source>
       <translation>بخش‌های حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="541"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="542"/>
       <source>Memory Brackets</source>
       <translation>کروشه‌های حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="542"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="543"/>
       <source>Memory Stack Brackets</source>
       <translation>کروشه‌های پشته‌ی حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="543"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="544"/>
       <source>Memory Base Registers</source>
       <translation>ثبات‌های پایه‌ی حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="544"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="545"/>
       <source>Memory Index Registers</source>
       <translation>ثبات‌های نشان‌گر حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="546"/>
       <source>Memory Scales</source>
       <translation>مقیاس‌های حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="546"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="547"/>
       <source>Memory Operators (+/-/*)</source>
       <translation>(+/-/*) عمل‌گرهای حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="547"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="548"/>
       <source>Highlighting</source>
       <translation>در حال برجسته‌سازی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="558"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="559"/>
       <source>0x00 Bytes</source>
       <translation>0x00 بایت</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="559"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="560"/>
       <source>0x7F Bytes</source>
       <translation>0x7F بایت</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="560"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="561"/>
       <source>0xFF Bytes</source>
       <translation>0xFF بایت</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="561"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="562"/>
       <source>IsPrint Bytes</source>
       <translation>IsPrint (بایت (چاپی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="562"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="563"/>
       <source>User Code Pointer Highlight Color</source>
       <translation>رنگ برجسته‌ساز اشاره‌گر کد کاربر</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="563"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="564"/>
       <source>User Data Pointer Highlight Color</source>
       <translation>رنگ برجسته‌ساز اشاره‌گر داده‌های کاربر</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="564"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="565"/>
       <source>System Code Pointer Highlight Color</source>
       <translation>رنگ برجسته‌ساز اشاره‌گر کد سیستم</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="565"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="566"/>
       <source>System Data Pointer Highlight Color</source>
       <translation>رنگ برجسته‌ساز اشاره‌گر داده‌های سیستم</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="566"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="567"/>
       <source>Unknown Code Pointer Highlight Color</source>
       <translation>رنگ برجسته‌ساز اشاره‌گر کد نامعلوم</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="567"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="568"/>
       <source>Unknown Data Pointer Highlight Color</source>
       <translation>رنگ برجسته‌ساز اشاره‌گر داده‌های نامعلوم</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
       <source>ESP</source>
       <translation>(ESP) اپت=اشاره‌گر پشته‌ی تعمیم‌یافته</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
       <source>RSP</source>
       <translation>(RSP) اپث=اشاره‌گر پشته‌ی ثبات</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
       <source>User Stack Frame Line</source>
       <translation>خط زیرساخت پشته‌ی کاربر</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="578"/>
       <source>System Stack Frame Line</source>
       <translation>خط زیرساخت پشته‌ی سیستم</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="580"/>
       <source>Inactive Text</source>
       <translation>متن غیر فعال</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="582"/>
       <source>Return To Comment</source>
       <translation>بازگشت به یادداشت</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="582"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="583"/>
       <source>SEH Chain Comment</source>
       <translation>(SEH) یادداشت زنجیره‌ای ماس=مدیریت استثنای ساخت‌یافته</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="589"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="590"/>
       <source>Wildcards</source>
       <translation>نمادهای جست‌وجو</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="592"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="593"/>
       <source>Graph:</source>
       <translation>:نمودار رابطه‌ای</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="596"/>
       <source>Breakpoint</source>
       <translation>نقطه‌ی توقف</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="596"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="597"/>
       <source>Disabled Breakpoint</source>
       <translation>نقطه‌ی توقف غیر فعال</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="597"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="598"/>
       <source>Node</source>
       <translation>گره</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="598"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="599"/>
       <source>Current node shadow</source>
       <translation>سایه‌ی گره فعلی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="599"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="600"/>
       <source>Terminal node shadow</source>
       <translation>سایه‌ی گره نرم‌افزار خط فرمان</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="600"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="601"/>
       <source>Indirect call shadow</source>
       <translation>سایه‌ی فراخوانی غیر مستقیم</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="601"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="602"/>
       <source>Unconditional branch line</source>
       <translation>خط انشعابی غیر شرطی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="603"/>
       <source>True branch line</source>
       <translation>خط انشعابی حقیقی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="603"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="604"/>
       <source>False branch line</source>
       <translation>خط انشعابی ساختگی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="606"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="607"/>
       <source>Log</source>
       <translation>گزارش</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="607"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="608"/>
       <source>Log Link Color</source>
       <translation>رنگ لینک ثبت</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="609"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="610"/>
       <source>Other:</source>
       <translation>:سایر</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="610"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="611"/>
       <source>Background Flicker Color</source>
       <translation>رنگ درخشش سریع پس‌زمینه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="611"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="612"/>
       <source>Search Highlight Color</source>
       <translation>رنگ برجسته‌ساز جست‌وجو</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="612"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="613"/>
       <source>Patch located in relocation region</source>
       <translation>قطعه‌کد پیوستی قرارگرفته در ناحیه‌ی جابه‌جایی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="613"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="614"/>
       <source>Current Thread</source>
       <translation>رشته‌ی فعلی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="614"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
       <source>Watch (When Watchdog is Triggered)</source>
       <translation>(پایش (هنگامی که ناظر راه‌اندازی می‌شود</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
       <source>Memory Map Breakpoint</source>
       <translation>نقطه‌ی توقف نگاشت حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>Memory Map %1</source>
       <translation>%1 lنگاشت حافظه‌ی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
       <source>Memory Map Section Text</source>
       <translation>متن بخش نگاشت حافظه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="619"/>
       <source>Struct text</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="619"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="620"/>
       <source>Struct primary background</source>
       <translation>پس‌زمینه‌ی اصلی ساختار</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="620"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="621"/>
       <source>Struct secondary background</source>
       <translation>پس‌زمینه‌ی فرعی ساختار</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="621"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="622"/>
       <source>Breakpoint Summary Parentheses</source>
       <translation>پرانتزهای اختصاری نقطه‌ی توقف</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="623"/>
       <source>Breakpoint Summary Keywords</source>
       <translation>کلیدواژه‌های اختصاری نقطه‌ی توقف</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="623"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="624"/>
       <source>Breakpoint Summary Strings</source>
       <translation>رشته‌های متنی اختصاری نقطه‌ی توقف</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="624"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
       <source>Symbol User Module Text</source>
       <translation>متن مجموعه‌کد کاربر نماد</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="626"/>
       <source>Symbol System Module Text</source>
       <translation>متن مجموعه‌کد سیستم نماد</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="626"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="627"/>
       <source>Symbol Unloaded Text</source>
       <translation>متن خالی‌شده‌ی نماد</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="628"/>
       <source>Symbol Loading Text</source>
       <translation>متن در حال بارگذاری نماد</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="628"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="629"/>
       <source>Symbol Loaded Text</source>
       <translation>متن بارگذاری‌شده‌ی نماد</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="629"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="630"/>
       <source>Link color</source>
       <translation>رنگ لینک</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="652"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="653"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>در پیکربندی یافت نشد!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="656"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="657"/>
       <source>&amp;Default Value</source>
       <translation>مقدار &amp;پیش‌فرض</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="659"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="660"/>
       <source>&amp;Current Setting</source>
       <translation>تنظیمات &amp;فعلی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="714"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="715"/>
       <source>Select Color</source>
       <translation>انتخاب رنگ</translation>
     </message>
@@ -1672,18 +1677,19 @@
     <name>CPUArgumentWidget</name>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="14"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="246"/>
       <source>Arguments</source>
       <translation>نشانوندها</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="292"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
       <source>Unlocked</source>
       <translation>بازگشایی‌شده</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="294"/>
       <source>Refresh is automatic.</source>
       <translation>نوسازی به صورت خودکار انجام می‌شود.</translation>
     </message>
@@ -1751,22 +1757,22 @@
       <translation>(دِلْفی (فراخوانی سریع بُرْلَنْد</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="277"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
       <source>Locked</source>
       <translation>بسته‌شده</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="279"/>
       <source>Refresh is disabled.</source>
       <translation>نوسازی غیر فعال شده است.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="285"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
       <source>Calls</source>
       <translation>فراخوانی‌ها</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>نوسازی فقط هنگام اجرای یک دستورالعمل فراخوانی انجام می‌شود.</translation>
     </message>
@@ -2287,10 +2293,10 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="808"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="942"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="996"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1691"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1712"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1736"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1690"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1711"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1735"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1830"/>
       <source>Error!</source>
       <translation>!خطا</translation>
     </message>
@@ -2342,8 +2348,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1417"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2027"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2048"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2026"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2047"/>
       <source>Size</source>
       <translation>اندازه</translation>
     </message>
@@ -2368,36 +2374,36 @@
       <translation>نتوانست فایل را بگشاید</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1691"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1736"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1690"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1735"/>
       <source>Selection not in a module...</source>
       <translation>انتخاب‌شده درون قطعه‌کدی نیست...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1712"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1711"/>
       <source>Selection not in a file...</source>
       <translation>انتخاب‌شده درون فایلی نیست...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1815"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1814"/>
       <source>Start from &amp;Selection</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1830"/>
       <source>Failed to assemble instruction "</source>
       <translation>عدم موفقیت در ترجمه به کد ماشینِ دستورالعمل "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1942"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1959"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1976"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1941"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1958"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1975"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1993"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1992"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation type="unfinished"/>
@@ -3206,63 +3212,63 @@
       <translation>برجسته‌سازی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
       <source>Error</source>
       <translation>خطا</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="308"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="487"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="311"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="490"/>
       <source>Edit %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="317"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="319"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="318"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="320"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="322"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="325"/>
       <source>Edit</source>
       <translation>ویرایش</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="328"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="331"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="334"/>
       <source>Edit %1 register</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="338"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="341"/>
       <source>Edit FPU register</source>
       <translation>(FPU) ویرایش ثبات ومم=واحد ممیز متغیرمکان</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="435"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation>خطای تبدیل به حالت مبنای ۱۶</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="447"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="450"/>
       <source>Set Last Error</source>
       <translation>تنظیم خطای آخر</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="468"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="471"/>
       <source>Set Last Status</source>
       <translation>تنظیم وضعیت آخر</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="686"/>
       <source>Follow in &amp;Dump</source>
       <translation>دنبال کردن درون &amp;داده‌ها</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="725"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="728"/>
       <source>Copy old value: %1</source>
       <translation>%1 :نسخه‌برداری از مقدار قدیمی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="770"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="773"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation>%1 تنظیم نقطه‌ی توقف سخت‌افزاری روی</translation>
     </message>
@@ -4213,8 +4219,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="372"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="373"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="374"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="375"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
@@ -4224,72 +4228,74 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <source>File</source>
       <translation>فایل</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="372"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="374"/>
       <source>Open</source>
       <translation>گشودن</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="373"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="375"/>
       <source>Attach</source>
       <translation>اتصال</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="374"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
       <source>Detach</source>
       <translation>جداسازی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="375"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
       <source>Save database</source>
       <translation>ذخیره‌سازی پایگاه داده</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="445"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <source>Restore backup database</source>
       <translation>بازگردانی پایگاه داده‌ی پشتیبان</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <source>Reload database</source>
       <translation>بارگذاری دوباره‌ی پایگاه داده</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
       <source>Clear database</source>
       <translation>پاک‌سازی پایگاه داده</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
       <source>Import database</source>
       <translation>وارد کردن پایگاه داده</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
       <source>Export database</source>
       <translation>خروجی‌گیری از پایگاه داده</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
       <source>Restart as Admin</source>
       <translation>راه‌اندازی مجدد به عنوان مدیر</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <source>Exit</source>
       <translation>خروج</translation>
     </message>
@@ -4320,8 +4326,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
@@ -4346,126 +4350,128 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>View</source>
       <translation>نما</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <source>CPU</source>
       <translation>وپم=واحد پردازش مرکزی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <source>Log</source>
       <translation>گزارش</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
       <source>Breakpoints</source>
       <translation>نقاط توقف</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
       <source>Memory Map</source>
       <translation>نگاشت حافظه</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <source>Call Stack</source>
       <translation>پشته‌ی فراخوانی‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <source>Notes</source>
       <translation>ملاحظات</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
       <source>SEH</source>
       <translation>(SEH) ماس=مدیریت استثنای ساخت‌یافته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
       <source>Script</source>
       <translation>کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
       <source>Symbol Info</source>
       <translation>اطلاعات نماد</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
       <source>Modules</source>
       <translation>قطعه‌کدها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
       <source>Source</source>
       <translation>منبع</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
       <source>References</source>
       <translation>ارجاعات</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
       <source>Threads</source>
       <translation>رشته‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
       <source>Patches</source>
       <translation>قطعه‌کدهای پیوستی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
       <source>Comments</source>
       <translation>یادداشت‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
       <source>Labels</source>
       <translation>برچسب‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
       <source>Bookmarks</source>
       <translation>نشانه‌گذاری‌شده‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
       <source>Functions</source>
       <translation>توابع</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
       <source>Variables</source>
       <translation>متغیرها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
       <source>Handles</source>
       <translation>ارجاع‌دهنده‌ها</translation>
     </message>
@@ -4479,45 +4485,45 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Graph</source>
       <translation>نمودار رابطه‌ای</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <source>Previous Tab</source>
       <translation>زبانه‌ی قبلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <source>Next Tab</source>
       <translation>زبانه‌ی بعدی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
       <source>Previous View</source>
       <translation>نمای قبلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
       <source>Next View</source>
       <translation>نمای بعدی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>Hide Tab</source>
       <translation>پنهان‌سازی زبانه</translation>
     </message>
@@ -4555,8 +4561,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
@@ -4587,158 +4591,160 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Debug</source>
       <translation>اشکال‌زدایی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <source>Run</source>
       <translation>اجرا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <source>Run (pass exception)</source>
       <translation>اجرا (گذر از استثنا)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
       <source>Run (swallow exception)</source>
       <translation>اجرا (پوشاندن استثنا)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
       <source>Run until selection</source>
       <translation>اجرا تا انتخاب‌شده</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <source>Run until expression</source>
       <translation>اجرا تا عبارت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <source>Pause</source>
       <translation>توقف موقت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
       <source>Restart</source>
       <translation>راه‌اندازی مجدد</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
       <source>Close</source>
       <translation>بستن</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
       <source>Step into</source>
       <translation>حرکت داخلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
       <source>Step into (pass exception)</source>
       <translation>حرکت داخلی (گذر از استثنا)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
       <source>Step into (swallow exception)</source>
       <translation>حرکت داخلی (پوشاندن استثنا)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
       <source>Step into (source)</source>
       <translation>حرکت داخلی (کد)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
       <source>Step over</source>
       <translation>حرکت مستقیم</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
       <source>Step over (pass exception)</source>
       <translation>حرکت مستقیم (گذر از استثنا)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
       <source>Step over (swallow exception)</source>
       <translation>حرکت مستقیم (پوشاندن استثنا)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <source>Step over (source)</source>
       <translation>حرکت مستقیم (کد)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <source>Execute till return</source>
       <translation>اجرا تا بازگشت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
       <source>Execute till return (pass exception)</source>
       <translation>اجرا تا بازگشت (گذر از استثنا)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
       <source>Run to user code</source>
       <translation>اجرا به سمت کد کاربر</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
       <source>Skip next instruction</source>
       <translation>رد کردن دستورالعمل بعدی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <source>Command</source>
       <translation>فرمان</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
       <source>Trace into...</source>
       <translation>ردیابی داخلی...ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Trace over...</source>
       <translation>ردیابی مستقیم...ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Bit</source>
       <translation>بیت</translation>
     </message>
@@ -4749,73 +4755,73 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Undo instruction</source>
       <translation>لغو آخرین دستورالعمل</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Animate into</source>
       <translation>متحرک‌سازی داخلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Animate over</source>
       <translation>متحرک‌سازی مستقیم</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Animate command</source>
       <translation>متحرک‌سازی فرمان</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step into until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Step over until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
       <source>Step into until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Step over until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Plugins</source>
       <translation>افزونه‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Scylla</source>
       <translation>اِسْکایْلّا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Favourites</source>
       <translation>مورد علاقه‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Manage Favourite Tools</source>
       <translation>مدیریت ابزارهای مورد علاقه</translation>
     </message>
@@ -4825,41 +4831,41 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Options</source>
       <translation>گزینه‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Preferences</source>
       <translation>اولویت‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <source>Appearance</source>
       <translation>نما</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Hotkeys</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
       <source>Topmost</source>
       <translation>بالاترین موقعیت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Reload style.css</source>
       <translation>style.css بارگذاری دوباره‌ی</translation>
     </message>
@@ -4871,55 +4877,55 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Help</source>
       <translation>راهنما</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <source>About</source>
       <translation>درباره</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <source>Blog</source>
       <translation>وب‌نوشت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Donate</source>
       <translation>هدایای نقدی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <source>Calculator</source>
       <translation>ماشین‌حساب</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <source>Report Bug</source>
       <translation>گزارش اِشکال</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Manual</source>
       <translation>دستورالعمل‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Generate Crash Dump</source>
       <translation>تولید داده‌های توقف ناگهانی برنامه</translation>
     </message>
@@ -5077,8 +5083,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
@@ -5089,8 +5093,8 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
@@ -5227,180 +5231,182 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Actions</source>
       <translation>عملیات</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <source>Find Strings</source>
       <translation>یافتن رشته‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <source>Find Strings in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <source>Find Intermodular Calls</source>
       <translation>یافتن فراخوانی‌های میان‌قطعه‌کدی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
       <source>Toggle Breakpoint</source>
       <translation>تغییر وضعیت نقطه‌ی توقف</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <source>Set Conditional Breakpoint</source>
       <translation>تنظیم نقطه‌ی توقف شرطی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <source>Toggle Bookmark</source>
       <translation>تغییر وضعیت نشانه‌گذاری</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
       <source>Delete Breakpoint</source>
       <translation>حذف نقطه‌ی توقف</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <source>Enable/Disable Breakpoint</source>
       <translation>فعال/غیر فعال‌سازی نقطه‌ی توقف</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <source>Reset breakpoint hit count</source>
       <translation>بازنشانی تعداد ارتباط‌گیری نقطه‌ی توقف</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
       <source>Enable all breakpoints</source>
       <translation>فعال‌سازی همه‌ی نقاط توقف</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <source>Disable all breakpoints</source>
       <translation>غیر فعال‌سازی همه‌ی نقاط توقف</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
       <source>Remove all breakpoints</source>
       <translation>حذف همه‌ی نقاط توقف</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <source>Binary Edit</source>
       <translation>ویرایش در حالت مبنای ۲</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <source>Binary Fill</source>
       <translation>پُرسازی در حالت مبنای ۲</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
       <source>Binary Fill NOPs</source>
       <translation>(NOP) پُرسازی با بدع‌ها=بدون عملیات‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
       <source>Binary Copy</source>
       <translation>نسخه‌برداری در حالت مبنای ۲</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <source>Binary Paste</source>
       <translation>درج در حالت مبنای ۲</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
       <source>Binary Paste (Ignore Size)</source>
       <translation>درج در حالت مبنای ۲ (نادیده‌گیری اندازه)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <source>Binary Save</source>
       <translation>ذخیره‌سازی در حالت مبنای ۲</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
       <source>Undo Selection</source>
       <translation>لغو آخرین انتخاب</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
       <source>Set Label</source>
       <translation>تنظیم برچسب</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
       <source>Set Label for the Operand</source>
       <translation>تنظیم برچسب برای عملوند</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
       <source>Set Comment</source>
       <translation>تنظیم یادداشت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <source>Toggle Function</source>
       <translation>تغییر وضعیت تابع</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <source>Add Loop</source>
       <translation>افزودن حلقه</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <source>Delete Loop</source>
       <translation>حذف حلقه</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
       <source>Toggle Argument</source>
       <translation>تغییر وضعیت نشانوند</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
       <source>Assemble</source>
       <translation>ترجمه به کد ماشین</translation>
     </message>
@@ -5411,163 +5417,163 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
       <source>Goto Origin</source>
       <translation>رفتن به مبدأ</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
       <source>Goto EBP/RBP</source>
       <translation>(RBP) اپاث=اشاره‌گر پایه‌ی ثبات/(EBP) رفتن به پشته‌ی اپات=اشاره‌گر پایه‌ی تعمیم‌یافته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
       <source>Goto Previous</source>
       <translation>رفتن به قبلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
       <source>Goto Next</source>
       <translation>رفتن به بعدی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
       <source>Goto Expression</source>
       <translation>رفتن به عبارت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
       <source>Goto Start of Page</source>
       <translation>رفتن به ابتدای صفحه</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <source>Goto End of Page</source>
       <translation>رفتن به انتهای صفحه</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <source>Goto Start of Function</source>
       <translation>رفتن به ابتدای تابع</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
       <source>Goto End of Function</source>
       <translation>رفتن به انتهای تابع</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
       <source>Goto File Offset</source>
       <translation>رفتن به موقعیت‌های نشانی اضافی فایل</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
       <source>Find References to Selected Address</source>
       <translation>یافتن ارجاعات به نشانی انتخاب‌شده</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
       <source>Find Pattern</source>
       <translation>یافتن الگو</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
       <source>Find Pattern in Current Module</source>
       <translation>یافتن الگو در قطعه‌کد فعلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
       <source>Find Names in Current Module</source>
       <translation>یافتن اسامی در قطعه‌کد فعلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
       <source>Find References</source>
       <translation>یافتن ارجاعات</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
       <source>xrefs...</source>
       <translation>...(xref) ارجاعات متقابل</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
       <source>Analyze Single Function</source>
       <translation>تجزیه‌وتحلیل تک‌تابعی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
       <source>Analyze Module</source>
       <translation>تجزیه‌وتحلیل قطعه‌کد</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
       <source>Help on Mnemonic</source>
       <translation>راهنما برای یادآور</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
       <source>Toggle Mnemonic Brief</source>
       <translation>تغییر وضعیت خلاصه‌ی یادآور</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
       <source>Highlighting Mode</source>
       <translation>حالت برجسته‌سازی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
       <source>Enable/Disable Branch Destination Preview</source>
       <translation>فعال/غیر فعال‌سازی پیش‌نمایش مقصد انشعابی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
       <source>Find</source>
       <translation>یافتن</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
       <source>Find in Current Module</source>
       <translation>یافتن در قطعه‌کد فعلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
       <source>Enable/Disable Logging</source>
       <translation>فعال/غیر فعال‌سازی ثبت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
       <source>Allocate Memory</source>
       <translation>تخصیص حافظه</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
       <source>Free Memory</source>
       <translation>آزادسازی حافظه</translation>
     </message>
@@ -5578,49 +5584,49 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
       <source>Copy All Registers</source>
       <translation>نسخه‌برداری از همه‌ی ثبات‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
       <source>Mark As User Module</source>
       <translation>علامت‌گذاری به عنوان مجموعه‌کد کاربر</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
       <source>Mark As System Module</source>
       <translation>علامت‌گذاری به عنوان مجموعه‌کد سیستم</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
       <source>Mark As Party</source>
       <translation>علامت‌گذاری به عنوان بخش</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
       <source>Set Hardware Breakpoint (Execute)</source>
       <translation>تنظیم نقطه‌ی توقف سخت‌افزاری (اجرا)ا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
       <source>Remove Hardware Breakpoint</source>
       <translation>پاک‌سازی نقطه‌ی توقف سخت‌افزاری</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
       <source>Remove Type Analysis From Module</source>
       <translation>پاک‌سازی تجزیه‌وتحلیل نوع از قطعه‌کد</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <source>Remove Type Analysis From Selection</source>
       <translation>پاک‌سازی تجزیه‌وتحلیل نوع از انتخاب</translation>
     </message>
@@ -5641,8 +5647,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
@@ -5658,134 +5662,136 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <source>Treat Selection As</source>
       <translation>استفاده از انتخاب به عنوان</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <source>Code</source>
       <translation>کد</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <source>Byte</source>
       <translation>بایت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
       <source>Word</source>
       <translation>کلمه</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <source>Dword</source>
       <translation>دوکلمه‌ای</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <source>Fword</source>
       <translation>سه‌کلمه‌ای</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <source>Qword</source>
       <translation>چهارکلمه‌ای</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <source>Tbyte</source>
       <translation>ده‌کلمه‌ای</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <source>Oword</source>
       <translation>شانزده‌کلمه‌ای</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
       <source>Float</source>
       <translation>اعشار</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <source>Double</source>
       <translation>اعشار دوبرابری</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <source>LongDouble</source>
       <translation>اعشار دوبرابری بلند</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
       <source>ASCII</source>
       <translation>(ASCII) کاآتا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <source>UNICODE</source>
       <translation>(UNICODE) رمزنویسه‌ی‌عمومی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>MMWord</source>
       <translation>چهارکلمه‌ای چندرسانه‌ای</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
       <source>XMMWord</source>
       <translation>شانزده‌کلمه‌ای چندرسانه‌ای</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
       <source>YMMWord</source>
       <translation>سی‌ودوکلمه‌ای چندرسانه‌ای</translation>
     </message>
@@ -5806,8 +5812,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
@@ -5823,156 +5827,158 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <source>Treat Selection Head As</source>
       <translation>استفاده از سرانتخاب به عنوان</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
       <source>Toggle Register Value</source>
       <translation>تغییر وضعیت مقدار ثبات</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
       <source>Clear</source>
       <translation>پاک‌سازی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
       <source>Copy</source>
       <translation>نسخه‌برداری</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
       <source>Copy Address</source>
       <translation>نسخه‌برداری از نشانی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <source>Copy RVA</source>
       <translation>(RVA) نسخه‌برداری از نمن=نشانی مجازی نسبی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
       <source>Copy Symbol</source>
       <translation>نسخه‌برداری از نماد</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
       <source>Copy Line</source>
       <translation>نسخه‌برداری از خط</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
       <source>Copy Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
       <source>Load Script</source>
       <translation>بارگذاری کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
       <source>Reload Script</source>
       <translation>بارگذاری دوباره‌ی کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
       <source>Unload Script</source>
       <translation>خالی‌سازی کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
       <source>Edit Script</source>
       <translation>ویرایش کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
       <source>Run Script</source>
       <translation>اجرای کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
       <source>Toggle Script Breakpoint</source>
       <translation>تغییر وضعیت نقطه‌ی توقف کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
       <source>Run Script to Cursor</source>
       <translation>اجرای کدنوشته به سمت مکان‌نما</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
       <source>Step Script</source>
       <translation>حرکت کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
       <source>Abort Script</source>
       <translation>خاتمه به دلیل وجود خطا در کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <source>Execute Script Command</source>
       <translation>اجرای فرمان کدنوشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
       <source>Refresh</source>
       <translation>نوسازی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Zoom to cursor</source>
       <translation>تغییر مکان سریع به مکان‌نما</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Fit To Window</source>
       <translation>منطبق‌سازی با اندازه‌ی پنجره</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Follow in disassembler</source>
       <translation>دنبال کردن درون تبدیل‌گر کد ماشین به زبان نمادین</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Save as image</source>
       <translation>ذخیره‌سازی به عنوان تصویر</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Toggle overview</source>
       <translation>تغییر وضعیت نمای کلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Toggle summary</source>
       <translation>تغییر وضعیت خلاصه</translation>
     </message>
@@ -5983,175 +5989,175 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Increment x87 Stack</source>
       <translation>x87 افزایش پشته‌ی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Decrement x87 Stack</source>
       <translation>x87 کاهش پشته‌ی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <source>Redirect Log</source>
       <translation>تغییر مسیر ثبت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Browse in Explorer</source>
       <translation>بازبینی درون جست‌وجوگر</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Download Symbols for This Module</source>
       <translation>دریافت اینترنی نمادها برای این قطعه‌کد</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Download Symbols for All Modules</source>
       <translation>دریافت اینترنی نمادها برای همه‌ی قطعه‌کدها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Create New Thread Here</source>
       <translation>ایجاد رشته‌ی جدید در این‌جا</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Open Source File</source>
       <translation>گشودن فایل منبع</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Follow in Memory Map</source>
       <translation>دنبال کردن درون نگاشت حافظه</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Follow in Stack</source>
       <translation>دنبال کردن درون پشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Follow in Disassembler</source>
       <translation>دنبال کردن درون تبدیل‌گر کد ماشین به زبان نمادین</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation>دنبال کردن دوکلمه‌ای/چهارکلمه‌ای درون تبدیل‌گر کد ماشین به زبان نمادین</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation>دنبال کردن دوکلمه‌ای/چهارکلمه‌ای درون داده‌ها</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Freeze the stack</source>
       <translation>ثابت‌سازی پشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Go to Base of Stack Frame</source>
       <translation>رفتن به پایه‌ی زیرساخت پشته</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Go to Previous Stack Frame</source>
       <translation>رفتن به زیرساخت پشته‌ی قبلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Go to Next Stack Frame</source>
       <translation>رفتن به زیرساخت پشته‌ی بعدی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Go to Previous Reference</source>
       <translation>رفتن به ارجاع قبلی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Go to Next Reference</source>
       <translation>رفتن به ارجاع بعدی</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Modify value</source>
       <translation>اصلاح مقدار</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Watch DWORD/QWORD</source>
       <translation>پایش دوکلمه‌ای/چهارکلمه‌ای</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy File Offset</source>
       <translation>نسخه‌برداری از موقعیت‌های نشانی اضافی فایل</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Start/Stop trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>نسخه‌برداری -&gt; جدول کوتاه‌شده</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Copy -&gt; Table</source>
       <translation>نسخه‌برداری -&gt; جدول</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>نسخه‌برداری -&gt; خط، برای ثبت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>نسخه‌برداری -&gt; جدول کوتاه‌شده، برای ثبت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>نسخه‌برداری -&gt; جدول، برای ثبت</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Copy -&gt; Export Table</source>
       <translation>نسخه‌برداری -&gt; خروجی‌گیری از جدول</translation>
     </message>
@@ -6168,54 +6174,54 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="990"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="1004"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="1022"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="796"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="812"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="821"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="840"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="849"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="864"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="873"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="892"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="901"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="917"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="931"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="949"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="798"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="814"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="823"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="842"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="851"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="866"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="875"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="894"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="903"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="919"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="933"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="951"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>در پیکربندی یافت نشد!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Tracing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Disable</source>
       <translation>غیر فعال‌سازی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
       <source>Set %1 Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
       <source>Sync</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <source>ZMMWord</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
@@ -7812,9 +7818,9 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
-      <location filename="src/dbg/value.cpp" line="1794"/>
-      <location filename="src/dbg/value.cpp" line="2526"/>
-      <location filename="src/dbg/value.cpp" line="2570"/>
+      <location filename="src/dbg/value.cpp" line="1762"/>
+      <location filename="src/dbg/value.cpp" line="2456"/>
+      <location filename="src/dbg/value.cpp" line="2500"/>
       <source>Not debugging!</source>
       <translation>Not debugging!</translation>
     </message>
@@ -7942,8 +7948,8 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="961"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="992"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1014"/>
-      <location filename="src/dbg/value.cpp" line="2354"/>
-      <location filename="src/dbg/value.cpp" line="2372"/>
+      <location filename="src/dbg/value.cpp" line="2284"/>
+      <location filename="src/dbg/value.cpp" line="2302"/>
       <source>Failed to read register context...</source>
       <translation type="unfinished"/>
     </message>
@@ -8044,8 +8050,8 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
       <source>Address</source>
       <translation>نشانی</translation>
     </message>
@@ -8591,8 +8597,8 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="748"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
       <source>Disassembly</source>
       <translation>کد ماشین تبدیل‌شده به زبان نمادین</translation>
     </message>
@@ -8678,9 +8684,9 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="646"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="164"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="327"/>
       <source>Label</source>
       <translation>برچسب</translation>
     </message>
@@ -9081,8 +9087,8 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="83"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="240"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="241"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="329"/>
       <source>Comment</source>
       <translation>یادداشت</translation>
     </message>
@@ -9092,267 +9098,267 @@
       <translation>No comments</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="111"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="187"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="270"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="364"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="455"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="555"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="112"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="188"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="365"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="456"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="556"/>
       <location filename="src/dbg/commands/cmd-variables.cpp" line="135"/>
       <source>Delete</source>
       <translation>Delete</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="112"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="113"/>
       <source>%d comment(s) listed in Reference View
 </source>
       <translation>%d comment(s) listed in Reference View
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="121"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="122"/>
       <source>All comments deleted!</source>
       <translation>All comments deleted!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="135"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="136"/>
       <source>Error setting label</source>
       <translation>Error setting label</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="151"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="152"/>
       <source>Error deleting label</source>
       <translation>Error deleting label</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="160"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
       <source>Labels</source>
       <translation>برچسب ها</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="170"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="171"/>
       <source>No labels</source>
       <translation>No labels</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="188"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="189"/>
       <source>%d label(s) listed in Reference View
 </source>
       <translation>%d label(s) listed in Reference View
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="197"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="198"/>
       <source>All labels deleted!</source>
       <translation>All labels deleted!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="210"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="211"/>
       <source>Failed to set bookmark!</source>
       <translation>Failed to set bookmark!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="213"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="214"/>
       <source>Bookmark set!</source>
       <translation>Bookmark set!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="226"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="227"/>
       <source>Failed to delete bookmark!</source>
       <translation>Failed to delete bookmark!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="229"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="230"/>
       <source>Bookmark deleted!</source>
       <translation>Bookmark deleted!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="236"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
       <source>Bookmarks</source>
       <translation>Bookmarks</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="247"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="248"/>
       <source>No bookmarks found</source>
       <translation>No bookmarks found</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="272"/>
       <source>%d bookmark(s) listed
 </source>
       <translation>%d bookmark(s) listed
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="280"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="281"/>
       <source>All bookmarks deleted!</source>
       <translation>All bookmarks deleted!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="294"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="295"/>
       <source>Failed to add function</source>
       <translation>Failed to add function</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="297"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="298"/>
       <source>Function added!</source>
       <translation>Function added!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="311"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="312"/>
       <source>Failed to delete function</source>
       <translation>Failed to delete function</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="314"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="315"/>
       <source>Function deleted!</source>
       <translation>Function deleted!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="323"/>
       <source>Functions</source>
       <translation>توابع</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="323"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="417"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="511"/>
-      <source>Start</source>
-      <translation>Start</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="324"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="418"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="512"/>
+      <source>Start</source>
+      <translation>Start</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="419"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="513"/>
       <source>End</source>
       <translation>End</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="326"/>
       <source>Size</source>
       <translation>اندازه</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="327"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="419"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="515"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="420"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="516"/>
       <source>Disassembly (Start)</source>
       <translation>Disassembly (Start)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="336"/>
       <source>No functions</source>
       <translation>No functions</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="365"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="366"/>
       <source>%d function(s) listed
 </source>
       <translation>%d function(s) listed
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="374"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="375"/>
       <source>All functions deleted!</source>
       <translation>All functions deleted!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="388"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="389"/>
       <source>Failed to add argument</source>
       <translation>Failed to add argument</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="391"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="392"/>
       <source>Argument added!</source>
       <translation>Argument added!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="405"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="406"/>
       <source>Failed to delete argument</source>
       <translation>Failed to delete argument</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="408"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="409"/>
       <source>Argument deleted!</source>
       <translation>Argument deleted!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="416"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="417"/>
       <source>Arguments</source>
       <translation>Arguments</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="420"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="516"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="421"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="517"/>
       <source>Label/Comment</source>
       <translation>Label/Comment</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="427"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="428"/>
       <source>No arguments</source>
       <translation>No arguments</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="456"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="457"/>
       <source>%d argument(s) listed
 </source>
       <translation>%d argument(s) listed
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="465"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="466"/>
       <source>All arguments deleted!</source>
       <translation>All arguments deleted!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="479"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="480"/>
       <source>Failed to add loop</source>
       <translation>Failed to add loop</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="482"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="483"/>
       <source>Loop added!</source>
       <translation>Loop added!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="499"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="500"/>
       <source>Failed to delete loop</source>
       <translation>Failed to delete loop</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="502"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="503"/>
       <source>Loop deleted!</source>
       <translation>Loop deleted!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="510"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="511"/>
       <source>Loops</source>
       <translation>Loops</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="513"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="514"/>
       <source>Depth</source>
       <translation>Depth</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="514"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="515"/>
       <source>Parent</source>
       <translation>Parent</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="523"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="524"/>
       <source>No loops</source>
       <translation>No loops</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="556"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="557"/>
       <source>%d loop(s) listed
 </source>
       <translation>%d loop(s) listed
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="565"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="566"/>
       <source>All loops deleted!</source>
       <translation>All loops deleted!</translation>
     </message>
@@ -10139,66 +10145,66 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="721"/>
+      <location filename="src/dbg/expressionparser.cpp" line="730"/>
       <source>invalid dest "%s"
 </source>
       <translation>invalid dest "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="839"/>
+      <location filename="src/dbg/expressionparser.cpp" line="860"/>
       <source>Expression evaluated to a string: "%s"
 </source>
       <translation>Expression evaluated to a string: "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="948"/>
+      <location filename="src/dbg/expressionparser.cpp" line="969"/>
       <source>No such expression function '%s'
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="973"/>
+      <location filename="src/dbg/expressionparser.cpp" line="994"/>
       <source>number</source>
       <translation>number</translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="976"/>
+      <location filename="src/dbg/expressionparser.cpp" line="997"/>
       <source>string</source>
       <translation>string</translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="979"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1000"/>
       <source>any</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="981"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1002"/>
       <source>invalid</source>
       <translation>invalid</translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1017"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1038"/>
       <source>Bad argument count for expression function %s (expected %s, got %d)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1082"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1103"/>
       <source>Expression function %s argument %d/%d (%s) type mismatch (expected %s, got %s)!
 </source>
       <translation>Expression function %s argument %d/%d (%s) type mismatch (expected %s, got %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1101"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1122"/>
       <source>Expression function %s errored!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1115"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1136"/>
       <source>Expression function %s returned an invalid value!
 </source>
       <translation type="unfinished"/>
@@ -10354,13 +10360,13 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="966"/>
+      <location filename="src/dbg/module.cpp" line="969"/>
       <source>Module %s%s loaded from file handle (path inaccessible)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1014"/>
+      <location filename="src/dbg/module.cpp" line="1017"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
@@ -10865,34 +10871,34 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1655"/>
-      <location filename="src/dbg/value.cpp" line="1812"/>
-      <location filename="src/dbg/value.cpp" line="2404"/>
-      <location filename="src/dbg/value.cpp" line="2555"/>
+      <location filename="src/dbg/value.cpp" line="1630"/>
+      <location filename="src/dbg/value.cpp" line="1776"/>
+      <location filename="src/dbg/value.cpp" line="2334"/>
+      <location filename="src/dbg/value.cpp" line="2485"/>
       <source>Not debugging</source>
       <translation>Not debugging</translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1766"/>
+      <location filename="src/dbg/value.cpp" line="1738"/>
       <source>valfromstring_noexpr failed on %s
 </source>
       <translation>valfromstring_noexpr failed on %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1774"/>
+      <location filename="src/dbg/value.cpp" line="1746"/>
       <source>Failed to read memory</source>
       <translation>Failed to read memory</translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1899"/>
+      <location filename="src/dbg/value.cpp" line="1829"/>
       <source>Invalid value: "%s"!
 </source>
       <translation>Invalid value: "%s"!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="2514"/>
+      <location filename="src/dbg/value.cpp" line="2444"/>
       <source>Failed to write memory</source>
       <translation>Failed to write memory</translation>
     </message>
@@ -11239,22 +11245,22 @@ Do you want me to fix this?</translation>
   <context>
     <name>DebugStatusLabel</name>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="8"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
       <source>Initialized</source>
       <translation>Initialized</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
       <source>Paused</source>
       <translation>Paused</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
       <source>Running</source>
       <translation>Running</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="12"/>
       <source>Terminated</source>
       <translation>Terminated</translation>
     </message>
@@ -12434,27 +12440,27 @@ Do you want to continue rendering this graph?</translation>
   <context>
     <name>HexDump</name>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="382"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="384"/>
       <source>&amp;Selected lines</source>
       <translation>&amp;Selected lines</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="388"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="390"/>
       <source>&amp;Address</source>
       <translation>&amp;نشانی</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="416"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="418"/>
       <source>Error!</source>
       <translation>خطا!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="416"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="418"/>
       <source>Selection not in a module...</source>
       <translation>انتخاب‌شده درون قطعه‌کدی نیست...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1644"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1668"/>
       <source>Address</source>
       <translation>نشانی</translation>
     </message>
@@ -15330,7 +15336,7 @@ Do you want to apply these patches anyway?</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/main.cpp" line="243"/>
+      <location filename="src/gui/Src/main.cpp" line="247"/>
       <source>DbgInit Error!</source>
       <translation>DbgInit Error!</translation>
     </message>
@@ -15512,219 +15518,224 @@ Do you want to apply these patches anyway?</translation>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2640"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2645"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1335"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="919"/>
+      <source>Registers</source>
+      <translation>Registers</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1336"/>
       <source>Copy value</source>
       <translation>Copy value</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1336"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1337"/>
       <source>Copy floating point value</source>
       <translation>Copy floating point value</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1337"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1338"/>
       <source>Copy Symbol Value</source>
       <translation>Copy Symbol Value</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1338"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1339"/>
       <source>Copy all registers</source>
       <translation>Copy all registers</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1339"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1340"/>
       <source>Change view</source>
       <translation>Change view</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1340"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1341"/>
       <source>Change SIMD Register Display Mode</source>
       <translation>Change SIMD Register Display Mode</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1342"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1343"/>
       <source>Display ST(x)</source>
       <translation>Display ST(x)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1343"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1344"/>
       <source>Display x87rX</source>
       <translation>Display x87rX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1344"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1345"/>
       <source>Display MMX</source>
       <translation>Display MMX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1347"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
       <source>Hexadecimal</source>
       <translation>Hexadecimal</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1351"/>
       <source>Signed Word</source>
       <translation>Signed Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1351"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1352"/>
       <source>Signed Dword</source>
       <translation>Signed Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1352"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1353"/>
       <source>Signed Qword</source>
       <translation>Signed Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1353"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1354"/>
       <source>Unsigned Word</source>
       <translation>Unsigned Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1354"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1355"/>
       <source>Unsigned Dword</source>
       <translation>Unsigned Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1355"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1356"/>
       <source>Unsigned Qword</source>
       <translation>Unsigned Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1356"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1357"/>
       <source>Hexadecimal Word</source>
       <translation>Hexadecimal Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1357"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1358"/>
       <source>Hexadecimal Dword</source>
       <translation>Hexadecimal Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1358"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1359"/>
       <source>Hexadecimal Qword</source>
       <translation>Hexadecimal Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1390"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
       <source>Always show maximum vector length</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1392"/>
       <source>Always show all AVX-512 registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>CF (Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>PF (Parity flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>ZF (Zero flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>SF (Sign flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>TF (Trap flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
       <source>IF (Interrupt enable flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
       <source>DF (Direction flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
       <source>OF (Overflow flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>Bit #</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>Mask</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>Flag</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1608"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1609"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1611"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1612"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1613"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1614"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1616"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1617"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1618"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1619"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1621"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1622"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
@@ -15733,7 +15744,7 @@ number (excluding the sign-bit) to fit in the destination operand; cleared other
 condition for signed-integer (two’s complement) arithmetic.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1625"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1626"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
@@ -15742,263 +15753,263 @@ to auto-decrement (to process strings from high addresses to low addresses). Cle
 (process strings from low addresses to high addresses).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1629"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1630"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1631"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1632"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1633"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1634"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1635"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1636"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1637"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1638"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1640"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1641"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1642"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1643"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1644"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1645"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1647"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1648"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1649"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1650"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1651"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1652"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1653"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1654"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1655"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1656"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1657"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1658"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1660"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1661"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1663"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1665"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1669"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1664"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1670"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1671"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1672"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1673"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1674"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1679"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1680"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1681"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1682"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1686"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1687"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1688"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1689"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1691"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1692"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1695"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1697"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1698"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1699"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1702"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1703"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1705"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1707"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1709"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1715"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1717"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1719"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1720"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1722"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1731"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>The value of GetLastError(). This value is stored in the TEB.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1741"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation>The NTSTATUS in the LastStatusValue field of the TEB.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1745"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1823"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1826"/>
       <source>Hide FPU</source>
       <translation>Hide FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1828"/>
       <source>Show FPU</source>
       <translation>Show FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2117"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2157"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2205"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2247"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2289"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2122"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2162"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2210"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2252"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2294"/>
       <source>Unknown</source>
       <translation>Unknown</translation>
     </message>
@@ -16006,82 +16017,82 @@ The TEB can be used to get a lot of information on the process without calling W
   <context>
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="323"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2258"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="324"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2263"/>
       <source>Nonzero</source>
       <translation>Nonzero</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="325"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2259"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="326"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2264"/>
       <source>Zero</source>
       <translation>Zero</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="327"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2260"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2265"/>
       <source>Special</source>
       <translation>Special</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="329"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2261"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="330"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2266"/>
       <source>Empty</source>
       <translation>Empty</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2087"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2092"/>
       <source>Toward Zero</source>
       <translation>Toward Zero</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2088"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2093"/>
       <source>Toward Positive</source>
       <translation>Toward Positive</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2089"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2094"/>
       <source>Toward Negative</source>
       <translation>Toward Negative</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2090"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2130"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2095"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2135"/>
       <source>Round Near</source>
       <translation>Round Near</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2127"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2132"/>
       <source>Truncate</source>
       <translation>Truncate</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2128"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2133"/>
       <source>Round Up</source>
       <translation>Round Up</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2129"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2134"/>
       <source>Round Down</source>
       <translation>Round Down</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2221"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2217"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2222"/>
       <source>Not Used</source>
       <translation>Not Used</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2218"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2223"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2219"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2224"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
@@ -17375,160 +17386,170 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>برگه</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="191"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="179"/>
+      <source>Symbols</source>
+      <translation>Symbols</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="188"/>
+      <source>Modules</source>
+      <translation>قطعه‌کدها</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
       <source>Base</source>
       <translation>Base</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="192"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
       <source>Module</source>
       <translation>Module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
       <source>Party</source>
       <translation>Party</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="196"/>
       <source>Path</source>
       <translation>مسیر</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="197"/>
       <source>Status</source>
       <translation>Status</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="305"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="330"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="307"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="332"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>دنبال کردن درون &amp;تبدیل‌گر کد ماشین به زبان نمادین</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="308"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="310"/>
       <source>Follow in &amp;Dump</source>
       <translation>دنبال کردن درون &amp;داده‌ها</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="311"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="313"/>
       <source>Follow &amp;imported address</source>
       <translation>Follow &amp;imported address</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="314"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="316"/>
       <source>Toggle Breakpoint</source>
       <translation>Toggle Breakpoint</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="320"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="322"/>
       <source>Toggle Bookmark</source>
       <translation>Toggle Bookmark</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="326"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="328"/>
       <source>Help on Symbolic Name</source>
       <translation>راهنما برای نام نمادین</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="335"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="337"/>
       <source>Follow &amp;Entry Point in Disassembler</source>
       <translation>Follow &amp;Entry Point in Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="338"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="340"/>
       <source>Follow in Memory Map</source>
       <translation>Follow in Memory Map</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="344"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="346"/>
       <source>&amp;Download Symbols for This Module</source>
       <translation>&amp;Download Symbols for This Module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="350"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="352"/>
       <source>Download Symbols for &amp;All Modules</source>
       <translation>Download Symbols for &amp;All Modules</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="356"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="358"/>
       <source>Copy File &amp;Path</source>
       <translation>Copy File &amp;Path</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="362"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="364"/>
       <source>Browse in Explorer</source>
       <translation>Browse in Explorer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="368"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="370"/>
       <source>Load library...</source>
       <translation>Load library...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="374"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="376"/>
       <source>Free library</source>
       <translation>Free library</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="380"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="382"/>
       <source>Mark as &amp;user module</source>
       <translation>Mark as &amp;user module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="386"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="388"/>
       <source>Mark as &amp;system module</source>
       <translation>Mark as &amp;system module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="392"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="394"/>
       <source>Mark as &amp;party...</source>
       <translation>Mark as &amp;party...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="508"/>
       <source>User</source>
       <translation>User</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="510"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="512"/>
       <source>System</source>
       <translation>System</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="514"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="516"/>
       <source>Party: %1</source>
       <translation>Party: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="535"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="622"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="782"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="624"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="784"/>
       <source>Import</source>
       <translation>Import</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="659"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="661"/>
       <source>&amp;Copy</source>
       <translation>&amp;نسخه‌برداری</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="736"/>
       <source>Select DLL</source>
       <translation>Select DLL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="736"/>
       <source>Enter the path of a DLL to load in the debuggee.</source>
       <translation>Enter the path of a DLL to load in the debuggee.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="736"/>
       <source>DLL Files (*.dll);;All Files (*.*)</source>
       <translation>DLL Files (*.dll);;All Files (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="750"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="752"/>
       <source>Are you sure you want to free the module: %1?
 
 This could introduce unexpected behaviour to your debugging session...</source>
@@ -17537,37 +17558,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
 This could introduce unexpected behaviour to your debugging session...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="752"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="754"/>
       <source>Free Library</source>
       <translation>Free Library</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="831"/>
       <source>Error!</source>
       <translation>خطا!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="831"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt failed!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="867"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>Mark the party of the module as</source>
       <translation>Mark the party of the module as</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="867"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>0 is user module, 1 is system module.</source>
       <translation>0 is user module, 1 is system module.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="881"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>Error</source>
       <translation>خطا</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="881"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>The party number can only be 0 or 1</source>
       <translation>The party number can only be 0 or 1</translation>
     </message>
@@ -17930,7 +17951,7 @@ This could introduce unexpected behaviour to your debugging session...</translat
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1677"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
       <source>Error</source>
       <translation>خطا</translation>
     </message>
@@ -18099,7 +18120,7 @@ This could introduce unexpected behaviour to your debugging session...</translat
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1328"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
       <source>Delete recording</source>
       <translation type="unfinished"/>
     </message>
@@ -18119,87 +18140,87 @@ This could introduce unexpected behaviour to your debugging session...</translat
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1290"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1292"/>
       <source>Open trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1291"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1293"/>
       <source>Trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1292"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1294"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1328"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1395"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1397"/>
       <source>Address not found in trace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1398"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1407"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1409"/>
       <source>The address %1 is not found in trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1398"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1671"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
       <source>Open File</source>
       <translation>گشودن فایل</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1671"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
       <source>Text Files (*.txt)</source>
       <translation>فایل‌های متنی (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1677"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
       <source>Could not open file</source>
       <translation>نتوانست فایل را بگشاید</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1766"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1791"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
       <source>Error!</source>
       <translation>خطا!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1766"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
       <source>Selection not in a module...</source>
       <translation>انتخاب‌شده درون قطعه‌کدی نیست...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1791"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
       <source>Selection not in a file...</source>
       <translation>انتخاب‌شده درون فایلی نیست...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1890"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1889"/>
       <source>Constant</source>
       <translation>Constant</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1897"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1913"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1923"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1896"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1912"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1922"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1904"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1903"/>
       <source>References</source>
       <translation>References</translation>
     </message>

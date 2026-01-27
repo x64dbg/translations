@@ -92,7 +92,7 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1021"/>
+      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1031"/>
       <source>&amp;Copy</source>
       <translation>Kopieëren</translation>
     </message>
@@ -100,7 +100,7 @@
   <context>
     <name>AbstractTableView</name>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="179"/>
+      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="181"/>
       <source>Edit columns</source>
       <translation>Bewerk kolommen</translation>
     </message>
@@ -354,13 +354,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="926"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="550"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="551"/>
       <source>HexDump:</source>
       <translation>HexDump:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1065"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="570"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="571"/>
       <source>Stack:</source>
       <translation>Stack:</translation>
     </message>
@@ -372,13 +372,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1343"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="585"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="586"/>
       <source>HexEdit:</source>
       <translation>HexEdit:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1482"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="605"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="606"/>
       <source>Log:</source>
       <translation>Log:</translation>
     </message>
@@ -424,10 +424,10 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="460"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="485"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="503"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="551"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="571"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="586"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="552"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
       <source>Background</source>
       <translation>Achtergrond</translation>
     </message>
@@ -435,9 +435,9 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="453"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="461"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="504"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="552"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="580"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="553"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="588"/>
       <source>Selection</source>
       <translation>Selectie</translation>
     </message>
@@ -449,10 +449,10 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="455"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="507"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="540"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="555"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="578"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="588"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="541"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="589"/>
       <source>Text</source>
       <translation>Tekst</translation>
     </message>
@@ -463,29 +463,29 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>EIP</source>
       <translation>EIP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>RIP</source>
       <translation>RIP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="463"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="528"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="553"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="554"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="574"/>
       <source>Addresses</source>
       <translation>Adressen</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="464"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="574"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="575"/>
       <source>Selected Addresses</source>
       <translation>Geselecteerde Adressen</translation>
     </message>
@@ -501,8 +501,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="467"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="554"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="575"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="555"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
       <source>Labels</source>
       <translation>Labels</translation>
     </message>
@@ -513,13 +513,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="469"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="557"/>
       <source>Modified Bytes</source>
       <translation>Gemodificeerde Bytes</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="470"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="557"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="558"/>
       <source>Restored Bytes</source>
       <translation>Herstelde Bytes</translation>
     </message>
@@ -751,352 +751,357 @@
       <translation>Komma 's</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="532"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="531"/>
+      <source>New Values (Trace View)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
       <source>General Registers</source>
       <translation>Generieke Registers</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="534"/>
       <source>FPU Registers</source>
       <translation>FPU Registers</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="534"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="535"/>
       <source>MMX Registers</source>
       <translation>MMX Registers</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="535"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="536"/>
       <source>XMM Registers</source>
       <translation>XMM Registers</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="537"/>
       <source>YMM Registers</source>
       <translation>YMM Registers</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="538"/>
       <source>ZMM Registers</source>
       <translation>ZMM Registers</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="538"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="539"/>
       <source>Memory Sizes</source>
       <translation>Geheugen Formaten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="540"/>
       <source>Memory Segments</source>
       <translation>Geheugensegmenten</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="541"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="542"/>
       <source>Memory Brackets</source>
       <translation>Geheugen Haken</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="542"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="543"/>
       <source>Memory Stack Brackets</source>
       <translation>Geheugen Stack Haken</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="543"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="544"/>
       <source>Memory Base Registers</source>
       <translation>Geheugen Basis Registers</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="544"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="545"/>
       <source>Memory Index Registers</source>
       <translation>Geheugen Index Registers</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="546"/>
       <source>Memory Scales</source>
       <translation>Geheugen Schalen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="546"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="547"/>
       <source>Memory Operators (+/-/*)</source>
       <translation>Geheugen Operatoren (+/-/*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="547"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="548"/>
       <source>Highlighting</source>
       <translation>Markering</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="558"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="559"/>
       <source>0x00 Bytes</source>
       <translation>0x00 Bytes</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="559"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="560"/>
       <source>0x7F Bytes</source>
       <translation>0x7F Bytes</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="560"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="561"/>
       <source>0xFF Bytes</source>
       <translation>0xFF Bytes</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="561"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="562"/>
       <source>IsPrint Bytes</source>
       <translation>IsPrint Bytes</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="562"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="563"/>
       <source>User Code Pointer Highlight Color</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="563"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="564"/>
       <source>User Data Pointer Highlight Color</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="564"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="565"/>
       <source>System Code Pointer Highlight Color</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="565"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="566"/>
       <source>System Data Pointer Highlight Color</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="566"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="567"/>
       <source>Unknown Code Pointer Highlight Color</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="567"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="568"/>
       <source>Unknown Data Pointer Highlight Color</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
       <source>ESP</source>
       <translation>ESP</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
       <source>RSP</source>
       <translation>RSP</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
       <source>User Stack Frame Line</source>
       <translation>Gebruiker Stack Frame Regel</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="578"/>
       <source>System Stack Frame Line</source>
       <translation>Systeem Stack Frame Regel</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="580"/>
       <source>Inactive Text</source>
       <translation>Inactieve Tekst</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="582"/>
       <source>Return To Comment</source>
       <translation>Terug naar Commentaar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="582"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="583"/>
       <source>SEH Chain Comment</source>
       <translation>SEH Keten Commentaar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="589"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="590"/>
       <source>Wildcards</source>
       <translation>Jokertekens</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="592"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="593"/>
       <source>Graph:</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="596"/>
       <source>Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="596"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="597"/>
       <source>Disabled Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="597"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="598"/>
       <source>Node</source>
       <translation>Node</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="598"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="599"/>
       <source>Current node shadow</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="599"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="600"/>
       <source>Terminal node shadow</source>
       <translation>Terminal knooppunt schaduw</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="600"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="601"/>
       <source>Indirect call shadow</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="601"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="602"/>
       <source>Unconditional branch line</source>
       <translation>Onvoorwaardelijke Sprong Lijn</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="603"/>
       <source>True branch line</source>
       <translation>Ware Sprong Lijn</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="603"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="604"/>
       <source>False branch line</source>
       <translation>Onware Sprong Lijn</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="606"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="607"/>
       <source>Log</source>
       <translation>Logboek</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="607"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="608"/>
       <source>Log Link Color</source>
       <translation>Log Link Kleur</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="609"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="610"/>
       <source>Other:</source>
       <translation>Overige:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="610"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="611"/>
       <source>Background Flicker Color</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="611"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="612"/>
       <source>Search Highlight Color</source>
       <translation>Zoeken Markeringskleur</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="612"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="613"/>
       <source>Patch located in relocation region</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="613"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="614"/>
       <source>Current Thread</source>
       <translation>Huidige Thread</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="614"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
       <source>Watch (When Watchdog is Triggered)</source>
       <translation>Bekijk (Als Monitor afgaat)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
       <source>Memory Map Breakpoint</source>
       <translation>Geheugen Map Breekunt</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>Memory Map %1</source>
       <translation>Geheugen Map %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
       <source>Memory Map Section Text</source>
       <translation>Geheugen Map Sectie Tekst</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="619"/>
       <source>Struct text</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="619"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="620"/>
       <source>Struct primary background</source>
       <translation>Struct primaire achtergrond</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="620"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="621"/>
       <source>Struct secondary background</source>
       <translation>Struct secundaire achtergrond</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="621"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="622"/>
       <source>Breakpoint Summary Parentheses</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="623"/>
       <source>Breakpoint Summary Keywords</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="623"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="624"/>
       <source>Breakpoint Summary Strings</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="624"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
       <source>Symbol User Module Text</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="626"/>
       <source>Symbol System Module Text</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="626"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="627"/>
       <source>Symbol Unloaded Text</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="628"/>
       <source>Symbol Loading Text</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="628"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="629"/>
       <source>Symbol Loaded Text</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="629"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="630"/>
       <source>Link color</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="652"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="653"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>NIET GEVONDEN IN DE CONFIGURATIE!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="656"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="657"/>
       <source>&amp;Default Value</source>
       <translation>Stan&amp;daard Waarde</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="659"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="660"/>
       <source>&amp;Current Setting</source>
       <translation>&amp;Huidige Instelling</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="714"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="715"/>
       <source>Select Color</source>
       <translation>Selecteer Kleur</translation>
     </message>
@@ -1671,18 +1676,19 @@
     <name>CPUArgumentWidget</name>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="14"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="246"/>
       <source>Arguments</source>
       <translation>Argumenten</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="292"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
       <source>Unlocked</source>
       <translation>Ontgrendeld</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="294"/>
       <source>Refresh is automatic.</source>
       <translation type="unfinished"/>
     </message>
@@ -1750,22 +1756,22 @@
       <translation>Delphi (Borland fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="277"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
       <source>Locked</source>
       <translation>Vergrendeld</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="279"/>
       <source>Refresh is disabled.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="285"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
       <source>Calls</source>
       <translation>Aanroepen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation type="unfinished"/>
     </message>
@@ -2286,10 +2292,10 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="808"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="942"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="996"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1691"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1712"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1736"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1690"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1711"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1735"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1830"/>
       <source>Error!</source>
       <translation>Fout!</translation>
     </message>
@@ -2341,8 +2347,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1417"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2027"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2048"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2026"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2047"/>
       <source>Size</source>
       <translation>Omvang</translation>
     </message>
@@ -2367,36 +2373,36 @@
       <translation>Kan bestand niet openen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1691"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1736"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1690"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1735"/>
       <source>Selection not in a module...</source>
       <translation>Selectie niet in een module...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1712"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1711"/>
       <source>Selection not in a file...</source>
       <translation>Selectie niet in een bestand...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1815"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1814"/>
       <source>Start from &amp;Selection</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1831"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1830"/>
       <source>Failed to assemble instruction "</source>
       <translation>Het creëren van de instructie is mislukt "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1942"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1959"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1976"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1941"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1958"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1975"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1993"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1992"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation type="unfinished"/>
@@ -3205,63 +3211,63 @@
       <translation>Markeer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
       <source>Error</source>
       <translation>Fout</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="308"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="487"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="311"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="490"/>
       <source>Edit %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="313"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="317"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="319"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="318"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="320"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="322"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="325"/>
       <source>Edit</source>
       <translation>Bewerken</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="328"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="331"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="334"/>
       <source>Edit %1 register</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="338"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="341"/>
       <source>Edit FPU register</source>
       <translation>Bewerk FPU register</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="432"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="435"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation>FOUT CONVERTEREN NAAR HEX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="447"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="450"/>
       <source>Set Last Error</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="468"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="471"/>
       <source>Set Last Status</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="686"/>
       <source>Follow in &amp;Dump</source>
       <translation>Volg in &amp;Dump</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="725"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="728"/>
       <source>Copy old value: %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="770"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="773"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation>Zet Hardware Breekpunt op %1</translation>
     </message>
@@ -4211,8 +4217,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="372"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="373"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="374"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="375"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
@@ -4222,72 +4226,74 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <source>File</source>
       <translation>Bestand</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="372"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="374"/>
       <source>Open</source>
       <translation>Openen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="373"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="375"/>
       <source>Attach</source>
       <translation>Aanhechten</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="374"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
       <source>Detach</source>
       <translation>Loskoppelen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="375"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
       <source>Save database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="445"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <source>Restore backup database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <source>Reload database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
       <source>Clear database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
       <source>Import database</source>
       <translation>Importeer database</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
       <source>Export database</source>
       <translation>Exporteer database</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
       <source>Restart as Admin</source>
       <translation>Herstart als Admin</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <source>Exit</source>
       <translation>Afsluiten</translation>
     </message>
@@ -4318,8 +4324,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
@@ -4344,126 +4348,128 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>View</source>
       <translation>Weergave</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <source>CPU</source>
       <translation>CPU</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <source>Log</source>
       <translation>Logboek</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
       <source>Breakpoints</source>
       <translation>Breekpunten</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
       <source>Memory Map</source>
       <translation>Geheugen Map</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <source>Call Stack</source>
       <translation>Aanroep Stack</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <source>Notes</source>
       <translation>Notities</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
       <source>SEH</source>
       <translation>SEH</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
       <source>Script</source>
       <translation>Script</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
       <source>Symbol Info</source>
       <translation>Symbool Info</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
       <source>Modules</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
       <source>Source</source>
       <translation>Bron</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
       <source>References</source>
       <translation>Referenties</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
       <source>Threads</source>
       <translation>Threads</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
       <source>Patches</source>
       <translation>Patches</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
       <source>Comments</source>
       <translation>Opmerkingen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
       <source>Labels</source>
       <translation>Labels</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
       <source>Bookmarks</source>
       <translation>Bladwijzers</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
       <source>Functions</source>
       <translation>Functies</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
       <source>Variables</source>
       <translation>Variabelen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
       <source>Handles</source>
       <translation>Handles</translation>
     </message>
@@ -4477,45 +4483,45 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Graph</source>
       <translation>Grafiek</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <source>Previous Tab</source>
       <translation>Vorige Tab</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <source>Next Tab</source>
       <translation>Volgende Tab</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
       <source>Previous View</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
       <source>Next View</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>Hide Tab</source>
       <translation>Verberg Tab</translation>
     </message>
@@ -4553,8 +4559,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
@@ -4585,158 +4589,160 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Debug</source>
       <translation>Debug</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <source>Run</source>
       <translation>Uitvoeren</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <source>Run (pass exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
       <source>Run (swallow exception)</source>
       <translation>Uitvoeren (exceptie inslikken)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
       <source>Run until selection</source>
       <translation>Uitvoeren tot selectie</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <source>Run until expression</source>
       <translation>Uitvoeren tot expressie</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <source>Pause</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
       <source>Restart</source>
       <translation>Herstarten</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
       <source>Close</source>
       <translation>Sluiten</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
       <source>Step into</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
       <source>Step into (pass exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
       <source>Step into (swallow exception)</source>
       <translation>Stap in (exceptie inslikken)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
       <source>Step into (source)</source>
       <translation>Stap in (bron)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
       <source>Step over</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
       <source>Step over (pass exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
       <source>Step over (swallow exception)</source>
       <translation>Stap over (exceptie inslikken)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <source>Step over (source)</source>
       <translation>Stap over (bron)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <source>Execute till return</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
       <source>Execute till return (pass exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
       <source>Run to user code</source>
       <translation>Uitvoeren tot gebruiker code</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
       <source>Skip next instruction</source>
       <translation>Volgende instructie overslaan</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <source>Command</source>
       <translation>Opdracht</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
       <source>Trace into...</source>
       <translation>Traceer in...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Trace over...</source>
       <translation>Traceer over...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Bit</source>
       <translation>Bit</translation>
     </message>
@@ -4747,73 +4753,73 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Undo instruction</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Animate into</source>
       <translation>Animeer in</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Animate over</source>
       <translation>Animeer over</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Animate command</source>
       <translation>Animeer opdracht</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step into until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Step over until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
       <source>Step into until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Step over until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Plugins</source>
       <translation>Plugins</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Scylla</source>
       <translation>Scylla</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Favourites</source>
       <translation>Favorieten</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Manage Favourite Tools</source>
       <translation type="unfinished"/>
     </message>
@@ -4823,41 +4829,41 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Options</source>
       <translation>Opties</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Preferences</source>
       <translation>Voorkeuren</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <source>Appearance</source>
       <translation>Vormgeving</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Hotkeys</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
       <source>Topmost</source>
       <translation>Bovenste</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Reload style.css</source>
       <translation>Style.css opnieuw inladen</translation>
     </message>
@@ -4869,55 +4875,55 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Help</source>
       <translation>Help</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <source>About</source>
       <translation>Over</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <source>Blog</source>
       <translation>Blog</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Donate</source>
       <translation>Doneer</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <source>Calculator</source>
       <translation>Calculator</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <source>Report Bug</source>
       <translation>Rapporteer Bug</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Manual</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Generate Crash Dump</source>
       <translation>Genereer Crash Dump</translation>
     </message>
@@ -5075,8 +5081,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
@@ -5087,8 +5091,8 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
@@ -5225,180 +5229,182 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Actions</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <source>Find Strings</source>
       <translation>Zoek Tekst</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <source>Find Strings in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <source>Find Intermodular Calls</source>
       <translation>Vind Intermodulaire Aanroepen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
       <source>Toggle Breakpoint</source>
       <translation>Wissel Breekpunt</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <source>Set Conditional Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <source>Toggle Bookmark</source>
       <translation>Wissel Bookmark</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
       <source>Delete Breakpoint</source>
       <translation>Breekpunt Verwijderen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <source>Enable/Disable Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <source>Reset breakpoint hit count</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
       <source>Enable all breakpoints</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <source>Disable all breakpoints</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
       <source>Remove all breakpoints</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <source>Binary Edit</source>
       <translation>Binair Bewerken</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <source>Binary Fill</source>
       <translation>Binair Vullen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
       <source>Binary Fill NOPs</source>
       <translation>Binair Vullen met NOPs</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
       <source>Binary Copy</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <source>Binary Paste</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
       <source>Binary Paste (Ignore Size)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <source>Binary Save</source>
       <translation>Binair Opslaan</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
       <source>Undo Selection</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
       <source>Set Label</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
       <source>Set Label for the Operand</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
       <source>Set Comment</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <source>Toggle Function</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <source>Add Loop</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <source>Delete Loop</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
       <source>Toggle Argument</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
       <source>Assemble</source>
       <translation>Assembleer</translation>
     </message>
@@ -5409,163 +5415,163 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
       <source>Goto Origin</source>
       <translation>Ga naar Oorsprong</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
       <source>Goto EBP/RBP</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
       <source>Goto Previous</source>
       <translation>Ga naar Vorige</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
       <source>Goto Next</source>
       <translation>Ga naar Volgende</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
       <source>Goto Expression</source>
       <translation>Ga naar Expressie</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
       <source>Goto Start of Page</source>
       <translation>Ga naar Begin van Pagina</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <source>Goto End of Page</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <source>Goto Start of Function</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
       <source>Goto End of Function</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
       <source>Goto File Offset</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
       <source>Find References to Selected Address</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
       <source>Find Pattern</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
       <source>Find Pattern in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
       <source>Find Names in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
       <source>Find References</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
       <source>xrefs...</source>
       <translation>xrefs...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
       <source>Analyze Single Function</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
       <source>Analyze Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
       <source>Help on Mnemonic</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
       <source>Toggle Mnemonic Brief</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
       <source>Highlighting Mode</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
       <source>Enable/Disable Branch Destination Preview</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
       <source>Find</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
       <source>Find in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
       <source>Enable/Disable Logging</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
       <source>Allocate Memory</source>
       <translation>Alloceer Geheugen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
       <source>Free Memory</source>
       <translation type="unfinished"/>
     </message>
@@ -5576,49 +5582,49 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
       <source>Copy All Registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
       <source>Mark As User Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
       <source>Mark As System Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
       <source>Mark As Party</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
       <source>Set Hardware Breakpoint (Execute)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
       <source>Remove Hardware Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
       <source>Remove Type Analysis From Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <source>Remove Type Analysis From Selection</source>
       <translation type="unfinished"/>
     </message>
@@ -5639,8 +5645,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
@@ -5656,134 +5660,136 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <source>Treat Selection As</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <source>Code</source>
       <translation>Code</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <source>Byte</source>
       <translation>Byte</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
       <source>Word</source>
       <translation>Word</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <source>Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <source>Fword</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <source>Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <source>Tbyte</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <source>Oword</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <source>LongDouble</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>MMWord</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
       <source>XMMWord</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
       <source>YMMWord</source>
       <translation type="unfinished"/>
     </message>
@@ -5804,8 +5810,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
@@ -5821,156 +5825,158 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <source>Treat Selection Head As</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
       <source>Toggle Register Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
       <source>Clear</source>
       <translation>Leeg maken</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
       <source>Copy</source>
       <translation>Kopieren</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
       <source>Copy Address</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <source>Copy RVA</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
       <source>Copy Symbol</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
       <source>Copy Line</source>
       <translation>Kopieer Regel</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
       <source>Copy Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
       <source>Load Script</source>
       <translation>Laad Script</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
       <source>Reload Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
       <source>Unload Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
       <source>Edit Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
       <source>Run Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
       <source>Toggle Script Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
       <source>Run Script to Cursor</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
       <source>Step Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
       <source>Abort Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <source>Execute Script Command</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
       <source>Refresh</source>
       <translation>Vernieuw</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Zoom to cursor</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Fit To Window</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Follow in disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Save as image</source>
       <translation>Opslaan als afbeelding</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Toggle overview</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Toggle summary</source>
       <translation type="unfinished"/>
     </message>
@@ -5981,175 +5987,175 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Increment x87 Stack</source>
       <translation>Verhoog x87 Stack</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Decrement x87 Stack</source>
       <translation>Verlaag x87 Stack</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <source>Redirect Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Browse in Explorer</source>
       <translation>Bladeren in Explorer</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Download Symbols for This Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Download Symbols for All Modules</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Create New Thread Here</source>
       <translation>Creëer Nieuw Thread Hier</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Open Source File</source>
       <translation>Open Bronbestand</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Follow in Memory Map</source>
       <translation>Volg in Geheugen Map</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Follow in Stack</source>
       <translation>Volg in Stack</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Follow in Disassembler</source>
       <translation>Volg in Disassembler</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Freeze the stack</source>
       <translation>Vergrendel de Stack</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Go to Base of Stack Frame</source>
       <translation>Ga naar Begin van Stack Frame</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Go to Previous Stack Frame</source>
       <translation>Ga naar Vorige Stack Frame</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Go to Next Stack Frame</source>
       <translation>Ga naar Volgende Stack Frame</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Go to Previous Reference</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Go to Next Reference</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Modify value</source>
       <translation>Waarde wijzigen</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Watch DWORD/QWORD</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Copy File Offset</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Start/Stop trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Copy -&gt; Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Copy -&gt; Export Table</source>
       <translation type="unfinished"/>
     </message>
@@ -6166,54 +6172,54 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="990"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="1004"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="1022"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="796"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="812"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="821"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="840"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="849"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="864"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="873"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="892"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="901"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="917"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="931"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="949"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="798"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="814"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="823"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="842"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="851"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="866"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="875"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="894"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="903"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="919"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="933"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="951"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>NIET GEVONDEN IN DE CONFIGURATIE!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Tracing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Disable</source>
       <translation>Uitschakelen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
       <source>Set %1 Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
       <source>Sync</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <source>ZMMWord</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
@@ -7807,9 +7813,9 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
-      <location filename="src/dbg/value.cpp" line="1794"/>
-      <location filename="src/dbg/value.cpp" line="2526"/>
-      <location filename="src/dbg/value.cpp" line="2570"/>
+      <location filename="src/dbg/value.cpp" line="1762"/>
+      <location filename="src/dbg/value.cpp" line="2456"/>
+      <location filename="src/dbg/value.cpp" line="2500"/>
       <source>Not debugging!</source>
       <translation>Niet aan het debuggen!</translation>
     </message>
@@ -7937,8 +7943,8 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="961"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="992"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1014"/>
-      <location filename="src/dbg/value.cpp" line="2354"/>
-      <location filename="src/dbg/value.cpp" line="2372"/>
+      <location filename="src/dbg/value.cpp" line="2284"/>
+      <location filename="src/dbg/value.cpp" line="2302"/>
       <source>Failed to read register context...</source>
       <translation type="unfinished"/>
     </message>
@@ -8039,8 +8045,8 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
       <source>Address</source>
       <translation>Adres</translation>
     </message>
@@ -8584,8 +8590,8 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="748"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
       <source>Disassembly</source>
       <translation>Disassembly</translation>
     </message>
@@ -8671,9 +8677,9 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="646"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="326"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="164"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="327"/>
       <source>Label</source>
       <translation>Label</translation>
     </message>
@@ -9073,8 +9079,8 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="83"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="240"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="241"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="329"/>
       <source>Comment</source>
       <translation>Commentaar</translation>
     </message>
@@ -9084,267 +9090,267 @@
       <translation>Geen commentaar aanwezig</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="111"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="187"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="270"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="364"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="455"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="555"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="112"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="188"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="365"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="456"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="556"/>
       <location filename="src/dbg/commands/cmd-variables.cpp" line="135"/>
       <source>Delete</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="112"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="113"/>
       <source>%d comment(s) listed in Reference View
 </source>
       <translation>%d opmerking(en) weergegeven in Referentie Scherm
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="121"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="122"/>
       <source>All comments deleted!</source>
       <translation>Alle commentaren zijn verwijderd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="135"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="136"/>
       <source>Error setting label</source>
       <translation>Fout bij instellen label</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="151"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="152"/>
       <source>Error deleting label</source>
       <translation>Fout bij het verwijderen van label</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="160"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="161"/>
       <source>Labels</source>
       <translation>Labels</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="170"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="171"/>
       <source>No labels</source>
       <translation>Geen labels</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="188"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="189"/>
       <source>%d label(s) listed in Reference View
 </source>
       <translation>%d label(s) weergegeven in Referentie Scherm
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="197"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="198"/>
       <source>All labels deleted!</source>
       <translation>Alle labels zijn verwijderd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="210"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="211"/>
       <source>Failed to set bookmark!</source>
       <translation>Fout bij het instellen van de bladwijzer!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="213"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="214"/>
       <source>Bookmark set!</source>
       <translation>Bladwijzer ingesteld!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="226"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="227"/>
       <source>Failed to delete bookmark!</source>
       <translation>Fout bij het verwijderen van de bladwijzer!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="229"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="230"/>
       <source>Bookmark deleted!</source>
       <translation>Bladwijzer verwijderd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="236"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="237"/>
       <source>Bookmarks</source>
       <translation>Bladwijzers</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="247"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="248"/>
       <source>No bookmarks found</source>
       <translation>Geen bladwijzers gevonden</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="271"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="272"/>
       <source>%d bookmark(s) listed
 </source>
       <translation>%d bladwijzer(s) weergegeven
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="280"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="281"/>
       <source>All bookmarks deleted!</source>
       <translation>Alle bladwijzers zijn verwijderd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="294"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="295"/>
       <source>Failed to add function</source>
       <translation>Functie toevoegen is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="297"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="298"/>
       <source>Function added!</source>
       <translation>Functie is toegevoegd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="311"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="312"/>
       <source>Failed to delete function</source>
       <translation>Het verwijderen van de functie is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="314"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="315"/>
       <source>Function deleted!</source>
       <translation>Functie is verwijderd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="322"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="323"/>
       <source>Functions</source>
       <translation>Functies</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="323"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="417"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="511"/>
-      <source>Start</source>
-      <translation>Beginnen</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="324"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="418"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="512"/>
+      <source>Start</source>
+      <translation>Beginnen</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="419"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="513"/>
       <source>End</source>
       <translation>Beëindigen</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="326"/>
       <source>Size</source>
       <translation>Grootte</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="327"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="419"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="515"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="328"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="420"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="516"/>
       <source>Disassembly (Start)</source>
       <translation>Disassembly (Begin)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="335"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="336"/>
       <source>No functions</source>
       <translation>Geen functies aanwezig</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="365"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="366"/>
       <source>%d function(s) listed
 </source>
       <translation>%d functie(s) weergegeven
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="374"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="375"/>
       <source>All functions deleted!</source>
       <translation>Alle functies zijn verwijderd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="388"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="389"/>
       <source>Failed to add argument</source>
       <translation>Argument toevoegen is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="391"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="392"/>
       <source>Argument added!</source>
       <translation>Argument is toegevoegd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="405"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="406"/>
       <source>Failed to delete argument</source>
       <translation>Het verwijderen van het argument is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="408"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="409"/>
       <source>Argument deleted!</source>
       <translation>Het argument is verwijderd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="416"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="417"/>
       <source>Arguments</source>
       <translation>Argumenten</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="420"/>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="516"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="421"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="517"/>
       <source>Label/Comment</source>
       <translation>Label/Commentaar</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="427"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="428"/>
       <source>No arguments</source>
       <translation>Geen argumenten aanwezig</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="456"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="457"/>
       <source>%d argument(s) listed
 </source>
       <translation>%d argument(s) weergegeven
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="465"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="466"/>
       <source>All arguments deleted!</source>
       <translation>Alle argumenten zijn verwijderd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="479"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="480"/>
       <source>Failed to add loop</source>
       <translation>Toevoegen van de loop is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="482"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="483"/>
       <source>Loop added!</source>
       <translation>Lus toegevoegd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="499"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="500"/>
       <source>Failed to delete loop</source>
       <translation>Verwijderen van de loop is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="502"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="503"/>
       <source>Loop deleted!</source>
       <translation>Loop verwijderd!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="510"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="511"/>
       <source>Loops</source>
       <translation>Lussen</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="513"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="514"/>
       <source>Depth</source>
       <translation>Diepte</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="514"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="515"/>
       <source>Parent</source>
       <translation>Bovenliggende eigenaar</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="523"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="524"/>
       <source>No loops</source>
       <translation>Geen lussen</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="556"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="557"/>
       <source>%d loop(s) listed
 </source>
       <translation>%d lussen weergegeven
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-user-database.cpp" line="565"/>
+      <location filename="src/dbg/commands/cmd-user-database.cpp" line="566"/>
       <source>All loops deleted!</source>
       <translation>Alle loops verwijderd!</translation>
     </message>
@@ -10115,64 +10121,64 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="721"/>
+      <location filename="src/dbg/expressionparser.cpp" line="730"/>
       <source>invalid dest "%s"
 </source>
       <translation>ongeldig doel "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="839"/>
+      <location filename="src/dbg/expressionparser.cpp" line="860"/>
       <source>Expression evaluated to a string: "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="948"/>
+      <location filename="src/dbg/expressionparser.cpp" line="969"/>
       <source>No such expression function '%s'
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="973"/>
+      <location filename="src/dbg/expressionparser.cpp" line="994"/>
       <source>number</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="976"/>
+      <location filename="src/dbg/expressionparser.cpp" line="997"/>
       <source>string</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="979"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1000"/>
       <source>any</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="981"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1002"/>
       <source>invalid</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1017"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1038"/>
       <source>Bad argument count for expression function %s (expected %s, got %d)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1082"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1103"/>
       <source>Expression function %s argument %d/%d (%s) type mismatch (expected %s, got %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1101"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1122"/>
       <source>Expression function %s errored!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/expressionparser.cpp" line="1115"/>
+      <location filename="src/dbg/expressionparser.cpp" line="1136"/>
       <source>Expression function %s returned an invalid value!
 </source>
       <translation type="unfinished"/>
@@ -10320,13 +10326,13 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="966"/>
+      <location filename="src/dbg/module.cpp" line="969"/>
       <source>Module %s%s loaded from file handle (path inaccessible)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1014"/>
+      <location filename="src/dbg/module.cpp" line="1017"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
@@ -10798,34 +10804,34 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1655"/>
-      <location filename="src/dbg/value.cpp" line="1812"/>
-      <location filename="src/dbg/value.cpp" line="2404"/>
-      <location filename="src/dbg/value.cpp" line="2555"/>
+      <location filename="src/dbg/value.cpp" line="1630"/>
+      <location filename="src/dbg/value.cpp" line="1776"/>
+      <location filename="src/dbg/value.cpp" line="2334"/>
+      <location filename="src/dbg/value.cpp" line="2485"/>
       <source>Not debugging</source>
       <translation>Niet aan het debuggen</translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1766"/>
+      <location filename="src/dbg/value.cpp" line="1738"/>
       <source>valfromstring_noexpr failed on %s
 </source>
       <translation>valfromstring_noexpr is mislukt op %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1774"/>
+      <location filename="src/dbg/value.cpp" line="1746"/>
       <source>Failed to read memory</source>
       <translation>Lezen van geheugen is mislukt</translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1899"/>
+      <location filename="src/dbg/value.cpp" line="1829"/>
       <source>Invalid value: "%s"!
 </source>
       <translation>Ongeldige waarde "%s"!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="2514"/>
+      <location filename="src/dbg/value.cpp" line="2444"/>
       <source>Failed to write memory</source>
       <translation>Schrijven naar geheugen is mislukt</translation>
     </message>
@@ -11172,22 +11178,22 @@ Wilt u dat dit automatisch opgelost wordt?</translation>
   <context>
     <name>DebugStatusLabel</name>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="8"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
       <source>Initialized</source>
       <translation>Geïnitialiseerd</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
       <source>Paused</source>
       <translation>Gepauseerd</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
       <source>Running</source>
       <translation>Wordt uitgevoerd</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="12"/>
       <source>Terminated</source>
       <translation>Beëindigd</translation>
     </message>
@@ -12364,27 +12370,27 @@ Do you want to continue rendering this graph?</source>
   <context>
     <name>HexDump</name>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="382"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="384"/>
       <source>&amp;Selected lines</source>
       <translation>Ge&amp;selecteerde regels</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="388"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="390"/>
       <source>&amp;Address</source>
       <translation>&amp;Adres</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="416"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="418"/>
       <source>Error!</source>
       <translation>Fout!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="416"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="418"/>
       <source>Selection not in a module...</source>
       <translation>Selectie niet in een module...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1644"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1668"/>
       <source>Address</source>
       <translation>Adres</translation>
     </message>
@@ -15255,7 +15261,7 @@ Wilt u deze patches toch toepassen?</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/main.cpp" line="243"/>
+      <location filename="src/gui/Src/main.cpp" line="247"/>
       <source>DbgInit Error!</source>
       <translation>DbgInit fout!</translation>
     </message>
@@ -15437,482 +15443,487 @@ Wilt u deze patches toch toepassen?</translation>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="300"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2640"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2645"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1335"/>
-      <source>Copy value</source>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="919"/>
+      <source>Registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1336"/>
-      <source>Copy floating point value</source>
+      <source>Copy value</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1337"/>
-      <source>Copy Symbol Value</source>
+      <source>Copy floating point value</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1338"/>
-      <source>Copy all registers</source>
+      <source>Copy Symbol Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1339"/>
-      <source>Change view</source>
+      <source>Copy all registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1340"/>
+      <source>Change view</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1341"/>
       <source>Change SIMD Register Display Mode</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1342"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1343"/>
       <source>Display ST(x)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1343"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1344"/>
       <source>Display x87rX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1344"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1345"/>
       <source>Display MMX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1347"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
       <source>Hexadecimal</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1351"/>
       <source>Signed Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1351"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1352"/>
       <source>Signed Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1352"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1353"/>
       <source>Signed Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1353"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1354"/>
       <source>Unsigned Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1354"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1355"/>
       <source>Unsigned Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1355"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1356"/>
       <source>Unsigned Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1356"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1357"/>
       <source>Hexadecimal Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1357"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1358"/>
       <source>Hexadecimal Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1358"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1359"/>
       <source>Hexadecimal Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1390"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
       <source>Always show maximum vector length</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1392"/>
       <source>Always show all AVX-512 registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>CF (Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>PF (Parity flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1583"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>ZF (Zero flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>SF (Sign flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
       <source>TF (Trap flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
       <source>IF (Interrupt enable flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
       <source>DF (Direction flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
       <source>OF (Overflow flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>Bit #</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>Mask</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1601"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
       <source>Flag</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1608"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1609"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1611"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1612"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (bit 2): Pariteit vlag - Wordt gezet als het Minst Significante Byte van het resultaat een even aantal 1 bits bevat; anders gewist.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1613"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1614"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (4 bits): Auxiliary Carry vlag - Wordt gezet als een rekenkundige bewerking bit 3 leent of overdraagt; anders wordt de vlag gereset. Deze vlag wordt gebruikt in Binair Gecodeerde Decimaal (BCD) rekenkunde.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1616"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1617"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (bit 6): Nul vlag - Wordt gezet als het resultaat nul is; anders gewist.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1618"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1619"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (bit 7): Sign vlag - Wordt ingesteld op het meest-significante bit van het resultaat, welke het teken-bit is van een signed integer. (0 betekent een positieve waarde en 1 betekent een negatieve waarde.)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1621"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1622"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
       <translation>OF (bit 11): Overloop vlag - Wordt gezet als het integer resultaat een te groot positief, of een te klein negatief getal is (met uitzondering van het sign-bit); anders wordt het gewist. Deze vlag geeft een overloop conditie aan voor signed-integer (two complement) bewerkingen.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1625"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1626"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
       <translation>DF (bit 10): Richting vlag. Bepaalt de richting van automatisch ophogen van string instructies (MOVS, CMPS SCAS, LODS en STOS). Met de vlag gezet worden deze van hoog naar laag (achteruit) uitgevoerd in plaats van van laag naar hoog (vooruit).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1629"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1630"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (bit 8): Trap vlag - Het instellen hiervan activeert de single-step modus voor debugging; het wissen ervan schakeld single-step modus uit.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1631"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1632"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (bit 9): Interrupt vlag - Bepaalt de reactie van de processor op maskeerbare interrupt verzoeken. Zet de vlag om maskeerbare interrupts af te handelen; wissen deactiveert de afhandeling.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1633"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1634"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>Het 16-bits x87 FPU controle woord bepaalt de precisie van de x87 FPU en afrondingsmethode die wordt gebruikt. Het bevat ook de x87 FPU floating-point exceptie bit-maskers.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1635"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1636"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>Het 16-bits x87 FPU status register geeft de huidige status van de x87 FPU weer.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1637"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1638"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>Het 16-bits vlag woord geeft de inhoud aan van elk van de 8 registers in de x87 FPU gegevensregister stack (één 2-bits vlag per register).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1640"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1641"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>Het precisie-controle (PC) veld (bit 8 en 9 van het x87 FPU controle woord) bepaalt de precisie (64, 53 of 24-bits) van floating-point berekeningen gemaakt door de x87 FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1642"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1643"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>Het afronding-controle (RC) veld van het x87 FPU controle register (bits 10 en 11) bepaalt hoe de resultaten van x87 FPU floating-point instructies worden afgerond.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1644"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1645"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>De oneindig-controle vlag (bit 12 van het x87 controle register woord) dient uitsluitend voor compatibiliteit met de Intel 287 Math Co-processor; het wordt niet gebruikt door latere versies van x87 FPU of IA-32 processoren.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1647"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1648"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1649"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1650"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1651"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1652"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1653"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1654"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1655"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1656"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1657"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1658"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1660"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1661"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1663"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1665"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1669"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1664"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1670"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1671"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1672"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1673"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1674"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>De stack fout-vlag (bit 6 van het x87 FPU status woord) geeft aan dat een stack-overloop of -onderloop is opgetreden met de gegevens in de x87 FPU gegevens registrer stack.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>Een aanwijzer naar het x87 FPU gegevens register dat zich momenteel aan de top van de x87 FPU registreren stack bevindt, is opgeslagen in bits 11 tot en met 13 van het x87 FPU status woord. Deze aanwijzer, die wordt vaak aangeduid als TOP (wegens top-of-stack), is een binaire waarde van 0 tot en met 7.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1679"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1680"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1681"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1682"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1686"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1687"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1688"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1689"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1691"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1692"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>Het 32-bits MXCSR register bevat controle- en status-informatie van SIMD floating-point operaties.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 0 (IE): Ongeldige Operatie Vlag; geeft aan of een SIMD float-point exceptie geconstateerd is.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1695"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 1 (DE): Denormal Vlag; geeft aan of een SIMD floating-point exceptie geconstateerd is.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1697"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1698"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 2 (ZE): Delen-door-Nul Vlag; geeft aan of een SIMD floating-point exceptie geconstateerd is.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1699"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 3 (OE): Overloop Vlag; geeft aan of een SIMD floating-point exceptie geconstateerd is.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1702"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 4 (UE): Onderloop Vlag; geeft aan of een SIMD floating-point exceptie geconstateerd is.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1703"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 5 (PE): Precisie Vlag; geeft aan of een SIMD floating-point exceptie geconstateerd is.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1705"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1707"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1709"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1715"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1717"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>Bit 15 (FZ) van het MXCSR-register activeert de Flush-naar-Nul modus, welke het gemaskeerde resultaat van een SIMD floating-point onderloop bepaalt.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1719"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1720"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>Bit 6 (DAZ) van de MXCSR register activeert de denormals-zijn-nullen modus, welke bepaalt hoe de processor reageert op SIMD floating-point denormal operatie condities.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1722"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>Bits 13 en 14 van het MXCSR-register (het afronding [RC] controleveld) bepalen hoe de resultaten van SIMD floating-point instructies worden afgerond.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1731"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>De waarde van GetLastError(). Deze waarde wordt opgeslagen in het TEB.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1741"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1745"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>Het TEB van het huidige thread kan benaderd worden als offset van segment register GS (x64).
 Het TEB kan gebruikt worden om veel informatie over het proces te achterhalen zonder Win32 API aan te roepen.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>Het TEB van het huidige thread kan benaderd worden als offset van segment register FS (x86).
 Het TEB kan gebruikt worden om veel informatie over het proces te achterhalen zonder Win32 API aan te roepen.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1823"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1826"/>
       <source>Hide FPU</source>
       <translation>Verberg FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1828"/>
       <source>Show FPU</source>
       <translation>Toon FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2117"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2157"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2205"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2247"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2289"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2122"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2162"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2210"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2252"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2294"/>
       <source>Unknown</source>
       <translation>Onbekend</translation>
     </message>
@@ -15920,82 +15931,82 @@ Het TEB kan gebruikt worden om veel informatie over het proces te achterhalen zo
   <context>
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="323"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2258"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="324"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2263"/>
       <source>Nonzero</source>
       <translation>Niet-nul</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="325"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2259"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="326"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2264"/>
       <source>Zero</source>
       <translation>Nul</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="327"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2260"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2265"/>
       <source>Special</source>
       <translation>Speciaal</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="329"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2261"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="330"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2266"/>
       <source>Empty</source>
       <translation>Leeg</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2087"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2092"/>
       <source>Toward Zero</source>
       <translation>Naar Nul</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2088"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2093"/>
       <source>Toward Positive</source>
       <translation>Naar Positief</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2089"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2094"/>
       <source>Toward Negative</source>
       <translation>Naar Negatief</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2090"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2130"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2095"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2135"/>
       <source>Round Near</source>
       <translation>Afronden Naar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2127"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2132"/>
       <source>Truncate</source>
       <translation>Afkappen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2128"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2133"/>
       <source>Round Up</source>
       <translation>Afronden naar Boven</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2129"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2134"/>
       <source>Round Down</source>
       <translation>Afronden naar Beneden</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2221"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2217"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2222"/>
       <source>Not Used</source>
       <translation>Niet Gebruikt</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2218"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2223"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2219"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2224"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
@@ -17289,160 +17300,170 @@ Het TEB kan gebruikt worden om veel informatie over het proces te achterhalen zo
       <translation>Formulier</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="191"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="179"/>
+      <source>Symbols</source>
+      <translation>Symbolen</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="188"/>
+      <source>Modules</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
       <source>Base</source>
       <translation>Basis</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="192"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
       <source>Module</source>
       <translation>Module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
       <source>Party</source>
       <translation>Groep</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="194"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="196"/>
       <source>Path</source>
       <translation>Pad</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="195"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="197"/>
       <source>Status</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="305"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="330"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="307"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="332"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>Volg in Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="308"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="310"/>
       <source>Follow in &amp;Dump</source>
       <translation>Volg in &amp;Dump</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="311"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="313"/>
       <source>Follow &amp;imported address</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="314"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="316"/>
       <source>Toggle Breakpoint</source>
       <translation>Wissel Breekpunt</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="320"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="322"/>
       <source>Toggle Bookmark</source>
       <translation>Wissel Bladwijzer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="326"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="328"/>
       <source>Help on Symbolic Name</source>
       <translation>Help-informatie over Symbolische Naam</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="335"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="337"/>
       <source>Follow &amp;Entry Point in Disassembler</source>
       <translation>Volg &amp;Entreepunt in Disassembler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="338"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="340"/>
       <source>Follow in Memory Map</source>
       <translation>Volg in Geheugen Map</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="344"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="346"/>
       <source>&amp;Download Symbols for This Module</source>
       <translation>&amp;Download Symbolen voor Deze Module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="350"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="352"/>
       <source>Download Symbols for &amp;All Modules</source>
       <translation>Download Symbolen voor &amp;Alle Modules</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="356"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="358"/>
       <source>Copy File &amp;Path</source>
       <translation>Kopieer Bestand &amp; Map</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="362"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="364"/>
       <source>Browse in Explorer</source>
       <translation>Bladeren in Explorer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="368"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="370"/>
       <source>Load library...</source>
       <translation>Bibliotheek laden...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="374"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="376"/>
       <source>Free library</source>
       <translation>Bibliotheek opruimen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="380"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="382"/>
       <source>Mark as &amp;user module</source>
       <translation>Markeer als gebr&amp;uiker module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="386"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="388"/>
       <source>Mark as &amp;system module</source>
       <translation>Markeer als &amp;systeem module</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="392"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="394"/>
       <source>Mark as &amp;party...</source>
       <translation>Markeer als groe&amp;p...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="508"/>
       <source>User</source>
       <translation>Gebruiker</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="510"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="512"/>
       <source>System</source>
       <translation>Systeem</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="514"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="516"/>
       <source>Party: %1</source>
       <translation>Groep: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="535"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="622"/>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="782"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="624"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="784"/>
       <source>Import</source>
       <translation>Importeer</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="659"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="661"/>
       <source>&amp;Copy</source>
       <translation>Kopieëren</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="736"/>
       <source>Select DLL</source>
       <translation>Selecteer DLL</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="736"/>
       <source>Enter the path of a DLL to load in the debuggee.</source>
       <translation>Voer het pad in van een DLL om in de debuggee te laden.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="734"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="736"/>
       <source>DLL Files (*.dll);;All Files (*.*)</source>
       <translation>Dll-bestanden (*.dll);;Alle bestanden (*. *)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="750"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="752"/>
       <source>Are you sure you want to free the module: %1?
 
 This could introduce unexpected behaviour to your debugging session...</source>
@@ -17451,37 +17472,37 @@ This could introduce unexpected behaviour to your debugging session...</source>
 Dit kan onverwacht gedrag introduceren in de debug-sessie...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="752"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="754"/>
       <source>Free Library</source>
       <translation>Bibliotheek Opruimen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="831"/>
       <source>Error!</source>
       <translation>Fout!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="831"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt mislukt!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="867"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>Mark the party of the module as</source>
       <translation>Markeer the groep als module van</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="867"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="869"/>
       <source>0 is user module, 1 is system module.</source>
       <translation>0 is gebruiker module, 1 is systeem module.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="881"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>Error</source>
       <translation>Fout</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="881"/>
+      <location filename="src/gui/Src/Gui/SymbolView.cpp" line="883"/>
       <source>The party number can only be 0 or 1</source>
       <translation type="unfinished"/>
     </message>
@@ -17844,7 +17865,7 @@ Dit kan onverwacht gedrag introduceren in de debug-sessie...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1677"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
       <source>Error</source>
       <translation>Fout</translation>
     </message>
@@ -18013,7 +18034,7 @@ Dit kan onverwacht gedrag introduceren in de debug-sessie...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1328"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
       <source>Delete recording</source>
       <translation type="unfinished"/>
     </message>
@@ -18033,87 +18054,87 @@ Dit kan onverwacht gedrag introduceren in de debug-sessie...</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1290"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1292"/>
       <source>Open trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1291"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1293"/>
       <source>Trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1292"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1294"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1328"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1395"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1397"/>
       <source>Address not found in trace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1398"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1407"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1409"/>
       <source>The address %1 is not found in trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1398"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1671"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
       <source>Open File</source>
       <translation>Bestand openen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1671"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
       <source>Text Files (*.txt)</source>
       <translation>Tekstbestanden (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1677"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
       <source>Could not open file</source>
       <translation>Kan bestand niet openen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1766"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1791"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
       <source>Error!</source>
       <translation>Fout!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1766"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
       <source>Selection not in a module...</source>
       <translation>Selectie niet in een module...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1791"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
       <source>Selection not in a file...</source>
       <translation>Selectie niet in een bestand...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1890"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1889"/>
       <source>Constant</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1897"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1913"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1923"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1896"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1912"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1922"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1904"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1903"/>
       <source>References</source>
       <translation>Referenties</translation>
     </message>
