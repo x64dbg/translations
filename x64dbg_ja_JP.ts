@@ -753,7 +753,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="531"/>
       <source>New Values (Trace View)</source>
-      <translation type="unfinished"/>
+      <translation>新しい値 (トレースビュー)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
