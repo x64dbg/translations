@@ -9100,7 +9100,7 @@
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="365"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="456"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="556"/>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="135"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="121"/>
       <source>Delete</source>
       <translation>Sil</translation>
     </message>
@@ -9394,53 +9394,43 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="77"/>
-      <source>No variables!</source>
-      <translation>Değişken yok!</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="83"/>
-      <source>Error listing variables!</source>
-      <translation>Değişken listesinde hata!</translation>
-    </message>
-    <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="87"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="74"/>
       <source>Variables</source>
       <translation>Değişkenler</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="88"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="75"/>
       <source>Value (Hex)</source>
       <translation>Değer (Hex)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="89"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="76"/>
       <source>Variable</source>
       <translation>Değişken</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="90"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="77"/>
       <source>Value (Decimal)</source>
       <translation>Değer (Decimal)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="91"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="78"/>
       <source>Property</source>
       <translation>Özellik</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="119"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="106"/>
       <source>User Variable</source>
       <translation>Kullanıcı Değişkeni</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="122"/>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="128"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="109"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="115"/>
       <source>System Variable</source>
       <translation>Sistem Değişkeni</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-variables.cpp" line="125"/>
+      <location filename="src/dbg/commands/cmd-variables.cpp" line="112"/>
       <source>Read Only Variable</source>
       <translation>Salt Okunur Değişken</translation>
     </message>
