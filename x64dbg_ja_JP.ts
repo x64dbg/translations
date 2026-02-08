@@ -1008,7 +1008,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
       <source>Call Stack Highlight</source>
-      <translation type="unfinished"/>
+      <translation>コールスタックでの強調表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
@@ -3779,17 +3779,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="68"/>
       <source>Highlight by Module</source>
-      <translation type="unfinished"/>
+      <translation>モジュールで強調表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="72"/>
       <source>Highlight by Symbol</source>
-      <translation type="unfinished"/>
+      <translation>シンボルで強調表示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="76"/>
       <source>Clear Highlight</source>
-      <translation type="unfinished"/>
+      <translation>強調表示を解除</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="83"/>
