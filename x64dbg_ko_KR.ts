@@ -16320,17 +16320,17 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>검색...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="278"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="275"/>
       <source>&amp;Copy</source>
       <translation>복사(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="298"/>
       <source>Use case sensitive regular expression</source>
       <translation>대소문자를 구분하는 정규 표현식을 사용</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="304"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
       <source>Use case insensitive regular expression</source>
       <translation>대소문자를 구분하지 않는 정규 표현식을 사용
 </translation>

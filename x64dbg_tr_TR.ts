@@ -16324,17 +16324,17 @@ TEB, Win32 API'sini çağırmadan süreç hakkında bir çok bilgi almak için k
       <translation>Ara...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="278"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="275"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopyala</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="298"/>
       <source>Use case sensitive regular expression</source>
       <translation>Büyük küçük harf duyarlı kurallı ifadeyi kullanın</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="304"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
       <source>Use case insensitive regular expression</source>
       <translation>Harf büyüklüğüne duyarsız kurallı ifade kullanın</translation>
     </message>

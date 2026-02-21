@@ -16306,17 +16306,17 @@ TEB може бути використаний для отримання інф�
       <translation>Пошук...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="278"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="275"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="298"/>
       <source>Use case sensitive regular expression</source>
       <translation>Враховувати регістр у регулярному виразі</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="304"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
       <source>Use case insensitive regular expression</source>
       <translation>Не враховувати регістр у регулярному виразі</translation>
     </message>

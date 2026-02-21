@@ -16387,17 +16387,17 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
       <translation>සොයන්න...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="278"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="275"/>
       <source>&amp;Copy</source>
       <translation>&amp;පිටපත්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="298"/>
       <source>Use case sensitive regular expression</source>
       <translation>නඩුව සංවේදී නිත්ය ප්රකාශනය භාවිතා</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="304"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
       <source>Use case insensitive regular expression</source>
       <translation>නඩුව අසංවේදී නිත්ය ප්රකාශනය භාවිතා</translation>
     </message>
