@@ -10889,194 +10889,194 @@ Do you want to continue debugging?</source>
       <translation>%u 주시</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="520"/>
+      <location filename="src/dbg/x64dbg.cpp" line="521"/>
       <source>command cut at ~%d characters
 </source>
       <translation>명령이 ~%d 의 문자에서 잘라졌습니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="566"/>
+      <location filename="src/dbg/x64dbg.cpp" line="567"/>
       <source>[Script DLL] Calling export "AsyncStart"...
 </source>
       <translation>[Script DLL] 내보내기 "AsyncStart" 호출중...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="568"/>
+      <location filename="src/dbg/x64dbg.cpp" line="569"/>
       <source>[Script DLL] "AsyncStart" returned!
 </source>
       <translation>[Script DLL] "AsyncStart" 반환되었습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="570"/>
-      <location filename="src/dbg/x64dbg.cpp" line="616"/>
+      <location filename="src/dbg/x64dbg.cpp" line="571"/>
+      <location filename="src/dbg/x64dbg.cpp" line="617"/>
       <source>[Script DLL] Calling FreeLibrary...</source>
       <translation>[Script DLL] FreeLibrary 호출 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="572"/>
-      <location filename="src/dbg/x64dbg.cpp" line="618"/>
+      <location filename="src/dbg/x64dbg.cpp" line="573"/>
+      <location filename="src/dbg/x64dbg.cpp" line="619"/>
       <source>success!
 </source>
       <translation>성공!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="576"/>
-      <location filename="src/dbg/x64dbg.cpp" line="622"/>
+      <location filename="src/dbg/x64dbg.cpp" line="577"/>
+      <location filename="src/dbg/x64dbg.cpp" line="623"/>
       <source>failure (%s)...
 </source>
       <translation>실패 (%s)...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="588"/>
+      <location filename="src/dbg/x64dbg.cpp" line="589"/>
       <source>[Script DLL] Loading Script DLL "%s"...
 </source>
       <translation>[Script DLL] 스크립트 DLL "%s" 불러오는 중...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="593"/>
+      <location filename="src/dbg/x64dbg.cpp" line="594"/>
       <source>[Script DLL] DLL loaded on 0x%p!
 </source>
       <translation>[Script DLL] DLL가 0x%p에 로드되었습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="598"/>
+      <location filename="src/dbg/x64dbg.cpp" line="599"/>
       <source>[Script DLL] Creating thread to call the export "AsyncStart"...
 </source>
       <translation>[Script DLL] 내보내기 "AsyncStart" 호출을 위해서 스레드 생성 중...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="606"/>
+      <location filename="src/dbg/x64dbg.cpp" line="607"/>
       <source>[Script DLL] Calling export "Start"...
 </source>
       <translation>[Script DLL] 내보내기 "Start" 호출 중...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="608"/>
+      <location filename="src/dbg/x64dbg.cpp" line="609"/>
       <source>[Script DLL] "Start" returned!
 </source>
       <translation>[Script DLL] "Start" 반환되었습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="613"/>
+      <location filename="src/dbg/x64dbg.cpp" line="614"/>
       <source>[Script DLL] Failed to find the exports "AsyncStart" or "Start" (%s)!
 </source>
       <translation>[Script DLL] 내보내기 "AsyncStart" 또는 "Start" 를 찾지 못했습니다 (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="629"/>
+      <location filename="src/dbg/x64dbg.cpp" line="630"/>
       <source>[Script DLL] LoadLibary failed (%s)!
 </source>
       <translation>[Script DLL] LoadLibary 실패 (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="645"/>
+      <location filename="src/dbg/x64dbg.cpp" line="646"/>
       <source>Retrieving syscall indices...</source>
       <translation>Syscall 인덱스 검색 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="647"/>
+      <location filename="src/dbg/x64dbg.cpp" line="648"/>
       <source>Syscall indices loaded!</source>
       <translation>Syscall 인덱스 로드됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="649"/>
+      <location filename="src/dbg/x64dbg.cpp" line="650"/>
       <source>Failed to load syscall indices...</source>
       <translation>Syscall 인덱스 로드 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="654"/>
+      <location filename="src/dbg/x64dbg.cpp" line="655"/>
       <source>Error codes database loaded!</source>
       <translation>오류 코드 데이터베이스 불러옴!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="656"/>
+      <location filename="src/dbg/x64dbg.cpp" line="657"/>
       <source>Failed to load error codes...</source>
       <translation>오류 코드 불러오기 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="660"/>
+      <location filename="src/dbg/x64dbg.cpp" line="661"/>
       <source>Exception codes database loaded!</source>
       <translation>예외 코드 데이터베이스 불러옴!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="662"/>
+      <location filename="src/dbg/x64dbg.cpp" line="663"/>
       <source>Failed to load exception codes...</source>
       <translation>예외 코드 불러오기 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="666"/>
+      <location filename="src/dbg/x64dbg.cpp" line="667"/>
       <source>NTSTATUS codes database loaded!</source>
       <translation>NTSTATUS 코드 데이터베이스 불러옴!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="668"/>
+      <location filename="src/dbg/x64dbg.cpp" line="669"/>
       <source>Failed to load NTSTATUS codes...</source>
       <translation>NTSTATUS 코드 불러오기 실패......</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="672"/>
+      <location filename="src/dbg/x64dbg.cpp" line="673"/>
       <source>Windows constant database loaded!</source>
       <translation>윈도우즈 상수 데이터베이스가 로드되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="674"/>
+      <location filename="src/dbg/x64dbg.cpp" line="675"/>
       <source>Failed to load Windows constants...</source>
       <translation>윈도우즈 상수를 로드하는데 실패했습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="677"/>
+      <location filename="src/dbg/x64dbg.cpp" line="678"/>
       <source>Reading notes file...</source>
       <translation>메모 파일 읽는중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="683"/>
+      <location filename="src/dbg/x64dbg.cpp" line="684"/>
       <source>Reading notes failed...</source>
       <translation>메모 파일 읽기 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="685"/>
+      <location filename="src/dbg/x64dbg.cpp" line="686"/>
       <source>File read thread finished!</source>
       <translation>파일 읽기 스레드 완료!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="835"/>
+      <location filename="src/dbg/x64dbg.cpp" line="836"/>
       <source>Initializing wait objects...</source>
       <translation>대기 개체들 초기화중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="838"/>
+      <location filename="src/dbg/x64dbg.cpp" line="839"/>
       <source>Initializing debugger...</source>
       <translation>디버거 초기화 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="840"/>
+      <location filename="src/dbg/x64dbg.cpp" line="841"/>
       <source>Initializing debugger functions...</source>
       <translation>디버거 함수 초기화 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="843"/>
+      <location filename="src/dbg/x64dbg.cpp" line="844"/>
       <source>Setting JSON memory management functions...</source>
       <translation>JSON 메모리 관리 기능 설정 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="846"/>
+      <location filename="src/dbg/x64dbg.cpp" line="847"/>
       <source>Getting directory information...</source>
       <translation>디렉터리 정보 가져오는 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="880"/>
+      <location filename="src/dbg/x64dbg.cpp" line="881"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
@@ -11085,124 +11085,124 @@ Do you want me to fix this?</source>
 이 문제를 해결하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="887"/>
+      <location filename="src/dbg/x64dbg.cpp" line="888"/>
       <source>Symbol Path: %s
 </source>
       <translation>기호 경로: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="889"/>
+      <location filename="src/dbg/x64dbg.cpp" line="890"/>
       <source>Start file read thread...</source>
       <translation>파일 읽기 스레드 시작...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="901"/>
+      <location filename="src/dbg/x64dbg.cpp" line="902"/>
       <source>Allocating message stack...</source>
       <translation>메시지 스택 할당 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="905"/>
+      <location filename="src/dbg/x64dbg.cpp" line="906"/>
       <source>Initializing global script variables...</source>
       <translation>글로벌 스크립트 변수 초기화 중……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="907"/>
+      <location filename="src/dbg/x64dbg.cpp" line="908"/>
       <source>Registering debugger commands...</source>
       <translation>디버거 명령 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="909"/>
+      <location filename="src/dbg/x64dbg.cpp" line="910"/>
       <source>Registering GUI command handler...</source>
       <translation>GUI 명령 핸들러 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="911"/>
+      <location filename="src/dbg/x64dbg.cpp" line="912"/>
       <source>Registering expression functions...</source>
       <translation>표현식 함수 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="913"/>
+      <location filename="src/dbg/x64dbg.cpp" line="914"/>
       <source>Registering format functions...</source>
       <translation>포맷 함수 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="915"/>
+      <location filename="src/dbg/x64dbg.cpp" line="916"/>
       <source>Default</source>
       <translation>기본값</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="924"/>
+      <location filename="src/dbg/x64dbg.cpp" line="925"/>
       <source>Registering Script DLL command handler...</source>
       <translation>스크립트 DLL 명령 핸들러 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="925"/>
+      <location filename="src/dbg/x64dbg.cpp" line="926"/>
       <source>Script DLL</source>
       <translation>스크립트 DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="928"/>
+      <location filename="src/dbg/x64dbg.cpp" line="929"/>
       <source>Starting command loop...</source>
       <translation>명령 루프 시작 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="935"/>
+      <location filename="src/dbg/x64dbg.cpp" line="936"/>
       <source>Initialization successful!</source>
       <translation>초기화 성공!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="937"/>
+      <location filename="src/dbg/x64dbg.cpp" line="938"/>
       <source>Loading plugins...</source>
       <translation>플러그인 로딩 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="939"/>
+      <location filename="src/dbg/x64dbg.cpp" line="941"/>
       <source>Handling command line...</source>
       <translation>명령줄 핸들링...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="950"/>
+      <location filename="src/dbg/x64dbg.cpp" line="952"/>
       <source>Stopping command thread...</source>
       <translation>명령 스레드 중지 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="954"/>
+      <location filename="src/dbg/x64dbg.cpp" line="956"/>
       <source>Stopping running debuggee...</source>
       <translation>디버기 실행 중지중……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="956"/>
+      <location filename="src/dbg/x64dbg.cpp" line="958"/>
       <source>Aborting scripts...</source>
       <translation>스크립트 중단……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="958"/>
+      <location filename="src/dbg/x64dbg.cpp" line="960"/>
       <source>Unloading plugins...</source>
       <translation>플러그인 언로드 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="960"/>
+      <location filename="src/dbg/x64dbg.cpp" line="962"/>
       <source>Cleaning up allocated data...</source>
       <translation>할당 된 데이터를 정리 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="963"/>
+      <location filename="src/dbg/x64dbg.cpp" line="965"/>
       <source>Cleaning up wait objects...</source>
       <translation>대기 개체를 정리 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="966"/>
+      <location filename="src/dbg/x64dbg.cpp" line="968"/>
       <source>Cleaning up debugger threads...</source>
       <translation>디버거 스레드 정리 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="968"/>
+      <location filename="src/dbg/x64dbg.cpp" line="970"/>
       <source>Saving notes...</source>
       <translation>메모 저장 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="978"/>
+      <location filename="src/dbg/x64dbg.cpp" line="980"/>
       <source>Exit signal processed successfully!</source>
       <translation>종료 신호가 성공적으로 프로세스됨!</translation>
     </message>
