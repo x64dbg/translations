@@ -15167,10 +15167,10 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="451"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>Information</source>
       <translation>정보</translation>
     </message>
@@ -15182,8 +15182,8 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="461"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="487"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Error!</source>
       <translation>오류발생!</translation>
     </message>
@@ -15204,7 +15204,7 @@ Make sure to fill in as much information as possible.</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
       <source>%1/%2 patch(es) applied!</source>
       <translation>%1/%2 패치 적용됨!</translation>
     </message>
@@ -15215,33 +15215,33 @@ Make sure to fill in as much information as possible.</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="495"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Patch files (*.1337)</source>
       <translation>패치 파일 (*.1337)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
       <source>The patch file is empty...</source>
       <translation>패치 파일이 비어있음...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Patch file format is incorrect...</source>
       <translation>패치 파일 포맷이 올바르지 않습니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
       <source>No patches to apply in the current process.</source>
       <translation>현재 프로세스에서 적용할 패치가 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Question</source>
       <translation>질문</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
       <source>Some patches are already applied.
 
 Do you want to remove these patches?</source>
@@ -15250,7 +15250,7 @@ Do you want to remove these patches?</source>
 이 패치를 제거하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Some bytes do not match the original in the patch file.
 
 Do you want to apply these patches anyway?</source>
@@ -15259,27 +15259,27 @@ Do you want to apply these patches anyway?</source>
 이 패치를 적용하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Save patch</source>
       <translation>패치 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
       <source>No patches to export.</source>
       <translation>내보내기할 패치가 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>%1 patch(es) exported!</source>
       <translation>%1 개의 패치를 내보냈습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Patches overlap with relocation regions</source>
       <translation>패치가 재배치 구역과 겹침</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Your patches overlap with relocation regions. This can cause your code to become corrupted when you load the patched executable. Do you want to continue?</source>
       <translation>패치가 재배치 구역과 겹칩니다. 이는 패치된 실행 파일을 로드할 때 코드가 손상될 수 있습니다. 계속하시겠습니까?</translation>
     </message>

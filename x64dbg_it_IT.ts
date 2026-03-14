@@ -14916,10 +14916,10 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="451"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>Information</source>
       <translation>Informazione</translation>
     </message>
@@ -14931,8 +14931,8 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="461"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="487"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Error!</source>
       <translation>Errore!</translation>
     </message>
@@ -14953,7 +14953,7 @@ Make sure to fill in as much information as possible.</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
       <source>%1/%2 patch(es) applied!</source>
       <translation>%1/%2 patch applicata/e!</translation>
     </message>
@@ -14964,33 +14964,33 @@ Make sure to fill in as much information as possible.</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="495"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Patch files (*.1337)</source>
       <translation>Patch files (*.1337)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
       <source>The patch file is empty...</source>
       <translation>Il file di patch è vuoto...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Patch file format is incorrect...</source>
       <translation>Formato file di patch non corretto...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
       <source>No patches to apply in the current process.</source>
       <translation>Nessuna patch da applicare nel processo corrente.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Question</source>
       <translation>Domanda</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
       <source>Some patches are already applied.
 
 Do you want to remove these patches?</source>
@@ -14999,7 +14999,7 @@ Do you want to remove these patches?</source>
 Vuoi rimuovere queste patch?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Some bytes do not match the original in the patch file.
 
 Do you want to apply these patches anyway?</source>
@@ -15008,27 +15008,27 @@ Do you want to apply these patches anyway?</source>
 Si desidera applicare queste patch comunque?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Save patch</source>
       <translation>Salva modifiche</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
       <source>No patches to export.</source>
       <translation>Nessuna modifica da esportare.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>%1 patch(es) exported!</source>
       <translation>%1 modifica/e esportata/e!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Patches overlap with relocation regions</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Your patches overlap with relocation regions. This can cause your code to become corrupted when you load the patched executable. Do you want to continue?</source>
       <translation type="unfinished"/>
     </message>

@@ -15251,10 +15251,10 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="451"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>Information</source>
       <translation>情報</translation>
     </message>
@@ -15266,8 +15266,8 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="461"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="487"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Error!</source>
       <translation>エラー!</translation>
     </message>
@@ -15288,7 +15288,7 @@ Make sure to fill in as much information as possible.</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
       <source>%1/%2 patch(es) applied!</source>
       <translation>%1/%2 パッチが適用されました!</translation>
     </message>
@@ -15299,33 +15299,33 @@ Make sure to fill in as much information as possible.</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="495"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Patch files (*.1337)</source>
       <translation>パッチ ファイル (*.1337)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
       <source>The patch file is empty...</source>
       <translation>パッチ ファイルが空です...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Patch file format is incorrect...</source>
       <translation>パッチ ファイルの形式が正しくありません...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
       <source>No patches to apply in the current process.</source>
       <translation>現在のプロセスに適用するパッチはありません。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Question</source>
       <translation>質問</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
       <source>Some patches are already applied.
 
 Do you want to remove these patches?</source>
@@ -15334,7 +15334,7 @@ Do you want to remove these patches?</source>
 これらのパッチを削除しますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Some bytes do not match the original in the patch file.
 
 Do you want to apply these patches anyway?</source>
@@ -15343,27 +15343,27 @@ Do you want to apply these patches anyway?</source>
 とりあえず、これらのパッチを適用しますか?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Save patch</source>
       <translation>パッチを保存</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
       <source>No patches to export.</source>
       <translation>エクスポートするパッチがありません。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>%1 patch(es) exported!</source>
       <translation>%1 パッチをエクスポートしました!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Patches overlap with relocation regions</source>
       <translation>パッチが再配置領域と重なっています</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Your patches overlap with relocation regions. This can cause your code to become corrupted when you load the patched executable. Do you want to continue?</source>
       <translation>パッチは再配置領域と重なっています。これにより、パッチを適用した実行ファイルをロードしたときにコードが破損する可能性があります。続行しますか?</translation>
     </message>

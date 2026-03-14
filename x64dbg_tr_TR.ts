@@ -15176,10 +15176,10 @@ Mümkün olduğunca çok bilgi girdiğinizden emin olun.</translation>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="451"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>Information</source>
       <translation>Bilgi</translation>
     </message>
@@ -15191,8 +15191,8 @@ Mümkün olduğunca çok bilgi girdiğinizden emin olun.</translation>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="461"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="487"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Error!</source>
       <translation>Hata!</translation>
     </message>
@@ -15213,7 +15213,7 @@ Mümkün olduğunca çok bilgi girdiğinizden emin olun.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
       <source>%1/%2 patch(es) applied!</source>
       <translation>%1/%2 Yama(lar) uygulanmış!</translation>
     </message>
@@ -15224,33 +15224,33 @@ Mümkün olduğunca çok bilgi girdiğinizden emin olun.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="495"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Patch files (*.1337)</source>
       <translation>Yama dosyaları (*.1337)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
       <source>The patch file is empty...</source>
       <translation>Yama dosyası içi boş...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Patch file format is incorrect...</source>
       <translation>Yama dosya biçimi yanlış...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
       <source>No patches to apply in the current process.</source>
       <translation>Geçerli süreçte uygulanacak yamalar yok.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Question</source>
       <translation>Soru</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
       <source>Some patches are already applied.
 
 Do you want to remove these patches?</source>
@@ -15259,7 +15259,7 @@ Do you want to remove these patches?</source>
 Bu yamaları kaldırmak istiyor musunuz?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Some bytes do not match the original in the patch file.
 
 Do you want to apply these patches anyway?</source>
@@ -15268,27 +15268,27 @@ Do you want to apply these patches anyway?</source>
 Bu yamaları yine de uygulamak istiyor musunuz?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Save patch</source>
       <translation>Yamayı kaydet</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
       <source>No patches to export.</source>
       <translation>Dışarıya aktarılacak yama(lar) bulunamadı.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>%1 patch(es) exported!</source>
       <translation>%1 yama(lar) dışarıya aktarıldı!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Patches overlap with relocation regions</source>
       <translation>Yamalar ile yer değiştirme bölgeleri aşımı</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Your patches overlap with relocation regions. This can cause your code to become corrupted when you load the patched executable. Do you want to continue?</source>
       <translation>Yamalarınız yeniden yerleşim bölgeleriyle çakışıyor. Bu, çalıştırılabilir dosyayı yüklediğinizde kodunuzun bozulmasına neden olabilir. Devam etmek istiyor musun?</translation>
     </message>

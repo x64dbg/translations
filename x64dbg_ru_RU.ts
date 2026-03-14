@@ -15204,10 +15204,10 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="451"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>Information</source>
       <translation>Информация</translation>
     </message>
@@ -15219,8 +15219,8 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="461"/>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="487"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Error!</source>
       <translation>Ошибка!</translation>
     </message>
@@ -15241,7 +15241,7 @@ Make sure to fill in as much information as possible.</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
       <source>%1/%2 patch(es) applied!</source>
       <translation>%1/%2 исправления(ий) применено!</translation>
     </message>
@@ -15252,33 +15252,33 @@ Make sure to fill in as much information as possible.</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="495"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Patch files (*.1337)</source>
       <translation>Файлы исправлений (*.1337)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
       <source>The patch file is empty...</source>
       <translation>Файл исправления пуст...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
       <source>Patch file format is incorrect...</source>
       <translation>Неверный формат файла исправления...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="574"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
       <source>No patches to apply in the current process.</source>
       <translation>Нет исправлений для применения в текущем процессе.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Question</source>
       <translation>Вопрос</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="582"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
       <source>Some patches are already applied.
 
 Do you want to remove these patches?</source>
@@ -15287,7 +15287,7 @@ Do you want to remove these patches?</source>
 Вы хотите удалить эти исправления?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
       <source>Some bytes do not match the original in the patch file.
 
 Do you want to apply these patches anyway?</source>
@@ -15296,27 +15296,27 @@ Do you want to apply these patches anyway?</source>
 Вы хотите применить это исправление?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
       <source>Save patch</source>
       <translation>Сохранить исправление</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="671"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
       <source>No patches to export.</source>
       <translation>Нет исправлений для экспорта.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
       <source>%1 patch(es) exported!</source>
       <translation>%1 исправление(ий) экспортировано!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Patches overlap with relocation regions</source>
       <translation>Патчи совпадают с областью перемещаемых данных</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="709"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
       <source>Your patches overlap with relocation regions. This can cause your code to become corrupted when you load the patched executable. Do you want to continue?</source>
       <translation>Ваши патчи совпадают с областью перемещаемых данных. Это может привести к повреждению вашего кода при загрузке исправленного исполняемого файла. Хотите продолжить?</translation>
     </message>
