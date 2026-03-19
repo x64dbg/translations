@@ -8954,7 +8954,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="224"/>
       <source>Step filter set to: system</source>
-      <translation type="unfinished"/>
+      <translation>步进过滤设置为: 系统</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="228"/>
@@ -11521,7 +11521,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="14"/>
       <source>Display Type at Address</source>
-      <translation type="unfinished"/>
+      <translation>在地址处显示类型</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="35"/>
@@ -16620,7 +16620,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="408"/>
       <source>Detach from process when attaching to another</source>
-      <translation type="unfinished"/>
+      <translation>附加到其他进程时脱离当前进程</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="411"/>
@@ -16630,7 +16630,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="418"/>
       <source>Detach from process when exiting debugger</source>
-      <translation type="unfinished"/>
+      <translation>退出调试器时脱离进程</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="421"/>
@@ -16800,7 +16800,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="782"/>
       <source>Hexadecimal value notation:</source>
-      <translation type="unfinished"/>
+      <translation>十六进制数值表示法：</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
