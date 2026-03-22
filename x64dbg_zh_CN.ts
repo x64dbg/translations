@@ -545,7 +545,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="475"/>
       <source>Relocation underline</source>
-      <translation>重定向区域下划线</translation>
+      <translation>重置下划线</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="476"/>
@@ -717,12 +717,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="522"/>
       <source>NOPs</source>
-      <translation>无意义指令</translation>
+      <translation>空指令</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="523"/>
       <source>FAR</source>
-      <translation>长程跳转</translation>
+      <translation>长跳转</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="524"/>
@@ -752,7 +752,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="531"/>
       <source>New Values (Trace View)</source>
-      <translation type="unfinished"/>
+      <translation>新值 (跟踪视图)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
@@ -1007,7 +1007,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
       <source>Call Stack Highlight</source>
-      <translation type="unfinished"/>
+      <translation>通话堆栈高亮</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
@@ -1295,52 +1295,52 @@
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="164"/>
       <source>Already attached</source>
-      <translation type="unfinished"/>
+      <translation>已经附加了</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="164"/>
       <source>You are already debugging this process.</source>
-      <translation type="unfinished"/>
+      <translation>您已经在调试此进程。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="172"/>
       <source>Remember my choice</source>
-      <translation type="unfinished"/>
+      <translation>记住我的选择</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="174"/>
       <source>You are already debugging a process. What would you like to do with the current process?</source>
-      <translation type="unfinished"/>
+      <translation>您已经在调试进程。您想对当前进程做什么？</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="175"/>
       <source>Already debugging</source>
-      <translation type="unfinished"/>
+      <translation>已经调试</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="179"/>
       <source>&amp;Terminate</source>
-      <translation type="unfinished"/>
+      <translation>终止</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="180"/>
       <source>Terminate the current process and attach to the new one.</source>
-      <translation type="unfinished"/>
+      <translation>终止当前进程并附加到新进程。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="183"/>
       <source>&amp;Detach</source>
-      <translation>脱离(&amp;D)</translation>
+      <translation>分离(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="184"/>
       <source>Detach from the current process (leaving it running) and attach to the new one.</source>
-      <translation type="unfinished"/>
+      <translation>从当前进程分离（使其继续运行），然后附加到新进程。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="188"/>
       <source>Cancel and don't attach to the new process.</source>
-      <translation type="unfinished"/>
+      <translation>取消并且不附加到新进程。</translation>
     </message>
   </context>
   <context>
@@ -1727,7 +1727,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
       <source>Copy Value</source>
-      <translation type="unfinished"/>
+      <translation>复制值</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="210"/>
@@ -2337,7 +2337,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1235"/>
       <source>Find Pattern...</source>
-      <translation>搜索匹配特征...</translation>
+      <translation>搜索特征码...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1379"/>
@@ -2517,7 +2517,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="145"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="147"/>
       <source>&amp;Singleshoot</source>
-      <translation>一次性(&amp;S)</translation>
+      <translation>单次触发(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="142"/>
@@ -2525,7 +2525,7 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="146"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="148"/>
       <source>&amp;Restore on hit</source>
-      <translation>重复设置(&amp;R)</translation>
+      <translation>命中后恢复(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="149"/>
@@ -2560,7 +2560,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="159"/>
       <source>&amp;Find Pattern...</source>
-      <translation>搜索匹配特征(&amp;F)...</translation>
+      <translation>搜索特征码(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="160"/>
@@ -2660,19 +2660,19 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
       <source>Signed short (16-bit)</source>
-      <translation>有符号Short(16位)</translation>
+      <translation>有符号短整型(16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
       <source>Signed long (32-bit)</source>
-      <translation>有符号Long(32位)</translation>
+      <translation>有符号长整型(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
       <source>Signed long long (64-bit)</source>
-      <translation>有符号Long long(64位)</translation>
+      <translation>有符号超长整型(64位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
@@ -2684,24 +2684,24 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
       <source>Unsigned short (16-bit)</source>
-      <translation>无符号Short(16位）</translation>
+      <translation>无符号短整型(16位）</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
       <source>Unsigned long (32-bit)</source>
-      <translation>无符号Long(32位)</translation>
+      <translation>无符号长整型(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
       <source>Unsigned long long (64-bit)</source>
-      <translation>无符号Long long(64位)</translation>
+      <translation>无符号超长整型(64位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
       <source>Hex byte (8-bit)</source>
-      <translation type="unfinished"/>
+      <translation>十六进制字节(8位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
@@ -2913,13 +2913,13 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
       <source>Address (QWORD)</source>
-      <translation type="unfinished"/>
+      <translation>地址 (QWORD)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1281"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1328"/>
       <source>Address (DWORD)</source>
-      <translation type="unfinished"/>
+      <translation>地址 (DWORD)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1306"/>
@@ -2950,7 +2950,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1519"/>
       <source>Find Pattern...</source>
-      <translation>搜索匹配特征...</translation>
+      <translation>搜索特征码...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1541"/>
@@ -3462,7 +3462,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="214"/>
       <source>&amp;Find Pattern...</source>
-      <translation>搜索匹配特征(&amp;F)...</translation>
+      <translation>搜索特征码(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="217"/>
@@ -3573,7 +3573,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="868"/>
       <source>Find Pattern...</source>
-      <translation>搜索匹配特征...</translation>
+      <translation>搜索特征码...</translation>
     </message>
   </context>
   <context>
@@ -3777,17 +3777,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="68"/>
       <source>Highlight by Module</source>
-      <translation type="unfinished"/>
+      <translation>按模块高亮显示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="72"/>
       <source>Highlight by Symbol</source>
-      <translation type="unfinished"/>
+      <translation>用符号高亮显示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="76"/>
       <source>Clear Highlight</source>
-      <translation type="unfinished"/>
+      <translation>清除高亮</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="83"/>
@@ -4047,7 +4047,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
       <source>Display a type at this address in the struct view.</source>
-      <translation type="unfinished"/>
+      <translation>在结构视图中显示此地址的类型。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="106"/>
@@ -4268,7 +4268,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <source>Detach</source>
-      <translation>脱离</translation>
+      <translation>分离</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
@@ -4745,13 +4745,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Trace into...</source>
-      <translation>步进直到条件满足...</translation>
+      <translation>条件跟踪步进...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Trace over...</source>
-      <translation>步过直到条件满足...</translation>
+      <translation>条件跟踪步过...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
@@ -4782,7 +4782,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Animate into</source>
-      <translation>自动步进</translation>
+      <translation>连续步进</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
@@ -5432,7 +5432,7 @@
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
       <source>Set EIP/RIP Here</source>
-      <translation type="unfinished"/>
+      <translation>在此设置 EIP/RIP</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
@@ -5504,13 +5504,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
       <source>Find Pattern</source>
-      <translation>搜索匹配特征</translation>
+      <translation>搜索特征码</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
       <source>Find Pattern in Current Module</source>
-      <translation>在当前模块中搜索匹配特征</translation>
+      <translation>在当前模块中搜索特征码</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
@@ -5599,7 +5599,7 @@
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
       <source>Sync With Expression</source>
-      <translation type="unfinished"/>
+      <translation>与表达式同步</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
@@ -5897,7 +5897,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
       <source>Copy Disassembly</source>
-      <translation type="unfinished"/>
+      <translation>复制拆解</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
@@ -6004,7 +6004,7 @@
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
       <source>Toggle sync with EIP/RIP</source>
-      <translation type="unfinished"/>
+      <translation>切换与 EIP/RIP 同步</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
@@ -6398,32 +6398,32 @@
       <translation>运行跟踪已停止。</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="463"/>
+      <location filename="src/dbg/_exports.cpp" line="464"/>
       <source>breakif</source>
       <translation>暂停条件</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="473"/>
+      <location filename="src/dbg/_exports.cpp" line="474"/>
       <source>fastresume()</source>
       <translation>快速恢复()</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="481"/>
+      <location filename="src/dbg/_exports.cpp" line="482"/>
       <source>logif</source>
       <translation>日志条件</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="488"/>
+      <location filename="src/dbg/_exports.cpp" line="489"/>
       <source>log</source>
       <translation>日志</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="500"/>
+      <location filename="src/dbg/_exports.cpp" line="501"/>
       <source>cmdif</source>
       <translation>命令条件</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="507"/>
+      <location filename="src/dbg/_exports.cpp" line="508"/>
       <source>cmd</source>
       <translation>指令</translation>
     </message>
@@ -6630,7 +6630,8 @@
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="158"/>
       <source>Virtual module "%s" loaded on %p[%p]!
 </source>
-      <translation type="unfinished"/>
+      <translation>虚拟模块 "%s" 在 %p[%p] 处加载！
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="165"/>
@@ -6725,7 +6726,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="312"/>
       <source>IMAGE_FILE_AGGRESIVE_WS_TRIM: Agressively trim working set</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_AGGRESSIVE_WS_TRIM：激进式裁剪工作集</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="313"/>
@@ -6745,7 +6746,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="316"/>
       <source>IMAGE_FILE_DEBUG_STRIPPED: Debugging info stripped from file in .DBG file</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_DEBUG_STRIPPED: 调试信息已从.DBG文件中删除文件</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="317"/>
@@ -6770,12 +6771,12 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="321"/>
       <source>IMAGE_FILE_UP_SYSTEM_ONLY: File should only be run on a UP machine</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_UP_SYSTEM_ONLY: 文件只能在UP 机上运行</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="322"/>
       <source>IMAGE_FILE_BYTES_REVERSED_HI: Bytes of machine word are reversed.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_FILE_BYTES_REVERSED_HI：倒置机床单词。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="324"/>
@@ -6792,7 +6793,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="328"/>
       <source>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: Code Integrity Image</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY: 代码完整性图像</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="329"/>
@@ -6802,7 +6803,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="330"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: Image understands isolation and doesn't want it</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLCHARACTERISTICS_NO_ISOLATION: 图像理解隔离且不想要它</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="331"/>
@@ -6812,7 +6813,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="332"/>
       <source>IMAGE_DLLCHARACTERISTICS_NO_BIND: Do not bind this image.</source>
-      <translation type="unfinished"/>
+      <translation>IMAGE_DLLCHARACTERISTICS_NO_BIND：不绑定此图像。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="333"/>
@@ -7706,7 +7707,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-conditional-breakpoint-control.cpp" line="64"/>
       <source>log file</source>
-      <translation type="unfinished"/>
+      <translation>日志文件</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-conditional-breakpoint-control.cpp" line="87"/>
@@ -7798,7 +7799,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="225"/>
       <source>The debuggee did not stop after 10 seconds of requesting termination. The debugger state may be corrupted. It is recommended to restart x64dbg.</source>
-      <translation>被调试对象未能在 10 秒内终止，调试器内部状态可能已被破坏。建议重启 x64dbg。</translation>
+      <translation>被调试目标未能在 10 秒内终止，调试器内部状态可能已被破坏。建议重启 x64dbg。</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="278"/>
@@ -7846,7 +7847,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="359"/>
       <source>Detached!</source>
-      <translation>已脱离！</translation>
+      <translation>已分离！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
@@ -8932,7 +8933,8 @@
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="74"/>
       <source>Unsupported party filter: %d
 </source>
-      <translation type="unfinished"/>
+      <translation>不支持的组队过滤器： %d
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="144"/>
@@ -8944,12 +8946,12 @@
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="214"/>
       <source>Step filter set to: none</source>
-      <translation type="unfinished"/>
+      <translation>步骤过滤器设置为：无</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="219"/>
       <source>Step filter set to: user</source>
-      <translation type="unfinished"/>
+      <translation>步骤过滤器设置为：用户</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="224"/>
@@ -8960,7 +8962,8 @@
       <location filename="src/dbg/commands/cmd-tracing.cpp" line="228"/>
       <source>Invalid step filter "%s", valid options are: none, user, system
 </source>
-      <translation type="unfinished"/>
+      <translation>无效的步骤过滤器 "%s"，有效的选项是：没有，用户，系统
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-types.cpp" line="26"/>
@@ -9022,7 +9025,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-types.cpp" line="345"/>
       <source>Invalid type ID</source>
-      <translation type="unfinished"/>
+      <translation>无效的类型 ID</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-types.cpp" line="381"/>
@@ -10212,7 +10215,7 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/expressionparser.cpp" line="1000"/>
       <source>any</source>
-      <translation type="unfinished"/>
+      <translation>任意</translation>
     </message>
     <message>
       <location filename="src/dbg/expressionparser.cpp" line="1002"/>
@@ -10271,7 +10274,7 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/handles.cpp" line="186"/>
       <location filename="src/dbg/handles.cpp" line="188"/>
       <source>Debuggee</source>
-      <translation>被调试对象</translation>
+      <translation>调试目标</translation>
     </message>
     <message>
       <location filename="src/dbg/historycontext.cpp" line="85"/>
@@ -10395,16 +10398,18 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="969"/>
+      <location filename="src/dbg/module.cpp" line="968"/>
       <source>Module %s%s loaded from file handle (path inaccessible)
 </source>
-      <translation type="unfinished"/>
+      <translation>从文件句柄加载模块 %s%s (路径不可访问)
+</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1017"/>
+      <location filename="src/dbg/module.cpp" line="1021"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
-      <translation type="unfinished"/>
+      <translation>从进程内存中加载模块 %s%s (无法访问)
+</translation>
     </message>
     <message>
       <location filename="src/dbg/patches.cpp" line="198"/>
@@ -10447,169 +10452,175 @@ Do you want to continue debugging?</source>
       <translation>StaticFileUnload 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="186"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="323"/>
       <source>[PLUGIN] %s already loaded
 </source>
       <translation>[插件] %s 早已载入
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="194"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="331"/>
       <source>[PLUGIN] Cannot find plugin: %s
 </source>
       <translation>[插件] 找不到插件: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="212"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="337"/>
+      <source>[PLUGIN] Skipping GUI plugin in headless mode (Qt GUI imports detected): %s
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/plugin_loader.cpp" line="355"/>
       <source>[PLUGIN] Failed to load plugin: %s
 </source>
       <translation>[插件] 载入插件失败：“%s”
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="218"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="361"/>
       <source>[PLUGIN] Export "pluginit" not found in plugin: %s
 </source>
       <translation>[插件] 插件中没有找到“pluginit”导出函数: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="234"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="375"/>
       <source>[PLUGIN] pluginit failed for plugin: %s
 </source>
       <translation>[插件] 插件函数pluginit失败: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="242"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="382"/>
       <source>[PLUGIN] %s is incompatible with this SDK version
 </source>
       <translation>[插件] %s 与本软件SDK版本不兼容
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="249"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="387"/>
       <source>[PLUGIN] %s v%d Loaded!
 </source>
       <translation>[插件] %s v%d 已经载入！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="306"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="444"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
       <translation>[PLUGIN] GuiMenuAdd(%d) 失败于插件：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="426"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="564"/>
       <source>[PLUGIN] %s unloaded
 </source>
       <translation>[插件] %s 已经卸载
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="429"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="567"/>
       <source>[PLUGIN] %s not found
 </source>
       <translation>[插件] 找不到 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="496"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="634"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
       <translation>[插件]已忽略顶层的插件而使用目录'plugins\%s'</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="720"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="862"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[插件]插件句柄%d无效……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="744"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="886"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[插件,%s]命令“%s”注册失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="750"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="892"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[插件,%s] 命令 "%s" 已经注册！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="777"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="919"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[插件,%s] 命令 "%s" 已经删除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="782"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="924"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[插件,%s] 命令 "%s" 删除失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1202"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1228"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1339"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1365"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[插件,%s] 表达式函数“%s”注册失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1208"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1234"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1345"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1371"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[插件,%s] 表达式函数“%s”已经注册！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1254"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1391"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[插件,%s] 表达式函数“%s”已经删除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1259"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1396"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[插件,%s] 表达式函数“%s”删除失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1273"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1410"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[插件,%s]格式函数“%s”删除失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1279"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1416"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[插件,%s]格式函数“%s”已经注册！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1298"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1435"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[插件,%s] 格式函数“%s”已经删除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1303"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1440"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[插件,%s]格式函数“%s”删除失败……
@@ -10675,7 +10686,8 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/reference.cpp" line="317"/>
       <source>Invalid scan size 0 passed to RefFindInRange
 </source>
-      <translation type="unfinished"/>
+      <translation>RefFindInRange 收到无效扫描大小 0
+</translation>
     </message>
     <message>
       <location filename="src/dbg/simplescript.cpp" line="141"/>
@@ -10843,6 +10855,21 @@ Do you want to continue debugging?</source>
       <translation>已经下载符号%s，用时%.03f秒。</translation>
     </message>
     <message>
+      <location filename="src/dbg/testing.cpp" line="123"/>
+      <source>[x64dbg-test] testassert requires -testing</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/testing.cpp" line="147"/>
+      <source>[x64dbg-test] testfinalize requires -testing</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/testing.cpp" line="193"/>
+      <source>Usage: settingset section, key[, value]</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <location filename="src/dbg/thread.cpp" line="32"/>
       <source>Main Thread</source>
       <translation>主线程</translation>
@@ -10958,194 +10985,194 @@ Do you want to continue debugging?</source>
       <translation>监视 %u</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="521"/>
+      <location filename="src/dbg/x64dbg.cpp" line="526"/>
       <source>command cut at ~%d characters
 </source>
       <translation>命令在约 %d 个字符处截断
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="567"/>
+      <location filename="src/dbg/x64dbg.cpp" line="572"/>
       <source>[Script DLL] Calling export "AsyncStart"...
 </source>
       <translation>[脚本DLL] 正在调用导出函数 "AsyncStart"……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="569"/>
+      <location filename="src/dbg/x64dbg.cpp" line="574"/>
       <source>[Script DLL] "AsyncStart" returned!
 </source>
       <translation>[脚本DLL]"AsyncStart"函数已返回！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="571"/>
-      <location filename="src/dbg/x64dbg.cpp" line="617"/>
+      <location filename="src/dbg/x64dbg.cpp" line="576"/>
+      <location filename="src/dbg/x64dbg.cpp" line="622"/>
       <source>[Script DLL] Calling FreeLibrary...</source>
       <translation>[脚本DLL]正在调用FreeLibrary……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="573"/>
-      <location filename="src/dbg/x64dbg.cpp" line="619"/>
+      <location filename="src/dbg/x64dbg.cpp" line="578"/>
+      <location filename="src/dbg/x64dbg.cpp" line="624"/>
       <source>success!
 </source>
       <translation>成功！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="577"/>
-      <location filename="src/dbg/x64dbg.cpp" line="623"/>
+      <location filename="src/dbg/x64dbg.cpp" line="582"/>
+      <location filename="src/dbg/x64dbg.cpp" line="628"/>
       <source>failure (%s)...
 </source>
       <translation>失败 (%s)...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="589"/>
+      <location filename="src/dbg/x64dbg.cpp" line="594"/>
       <source>[Script DLL] Loading Script DLL "%s"...
 </source>
       <translation>[脚本DLL] 正在加载脚本DLL"%s"……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="594"/>
+      <location filename="src/dbg/x64dbg.cpp" line="599"/>
       <source>[Script DLL] DLL loaded on 0x%p!
 </source>
       <translation>[脚本DLL] DLL已载入到0x%p！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="599"/>
+      <location filename="src/dbg/x64dbg.cpp" line="604"/>
       <source>[Script DLL] Creating thread to call the export "AsyncStart"...
 </source>
       <translation>[脚本DLL] 新建线程调用导出函数“AsyncStart”……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="607"/>
+      <location filename="src/dbg/x64dbg.cpp" line="612"/>
       <source>[Script DLL] Calling export "Start"...
 </source>
       <translation>[脚本DLL]正在调用导出函数“Start”……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="609"/>
+      <location filename="src/dbg/x64dbg.cpp" line="614"/>
       <source>[Script DLL] "Start" returned!
 </source>
       <translation>[脚本DLL]"Start"函数已返回！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="614"/>
+      <location filename="src/dbg/x64dbg.cpp" line="619"/>
       <source>[Script DLL] Failed to find the exports "AsyncStart" or "Start" (%s)!
 </source>
       <translation>[脚本DLL] 无法找到导出函数“AsyncStart”或“Start” (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="630"/>
+      <location filename="src/dbg/x64dbg.cpp" line="635"/>
       <source>[Script DLL] LoadLibary failed (%s)!
 </source>
       <translation>[脚本DLL] LoadLibrary失败 (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="646"/>
+      <location filename="src/dbg/x64dbg.cpp" line="651"/>
       <source>Retrieving syscall indices...</source>
       <translation>正在获取系统调用编号...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="648"/>
+      <location filename="src/dbg/x64dbg.cpp" line="653"/>
       <source>Syscall indices loaded!</source>
       <translation>已加载系统调用编号！</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="650"/>
+      <location filename="src/dbg/x64dbg.cpp" line="655"/>
       <source>Failed to load syscall indices...</source>
       <translation>无法加载系统调用编号...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="655"/>
+      <location filename="src/dbg/x64dbg.cpp" line="660"/>
       <source>Error codes database loaded!</source>
       <translation>成功载入错误码数据库！</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="657"/>
+      <location filename="src/dbg/x64dbg.cpp" line="662"/>
       <source>Failed to load error codes...</source>
       <translation>载入错误码数据库失败……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="661"/>
+      <location filename="src/dbg/x64dbg.cpp" line="666"/>
       <source>Exception codes database loaded!</source>
       <translation>成功载入异常码数据库！</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="663"/>
+      <location filename="src/dbg/x64dbg.cpp" line="668"/>
       <source>Failed to load exception codes...</source>
       <translation>载入异常码数据库失败……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="667"/>
+      <location filename="src/dbg/x64dbg.cpp" line="672"/>
       <source>NTSTATUS codes database loaded!</source>
       <translation>成功载入NTSTATUS码数据库！</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="669"/>
+      <location filename="src/dbg/x64dbg.cpp" line="674"/>
       <source>Failed to load NTSTATUS codes...</source>
       <translation>载入NTSTATUS码数据库失败……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="673"/>
+      <location filename="src/dbg/x64dbg.cpp" line="678"/>
       <source>Windows constant database loaded!</source>
       <translation>窗口常数数据库已载入！</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="675"/>
+      <location filename="src/dbg/x64dbg.cpp" line="680"/>
       <source>Failed to load Windows constants...</source>
       <translation>载入窗口常数失败……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="678"/>
+      <location filename="src/dbg/x64dbg.cpp" line="683"/>
       <source>Reading notes file...</source>
       <translation>正在读取笔记文件……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="684"/>
+      <location filename="src/dbg/x64dbg.cpp" line="689"/>
       <source>Reading notes failed...</source>
       <translation>读取笔记失败……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="686"/>
+      <location filename="src/dbg/x64dbg.cpp" line="691"/>
       <source>File read thread finished!</source>
       <translation>文件读取线程完成！</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="836"/>
+      <location filename="src/dbg/x64dbg.cpp" line="850"/>
       <source>Initializing wait objects...</source>
       <translation>正在初始化等待对象……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="839"/>
+      <location filename="src/dbg/x64dbg.cpp" line="853"/>
       <source>Initializing debugger...</source>
       <translation>正在初始化调试器……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="841"/>
+      <location filename="src/dbg/x64dbg.cpp" line="855"/>
       <source>Initializing debugger functions...</source>
       <translation>正在初始化调试器函数……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="844"/>
+      <location filename="src/dbg/x64dbg.cpp" line="858"/>
       <source>Setting JSON memory management functions...</source>
       <translation>正在设置JSON内存管理函数……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="847"/>
+      <location filename="src/dbg/x64dbg.cpp" line="861"/>
       <source>Getting directory information...</source>
       <translation>正在获取目录信息……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="881"/>
+      <location filename="src/dbg/x64dbg.cpp" line="895"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
@@ -11154,124 +11181,129 @@ Do you want me to fix this?</source>
 您现在就想修复这个问题吗？</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="888"/>
+      <location filename="src/dbg/x64dbg.cpp" line="902"/>
       <source>Symbol Path: %s
 </source>
       <translation>符号路径： %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="890"/>
+      <location filename="src/dbg/x64dbg.cpp" line="904"/>
       <source>Start file read thread...</source>
       <translation>读取文件线程开始……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="902"/>
+      <location filename="src/dbg/x64dbg.cpp" line="916"/>
       <source>Allocating message stack...</source>
       <translation>正在分配消息堆栈……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="906"/>
+      <location filename="src/dbg/x64dbg.cpp" line="920"/>
       <source>Initializing global script variables...</source>
       <translation>正在初始化全局脚本变量……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="908"/>
+      <location filename="src/dbg/x64dbg.cpp" line="922"/>
       <source>Registering debugger commands...</source>
       <translation>正在注册调试器命令……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="910"/>
+      <location filename="src/dbg/x64dbg.cpp" line="930"/>
       <source>Registering GUI command handler...</source>
       <translation>正在注册GUI命令接收器……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="912"/>
+      <location filename="src/dbg/x64dbg.cpp" line="932"/>
       <source>Registering expression functions...</source>
       <translation>正在注册表达式函数……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="914"/>
+      <location filename="src/dbg/x64dbg.cpp" line="934"/>
       <source>Registering format functions...</source>
       <translation>正在注册格式函数……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="916"/>
+      <location filename="src/dbg/x64dbg.cpp" line="936"/>
       <source>Default</source>
       <translation>默认</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="925"/>
+      <location filename="src/dbg/x64dbg.cpp" line="945"/>
       <source>Registering Script DLL command handler...</source>
       <translation>正在注册脚本DLL命令接收者……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="926"/>
+      <location filename="src/dbg/x64dbg.cpp" line="946"/>
       <source>Script DLL</source>
       <translation>脚本DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="929"/>
+      <location filename="src/dbg/x64dbg.cpp" line="949"/>
       <source>Starting command loop...</source>
       <translation>正在初始化命令执行循环……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="936"/>
+      <location filename="src/dbg/x64dbg.cpp" line="957"/>
       <source>Initialization successful!</source>
       <translation>初始化成功！</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="938"/>
+      <location filename="src/dbg/x64dbg.cpp" line="960"/>
+      <source>Testing mode enabled, skipping default plugin autoload...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/x64dbg.cpp" line="963"/>
       <source>Loading plugins...</source>
       <translation>正在载入插件……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="941"/>
+      <location filename="src/dbg/x64dbg.cpp" line="967"/>
       <source>Handling command line...</source>
       <translation>正在处理命令行……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="952"/>
+      <location filename="src/dbg/x64dbg.cpp" line="977"/>
       <source>Stopping command thread...</source>
       <translation>正在停止命令线程……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="956"/>
+      <location filename="src/dbg/x64dbg.cpp" line="981"/>
       <source>Stopping running debuggee...</source>
-      <translation>正在停止调试对象……</translation>
+      <translation>正在停止调试目标……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="958"/>
+      <location filename="src/dbg/x64dbg.cpp" line="983"/>
       <source>Aborting scripts...</source>
       <translation>正在退出脚本……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="960"/>
+      <location filename="src/dbg/x64dbg.cpp" line="985"/>
       <source>Unloading plugins...</source>
       <translation>正在卸载插件……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="962"/>
+      <location filename="src/dbg/x64dbg.cpp" line="988"/>
       <source>Cleaning up allocated data...</source>
       <translation>正在清理已分配的内存数据……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="965"/>
+      <location filename="src/dbg/x64dbg.cpp" line="991"/>
       <source>Cleaning up wait objects...</source>
       <translation>正在清理等待对象……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="968"/>
+      <location filename="src/dbg/x64dbg.cpp" line="994"/>
       <source>Cleaning up debugger threads...</source>
       <translation>正在清理调试器线程……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="970"/>
+      <location filename="src/dbg/x64dbg.cpp" line="996"/>
       <source>Saving notes...</source>
       <translation>正在保存笔记……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="980"/>
+      <location filename="src/dbg/x64dbg.cpp" line="1006"/>
       <source>Exit signal processed successfully!</source>
       <translation>退出过程成功完成！</translation>
     </message>
@@ -11455,7 +11487,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2354"/>
       <source>Detach</source>
-      <translation>脱离</translation>
+      <translation>分离</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
@@ -11475,7 +11507,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2595"/>
       <source>PNG file (*.png);;WebP lossless file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif);;PDF file (*.pdf)</source>
-      <translation type="unfinished"/>
+      <translation>PNG 文件 (*.png);;WebP 无损文件 (*.webp);;BMP 文件 (*.bmp);;TIFF 文件 (*.tif);;PDF 文件 (*.pdf)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2619"/>
@@ -11526,7 +11558,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="35"/>
       <source>&amp;Address:</source>
-      <translation type="unfinished"/>
+      <translation>&amp;地址:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="51"/>
@@ -11536,12 +11568,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="63"/>
       <source>color: gray;</source>
-      <translation type="unfinished"/>
+      <translation>颜色：灰度；</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="66"/>
       <source>Address: Not set</source>
-      <translation type="unfinished"/>
+      <translation>地址：未设置</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/DisplayTypeDialog.ui" line="122"/>
@@ -11899,12 +11931,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/EditFloatRegister.ui" line="738"/>
       <source>&amp;Signed</source>
-      <translation>有符号(&amp;S)</translation>
+      <translation>有符号</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditFloatRegister.ui" line="748"/>
       <source>&amp;Unsigned</source>
-      <translation>无符号(&amp;U)</translation>
+      <translation>无符号</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/EditFloatRegister.ui" line="768"/>
@@ -11957,17 +11989,17 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="208"/>
       <source>Export data in CSV format</source>
-      <translation type="unfinished"/>
+      <translation>将数据导出到 CSV 文件</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="209"/>
       <source>Enter the CSV file name to export</source>
-      <translation type="unfinished"/>
+      <translation>输入要导出的 CSV 文件名</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="210"/>
       <source>CSV files (*.csv);;All files (*.*)</source>
-      <translation type="unfinished"/>
+      <translation>CSV 文件 (*.csv);;所有文件 (*.*)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="223"/>
@@ -12197,7 +12229,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/cross/hex_viewer/GotoDialog.cpp" line="9"/>
       <location filename="src/cross/minidump/GotoDialog.cpp" line="9"/>
       <source>Address:</source>
-      <translation type="unfinished"/>
+      <translation>地址：</translation>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/GotoDialog.cpp" line="10"/>
@@ -12603,7 +12635,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="481"/>
       <source>When enabled, the search starts at the current selection; when disabled, it starts at the beginning of the range.</source>
-      <translation type="unfinished"/>
+      <translation>启用时，搜索开始于当前选择；禁用时，搜索开始于范围的开头。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/HexEditDialog.ui" line="523"/>
@@ -12744,7 +12776,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="123"/>
       <location filename="src/gui/Src/Gui/HexEditDialog.cpp" line="124"/>
       <source>Search range: %1 - %2</source>
-      <translation type="unfinished"/>
+      <translation>搜索范围: %1 - %2</translation>
     </message>
   </context>
   <context>
@@ -12752,7 +12784,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/BasicView/LabeledSplitter.cpp" line="47"/>
       <source>&amp;Detach</source>
-      <translation>脱离(&amp;D)</translation>
+      <translation>分离(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/LabeledSplitter.cpp" line="264"/>
@@ -12948,7 +12980,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="108"/>
       <source>&amp;Debuggee</source>
-      <translation>被调试对象(&amp;D)</translation>
+      <translation>调试目标(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="115"/>
@@ -13081,7 +13113,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/TabBar.cpp" line="41"/>
       <source>&amp;Detach</source>
-      <translation>脱离(&amp;D)</translation>
+      <translation>分离(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/TabBar.cpp" line="44"/>
@@ -13094,7 +13126,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.ui" line="14"/>
       <source>hex_viewer</source>
-      <translation type="unfinished"/>
+      <translation>十六进制查看器</translation>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.ui" line="43"/>
@@ -13107,22 +13139,22 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.ui" line="51"/>
       <source>&amp;Load file</source>
-      <translation type="unfinished"/>
+      <translation>加载文件</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/MainWindow.ui" line="14"/>
       <source>Minidump</source>
-      <translation type="unfinished"/>
+      <translation>Minidump</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/MainWindow.ui" line="47"/>
       <source>Load DMP/EXE</source>
-      <translation type="unfinished"/>
+      <translation>载入DMP/EXE</translation>
     </message>
     <message>
       <location filename="src/cross/remote_table/MainWindow.ui" line="14"/>
       <source>Remote Table</source>
-      <translation type="unfinished"/>
+      <translation>远程表</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="17"/>
@@ -13241,7 +13273,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="361"/>
       <source>Pause the execution of debuggee to debug it, or stop animate into/animate over.</source>
-      <translation>暂停运行被调试程序以进行调试，或停止自动步进。</translation>
+      <translation>暂停运行被调试程序以进行调试，或停止连续步进。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="370"/>
@@ -13651,12 +13683,12 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="832"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="835"/>
       <source>Detach</source>
-      <translation>脱离</translation>
+      <translation>分离</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="838"/>
       <source>Detach from the debuggee so that it continues running without being debugged.</source>
-      <translation>脱离被调试程序，让它不被调试继续运行。</translation>
+      <translation>分离被调试程序，让它不被调试继续运行。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="847"/>
@@ -13800,7 +13832,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1012"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1312"/>
       <source>Trace over...</source>
-      <translation>步过直到条件满足...</translation>
+      <translation>条件跟踪步过...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1015"/>
@@ -13812,7 +13844,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1027"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1295"/>
       <source>Trace into...</source>
-      <translation>步进直到条件满足...</translation>
+      <translation>条件跟踪步进...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1030"/>
@@ -13822,7 +13854,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1039"/>
       <source>Mark covered (yes/no)</source>
-      <translation type="unfinished"/>
+      <translation>标记已覆盖(是/否)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1042"/>
@@ -13832,7 +13864,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1051"/>
       <source>Count hits (up to 255)</source>
-      <translation type="unfinished"/>
+      <translation>点击次数 (最多 255)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1054"/>
@@ -13842,7 +13874,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1063"/>
       <source>Count hits (up to 65535)</source>
-      <translation type="unfinished"/>
+      <translation>点击次数 (最多 65535)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1066"/>
@@ -13995,7 +14027,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1264"/>
       <source>Animate into</source>
-      <translation>自动步进</translation>
+      <translation>连续步进</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1267"/>
@@ -14236,7 +14268,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1562"/>
       <source>Release Notes</source>
-      <translation type="unfinished"/>
+      <translation>发布说明</translation>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
@@ -14315,7 +14347,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
       <source>Remember my choice</source>
-      <translation type="unfinished"/>
+      <translation>记住我的选择</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="802"/>
@@ -14340,12 +14372,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="809"/>
       <source>&amp;Detach and exit</source>
-      <translation>脱离并退出(&amp;D)</translation>
+      <translation>分离并退出(&amp;D)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="810"/>
       <source>Detach from the debuggee (leaving it running) and exit x64dbg.</source>
-      <translation>脱离调试器（被调试程序继续运行）并退出 x64dbg。</translation>
+      <translation>从被调试程序分离（使其保持运行），然后退出 x64dbg。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="812"/>
@@ -14386,7 +14418,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1230"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
-      <translation type="unfinished"/>
+      <translation>发布说明不可用。最新更新请参阅 &lt;a href="%1"&gt;%2&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1290"/>
@@ -14728,7 +14760,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="166"/>
       <source>&amp;Find Pattern...</source>
-      <translation>搜索匹配特征(&amp;F)...</translation>
+      <translation>搜索特征码(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="173"/>
@@ -14763,12 +14795,12 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="404"/>
       <source>Section &amp;view</source>
-      <translation type="unfinished"/>
+      <translation>平行视图</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="408"/>
       <source>Region &amp;view</source>
-      <translation type="unfinished"/>
+      <translation>区域 &amp;视图</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="482"/>
@@ -14862,7 +14894,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="680"/>
       <source>Find Pattern...</source>
-      <translation>搜索匹配特征...</translation>
+      <translation>搜索特征码...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="739"/>
@@ -14978,7 +15010,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="14"/>
       <source>Allocation</source>
-      <translation type="unfinished"/>
+      <translation>分配</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="15"/>
@@ -14998,7 +15030,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="18"/>
       <source>Protect</source>
-      <translation type="unfinished"/>
+      <translation>加护</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="19"/>
@@ -15044,7 +15076,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/NotesManager.cpp" line="25"/>
       <source>Debuggee</source>
-      <translation>被调试对象</translation>
+      <translation>调试目标</translation>
     </message>
   </context>
   <context>
@@ -15052,12 +15084,12 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/remote_table/OverlayFrame.ui" line="26"/>
       <source>Frame</source>
-      <translation type="unfinished"/>
+      <translation>框架</translation>
     </message>
     <message>
       <location filename="src/cross/remote_table/OverlayFrame.ui" line="93"/>
       <source>Loading...</source>
-      <translation type="unfinished"/>
+      <translation>加载中…</translation>
     </message>
     <message>
       <location filename="src/cross/remote_table/OverlayFrame.ui" line="131"/>
@@ -15373,7 +15405,7 @@ Do you want to apply these patches anyway?</source>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="104"/>
       <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="99"/>
       <source>Do not show again</source>
-      <translation type="unfinished"/>
+      <translation>不再显示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/main.cpp" line="247"/>
@@ -15386,92 +15418,92 @@ Do you want to apply these patches anyway?</source>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="24"/>
       <source>Client no longer registered at: %1 (token: %2)</source>
-      <translation type="unfinished"/>
+      <translation>客户端不再注册于: %1 (令牌: %2)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="43"/>
       <source>Already connected</source>
-      <translation type="unfinished"/>
+      <translation>已连接</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="55"/>
       <source>Pinging failed: %1/api/ping</source>
-      <translation type="unfinished"/>
+      <translation>Ping失败: %1/api/ping</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="58"/>
       <source>Endpoint working: %1</source>
-      <translation type="unfinished"/>
+      <translation>端点工作: %1</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="64"/>
       <source>Thread already running (bad)</source>
-      <translation type="unfinished"/>
+      <translation>线程已在运行 (bad)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="78"/>
       <source>Server not running after starting thread</source>
-      <translation type="unfinished"/>
+      <translation>启动线程后服务器未运行</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="87"/>
       <source>Client registration failed (no response, error: %1)</source>
-      <translation type="unfinished"/>
+      <translation>客户注册失败 (无响应, 错误: %1)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="92"/>
       <source>Client registration failed (status: %1, body: %2)</source>
-      <translation type="unfinished"/>
+      <translation>客户端注册失败(状态: %1, 正文: %2)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="98"/>
       <source>Client registration failed (JSON error: %1)</source>
-      <translation type="unfinished"/>
+      <translation>客户端注册失败 (JSON 错误： %1)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="104"/>
       <source>Client registration failed (no token in body: %1)</source>
-      <translation type="unfinished"/>
+      <translation>客户端注册失败 (没有令牌正文: %1)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="107"/>
       <source>Client registration success (token: %1)</source>
-      <translation type="unfinished"/>
+      <translation>客户端注册成功(token: %1)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="133"/>
       <source>Failed to unregister (no response, error: %1)</source>
-      <translation type="unfinished"/>
+      <translation>取消注册失败 (无响应, 错误: %1)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="137"/>
       <source>Failed to unregister (token: %1, body: %2)</source>
-      <translation type="unfinished"/>
+      <translation>取消注册失败(token: %1, 正体: %2)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="141"/>
       <source>Unregistered client (token: %1)</source>
-      <translation type="unfinished"/>
+      <translation>未注册客户端(令牌： %1)</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="186"/>
       <source>Failed to bind to %1</source>
-      <translation type="unfinished"/>
+      <translation>绑定到 %1 失败</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="189"/>
       <source>Listening on http://%1:%2</source>
-      <translation type="unfinished"/>
+      <translation>在 http://%1上聆听：%2</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="192"/>
       <source>Error listening on %1:%2</source>
-      <translation type="unfinished"/>
+      <translation>监听错误于 %1:%2</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/REToolSync.cpp" line="195"/>
       <source>Server stopped</source>
-      <translation type="unfinished"/>
+      <translation>服务器停止</translation>
     </message>
   </context>
   <context>
@@ -16136,7 +16168,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/ReleaseNotesDialog.ui" line="14"/>
       <source>Release Notes</source>
-      <translation type="unfinished"/>
+      <translation>发布说明</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ReleaseNotesDialog.ui" line="72"/>
@@ -16414,7 +16446,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="46"/>
       <source>User DLL Load</source>
-      <translation>用户DLL载入</translation>
+      <translation>用户 DLL 加载</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="53"/>
@@ -16424,17 +16456,17 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="60"/>
       <source>Exit Breakpoint*</source>
-      <translation>退出断点*</translation>
+      <translation>程序退出断点*</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="67"/>
       <source>SetThreadName exceptions</source>
-      <translation>SetThreadName异常</translation>
+      <translation>SetThreadName 异常</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="74"/>
       <source>System DLL Load</source>
-      <translation>系统DLL载入</translation>
+      <translation>系统 DLL 加载</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="94"/>
@@ -16444,7 +16476,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="101"/>
       <source>Debug Strings</source>
-      <translation>调试字符串</translation>
+      <translation>调试输出字符串</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="108"/>
@@ -16454,27 +16486,27 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="115"/>
       <source>System TLS Callbacks*</source>
-      <translation>系统TLS回调函数*</translation>
+      <translation>系统 TLS 回调*</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="122"/>
       <source>System DLL Unload</source>
-      <translation>系统DLL卸载</translation>
+      <translation>系统 DLL 卸载</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="129"/>
       <source>Break on:</source>
-      <translation>当以下事件发生时暂停:</translation>
+      <translation>当以下事件发生时断下：</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="136"/>
       <source>User DLL Unload</source>
-      <translation>用户DLL卸载</translation>
+      <translation>用户 DLL 卸载</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="143"/>
       <source>User TLS Callbacks*</source>
-      <translation>用户TLS回调函数*</translation>
+      <translation>用户 TLS 回调*</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="153"/>
@@ -16489,18 +16521,18 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="173"/>
       <source>System DLL Entry</source>
-      <translation>系统DLL入口</translation>
+      <translation>系统 DLL 入口</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="180"/>
       <source>User DLL Entry</source>
-      <translation>用户DLL入口</translation>
+      <translation>用户 DLL 入口</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="190"/>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1192"/>
       <source>* Requires debuggee restart</source>
-      <translation>* 需要重启被调试程序</translation>
+      <translation>* 更改需重启调试目标</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="213"/>
@@ -16510,17 +16542,17 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="227"/>
       <source>Calculation Type</source>
-      <translation>计算表达式时数据类型</translation>
+      <translation>计算类型</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="233"/>
       <source>&amp;Signed</source>
-      <translation>有符号(&amp;S)</translation>
+      <translation>有符号</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="243"/>
       <source>&amp;Unsigned</source>
-      <translation>无符号(&amp;U)</translation>
+      <translation>无符号</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="253"/>
@@ -16560,12 +16592,12 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="324"/>
       <source>Undecorate Symbol Names</source>
-      <translation>解码符号名称</translation>
+      <translation>还原修饰后的符号名</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="331"/>
       <source>Enable Debug &amp;Privilege</source>
-      <translation>获取调试特权(&amp;P)</translation>
+      <translation>启用调试特权</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="338"/>
@@ -16585,7 +16617,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="359"/>
       <source>Skip INT3 stepping</source>
-      <translation>步进时无视INT3异常</translation>
+      <translation>步进时跳过 INT3 中断</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="366"/>
@@ -16595,22 +16627,22 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="373"/>
       <source>&amp;Ignore inconsistent breakpoints</source>
-      <translation>忽略不一致的断点(&amp;I)</translation>
+      <translation>忽略不一致的断点</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="380"/>
       <source>Log If the Thread Has Switched</source>
-      <translation>当线程已切换时在日志信息中记录</translation>
+      <translation>线程切换时记录日志</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="387"/>
       <source>Enable Verbose Exception Logging</source>
-      <translation>在日志窗口记录详细的异常信息</translation>
+      <translation>启用详细的异常日志记录</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="394"/>
       <source>Disable WOW64 Single Step Workaround</source>
-      <translation>禁用 WOW64 单步执行补丁</translation>
+      <translation>禁用 WOW64 单步执行兼容性修正</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="401"/>
@@ -16620,32 +16652,32 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="408"/>
       <source>Detach from process when attaching to another</source>
-      <translation>附加到其他进程时脱离当前进程</translation>
+      <translation>附加到新进程时分离当前进程</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="411"/>
       <source>When enabled, attaching to a new process will detach from the current process instead of terminating it</source>
-      <translation type="unfinished"/>
+      <translation>如果启用，附加到一个新的进程将从当前进程中分离而不是终止它</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="418"/>
       <source>Detach from process when exiting debugger</source>
-      <translation>退出调试器时脱离进程</translation>
+      <translation>退出调试器时分离进程</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="421"/>
       <source>When enabled, exiting x64dbg will detach from the current process instead of terminating it</source>
-      <translation type="unfinished"/>
+      <translation>如果启用，退出x64dbg将从当前进程中分离而不是终止它</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="430"/>
       <source>Default maximum trace &amp;count</source>
-      <translation>默认最多跟踪指令数(&amp;C)</translation>
+      <translation>默认最大跟踪计数</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="472"/>
       <source>Animation per-step interval (ms)</source>
-      <translation>自动单步间隔 (ms)</translation>
+      <translation>自动单步执行间隔 (ms)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="482"/>
@@ -16655,7 +16687,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="510"/>
       <source>* Requires debugger restart</source>
-      <translation>* 需要重启调试器</translation>
+      <translation>* 需重启调试目标</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="521"/>
@@ -16665,22 +16697,22 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="527"/>
       <source>Exception Filters:</source>
-      <translation>异常过滤器：</translation>
+      <translation>异常过滤列表：</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="567"/>
       <source>Ignore &amp;Range</source>
-      <translation>忽略范围(&amp;R)</translation>
+      <translation>忽略地址范围</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="574"/>
       <source>&amp;Delete Range</source>
-      <translation>删除区间(&amp;D)</translation>
+      <translation>删除地址范围</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="581"/>
       <source>Ignore &amp;Last</source>
-      <translation>忽略上次(&amp;L)</translation>
+      <translation>忽略最近异常</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="588"/>
@@ -16690,27 +16722,27 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="591"/>
       <source>Ignore First-Chance</source>
-      <translation>忽略第一次机会</translation>
+      <translation>忽略首轮异常</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="604"/>
       <source>Break On</source>
-      <translation>暂停于</translation>
+      <translation>中断时机</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="610"/>
       <source>First chance</source>
-      <translation>第一次机会</translation>
+      <translation>首轮异常</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="617"/>
       <source>Second chance</source>
-      <translation>第二次机会</translation>
+      <translation>次轮异常</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="624"/>
       <source>Do not break</source>
-      <translation>不暂停</translation>
+      <translation>不中断</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="634"/>
@@ -16725,7 +16757,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="650"/>
       <source>Exception handled by</source>
-      <translation>异常处理者</translation>
+      <translation>异常处理方</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="656"/>
@@ -16735,7 +16767,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="663"/>
       <source>Debuggee</source>
-      <translation>被调试对象</translation>
+      <translation>调试目标</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="691"/>
@@ -16745,62 +16777,62 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="697"/>
       <source>Argument Spaces</source>
-      <translation>在操作数间加空格</translation>
+      <translation>操作数间使用空格分隔</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="704"/>
       <source>Tab between mnemonic and arguments</source>
-      <translation>在助记符与操作数间使用制表符</translation>
+      <translation>助记符与操作数间使用 Tab 缩进</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="711"/>
       <source>Hide pointer sizes</source>
-      <translation>隐藏指针大小</translation>
+      <translation>隐藏指针宽度 (如 dword ptr)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="718"/>
       <source>Only show FS/GS segments</source>
-      <translation>仅显示 FS 或 GS 段寄存器</translation>
+      <translation>仅显示 FS/GS 段前缀</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="725"/>
       <source>Memory Spaces</source>
-      <translation>在内存寻址寄存器间加空格</translation>
+      <translation>内存寻址表达式中使用空格</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="732"/>
       <source>Uppercase</source>
-      <translation>大写</translation>
+      <translation>指令使用大写</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="739"/>
       <source>Autocomments only on CIP</source>
-      <translation>仅在CIP处显示自动注释</translation>
+      <translation>仅在当前指令指针 (CIP) 处显示自动注释</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="746"/>
       <source>Don't highlight operands</source>
-      <translation>不突出显示操作数</translation>
+      <translation>禁用操作数高亮</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="753"/>
       <source>Hide module name for local memory addresses</source>
-      <translation>内存操作数中不显示当前模块名称</translation>
+      <translation>隐藏本地内存地址的模块名前缀</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="760"/>
       <source>Permanent highlighting mode</source>
-      <translation>一直启用高亮模式</translation>
+      <translation>永久高亮模式</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="767"/>
       <source>Disable branch disassembly preview</source>
-      <translation>不弹出跳转目标预览框</translation>
+      <translation>禁用分支反汇编预览</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="782"/>
       <source>Hexadecimal value notation:</source>
-      <translation>十六进制数值表示法：</translation>
+      <translation>十六进制数值格式：</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
@@ -16820,17 +16852,17 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="819"/>
       <source>Don't show source lines in comments</source>
-      <translation>注释栏不显示源代码行号</translation>
+      <translation>注释中不显示源码行信息</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="826"/>
       <source>Assemble instruction on double-click</source>
-      <translation>双击指令时打开汇编窗口</translation>
+      <translation>双击指令进入汇编修改</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="850"/>
       <source>Maximum module name size</source>
-      <translation>模块名最长长度</translation>
+      <translation>模块名最大显示长度</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="898"/>
@@ -16840,62 +16872,62 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="910"/>
       <source>Show FPU registers as little endian</source>
-      <translation>以小端字节序显示FPU寄存器</translation>
+      <translation>FPU 寄存器以小端序显示</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="917"/>
       <source>Save GUI layout and column orders</source>
-      <translation>保存 GUI 布局与列顺序</translation>
+      <translation>保存界面布局与列顺序</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="924"/>
       <source>Don't show close dialog</source>
-      <translation>不显示关闭对话框</translation>
+      <translation>退出时不显示关闭确认框</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="931"/>
       <source>Enable Load/Save Tab Order</source>
-      <translation>允许载入/保存页面顺序</translation>
+      <translation>允许加载/保存标签页顺序</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="938"/>
       <source>Show Watch Labels in Side Bar</source>
-      <translation>在侧栏显示监视项标签</translation>
+      <translation>在侧边栏显示监视标签</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="945"/>
       <source>Do not call SetForegroundWindow</source>
-      <translation>不调用 SetForegroundWindow</translation>
+      <translation>不强制将窗口置于前台</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="952"/>
       <source>Show RVA addresses in graph view</source>
-      <translation>在流程图显示相对地址</translation>
+      <translation>在流程图中显示 RVA 地址</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="959"/>
       <source>Graph zoom mode</source>
-      <translation>图形缩放模式</translation>
+      <translation>流程图缩放模式</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="966"/>
       <source>Auto follow operand in stack</source>
-      <translation>自动在堆栈转到操作数</translation>
+      <translation>在堆栈中自动追踪操作数</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="973"/>
       <source>Show exit confirmation dialog</source>
-      <translation>显示退出确认对话框</translation>
+      <translation>退出时显示确认对话框</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="980"/>
       <source>Show attach confirmation dialog</source>
-      <translation type="unfinished"/>
+      <translation>附加时显示确认对话框</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="987"/>
       <source>Disable auto completion in goto dialog</source>
-      <translation>在“转到”对话框中禁用自动完成功能</translation>
+      <translation>禁用“转到”对话框的自动完成</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="994"/>
@@ -16910,12 +16942,12 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1004"/>
       <source>Qt High DPI Scaling</source>
-      <translation>Qt高分辨率缩放</translation>
+      <translation>启用 Qt 高 DPI 缩放</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1011"/>
       <source>Full executable path in title</source>
-      <translation>标题栏显示应用程序完整路径</translation>
+      <translation>在标题栏显示程序完整路径</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1018"/>
@@ -16930,7 +16962,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1028"/>
       <source>Automatically load dump in trace view</source>
-      <translation>在跟踪视图中自动加载内存窗口</translation>
+      <translation>跟踪视图自动同步内存窗口</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1049"/>
@@ -16950,17 +16982,17 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1095"/>
       <source>Set x64dbg as Just In Time Debugger</source>
-      <translation>将这份x64dbg设为即时调试器</translation>
+      <translation>将当前 x64dbg 设为即时调试器</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1104"/>
       <source>JIT:</source>
-      <translation>即时调试器:</translation>
+      <translation>当前即时调试器：</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1123"/>
       <source>&lt;font color="red"&gt;DIE SCUM!&lt;/font&gt;</source>
-      <translation>&lt;font color="red"&gt;DIR SCUM!&lt;/font&gt;</translation>
+      <translation>&lt;font color="red"&gt;去死吧，人渣！&lt;/font&gt;</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1130"/>
@@ -16970,7 +17002,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1144"/>
       <source>UTF-16 Log Redirect*</source>
-      <translation>日志重定向采用UTF-16编码*</translation>
+      <translation>日志重定向使用 UTF-16 编码*</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1151"/>
@@ -16980,17 +17012,17 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1158"/>
       <source>Query process cookie*</source>
-      <translation>查询进程 cookie *</translation>
+      <translation>查询进程 Cookie *</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1165"/>
       <source>Query working set before reading memory</source>
-      <translation>读取内存之前查询工作集</translation>
+      <translation>读取内存前查询工作集 (Working Set)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1172"/>
       <source>Transparent exception stepping*</source>
-      <translation>步进 (忽略错误, Exception类的)</translation>
+      <translation>单步步进 (透明处理异常)*</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1221"/>
@@ -17117,7 +17149,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="125"/>
       <source>Module Filter:</source>
-      <translation type="unfinished"/>
+      <translation>模块筛选器：</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="132"/>
@@ -17132,32 +17164,32 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="167"/>
       <source>Trace all modules (no filter).</source>
-      <translation type="unfinished"/>
+      <translation>追踪所有模块 (无过滤器)。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="170"/>
       <source>&amp;All Modules</source>
-      <translation type="unfinished"/>
+      <translation>所有模块</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="180"/>
       <source>Conditions, logging, and recording only apply when execution is in a User module. System code is stepped through silently.</source>
-      <translation type="unfinished"/>
+      <translation>条件、 记录和录制只有当执行在用户模块中时才会应用。系统代码被静默地跳过.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="183"/>
       <source>&amp;User Only</source>
-      <translation type="unfinished"/>
+      <translation>仅用户</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="190"/>
       <source>Conditions, logging, and recording only apply when execution is in a System module. User code is stepped through silently.</source>
-      <translation type="unfinished"/>
+      <translation>条件、 记录和录制仅在系统模块中执行时才会应用。用户代码被静默干涉。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="193"/>
       <source>&amp;System Only</source>
-      <translation type="unfinished"/>
+      <translation>仅限系统</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.ui" line="215"/>
@@ -17226,7 +17258,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="94"/>
       <source>Failed to set module filter!</source>
-      <translation type="unfinished"/>
+      <translation>设置模块过滤失败！</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SimpleTraceDialog.cpp" line="101"/>
@@ -17347,7 +17379,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="55"/>
       <source>Reload the type from the database and display it (at a different address).</source>
-      <translation type="unfinished"/>
+      <translation>从数据库中重新加载此类型并显示(在其他地址)。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="59"/>
@@ -17374,12 +17406,12 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="66"/>
       <source>&amp;Refresh values</source>
-      <translation type="unfinished"/>
+      <translation>&amp;刷新值</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="66"/>
       <source>Quickly refresh the values, without reloading the type.</source>
-      <translation type="unfinished"/>
+      <translation>快速刷新值，而不重新加载类型。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="78"/>
@@ -17394,7 +17426,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="112"/>
       <source>Failed to visit type...</source>
-      <translation type="unfinished"/>
+      <translation>无法访问类型...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/StructWidget.cpp" line="172"/>
@@ -18110,12 +18142,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
       <source>&amp;Intermodular Calls</source>
-      <translation type="unfinished"/>
+      <translation>多模块调用</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
       <source>&amp;All Calls</source>
-      <translation type="unfinished"/>
+      <translation>&amp;所有呼叫</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
@@ -18287,7 +18319,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="86"/>
       <source>&amp;Find Pattern...</source>
-      <translation>搜索匹配特征(&amp;F)...</translation>
+      <translation>搜索特征码(&amp;F)...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="93"/>
@@ -18352,19 +18384,19 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="146"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="683"/>
       <source>Signed short (16-bit)</source>
-      <translation>有符号Short(16位)</translation>
+      <translation>有符号短整型(16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="147"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="708"/>
       <source>Signed long (32-bit)</source>
-      <translation>有符号Long(32位)</translation>
+      <translation>有符号长整型(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="148"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="733"/>
       <source>Signed long long (64-bit)</source>
-      <translation>有符号Long long(64位)</translation>
+      <translation>有符号超长整型(64位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="149"/>
@@ -18376,19 +18408,19 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="150"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="783"/>
       <source>Unsigned short (16-bit)</source>
-      <translation>无符号Short(16位）</translation>
+      <translation>无符号短整型(16位）</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="151"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="808"/>
       <source>Unsigned long (32-bit)</source>
-      <translation>无符号Long(32位)</translation>
+      <translation>无符号长整型(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="152"/>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="833"/>
       <source>Unsigned long long (64-bit)</source>
-      <translation>无符号Long long(64位)</translation>
+      <translation>无符号超长整型(64位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="153"/>
@@ -18520,7 +18552,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1192"/>
       <source>Find Pattern...</source>
-      <translation>搜索匹配特征...</translation>
+      <translation>搜索特征码...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceDump.cpp" line="1215"/>
@@ -18613,18 +18645,19 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="318"/>
       <source>Intermodular Calls (Trace)</source>
-      <translation type="unfinished"/>
+      <translation>跨模块调用 (追踪)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="322"/>
       <source>Warning: No debugging session is active, cannot load module information while searching for intermodular calls. Searching for inter-page calls instead.
 </source>
-      <translation type="unfinished"/>
+      <translation>警告：没有调试会话处于活动状态，在搜索模块间调用时无法加载模块信息。替代搜索页面间调用。
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="326"/>
       <source>Calls (Trace)</source>
-      <translation type="unfinished"/>
+      <translation>呼叫 (追踪)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceFileSearch.cpp" line="331"/>
@@ -19084,7 +19117,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Utils/UpdateChecker.cpp" line="233"/>
       <source>&lt;p&gt;&lt;b&gt;New x64dbg version available&lt;/b&gt;: &lt;a href="%1"&gt;%2&lt;/a&gt;&lt;/p&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;p&gt;&lt;b&gt;新的 x64dbg 版本可用&lt;/b&gt; &lt;a href="%1"&gt;%2&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
   </context>
   <context>
@@ -19400,13 +19433,13 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="112"/>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="117"/>
       <source>&amp;Singleshoot</source>
-      <translation>一次性(&amp;S)</translation>
+      <translation>单次触发(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="113"/>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="118"/>
       <source>&amp;Restore on hit</source>
-      <translation>重复设置(&amp;R)</translation>
+      <translation>命中后恢复(&amp;R)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="116"/>
