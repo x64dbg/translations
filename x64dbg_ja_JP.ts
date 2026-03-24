@@ -10485,7 +10485,8 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/plugin_loader.cpp" line="337"/>
       <source>[PLUGIN] Skipping GUI plugin in headless mode (Qt GUI imports detected): %s
 </source>
-      <translation type="unfinished"/>
+      <translation>[PLUGIN] ヘッドレスモードではGUIプラグインをスキップします (Qt GUIインポートが検出されました) : %s
+</translation>
     </message>
     <message>
       <location filename="src/dbg/plugin_loader.cpp" line="355"/>
@@ -10875,17 +10876,17 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/testing.cpp" line="123"/>
       <source>[x64dbg-test] testassert requires -testing</source>
-      <translation type="unfinished"/>
+      <translation>[x64dbg-test] testassert には -testing が必要です</translation>
     </message>
     <message>
       <location filename="src/dbg/testing.cpp" line="147"/>
       <source>[x64dbg-test] testfinalize requires -testing</source>
-      <translation type="unfinished"/>
+      <translation>[x64dbg-test] testfinalize には -testing が必要です</translation>
     </message>
     <message>
       <location filename="src/dbg/testing.cpp" line="193"/>
       <source>Usage: settingset section, key[, value]</source>
-      <translation type="unfinished"/>
+      <translation>使用方法 : settingset セクション, キー[, 値]</translation>
     </message>
     <message>
       <location filename="src/dbg/thread.cpp" line="32"/>
@@ -11268,7 +11269,7 @@ Do you want me to fix this?</source>
     <message>
       <location filename="src/dbg/x64dbg.cpp" line="960"/>
       <source>Testing mode enabled, skipping default plugin autoload...</source>
-      <translation type="unfinished"/>
+      <translation>テストモードが有効になっています。デフォルトプラグインの自動読み込みをスキップします...</translation>
     </message>
     <message>
       <location filename="src/dbg/x64dbg.cpp" line="963"/>
