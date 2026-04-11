@@ -1900,7 +1900,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="303"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1353"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1357"/>
       <source>Disassembly</source>
       <translation>反組譯</translation>
     </message>
@@ -1989,209 +1989,174 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="420"/>
+      <source>Reset trace coverage</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="424"/>
       <source>Start trace recording</source>
       <translation>開始錄製跟蹤</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="403"/>
       <source>Trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="415"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="419"/>
       <source>Stop trace recording</source>
       <translation>停止錄製追蹤</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="430"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="434"/>
       <source>Function</source>
       <translation>函數</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="435"/>
       <source>Analyze module</source>
       <translation>分析模組</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="439"/>
       <source>Add function</source>
       <translation>新增函式</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="437"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="441"/>
       <source>Delete function</source>
       <translation>刪除函數</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="440"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="444"/>
       <source>Argument</source>
       <translation>參數</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="444"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="448"/>
       <source>Add argument</source>
       <translation>新增參數</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="450"/>
       <source>Delete argument</source>
       <translation>刪除參數</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="449"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="453"/>
       <source>Add loop</source>
       <translation>添加循環邏輯</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="450"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="454"/>
       <source>Delete loop</source>
       <translation>刪除循環邏輯</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="454"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="458"/>
       <source>Analyze single function</source>
       <translation>分析單一函數</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="457"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="461"/>
       <source>Remove type analysis from module</source>
       <translation>從模組中刪除類型分析</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="458"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="462"/>
       <source>Remove type analysis from selection</source>
       <translation>從選取範圍中移除類型分析</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="461"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="465"/>
       <source>Treat selection &amp;head as</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="466"/>
       <source>Treat from &amp;selection as</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="521"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="525"/>
       <source>Analysis</source>
       <translation>分析</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="522"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="526"/>
       <source>Download Symbols for This Module</source>
       <translation>下載此模組的符號</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="529"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="533"/>
       <source>Assemble</source>
       <translation>組譯</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="530"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="534"/>
       <source>Patches</source>
       <translation>修補程式</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="540"/>
       <source>Previous</source>
       <translation>上一個</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="544"/>
       <source>Next</source>
       <translation>下一個</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="544"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="548"/>
       <source>Expression</source>
       <translation>表述式</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="549"/>
       <source>File Offset</source>
       <translation>檔案偏移量</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="550"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="554"/>
       <source>Start of Page</source>
       <translation>頁的起始</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="551"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="555"/>
       <source>End of Page</source>
       <translation>頁的結尾</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="552"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="556"/>
       <source>Start of Function</source>
       <translation>函數開頭</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="560"/>
       <source>End of Function</source>
       <translation>函數結尾</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="560"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="564"/>
       <source>Previous Reference</source>
       <translation>上一個引用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="564"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="568"/>
       <source>Next Reference</source>
       <translation>下一個引用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="569"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="573"/>
       <source>Go to</source>
       <translation>前往</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="571"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="575"/>
       <source>xrefs...</source>
       <translation>交叉引用...</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="592"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="606"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="622"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="636"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="650"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="664"/>
-      <source>C&amp;ommand</source>
-      <translation>指令(&amp;O)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="593"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="607"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="623"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="637"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="651"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="665"/>
-      <source>&amp;Constant</source>
-      <translation>常數(&amp;C)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="594"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="608"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="624"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="638"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="652"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="666"/>
-      <source>&amp;String references</source>
-      <translation>字串引用(&amp;S)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="595"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="609"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="625"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="639"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="653"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="667"/>
-      <source>&amp;Intermodular calls</source>
-      <translation>跨模組呼叫(&amp;I)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="596"/>
@@ -2200,8 +2165,8 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="640"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="654"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="668"/>
-      <source>&amp;Pattern</source>
-      <translation type="unfinished"/>
+      <source>C&amp;ommand</source>
+      <translation>指令(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="597"/>
@@ -2210,203 +2175,249 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="641"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="655"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="669"/>
+      <source>&amp;Constant</source>
+      <translation>常數(&amp;C)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="598"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="612"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="628"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="642"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="656"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="670"/>
+      <source>&amp;String references</source>
+      <translation>字串引用(&amp;S)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="599"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="613"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="629"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="643"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="657"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="671"/>
+      <source>&amp;Intermodular calls</source>
+      <translation>跨模組呼叫(&amp;I)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="600"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="614"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="630"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="644"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="658"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="672"/>
+      <source>&amp;Pattern</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="601"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="615"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="631"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="645"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="659"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="673"/>
       <source>&amp;GUID</source>
       <translation>&amp;GUID</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="612"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="616"/>
       <source>&amp;Names</source>
       <translation>名稱(&amp;N)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="677"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="681"/>
       <source>Current Region</source>
       <translation>目前範圍</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="678"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="682"/>
       <source>Current Module</source>
       <translation>目前模組</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="679"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="683"/>
       <source>Current Function</source>
       <translation>目前函數</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="681"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="685"/>
       <source>All User Modules</source>
       <translation>全部用戶模組</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="686"/>
       <source>All System Modules</source>
       <translation>全部系統模組</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="687"/>
       <source>All Modules</source>
       <translation>所有模組</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="684"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="688"/>
       <source>&amp;Search for</source>
       <translation>搜尋(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="686"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="690"/>
       <source>&amp;Selected Address(es)</source>
       <translation>選定的位址(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="688"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="692"/>
       <source>Find &amp;references to</source>
       <translation>尋找參考(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="715"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="719"/>
       <source>Copy token &amp;text</source>
       <translation>複製標記文本(&amp;T)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="716"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="720"/>
       <source>Copy token &amp;value</source>
       <translation>複製標記值(&amp;V)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="745"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="791"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="749"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="795"/>
       <source>Add label at </source>
       <translation>新增標籤於 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="752"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="798"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="756"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="802"/>
       <source>The label may be in use</source>
       <translation>標籤可能正在使用中</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="753"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="799"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="757"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="803"/>
       <source>The label "%1" may be an existing label or a valid expression. Using such label might have undesired effects. Do you still want to continue?</source>
       <translation>“%1”標籤可能是現有的標籤或有效的運算式。使用這種標籤可能會產生意外影響。您仍想使用該標籤嗎？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="762"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="808"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="942"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="996"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1690"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1711"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1735"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1830"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="812"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="946"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1000"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1715"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1739"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1834"/>
       <source>Error!</source>
       <translation>錯誤！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="762"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="808"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="812"/>
       <source>DbgSetLabelAt failed!</source>
       <translation>DbgSetLabelAt 失敗！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="921"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="925"/>
       <source>Assemble at %1</source>
       <translation>組譯於 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="942"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="946"/>
       <source>Failed to assemble instruction " %1 " (%2)</source>
       <translation>組譯指令失敗 " %1 " (%2)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="996"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1000"/>
       <source>Not inside a module...</source>
       <translation>不在模組中...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1003"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1007"/>
       <source>Goto File Offset in </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1144"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1148"/>
       <source>Enter Constant</source>
       <translation>輸入常數</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1235"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1239"/>
       <source>Find Pattern...</source>
       <translation>搜尋匹配特徵...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1379"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1383"/>
       <source>Edit code at %1</source>
       <translation>編輯代碼於 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1396"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1400"/>
       <source>Fill code at %1</source>
       <translation>填充代碼於 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1417"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2026"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2047"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1421"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2049"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2070"/>
       <source>Size</source>
       <translation>大小</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1515"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1519"/>
       <source>Open File</source>
       <translation>開啟檔案</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1515"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1519"/>
       <source>Text Files (*.txt)</source>
       <translation>文字檔案 (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1525"/>
       <source>Error</source>
       <translation>錯誤</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1525"/>
       <source>Could not open file</source>
       <translation>無法開啟檔案</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1690"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1735"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1739"/>
       <source>Selection not in a module...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1711"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1715"/>
       <source>Selection not in a file...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1814"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1818"/>
       <source>Start from &amp;Selection</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1830"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1834"/>
       <source>Failed to assemble instruction "</source>
       <translation>組譯指令失敗 "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1941"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1958"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1975"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1945"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1962"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1979"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1992"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1999"/>
+      <source>Failed to reset trace coverage for page %1.
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2015"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation type="unfinished"/>
@@ -2650,49 +2661,49 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="876"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="884"/>
       <source>Signed byte (8-bit)</source>
       <translation>有符號位元組(8位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="901"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="909"/>
       <source>Signed short (16-bit)</source>
       <translation>有符號Short(16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="926"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="934"/>
       <source>Signed long (32-bit)</source>
       <translation>有符號Long(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="951"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="959"/>
       <source>Signed long long (64-bit)</source>
       <translation>有符號Long long(64位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="976"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="984"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>無符號位元組(8位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1001"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1009"/>
       <source>Unsigned short (16-bit)</source>
       <translation>無符號Short(16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1026"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1034"/>
       <source>Unsigned long (32-bit)</source>
       <translation>無符號Long(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1051"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1059"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>無符號Long long(64位)</translation>
     </message>
@@ -2703,19 +2714,19 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1101"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1109"/>
       <source>Hex short (16-bit)</source>
       <translation>十六進位Short(16位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1126"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1134"/>
       <source>Hex long (32-bit)</source>
       <translation>十六進位Long(32位)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="236"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1151"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1159"/>
       <source>Hex long long (64-bit)</source>
       <translation>十六進位Long long(64位)</translation>
     </message>
@@ -2760,233 +2771,258 @@
       <translation>反組譯(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="258"/>
+      <source>Cycle Hex View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="259"/>
+      <source>Cycle Text View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="260"/>
+      <source>Cycle Integer View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="261"/>
+      <source>Cycle Float View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="262"/>
+      <source>Cycle Address View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="440"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="452"/>
       <source>System Code</source>
       <translation>系統代碼</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="440"/>
       <source>System Data</source>
       <translation>系統資料</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="442"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="454"/>
       <source>User Code</source>
       <translation>使用者代碼</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="442"/>
       <source>User Data</source>
       <translation>使用者資料</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="451"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="457"/>
       <source> (Real4)</source>
       <translation> (Real4)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
       <source> (Real8)</source>
       <translation> (Real8)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="459"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
       <source> (BYTE)</source>
       <translation> (BYTE)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="468"/>
       <source> (WORD)</source>
       <translation> (WORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="471"/>
       <source> (DWORD)</source>
       <translation> (DWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="474"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="475"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="480"/>
       <source> (QWORD)</source>
       <translation> (QWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="481"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="487"/>
       <source> (String)</source>
       <translation> (字串)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="483"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="489"/>
       <source>(Unknown String)</source>
       <translation>(未知字串)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="517"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="533"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="550"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="556"/>
       <source>Modify value</source>
       <translation>修改值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1592"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1603"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="530"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="546"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1600"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1611"/>
       <source>Error</source>
       <translation>錯誤</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="524"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="530"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="546"/>
       <source>The input text is not a number!</source>
       <translation>輸入的內容不是數字！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="565"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="571"/>
       <source>Enter expression to follow in Dump...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1541"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
       <source>Error!</source>
       <translation>錯誤！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="581"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="587"/>
       <source>Not inside a module...</source>
       <translation>不在模組中...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="588"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="594"/>
       <source>Goto File Offset in %1</source>
       <translation>前往 %1 中的檔案偏移</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="649"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="683"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="721"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="753"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1076"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="655"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="689"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="728"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="760"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1084"/>
       <source>Hex</source>
       <translation>十六進位</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="657"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="803"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1298"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="663"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="810"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1306"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="691"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="829"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1345"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="697"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="836"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1353"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1176"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1184"/>
       <source>Float (32-bit)</source>
       <translation>浮點數 （32 位）</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1201"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1209"/>
       <source>Double (64-bit)</source>
       <translation>雙浮點數 (64位元)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1226"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1234"/>
       <source>Long double (80-bit)</source>
       <translation>Long double (80位元)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1251"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1259"/>
       <source>Half float (16-bit)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1277"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1324"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1285"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1332"/>
       <source>Address (QWORD)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1281"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1328"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1289"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1336"/>
       <source>Address (DWORD)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1306"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1353"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1314"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1361"/>
       <source>Comments</source>
       <translation>註解</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1408"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1416"/>
       <source>Edit data at %1</source>
       <translation>編輯資料於 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1425"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1433"/>
       <source>Fill data at %1</source>
       <translation>填充資料於 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1491"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1499"/>
       <source>Save to file</source>
       <translation>儲存到檔案</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1491"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1499"/>
       <source>All files (*.*)</source>
       <translation>所有檔案 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1519"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1527"/>
       <source>Find Pattern...</source>
       <translation>搜尋匹配特徵...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1541"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
       <source>Selection not in a file...</source>
       <translation>選區不在檔中……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1558"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
       <source>Dump</source>
       <translation>資料視窗</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1570"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1578"/>
       <source>Enter expression to sync with...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1581"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1589"/>
       <source>Size</source>
       <translation>大小</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1587"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
       <source>Warning</source>
       <translation>警告</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1587"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>你剛剛想要分配一個大小為零的緩衝區。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1592"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1600"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>您想要分配的緩衝區大小超過 1GB. 請檢查輸入的運算式是否正確.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1603"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1611"/>
       <source>Memory allocation failed!</source>
       <translation>記憶體分配失敗！</translation>
     </message>
@@ -3952,272 +3988,273 @@
   <context>
     <name>CommonActions</name>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="36"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="37"/>
       <source>Follow in Disassembler</source>
       <translation>在反組譯視窗中跟隨</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="36"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="37"/>
       <source>Show this address in disassembler. Equivalent command "d address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="41"/>
       <source>&amp;Follow DWORD in Disassembler</source>
       <translation>在反組譯視窗中跟隨 DWORD(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="40"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="41"/>
       <source>&amp;Follow QWORD in Disassembler</source>
       <translation>在反組譯視窗中跟隨 QWORD(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="44"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="45"/>
       <source>Follow in Dump</source>
       <translation>在資料視窗中跟隨</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="44"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="45"/>
       <source>Show the address in dump. Equivalent command "dump address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="48"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="49"/>
       <source>&amp;Follow DWORD in Current Dump</source>
       <translation>在目前資料視窗中跟隨 DWORD(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="48"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="49"/>
       <source>&amp;Follow QWORD in Current Dump</source>
       <translation>在目前資料視窗中跟隨 QWORD(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="61"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="62"/>
       <source>Dump %1</source>
       <translation>資料 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="67"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="68"/>
       <source>Follow DWORD in Dump</source>
       <translation>在資料視窗中跟隨 DWORD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="67"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="68"/>
       <source>Follow QWORD in Dump</source>
       <translation>在資料視窗中跟隨 QWORD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="71"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="72"/>
       <source>Follow in Stack</source>
       <translation>在堆疊中跟隨</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="71"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="72"/>
       <source>Show this address in stack view. Equivalent command "sdump address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="79"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="80"/>
       <source>Follow in Memory Map</source>
       <translation>在記憶體映射中跟隨</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="79"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="80"/>
       <source>Show this address in memory map view. Equivalent command "memmapdump address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="83"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="84"/>
       <source>Graph</source>
       <translation>圖形</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="83"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="84"/>
       <source>Show the control flow graph of this function in CPU view. Equivalent command "graph address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="90"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="88"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="91"/>
       <source>Display type at %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="87"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="88"/>
       <source>Display a type at this address in the struct view.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="106"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
       <source>Toggle</source>
       <translation>切換</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="107"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="125"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="108"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="126"/>
       <source>Edit</source>
       <translation>編輯</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="108"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="111"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="109"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="112"/>
       <source>Set Hardware on Execution</source>
       <translation>設置硬體執行中斷點</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="109"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="110"/>
       <source>Remove Hardware</source>
       <translation>移除硬體中斷點</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="113"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="114"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="115"/>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="116"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="117"/>
       <source>Replace Slot %1 (Unknown)</source>
       <translation>更換硬體中斷點 %1 (未知)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="118"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="119"/>
       <source>Breakpoint</source>
       <translation>中斷點</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="127"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="128"/>
       <source>Set Conditional Breakpoint</source>
       <translation>設置條件中斷點</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="157"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="158"/>
       <source>Replace Slot %1 (0x%2)</source>
       <translation>更換硬體中斷點 %1 (0x%2)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="170"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
       <source>Label Current Address</source>
       <translation>在目前位址設定標籤</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="174"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="175"/>
       <source>Comment</source>
       <translation>註解</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="178"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
       <source>Toggle Bookmark</source>
       <translation>切換書籤</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="178"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="179"/>
       <source>Set a bookmark here, or remove bookmark. Equivalent command "bookmarkset address"/"bookmarkdel address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="182"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="183"/>
       <source>Set %1 Here</source>
       <translation>在此設置%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="182"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="183"/>
       <source>Set the next executed instruction to this address. Equivalent command "mov cip, address".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="186"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="187"/>
       <source>Create New Thread Here</source>
       <translation>於此處建立新執行緒</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="186"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="187"/>
       <source>Create a new thread at this address. Equivalent command "createthread address, argument".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="190"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="191"/>
       <source>&amp;Watch DWORD</source>
       <translation>監視 DWORD(&amp;W)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="190"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="191"/>
       <source>&amp;Watch QWORD</source>
       <translation>監視 QWORD(&amp;W)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="190"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="191"/>
       <source>Add the address in the watch view. Equivalent command "AddWatch [address], "uint"".</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="240"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="241"/>
       <source>Cannot follow %1. Address is invalid.
 </source>
       <translation>無法轉到 %1。位址無效。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="252"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="253"/>
       <source>Add label at </source>
       <translation>新增標籤於 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="259"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="260"/>
       <source>The label may be in use</source>
       <translation>標籤可能正在使用中</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="260"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="261"/>
       <source>The label "%1" may be an existing label or a valid expression. Using such label might have undesired effects. Do you still want to continue?</source>
       <translation>“%1”標籤可能是現有的標籤或有效的運算式。使用這種標籤可能會產生意外影響。您仍想使用該標籤嗎？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="269"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="295"/>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="319"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="270"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="296"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="320"/>
       <source>Error!</source>
       <translation>錯誤！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="269"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="270"/>
       <source>DbgSetLabelAt failed!</source>
       <translation>DbgSetLabelAt 失敗！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="290"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="291"/>
       <source>Add comment at </source>
       <translation>新增註解於 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="295"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="296"/>
       <source>DbgSetCommentAt failed!</source>
       <translation>DbgSetCommentAt 失敗!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="319"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="320"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt 失敗!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="328"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="329"/>
       <source>Address %1 is not executable</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="351"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="364"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="391"/>
       <source>Setting software breakpoint here may result in crash. Do you really want to continue?</source>
       <translation>在此設置軟體中斷點可能導致崩潰。您真的還要繼續嗎？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="476"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="516"/>
       <source>Setting new origin here may result in crash. Do you really want to continue?</source>
       <translation>在此設置新的運行點可能導致崩潰。您真的還要繼續嗎？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="525"/>
       <source>Creating new thread here may result in crash. Do you really want to continue?</source>
       <translation>在此建立新執行緒可能導致程式崩潰. 確定要繼續嗎?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/CommonActions.cpp" line="528"/>
       <source>Argument for the new thread</source>
       <translation>新執行緒的參數</translation>
     </message>
@@ -4236,7 +4273,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
@@ -4247,72 +4283,73 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <source>File</source>
       <translation>檔案</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="376"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
       <source>Open</source>
       <translation>開啟</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <source>Attach</source>
       <translation>附加</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <source>Detach</source>
       <translation>分離</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
       <source>Save database</source>
       <translation>保存資料庫</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="445"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
       <source>Restore backup database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
       <source>Reload database</source>
       <translation>重新載入資料庫</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
       <source>Clear database</source>
       <translation>清除資料庫</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <source>Import database</source>
       <translation>匯入資料庫</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
       <source>Export database</source>
       <translation>匯出資料庫</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <source>Restart as Admin</source>
       <translation>以管理員身份重新執行</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <source>Exit</source>
       <translation>結束</translation>
     </message>
@@ -4343,7 +4380,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
@@ -4369,126 +4405,127 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <source>View</source>
       <translation>檢視</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
       <source>CPU</source>
       <translation>CPU</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <source>Log</source>
       <translation>日誌</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <source>Breakpoints</source>
       <translation>中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
       <source>Memory Map</source>
       <translation>記憶體映射</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
       <source>Call Stack</source>
       <translation>呼叫堆疊</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
       <source>Notes</source>
       <translation>筆記</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
       <source>SEH</source>
       <translation>SEH</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
       <source>Script</source>
       <translation>腳本</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
       <source>Symbol Info</source>
       <translation>符號資訊</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
       <source>Modules</source>
       <translation>模組</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
       <source>Source</source>
       <translation>原始碼</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
       <source>References</source>
       <translation>引用</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
       <source>Threads</source>
       <translation>執行緒</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
       <source>Patches</source>
       <translation>修補程式</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
       <source>Comments</source>
       <translation>註解</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
       <source>Labels</source>
       <translation>標籤</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
       <source>Bookmarks</source>
       <translation>書籤</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
       <source>Functions</source>
       <translation>函數</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <source>Variables</source>
       <translation>變數</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <source>Handles</source>
       <translation>Handles</translation>
     </message>
@@ -4502,45 +4539,45 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Graph</source>
       <translation>圖形</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
       <source>Previous Tab</source>
       <translation>前一個分頁</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>Next Tab</source>
       <translation>下一個分頁</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <source>Previous View</source>
       <translation>前一個視圖</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <source>Next View</source>
       <translation>後一個視圖</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <source>Hide Tab</source>
       <translation>隱藏分頁欄</translation>
     </message>
@@ -4578,7 +4615,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
@@ -4610,158 +4646,159 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Debug</source>
       <translation>除錯</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
       <source>Run</source>
       <translation>執行</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <source>Run (pass exception)</source>
       <translation>執行 (拋出例外)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <source>Run (swallow exception)</source>
       <translation>執行 (忽略例外)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
       <source>Run until selection</source>
       <translation>執行到選取處</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
       <source>Run until expression</source>
       <translation>執行到運算式</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
       <source>Pause</source>
       <translation>暫停</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
       <source>Restart</source>
       <translation>重新啟動</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
       <source>Close</source>
       <translation>關閉</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
       <source>Step into</source>
       <translation>單步步入</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
       <source>Step into (pass exception)</source>
       <translation>單步步入 (拋出例外)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
       <source>Step into (swallow exception)</source>
       <translation>單步步入 (忽略例外)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
       <source>Step into (source)</source>
       <translation>單步步入 (source)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <source>Step over</source>
       <translation>單步步過</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <source>Step over (pass exception)</source>
       <translation>單步步過 (抛出例外)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
       <source>Step over (swallow exception)</source>
       <translation>單步步過 (忽略例外)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
       <source>Step over (source)</source>
       <translation>單步步過 (source)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
       <source>Execute till return</source>
       <translation>執行到返回</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <source>Execute till return (pass exception)</source>
       <translation>執行到返回 (拋出例外)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
       <source>Run to user code</source>
       <translation>執行到使用者代碼</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Skip next instruction</source>
       <translation>跳過下一行指令</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Command</source>
       <translation>命令</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Trace into...</source>
       <translation>跟蹤步入</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Trace over...</source>
       <translation>跟蹤步過</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
       <source>Trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Bit</source>
       <translation>位元</translation>
     </message>
@@ -4772,73 +4809,73 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Undo instruction</source>
       <translation>撤消指令</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Animate into</source>
       <translation>自動步入</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Animate over</source>
       <translation>自動步過</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
       <source>Animate command</source>
       <translation>自動執行命令</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Step into until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Step over until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
       <source>Step into until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Step over until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
       <source>Plugins</source>
       <translation>外掛</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
       <source>Scylla</source>
       <translation>Scylla</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <source>Favourites</source>
       <translation>最愛</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <source>Manage Favourite Tools</source>
       <translation>管理我的最愛</translation>
     </message>
@@ -4848,41 +4885,41 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <source>Options</source>
       <translation>選項</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
       <source>Preferences</source>
       <translation>偏好設定</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Appearance</source>
       <translation>外觀設定</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <source>Hotkeys</source>
       <translation>熱鍵</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <source>Topmost</source>
       <translation>最上層顯示</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <source>Reload style.css</source>
       <translation>重新載入 style.css</translation>
     </message>
@@ -4894,55 +4931,55 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <source>Help</source>
       <translation>幫助</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <source>About</source>
       <translation>關於</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <source>Blog</source>
       <translation>網誌</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Donate</source>
       <translation>捐贈</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Calculator</source>
       <translation>計算機</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <source>Report Bug</source>
       <translation>回報 Bug</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <source>Manual</source>
       <translation>使用說明</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <source>Generate Crash Dump</source>
       <translation>產生 Crash Dump</translation>
     </message>
@@ -5100,7 +5137,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
@@ -5112,15 +5148,10 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
@@ -5250,180 +5281,187 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="626"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
       <source>Actions</source>
       <translation>動作</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
       <source>Find Strings</source>
       <translation>尋找字串</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <source>Find Strings in Current Module</source>
       <translation>在目前模組中尋找字串</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <source>Find Intermodular Calls</source>
       <translation>搜尋跨模組呼叫</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
       <source>Toggle Breakpoint</source>
       <translation>切換中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <source>Set Conditional Breakpoint</source>
       <translation>設置條件中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <source>Toggle Bookmark</source>
       <translation>切換書籤</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
       <source>Delete Breakpoint</source>
       <translation>刪除中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <source>Enable/Disable Breakpoint</source>
       <translation>啟用/停用中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
       <source>Reset breakpoint hit count</source>
       <translation>重置中斷點命中次數</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
       <source>Enable all breakpoints</source>
       <translation>啓用所有中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <source>Disable all breakpoints</source>
       <translation>停用所有中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <source>Remove all breakpoints</source>
       <translation>移除所有中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
       <source>Binary Edit</source>
       <translation>二進位編輯</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <source>Binary Fill</source>
       <translation>二進位填充</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
       <source>Binary Fill NOPs</source>
       <translation>以 NOPs 填充</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <source>Binary Copy</source>
       <translation>二進位複製</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <source>Binary Paste</source>
       <translation>二進位貼上</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <source>Binary Paste (Ignore Size)</source>
       <translation>二進位貼上 (忽略大小)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
       <source>Binary Save</source>
       <translation>二進位儲存</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
       <source>Undo Selection</source>
       <translation>復原選取</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
       <source>Set Label</source>
       <translation>設置標籤</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
       <source>Set Label for the Operand</source>
       <translation>給運算元加標籖</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
       <source>Set Comment</source>
       <translation>設置註解</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
       <source>Toggle Function</source>
       <translation>切換函數</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
       <source>Add Loop</source>
       <translation>添加循環邏輯</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
       <source>Delete Loop</source>
       <translation>刪除循環邏輯</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
       <source>Toggle Argument</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <source>Assemble</source>
       <translation>組譯</translation>
     </message>
@@ -5434,163 +5472,163 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
       <source>Goto Origin</source>
       <translation>前往入口點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
       <source>Goto EBP/RBP</source>
       <translation>跟隨 EBP/RBP</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
       <source>Goto Previous</source>
       <translation>跳到上一個</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
       <source>Goto Next</source>
       <translation>跳到下一個</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
       <source>Goto Expression</source>
       <translation>轉到運算式</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
       <source>Goto Start of Page</source>
       <translation>轉到頁首</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
       <source>Goto End of Page</source>
       <translation>轉到頁尾</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
       <source>Goto Start of Function</source>
       <translation>轉到函數起始</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
       <source>Goto End of Function</source>
       <translation>轉到函數未尾</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
       <source>Goto File Offset</source>
       <translation>轉到檔案偏移量</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
       <source>Find References to Selected Address</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
       <source>Find Pattern</source>
       <translation>搜尋匹配特徵</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
       <source>Find Pattern in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
       <source>Find Names in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
       <source>Find References</source>
       <translation>尋找參考</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
       <source>xrefs...</source>
       <translation>交叉引用...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
       <source>Analyze Single Function</source>
       <translation>分析單一函數</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
       <source>Analyze Module</source>
       <translation>分析模組</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
       <source>Help on Mnemonic</source>
       <translation>指令說明</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
       <source>Toggle Mnemonic Brief</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
       <source>Highlighting Mode</source>
       <translation>突顯模式</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
       <source>Enable/Disable Branch Destination Preview</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
       <source>Find</source>
       <translation>尋找</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
       <source>Find in Current Module</source>
       <translation>在目前模組中尋找</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
       <source>Enable/Disable Logging</source>
       <translation>啟用/禁用日誌記錄</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
       <source>Allocate Memory</source>
       <translation>分配記憶體</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
       <source>Free Memory</source>
       <translation>可用記憶體</translation>
     </message>
@@ -5601,49 +5639,49 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
       <source>Copy All Registers</source>
       <translation>複製所有暫存器</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
       <source>Mark As User Module</source>
       <translation>標示為使用者模組</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
       <source>Mark As System Module</source>
       <translation>標示為系統模組</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
       <source>Mark As Party</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
       <source>Set Hardware Breakpoint (Execute)</source>
       <translation>設定硬體中斷點 (執行)</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
       <source>Remove Hardware Breakpoint</source>
       <translation>移除硬體中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
       <source>Remove Type Analysis From Module</source>
       <translation>從模組中移除類型分析</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
       <source>Remove Type Analysis From Selection</source>
       <translation>從選取範圍中移除類型分析</translation>
     </message>
@@ -5664,12 +5702,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
@@ -5681,134 +5713,140 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <source>Treat Selection As</source>
       <translation>將選取內容視為</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
       <source>Code</source>
       <translation>代碼</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <source>Byte</source>
       <translation>位元組</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <source>Word</source>
       <translation>字組</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
       <source>Dword</source>
       <translation>Dword</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <source>Fword</source>
       <translation>Fword</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>Qword</source>
       <translation>Qword</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
       <source>Tbyte</source>
       <translation>Tbyte</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
       <source>Oword</source>
       <translation>Oword</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
       <source>LongDouble</source>
       <translation>LongDouble</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <source>MMWord</source>
       <translation>MMWord</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
       <source>XMMWord</source>
       <translation>XMMWord</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
       <source>YMMWord</source>
       <translation>YMMWord</translation>
     </message>
@@ -5829,12 +5867,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
@@ -5846,156 +5878,162 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
       <source>Treat Selection Head As</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
       <source>Toggle Register Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
       <source>Clear</source>
       <translation>清除</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
       <source>Copy</source>
       <translation>複製</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
       <source>Copy Address</source>
       <translation>複製位置</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
       <source>Copy RVA</source>
       <translation>複製 RVA</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
       <source>Copy Symbol</source>
       <translation>複製符號</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
       <source>Copy Line</source>
       <translation>複製行</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
       <source>Copy Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <source>Load Script</source>
       <translation>載入腳本</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
       <source>Reload Script</source>
       <translation>重新載入腳本</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>Unload Script</source>
       <translation>關閉腳本</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Edit Script</source>
       <translation>編輯腳本</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Run Script</source>
       <translation>執行腳本</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Toggle Script Breakpoint</source>
       <translation>切換腳本中斷點</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Run Script to Cursor</source>
       <translation>執行腳本到游標處</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Step Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Abort Script</source>
       <translation>中止腳本</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Execute Script Command</source>
       <translation>執行腳本命令</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Refresh</source>
       <translation>重新整理</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <source>Zoom to cursor</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Fit To Window</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Follow in disassembler</source>
       <translation>在反組譯視窗中跟隨</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Save as image</source>
       <translation>另存為圖像</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Toggle overview</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Toggle summary</source>
       <translation>切換摘要</translation>
     </message>
@@ -6006,175 +6044,175 @@
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Increment x87 Stack</source>
       <translation>遞增 x87 堆疊</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Decrement x87 Stack</source>
       <translation>递减x87堆疊</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Redirect Log</source>
       <translation>日誌重新導向</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Browse in Explorer</source>
       <translation>在檔案總管中檢視</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Download Symbols for This Module</source>
       <translation>下載此模組的符號</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Download Symbols for All Modules</source>
       <translation>下載所有模組的符號</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Create New Thread Here</source>
       <translation>於此處建立新執行緒</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Open Source File</source>
       <translation>開啟原始碼</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Follow in Memory Map</source>
       <translation>在記憶體映射中跟隨</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Follow in Stack</source>
       <translation>在堆疊中跟隨</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Follow in Disassembler</source>
       <translation>在反組譯視窗中跟隨</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation>在反組譯視窗中跟隨 DWORD/QWORD</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation>在資料視窗中跟隨 DWORD/QWORD</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Freeze the stack</source>
       <translation>鎖定堆疊</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Go to Base of Stack Frame</source>
       <translation>轉到堆疊幀的底部</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Go to Previous Stack Frame</source>
       <translation>轉到上一堆疊幀</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Go to Next Stack Frame</source>
       <translation>轉到下一堆疊幀</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Go to Previous Reference</source>
       <translation>轉到前一引用</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
       <source>Go to Next Reference</source>
       <translation>轉到後一引用</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
       <source>Modify value</source>
       <translation>修改值</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Watch DWORD/QWORD</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
       <source>Copy File Offset</source>
       <translation>複製檔案偏移量</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
       <source>Start/Stop trace recording</source>
       <translation>開始/停止追隨錄製</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="626"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>複製 -&gt; 截斷的表格</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
       <source>Copy -&gt; Table</source>
       <translation>複製 -&gt; 整個表格</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>複製 -&gt; 行，到日誌</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>複製 -&gt; 截斷的表格，到日誌</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>複製 -&gt; 整個表格，到日誌</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
       <source>Copy -&gt; Export Table</source>
       <translation>複製 -&gt; 滙出表格</translation>
     </message>
@@ -6191,54 +6229,93 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="990"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="1004"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="1022"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="800"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="816"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="825"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="844"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="853"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="868"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="877"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="896"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="905"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="921"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="935"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="953"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="807"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="823"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="832"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="851"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="860"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="875"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="884"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="903"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="912"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="928"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="942"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="960"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>在設定檔中未找到!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
       <source>Tracing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
       <source>Disable</source>
       <translation>停用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <source>Dump</source>
+      <translation>資料視窗</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <source>Cycle Hex View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
+      <source>Cycle Text View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
+      <source>Cycle Integer View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
+      <source>Cycle Float View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <source>Cycle Address View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <source>Set %1 Here</source>
       <translation>在此設置%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <source>Sync</source>
       <translation>同步</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
       <source>ZMMWord</source>
       <translation>ZMMWord</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <source>Copy Reference Address</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
@@ -6370,25 +6447,25 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="530"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="539"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="537"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="546"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="550"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="557"/>
       <source>Started trace recording to file: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="568"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="579"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="586"/>
       <source>Trace recording stopped.</source>
       <translation type="unfinished"/>
     </message>
@@ -6470,7 +6547,7 @@
       <translation>寫入執行程序記憶體時發生錯誤</translation>
     </message>
     <message>
-      <location filename="src/dbg/breakpoint.cpp" line="552"/>
+      <location filename="src/dbg/breakpoint.cpp" line="579"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="20"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="178"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="200"/>
@@ -6480,7 +6557,7 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/breakpoint.cpp" line="554"/>
+      <location filename="src/dbg/breakpoint.cpp" line="581"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="431"/>
       <source>Error setting breakpoint at %p! (SetBPX)
@@ -6489,17 +6566,17 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/breakpoint.cpp" line="561"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="646"/>
+      <location filename="src/dbg/breakpoint.cpp" line="588"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="647"/>
       <source>Delete memory breakpoint failed (RemoveMemoryBPX): %p
 </source>
       <translation>刪除記憶體中斷點失敗 (RemoveMemoryBPX): %p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/breakpoint.cpp" line="563"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="665"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="907"/>
+      <location filename="src/dbg/breakpoint.cpp" line="590"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="667"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="913"/>
       <source>Could not enable memory breakpoint %p (SetMemoryBPXEx)
 </source>
       <translation>無法啟用記憶體中斷點 %p (SetMemoryBPXEx)
@@ -7099,7 +7176,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="454"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="542"/>
-      <location filename="src/dbg/debugger.cpp" line="1234"/>
+      <location filename="src/dbg/debugger.cpp" line="1232"/>
       <source>You can only set 4 hardware breakpoints</source>
       <translation>你只能設置4個硬體中斷點</translation>
     </message>
@@ -7146,7 +7223,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="510"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="529"/>
-      <location filename="src/dbg/debugger.cpp" line="816"/>
+      <location filename="src/dbg/debugger.cpp" line="821"/>
       <source>Delete hardware breakpoint failed: %p (DeleteHardwareBreakPoint)
 </source>
       <translation>刪除硬體中斷點失敗: %p (DeleteHardwareBreakPoint)
@@ -7221,423 +7298,423 @@
       <translation>硬體中斷點已停用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="641"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="642"/>
       <source>Delete memory breakpoint failed (BpDelete): %p
 </source>
       <translation>刪除記憶體中斷點失敗 (BpDelete): %p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="660"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="912"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="662"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="918"/>
       <source>Could not enable memory breakpoint %p (BpEnable)
 </source>
       <translation>無法啟用記憶體中斷點 %p (BpEnable)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="677"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="956"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="679"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="963"/>
       <source>Could not disable memory breakpoint %p (BpEnable)
 </source>
       <translation>無法停用記憶體中斷點 %p (BpEnable)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="682"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="951"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="684"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="958"/>
       <source>Could not disable memory breakpoint %p (RemoveMemoryBPX)
 </source>
       <translation>無法停用記憶體中斷點 %p (RemoveMemoryBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="726"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="728"/>
       <source>Invalid type (argument ignored)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="740"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="801"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="743"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="804"/>
       <source>Memory breakpoint already set!</source>
       <translation>記憶體中斷點早已設置！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="745"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="806"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="748"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="809"/>
       <source>Error setting memory breakpoint! (BpNew)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="750"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="811"/>
-      <source>Error setting memory breakpoint! (SetMemoryBPXEx)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="753"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="814"/>
+      <source>Error setting memory breakpoint! (SetMemoryBPXEx)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="756"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="817"/>
       <source>Memory breakpoint at %p[%p] set!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="790"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1520"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="793"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1527"/>
       <source>Invalid type specified!</source>
       <translation>指定的類型無效！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="825"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="828"/>
       <source>No memory breakpoints to delete!</source>
       <translation>沒有記憶體中斷點可以刪除！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="830"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="833"/>
       <source>All memory breakpoints deleted!</source>
       <translation>已刪除所有記憶體中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="841"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="862"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="845"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="867"/>
       <source>Delete memory breakpoint failed: %p (BpDelete)
 </source>
       <translation>刪除記憶體中斷點失敗: %p (BpDelete)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="846"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="867"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="850"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="872"/>
       <source>Delete memory breakpoint failed: %p (RemoveMemoryBPX)
 </source>
       <translation>刪除記憶體中斷點失敗: %p (RemoveMemoryBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="855"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="894"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="939"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="859"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="899"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="945"/>
       <source>No such memory breakpoint "%s"
 </source>
       <translation>沒有記憶體中斷點“%s”
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="870"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="875"/>
       <source>Memory breakpoint deleted!</source>
       <translation>已刪除記憶體中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="881"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="886"/>
       <source>No memory breakpoints to enable!</source>
       <translation>沒有記憶體中斷點可以啟用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="886"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="891"/>
       <source>All memory breakpoints enabled!</source>
       <translation>已啟用所有記憶體中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="899"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="904"/>
       <source>Memory breakpoint already enabled!</source>
       <translation>記憶體中斷點早已啟用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="915"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="921"/>
       <source>Memory breakpoint enabled!</source>
       <translation>已啟用記憶體中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="926"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="932"/>
       <source>No memory breakpoints to disable!</source>
       <translation>沒有記憶體中斷點可以停用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="931"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="937"/>
       <source>All memory breakpoints disabled!</source>
       <translation>已停用所有記憶體中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="944"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="950"/>
       <source>Memory breakpoint already disabled!</source>
       <translation>記憶體中斷點早已停用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="959"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="966"/>
       <source>Memory breakpoint disabled!</source>
       <translation>已停用記憶體中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="971"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="978"/>
       <source>Could not delete DLL breakpoint %s (BpDelete)
 </source>
       <translation>無法刪除 DLL 中斷點 %s (BpDelete)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="976"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="983"/>
       <source>Could not delete DLL breakpoint %s (LibrarianRemoveBreakPoint)
 </source>
       <translation>無法刪除 DLL 中斷點 %s (LibrarianRemoveBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="989"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1132"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="996"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1139"/>
       <source>Could not enable DLL breakpoint %s (BpEnable)
 </source>
       <translation>無法啟用 DLL 中斷點 %s (BpEnable)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="994"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1137"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1001"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1144"/>
       <source>Could not enable DLL breakpoint %s (LibrarianSetBreakPoint)
 </source>
       <translation>無法啟用 DLL 中斷點 %s (LibrarianSetBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1007"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1174"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1014"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1181"/>
       <source>Could not disable DLL breakpoint %s (BpEnable)
 </source>
       <translation>無法停用 DLL 中斷點 %s (BpEnable)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1012"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1179"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1019"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1186"/>
       <source>Could not disable DLL breakpoint %s (LibrarianRemoveBreakPoint)
 </source>
       <translation>無法停用 DLL 中斷點 %s (LibrarianRemoveBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1051"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1058"/>
       <source>Error creating Dll breakpoint! (BpNewDll)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1056"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1063"/>
       <source>Error creating Dll breakpoint! (LibrarianSetBreakPoint)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1059"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1066"/>
       <source>Dll breakpoint set on "%s"!
 </source>
       <translation>DLL中斷點已設置在“%s”！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1071"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1078"/>
       <source>No DLL breakpoints to delete!</source>
       <translation>沒有DLL中斷點可以刪除！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1076"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1083"/>
       <source>All DLL breakpoints deleted!</source>
       <translation>已刪除所有 DLL 中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1084"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1091"/>
       <source>Failed to find DLL breakpoint '%s'...
 </source>
       <translation>找不到 DLL 中斷點 '%s'...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1089"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1096"/>
       <source>Failed to remove DLL breakpoint (BpDelete)...</source>
       <translation>刪除 DLL 中斷點失敗 (BpDelete)...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1095"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1102"/>
       <source>Failed to remove DLL breakpoint (dbgdeletedllbreakpoint)...</source>
       <translation>刪除 DLL 中斷點失敗 (dbgdeletedllbreakpoint)...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1098"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1105"/>
       <source>DLL breakpoint removed!</source>
       <translation>DLL 中斷點已刪除！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1108"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1115"/>
       <source>No DLL breakpoints to enable!</source>
       <translation>沒有DLL中斷點可以啟用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1113"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1120"/>
       <source>All DLL breakpoints enabled!</source>
       <translation>已啟用所有DLL中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1122"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1164"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1129"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1171"/>
       <source>No such DLL breakpoint "%s"
 </source>
       <translation>沒有DLL中斷點“%s”
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1127"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1134"/>
       <source>DLL breakpoint already enabled!</source>
       <translation>DLL中斷點早已啓用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1139"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1146"/>
       <source>DLL breakpoint enable!</source>
       <translation>DLL中斷點已啟用!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1150"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1157"/>
       <source>No DLL breakpoints to disable!</source>
       <translation>沒有DLL中斷點可以停用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1155"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1162"/>
       <source>All DLL breakpoints disabled!</source>
       <translation>已停用所有DLL中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1169"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1176"/>
       <source>DLL breakpoint already disabled!</source>
       <translation>DLL中斷點早已停用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1181"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1188"/>
       <source>DLL breakpoint disabled!</source>
       <translation>DLL中斷點已停用!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1194"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1201"/>
       <source>Could not delete exception breakpoint %p (BpEnable)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1207"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1352"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1372"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1214"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1359"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1379"/>
       <source>Could not enable exception breakpoint %p (BpEnable)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1220"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1400"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1419"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1227"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1407"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1426"/>
       <source>Could not disable exception breakpoint %p (BpEnable)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1236"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1243"/>
       <source>Invalid exception code: %s.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1243"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1250"/>
       <source>Exception breakpoint %X (%s) already exists!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1270"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1276"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1277"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1283"/>
       <source>Invalid exception type!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1282"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1289"/>
       <source>Failed to set exception breakpoint! (BpNew)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1296"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1303"/>
       <source>No exception breakpoints to delete!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1301"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1308"/>
       <source>All exception breakpoints deleted!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1310"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1324"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1317"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1331"/>
       <source>Delete exception breakpoint failed (bpdel): %p
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1319"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1361"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1409"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1326"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1368"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1416"/>
       <source>No such exception breakpoint "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1327"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1334"/>
       <source>Exception breakpoint deleted!</source>
       <translation>例外中斷點已刪除！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1338"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1345"/>
       <source>No exception breakpoints to enable!</source>
       <translation>沒有例外中斷點可以啟用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1343"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1350"/>
       <source>All exception breakpoints enabled!</source>
       <translation>已啟用所有例外中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1366"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1373"/>
       <source>Exception breakpoint already enabled!</source>
       <translation>例外中斷點早已啟用 ！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1376"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1383"/>
       <source>Exception breakpoint enabled!</source>
       <translation>例外中斷點已啟用 ！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1386"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1393"/>
       <source>No exception breakpoints to disable!</source>
       <translation>沒有例外中斷點可以停用！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1391"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1398"/>
       <source>All exception breakpoints disabled!</source>
       <translation>已停用所有例外中斷點!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1414"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1421"/>
       <source>Exception breakpoint already disabled!</source>
       <translation>例外中斷點早已停用 ！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1422"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1429"/>
       <source>Exception breakpoint disabled!</source>
       <translation>例外中斷點已停用 ！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1431"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1438"/>
       <source>argument count mismatch!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1487"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1494"/>
       <source>Something went wrong...</source>
       <translation>出了點問題...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1525"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1532"/>
       <source>Default breakpoint type set to: %s
 </source>
       <translation type="unfinished"/>
@@ -7776,25 +7853,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="285"/>
-      <location filename="src/dbg/debugger.cpp" line="3016"/>
+      <location filename="src/dbg/debugger.cpp" line="3014"/>
       <source>Process is already being debugged!</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="292"/>
-      <location filename="src/dbg/debugger.cpp" line="2935"/>
+      <location filename="src/dbg/debugger.cpp" line="2933"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失敗!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="298"/>
-      <location filename="src/dbg/debugger.cpp" line="2942"/>
+      <location filename="src/dbg/debugger.cpp" line="2940"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>請用 x32dbg 來除錯此程式！</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="300"/>
-      <location filename="src/dbg/debugger.cpp" line="2944"/>
+      <location filename="src/dbg/debugger.cpp" line="2942"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>請用 x64dbg 來除錯此程式！</translation>
     </message>
@@ -9572,453 +9649,453 @@ Invalid database file (JSON)!</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="502"/>
+      <location filename="src/dbg/debugger.cpp" line="507"/>
       <source>Module: %s - </source>
       <translation>模組: %s - </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="515"/>
+      <location filename="src/dbg/debugger.cpp" line="520"/>
       <source> (switched from %s)</source>
       <translation> (切換自 %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="525"/>
+      <location filename="src/dbg/debugger.cpp" line="530"/>
       <source>%s - PID: %s - %sThread: %s%s%s</source>
       <translation>%s - PID: %s - %s執行緒: %s%s%s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="644"/>
+      <location filename="src/dbg/debugger.cpp" line="649"/>
       <source>%s breakpoint "%s" at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="646"/>
+      <location filename="src/dbg/debugger.cpp" line="651"/>
       <source>%s breakpoint at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="673"/>
+      <location filename="src/dbg/debugger.cpp" line="678"/>
       <source>execute</source>
       <translation>執行</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="677"/>
+      <location filename="src/dbg/debugger.cpp" line="682"/>
       <source>read/write</source>
       <translation>讀寫</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="680"/>
+      <location filename="src/dbg/debugger.cpp" line="685"/>
       <source>write</source>
       <translation>寫入</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="687"/>
+      <location filename="src/dbg/debugger.cpp" line="692"/>
       <source>Hardware breakpoint (%s%s) "%s" at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="689"/>
+      <location filename="src/dbg/debugger.cpp" line="694"/>
       <source>Hardware breakpoint (%s%s) at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="699"/>
+      <location filename="src/dbg/debugger.cpp" line="704"/>
       <source> (read)</source>
       <translation> (讀取)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="702"/>
+      <location filename="src/dbg/debugger.cpp" line="707"/>
       <source> (write)</source>
       <translation> (寫入)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="705"/>
+      <location filename="src/dbg/debugger.cpp" line="710"/>
       <source> (execute)</source>
       <translation> (執行)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="708"/>
+      <location filename="src/dbg/debugger.cpp" line="713"/>
       <source> (read/write/execute)</source>
       <translation> (讀取/寫入/執行)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="716"/>
+      <location filename="src/dbg/debugger.cpp" line="721"/>
       <source>Memory breakpoint%s "%s" at %s, exception address: %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="725"/>
+      <location filename="src/dbg/debugger.cpp" line="730"/>
       <source>Memory breakpoint%s at %s, exception address: %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="740"/>
+      <location filename="src/dbg/debugger.cpp" line="745"/>
       <source>DLL Load</source>
       <translation>DLL 載入</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="743"/>
+      <location filename="src/dbg/debugger.cpp" line="748"/>
       <source>DLL Unload</source>
       <translation>DLL 卸載</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="746"/>
+      <location filename="src/dbg/debugger.cpp" line="751"/>
       <source>DLL Load and unload</source>
       <translation>DLL 載入和卸載</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="752"/>
+      <location filename="src/dbg/debugger.cpp" line="757"/>
       <source>DLL Breakpoint %s (%s): Module %s
 </source>
       <translation>DLL中斷點 %s(%s)：模組 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="754"/>
+      <location filename="src/dbg/debugger.cpp" line="759"/>
       <source>DLL Breakpoint (%s): Module %s
 </source>
       <translation>DLL中斷點 (%s)：模組 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="761"/>
-      <location filename="src/dbg/debugger.cpp" line="763"/>
+      <location filename="src/dbg/debugger.cpp" line="766"/>
+      <location filename="src/dbg/debugger.cpp" line="768"/>
       <source>Exception Breakpoint %s (%p) at %p!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="790"/>
+      <location filename="src/dbg/debugger.cpp" line="795"/>
       <source>paused!</source>
       <translation>已暫停！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="892"/>
+      <location filename="src/dbg/debugger.cpp" line="897"/>
       <source>Breakpoint reached not in list!</source>
       <translation>遇到了未知中斷點！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="926"/>
-      <location filename="src/dbg/debugger.cpp" line="1400"/>
+      <location filename="src/dbg/debugger.cpp" line="931"/>
+      <location filename="src/dbg/debugger.cpp" line="1398"/>
       <source>Error when evaluating break condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="940"/>
-      <location filename="src/dbg/debugger.cpp" line="1415"/>
+      <location filename="src/dbg/debugger.cpp" line="945"/>
+      <location filename="src/dbg/debugger.cpp" line="1413"/>
       <source>Error when evaluating log condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="953"/>
-      <location filename="src/dbg/debugger.cpp" line="1421"/>
+      <location filename="src/dbg/debugger.cpp" line="958"/>
+      <location filename="src/dbg/debugger.cpp" line="1419"/>
       <source>Error when evaluating command condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1080"/>
+      <location filename="src/dbg/debugger.cpp" line="1077"/>
       <source>Failed to open breakpoint log: %s (%s)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1109"/>
+      <location filename="src/dbg/debugger.cpp" line="1106"/>
       <source>User code reached at %s</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1206"/>
+      <location filename="src/dbg/debugger.cpp" line="1203"/>
       <source>Breakpoint %p has been disabled because the bytes don't match! Expected: %02X %02X, Found: %02X %02X
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1213"/>
+      <location filename="src/dbg/debugger.cpp" line="1210"/>
       <source>Could not set breakpoint %p! (SetBPX)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1216"/>
+      <location filename="src/dbg/debugger.cpp" line="1213"/>
       <source>MemRead failed on breakpoint address %p!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1225"/>
+      <location filename="src/dbg/debugger.cpp" line="1223"/>
       <source>Could not set memory breakpoint %p! (SetMemoryBPXEx)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1241"/>
+      <location filename="src/dbg/debugger.cpp" line="1239"/>
       <source>Could not set hardware breakpoint %p! (SetHardwareBreakPoint)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1243"/>
+      <location filename="src/dbg/debugger.cpp" line="1241"/>
       <source>Set hardware breakpoint on %p!
 </source>
       <translation>在 %p 設定硬體中斷點!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1276"/>
+      <location filename="src/dbg/debugger.cpp" line="1274"/>
       <source>Could not delete breakpoint %p! (DeleteBPX)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1280"/>
+      <location filename="src/dbg/debugger.cpp" line="1278"/>
       <source>Could not delete memory breakpoint %p! (RemoveMemoryBPX)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1284"/>
+      <location filename="src/dbg/debugger.cpp" line="1282"/>
       <source>Could not delete hardware breakpoint %p! (DeleteHardwareBreakPoint)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1446"/>
+      <location filename="src/dbg/debugger.cpp" line="1444"/>
       <source>Trace finished after %llu steps!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1448"/>
+      <location filename="src/dbg/debugger.cpp" line="1446"/>
       <source>Trace finished after %u steps!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1519"/>
-      <location filename="src/dbg/debugger.cpp" line="1882"/>
+      <location filename="src/dbg/debugger.cpp" line="1517"/>
+      <location filename="src/dbg/debugger.cpp" line="1880"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNameFromHandle 失敗)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1521"/>
+      <location filename="src/dbg/debugger.cpp" line="1519"/>
       <source>Process Started: %p %s
 </source>
       <translation>處理程序已啟動: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1570"/>
+      <location filename="src/dbg/debugger.cpp" line="1568"/>
       <source>TLS Callback %d</source>
       <translation>TLS Callback %d</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1578"/>
-      <location filename="src/dbg/debugger.cpp" line="1935"/>
+      <location filename="src/dbg/debugger.cpp" line="1576"/>
+      <location filename="src/dbg/debugger.cpp" line="1933"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d 不正確的 TLS callback 位置...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1583"/>
-      <location filename="src/dbg/debugger.cpp" line="1907"/>
+      <location filename="src/dbg/debugger.cpp" line="1581"/>
+      <location filename="src/dbg/debugger.cpp" line="1905"/>
       <source>entry breakpoint</source>
       <translation>入口中斷點</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1647"/>
+      <location filename="src/dbg/debugger.cpp" line="1645"/>
       <source>Process stopped with exit code %s
 </source>
       <translation>處理程序停止，其結束代碼爲 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1687"/>
+      <location filename="src/dbg/debugger.cpp" line="1685"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1696"/>
+      <location filename="src/dbg/debugger.cpp" line="1694"/>
       <source>Thread Entry</source>
       <translation>執行緒入口</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1725"/>
+      <location filename="src/dbg/debugger.cpp" line="1723"/>
       <source>Thread %s Stack</source>
       <translation>執行緒 %s 堆疊</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1751"/>
+      <location filename="src/dbg/debugger.cpp" line="1749"/>
       <source>No threads left to switch to (bug?)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1760"/>
+      <location filename="src/dbg/debugger.cpp" line="1758"/>
       <source>Thread %s exit
 </source>
       <translation>執行緒 %s 退出
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1783"/>
+      <location filename="src/dbg/debugger.cpp" line="1781"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1788"/>
+      <location filename="src/dbg/debugger.cpp" line="1786"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1809"/>
+      <location filename="src/dbg/debugger.cpp" line="1807"/>
       <source>System breakpoint reached!</source>
       <translation>已到達系統中斷點！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1821"/>
+      <location filename="src/dbg/debugger.cpp" line="1819"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation type="unfinished"/>
     </message>
     <message>
+      <location filename="src/dbg/debugger.cpp" line="1924"/>
       <location filename="src/dbg/debugger.cpp" line="1926"/>
-      <location filename="src/dbg/debugger.cpp" line="1928"/>
       <source>TLS Callback</source>
       <translation>TLS Callback</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1964"/>
+      <location filename="src/dbg/debugger.cpp" line="1962"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>正等待ntdll.dll符號載入……</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1970"/>
+      <location filename="src/dbg/debugger.cpp" line="1968"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1972"/>
+      <location filename="src/dbg/debugger.cpp" line="1970"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>無法寫入 LdrpDebugFlags</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1976"/>
+      <location filename="src/dbg/debugger.cpp" line="1974"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1981"/>
+      <location filename="src/dbg/debugger.cpp" line="1979"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>找不到LdrpDebugFlags（您需要為ntdll.dll加載符號）</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1986"/>
+      <location filename="src/dbg/debugger.cpp" line="1984"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL 載入：%p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2053"/>
+      <location filename="src/dbg/debugger.cpp" line="2051"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL 卸載：%p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2096"/>
+      <location filename="src/dbg/debugger.cpp" line="2094"/>
       <source>DebugString: "%s"
 </source>
       <translation>除錯字串："%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2159"/>
+      <location filename="src/dbg/debugger.cpp" line="2157"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2180"/>
+      <location filename="src/dbg/debugger.cpp" line="2178"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2182"/>
+      <location filename="src/dbg/debugger.cpp" line="2180"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2193"/>
+      <location filename="src/dbg/debugger.cpp" line="2191"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2195"/>
+      <location filename="src/dbg/debugger.cpp" line="2193"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2253"/>
+      <location filename="src/dbg/debugger.cpp" line="2251"/>
       <source>Attached to process!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2818"/>
+      <location filename="src/dbg/debugger.cpp" line="2816"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2867"/>
+      <location filename="src/dbg/debugger.cpp" line="2865"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2901"/>
+      <location filename="src/dbg/debugger.cpp" line="2899"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2902"/>
+      <location filename="src/dbg/debugger.cpp" line="2900"/>
       <source>Elevation</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2926"/>
+      <location filename="src/dbg/debugger.cpp" line="2924"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3018"/>
+      <location filename="src/dbg/debugger.cpp" line="3016"/>
       <source>Attach to process failed: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3056"/>
+      <location filename="src/dbg/debugger.cpp" line="3054"/>
       <source>Debugging stopped!</source>
       <translation>除錯停止！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3108"/>
+      <location filename="src/dbg/debugger.cpp" line="3106"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10524,48 +10601,48 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="141"/>
+      <location filename="src/dbg/simplescript.cpp" line="209"/>
       <source>FileHelper::ReadAllText failed...</source>
       <translation>FileHelper::ReadAllText 失敗……</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="273"/>
+      <location filename="src/dbg/simplescript.cpp" line="313"/>
       <source>Empty label detected on line %d!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="282"/>
+      <location filename="src/dbg/simplescript.cpp" line="322"/>
       <source>Duplicate label "%s" detected on lines %d and %d!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="323"/>
-      <location filename="src/dbg/simplescript.cpp" line="506"/>
+      <location filename="src/dbg/simplescript.cpp" line="362"/>
+      <location filename="src/dbg/simplescript.cpp" line="545"/>
       <source>Invalid branch label "%s" detected on line %d!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="446"/>
+      <location filename="src/dbg/simplescript.cpp" line="485"/>
       <source>Script finished!</source>
       <translation>腳本完成！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="551"/>
+      <location filename="src/dbg/simplescript.cpp" line="602"/>
       <source>Error executing command!</source>
       <translation>執行命令時發生錯誤！</translation>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="577"/>
+      <location filename="src/dbg/simplescript.cpp" line="628"/>
       <source>Debugger must be paused to run a script!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="617"/>
+      <location filename="src/dbg/simplescript.cpp" line="670"/>
       <source>The script has been running for a while. Would you like to terminate it now?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/simplescript.cpp" line="619"/>
+      <location filename="src/dbg/simplescript.cpp" line="672"/>
       <source>Script is terminated by user.</source>
       <translation>腳本被使用者終止。</translation>
     </message>
@@ -15337,46 +15414,51 @@ Do you want to apply these patches anyway?</source>
     </message>
     <message>
       <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="87"/>
+      <source>Copy Address</source>
+      <translation>複製位置</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="93"/>
       <source>Set breakpoint on all commands</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="90"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="96"/>
       <source>Remove breakpoint on all commands</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="93"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="99"/>
       <source>Set breakpoint on all api calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="96"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="102"/>
       <source>Remove breakpoint on all api calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="143"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="150"/>
       <source>Total Progress %1%</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="234"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="241"/>
       <source>Set breakpoint on all calls to %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="236"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="243"/>
       <source>Remove breakpoint on all calls to %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="402"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="409"/>
       <source>Error!</source>
       <translation>錯誤！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="402"/>
+      <location filename="src/gui/Src/BasicView/ReferenceView.cpp" line="409"/>
       <source>DbgSetBookmarkAt failed!</source>
       <translation>DbgSetBookmarkAt 失敗!</translation>
     </message>
@@ -16317,7 +16399,7 @@ The TEB can be used to get a lot of information on the process without calling W
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="190"/>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1192"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1199"/>
       <source>* Requires debuggee restart</source>
       <translation type="unfinished"/>
     </message>
@@ -16617,237 +16699,242 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="782"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="774"/>
+      <source>Use trace coverage data to assist more accurate disassembling (experimental)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
       <source>Hexadecimal value notation:</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="799"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="806"/>
       <source>None</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="804"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="811"/>
       <source>C/C++</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="809"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="816"/>
       <source>MASM</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="819"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="826"/>
       <source>Don't show source lines in comments</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="826"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="833"/>
       <source>Assemble instruction on double-click</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="850"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="857"/>
       <source>Maximum module name size</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="898"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="905"/>
       <source>GUI</source>
       <translation>介面</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="910"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="917"/>
       <source>Show FPU registers as little endian</source>
       <translation>以 little endian 顯示 FPU 暫存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="917"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="924"/>
       <source>Save GUI layout and column orders</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="924"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="931"/>
       <source>Don't show close dialog</source>
       <translation>關閉時不顯示對話方塊</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="931"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="938"/>
       <source>Enable Load/Save Tab Order</source>
       <translation>啟用載入/儲存分頁順序</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="938"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="945"/>
       <source>Show Watch Labels in Side Bar</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="945"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="952"/>
       <source>Do not call SetForegroundWindow</source>
       <translation>停用 SetForegroundWindow</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="952"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="959"/>
       <source>Show RVA addresses in graph view</source>
       <translation>在圖形中顯示 RVA 位置</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="959"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="966"/>
       <source>Graph zoom mode</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="966"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="973"/>
       <source>Auto follow operand in stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="973"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="980"/>
       <source>Show exit confirmation dialog</source>
       <translation>退出時顯示確認對話方塊</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="980"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="987"/>
       <source>Show attach confirmation dialog</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="987"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="994"/>
       <source>Disable auto completion in goto dialog</source>
       <translation>在 goto 輸入框中停用自動完成</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="994"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1001"/>
       <source>Hide seasonal icons</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1001"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1008"/>
       <source>Disabling this option will tell Windows that x64dbg is DPI unaware. This might result in blurry results in some configurations.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1004"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1011"/>
       <source>Qt High DPI Scaling</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1011"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1018"/>
       <source>Full executable path in title</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1018"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1025"/>
       <source>Disable icons*</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1025"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1032"/>
       <source>Dump in trace view consumes significant memory. It is used by many features in trace view that need to search for access to memory. If disabled, it will not be loaded by default. The user can always load the dump manually. Dump in already opened trace tabs are not disabled until you close them.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1028"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1035"/>
       <source>Automatically load dump in trace view</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1049"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1056"/>
       <source>Misc</source>
       <translation>雜項</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1061"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1068"/>
       <source>Symbol Store:</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1071"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1078"/>
       <source>Symbol Path:</source>
       <translation>符號路徑：</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1095"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1102"/>
       <source>Set x64dbg as Just In Time Debugger</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1104"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1111"/>
       <source>JIT:</source>
       <translation>JIT:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1123"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1130"/>
       <source>&lt;font color="red"&gt;DIE SCUM!&lt;/font&gt;</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1130"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1137"/>
       <source>Search Engine URL</source>
       <translation>搜尋引擎網址</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1144"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1151"/>
       <source>UTF-16 Log Redirect*</source>
       <translation>日誌重新導向為 UTF-16*</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1151"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1158"/>
       <source>Use local help file (x64dbg.chm)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1158"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1165"/>
       <source>Query process cookie*</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1165"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1172"/>
       <source>Query working set before reading memory</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1172"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1179"/>
       <source>Transparent exception stepping*</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1221"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1228"/>
       <source>Save</source>
       <translation>儲存</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1231"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="1238"/>
       <source>Cancel</source>
       <translation>取消</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="345"/>
       <source>&lt;font color="red"&gt;&lt;b&gt;Warning&lt;/b&gt;&lt;/font&gt;: Run the debugger as Admin to enable JIT.</source>
       <translation>&lt;font color="red"&gt;&lt;b&gt;警告&lt;/b&gt;&lt;/font&gt;: 以管理員身份執行除錯器以啟用 JIT 。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="648"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="651"/>
       <source>Settings saved!</source>
       <translation>設定已儲存!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="716"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="719"/>
       <source>ERROR NOT FOUND OLD JIT</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="716"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="719"/>
       <source>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="872"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
       <source>Question</source>
       <translation>問題</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="872"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
       <source>Are you sure you want to add %.8X?</source>
       <translation type="unfinished"/>
     </message>
