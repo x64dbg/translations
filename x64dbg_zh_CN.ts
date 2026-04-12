@@ -6268,7 +6268,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <source>Cycle Hex View</source>
-      <translation type="unfinished"/>
+      <translation>循环十六进制视图</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>

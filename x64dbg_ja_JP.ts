@@ -1992,7 +1992,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
       <source>Reset trace coverage</source>
-      <translation type="unfinished"/>
+      <translation>トレースカバレッジをリセット</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
@@ -2417,7 +2417,8 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1999"/>
       <source>Failed to reset trace coverage for page %1.
 </source>
-      <translation type="unfinished"/>
+      <translation>ページ %1 のトレースカバレッジのリセットに失敗しました。
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2015"/>
@@ -2777,27 +2778,27 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="258"/>
       <source>Cycle Hex View</source>
-      <translation type="unfinished"/>
+      <translation>Hex表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="259"/>
       <source>Cycle Text View</source>
-      <translation type="unfinished"/>
+      <translation>テキスト表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="260"/>
       <source>Cycle Integer View</source>
-      <translation type="unfinished"/>
+      <translation>整数表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="261"/>
       <source>Cycle Float View</source>
-      <translation type="unfinished"/>
+      <translation>Float表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="262"/>
       <source>Cycle Address View</source>
-      <translation type="unfinished"/>
+      <translation>アドレス表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="440"/>
@@ -6270,27 +6271,27 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <source>Cycle Hex View</source>
-      <translation type="unfinished"/>
+      <translation>Hex表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
       <source>Cycle Text View</source>
-      <translation type="unfinished"/>
+      <translation>テキスト表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
       <source>Cycle Integer View</source>
-      <translation type="unfinished"/>
+      <translation>整数表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
       <source>Cycle Float View</source>
-      <translation type="unfinished"/>
+      <translation>Float表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
       <source>Cycle Address View</source>
-      <translation type="unfinished"/>
+      <translation>アドレス表示の切り替え</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
@@ -6311,7 +6312,7 @@
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
       <source>Copy Reference Address</source>
-      <translation type="unfinished"/>
+      <translation>参照アドレスをコピー</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
@@ -16941,7 +16942,7 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="774"/>
       <source>Use trace coverage data to assist more accurate disassembling (experimental)</source>
-      <translation type="unfinished"/>
+      <translation>トレースカバレッジデータを使用してより正確な逆アセンブルを補助する(試験的)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SettingsDialog.ui" line="789"/>
