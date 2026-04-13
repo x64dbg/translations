@@ -4268,7 +4268,6 @@ Hex dugo dugo (64-bit)</translation>
   <context>
     <name>Configuration</name>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="441"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
@@ -4279,7 +4278,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
@@ -4290,77 +4289,77 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
       <source>File</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="441"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="377"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <source>Open</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <source>Attach</source>
       <translation>Dodaj</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
-      <source>Detach</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
-      <source>Save database</source>
+      <source>Detach</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="445"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
-      <source>Restore backup database</source>
+      <source>Save database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
-      <source>Reload database</source>
+      <source>Restore backup database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
-      <source>Clear database</source>
+      <source>Reload database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
-      <source>Import database</source>
+      <source>Clear database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
-      <source>Export database</source>
+      <source>Import database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
-      <source>Restart as Admin</source>
+      <source>Export database</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
+      <source>Restart as Admin</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
       <source>Exit</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
@@ -4386,7 +4385,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
@@ -4412,132 +4411,132 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
       <source>View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
-      <source>CPU</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
-      <source>Log</source>
+      <source>CPU</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
-      <source>Breakpoints</source>
+      <source>Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
-      <source>Memory Map</source>
-      <translation>Mapa Memorije</translation>
+      <source>Breakpoints</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
-      <source>Call Stack</source>
-      <translation>Call Stack</translation>
+      <source>Memory Map</source>
+      <translation>Mapa Memorije</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
-      <source>Notes</source>
-      <translation>Bilješke</translation>
+      <source>Call Stack</source>
+      <translation>Call Stack</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
-      <source>SEH</source>
-      <translation>SEH</translation>
+      <source>Notes</source>
+      <translation>Bilješke</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
-      <source>Script</source>
-      <translation>Skripta</translation>
+      <source>SEH</source>
+      <translation>SEH</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
-      <source>Symbol Info</source>
-      <translation>Informacije Simbola</translation>
+      <source>Script</source>
+      <translation>Skripta</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
-      <source>Modules</source>
-      <translation>Moduli</translation>
+      <source>Symbol Info</source>
+      <translation>Informacije Simbola</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
-      <source>Source</source>
-      <translation>Izvor</translation>
+      <source>Modules</source>
+      <translation>Moduli</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
-      <source>References</source>
-      <translation>Reference</translation>
+      <source>Source</source>
+      <translation>Izvor</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
-      <source>Threads</source>
-      <translation>Threads</translation>
+      <source>References</source>
+      <translation>Reference</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
-      <source>Patches</source>
-      <translation>Patches</translation>
+      <source>Threads</source>
+      <translation>Threads</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
-      <source>Comments</source>
-      <translation>Komentari</translation>
+      <source>Patches</source>
+      <translation>Patches</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
-      <source>Labels</source>
-      <translation>Oznake</translation>
+      <source>Comments</source>
+      <translation>Komentari</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
-      <source>Bookmarks</source>
-      <translation>Zabilježeno</translation>
+      <source>Labels</source>
+      <translation>Oznake</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
-      <source>Functions</source>
-      <translation>Funkcije</translation>
+      <source>Bookmarks</source>
+      <translation>Zabilježeno</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
-      <source>Variables</source>
-      <translation>Varijable</translation>
+      <source>Functions</source>
+      <translation>Funkcije</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
+      <source>Variables</source>
+      <translation>Varijable</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
       <source>Handles</source>
       <translation>Handles</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
@@ -4545,8 +4544,8 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
@@ -4554,41 +4553,41 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Graph</source>
       <translation>Grafovi</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>Previous Tab</source>
       <translation>Prošli Tab</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <source>Next Tab</source>
       <translation>Sljedeći Tab</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
-      <source>Previous View</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
-      <source>Next View</source>
+      <source>Previous View</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
+      <source>Next View</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
       <source>Hide Tab</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
@@ -4621,7 +4620,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
@@ -4653,344 +4652,344 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
       <source>Debug</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <source>Run</source>
       <translation>Pokreni</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
-      <source>Run (pass exception)</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
-      <source>Run (swallow exception)</source>
+      <source>Run (pass exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
-      <source>Run until selection</source>
+      <source>Run (swallow exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
-      <source>Run until expression</source>
+      <source>Run until selection</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
-      <source>Pause</source>
+      <source>Run until expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
-      <source>Restart</source>
+      <source>Pause</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
-      <source>Close</source>
+      <source>Restart</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
-      <source>Step into</source>
+      <source>Close</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
-      <source>Step into (pass exception)</source>
+      <source>Step into</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
-      <source>Step into (swallow exception)</source>
+      <source>Step into (pass exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
-      <source>Step into (source)</source>
+      <source>Step into (swallow exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
-      <source>Step over</source>
+      <source>Step into (source)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
-      <source>Step over (pass exception)</source>
+      <source>Step over</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
-      <source>Step over (swallow exception)</source>
+      <source>Step over (pass exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
-      <source>Step over (source)</source>
+      <source>Step over (swallow exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
-      <source>Execute till return</source>
+      <source>Step over (source)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
-      <source>Execute till return (pass exception)</source>
+      <source>Execute till return</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
-      <source>Run to user code</source>
+      <source>Execute till return (pass exception)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
-      <source>Skip next instruction</source>
+      <source>Run to user code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
-      <source>Command</source>
+      <source>Skip next instruction</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
-      <source>Trace into...</source>
+      <source>Command</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <source>Trace into...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Trace over...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Bit</source>
       <translation>Bit</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
-      <source>None</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
-      <source>Undo instruction</source>
+      <source>None</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
-      <source>Animate into</source>
+      <source>Undo instruction</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
-      <source>Animate over</source>
+      <source>Animate into</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
-      <source>Animate command</source>
+      <source>Animate over</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
-      <source>Step into until reaching uncovered code</source>
+      <source>Animate command</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
-      <source>Step over until reaching uncovered code</source>
+      <source>Step into until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
-      <source>Step into until reaching covered code</source>
+      <source>Step over until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <source>Step into until reaching covered code</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
       <source>Step over until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Plugins</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Scylla</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Favourites</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Manage Favourite Tools</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Options</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Preferences</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <source>Appearance</source>
       <translation>Izgled</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
-      <source>Hotkeys</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
-      <source>Topmost</source>
+      <source>Hotkeys</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
+      <source>Topmost</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Reload style.css</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <source>Help</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
-      <source>About</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
-      <source>Blog</source>
+      <source>About</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
-      <source>Donate</source>
+      <source>Blog</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
-      <source>Calculator</source>
+      <source>Donate</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
-      <source>Report Bug</source>
+      <source>Calculator</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
-      <source>Manual</source>
+      <source>Report Bug</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
+      <source>Manual</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <source>Generate Crash Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
@@ -5002,7 +5001,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
@@ -5137,13 +5136,13 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
@@ -5155,10 +5154,10 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
@@ -5294,405 +5293,405 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="626"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="625"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="632"/>
       <source>Actions</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
-      <source>Find Strings</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
-      <source>Find Strings in Current Module</source>
+      <source>Find Strings</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
-      <source>Find Intermodular Calls</source>
+      <source>Find Strings in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
-      <source>Toggle Breakpoint</source>
+      <source>Find Intermodular Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
-      <source>Set Conditional Breakpoint</source>
+      <source>Toggle Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
-      <source>Toggle Bookmark</source>
+      <source>Set Conditional Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
-      <source>Delete Breakpoint</source>
+      <source>Toggle Bookmark</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
-      <source>Enable/Disable Breakpoint</source>
+      <source>Delete Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
-      <source>Reset breakpoint hit count</source>
+      <source>Enable/Disable Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
-      <source>Enable all breakpoints</source>
+      <source>Reset breakpoint hit count</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
-      <source>Disable all breakpoints</source>
+      <source>Enable all breakpoints</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
-      <source>Remove all breakpoints</source>
+      <source>Disable all breakpoints</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
-      <source>Binary Edit</source>
+      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
+      <source>Remove all breakpoints</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
-      <source>Binary Fill</source>
+      <source>Binary Edit</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
-      <source>Binary Fill NOPs</source>
+      <source>Binary Fill</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
-      <source>Binary Copy</source>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <source>Binary Fill NOPs</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
-      <source>Binary Paste</source>
+      <source>Binary Copy</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
-      <source>Binary Paste (Ignore Size)</source>
+      <source>Binary Paste</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
-      <source>Binary Save</source>
+      <source>Binary Paste (Ignore Size)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
-      <source>Undo Selection</source>
+      <source>Binary Save</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
-      <source>Set Label</source>
+      <source>Undo Selection</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
-      <source>Set Label for the Operand</source>
+      <source>Set Label</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
-      <source>Set Comment</source>
+      <source>Set Label for the Operand</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
-      <source>Toggle Function</source>
+      <source>Set Comment</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
-      <source>Add Loop</source>
+      <source>Toggle Function</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
-      <source>Delete Loop</source>
+      <source>Add Loop</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
-      <source>Toggle Argument</source>
+      <source>Delete Loop</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
+      <source>Toggle Argument</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <source>Assemble</source>
       <translation>Asembliraj</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
-      <source>Set EIP/RIP Here</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
-      <source>Goto Origin</source>
+      <source>Set EIP/RIP Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
-      <source>Goto EBP/RBP</source>
+      <source>Goto Origin</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
-      <source>Goto Previous</source>
+      <source>Goto EBP/RBP</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
-      <source>Goto Next</source>
+      <source>Goto Previous</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
-      <source>Goto Expression</source>
+      <source>Goto Next</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
-      <source>Goto Start of Page</source>
+      <source>Goto Expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
-      <source>Goto End of Page</source>
+      <source>Goto Start of Page</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
-      <source>Goto Start of Function</source>
+      <source>Goto End of Page</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
-      <source>Goto End of Function</source>
+      <source>Goto Start of Function</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
-      <source>Goto File Offset</source>
+      <source>Goto End of Function</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
-      <source>Find References to Selected Address</source>
+      <source>Goto File Offset</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
-      <source>Find Pattern</source>
+      <source>Find References to Selected Address</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
-      <source>Find Pattern in Current Module</source>
+      <source>Find Pattern</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
-      <source>Find Names in Current Module</source>
+      <source>Find Pattern in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
-      <source>Find References</source>
+      <source>Find Names in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
-      <source>xrefs...</source>
-      <translation>xrefs...</translation>
+      <source>Find References</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
-      <source>Analyze Single Function</source>
-      <translation type="unfinished"/>
+      <source>xrefs...</source>
+      <translation>xrefs...</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
-      <source>Analyze Module</source>
+      <source>Analyze Single Function</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
-      <source>Help on Mnemonic</source>
+      <source>Analyze Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
-      <source>Toggle Mnemonic Brief</source>
+      <source>Help on Mnemonic</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
-      <source>Highlighting Mode</source>
+      <source>Toggle Mnemonic Brief</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
-      <source>Enable/Disable Branch Destination Preview</source>
+      <source>Highlighting Mode</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
-      <source>Find</source>
+      <source>Enable/Disable Branch Destination Preview</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
-      <source>Find in Current Module</source>
+      <source>Find</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
-      <source>Enable/Disable Logging</source>
+      <source>Find in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
-      <source>Allocate Memory</source>
-      <translation>Dodijeli Memoriju</translation>
+      <source>Enable/Disable Logging</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
+      <source>Allocate Memory</source>
+      <translation>Dodijeli Memoriju</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <source>Free Memory</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
-      <source>Sync With Expression</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
-      <source>Copy All Registers</source>
+      <source>Sync With Expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
-      <source>Mark As User Module</source>
+      <source>Copy All Registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
-      <source>Mark As System Module</source>
+      <source>Mark As User Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
-      <source>Mark As Party</source>
+      <source>Mark As System Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
-      <source>Set Hardware Breakpoint (Execute)</source>
+      <source>Mark As Party</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
-      <source>Remove Hardware Breakpoint</source>
+      <source>Set Hardware Breakpoint (Execute)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
-      <source>Remove Type Analysis From Module</source>
+      <source>Remove Hardware Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
-      <source>Remove Type Analysis From Selection</source>
+      <source>Remove Type Analysis From Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
+      <source>Remove Type Analysis From Selection</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
@@ -5708,7 +5707,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
@@ -5725,15 +5724,8 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
-      <source>Treat Selection As</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
-      <source>Code</source>
+      <source>Treat Selection As</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5741,31 +5733,31 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
-      <source>Byte</source>
-      <translation>Bajt</translation>
+      <source>Code</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
-      <source>Word</source>
-      <translation>Riječ</translation>
+      <source>Byte</source>
+      <translation>Bajt</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
-      <source>Dword</source>
-      <translation type="unfinished"/>
+      <source>Word</source>
+      <translation>Riječ</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
-      <source>Fword</source>
+      <source>Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5773,7 +5765,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
-      <source>Qword</source>
+      <source>Fword</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5781,7 +5773,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
-      <source>Tbyte</source>
+      <source>Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5789,7 +5781,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
-      <source>Oword</source>
+      <source>Tbyte</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5797,7 +5789,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
-      <source>Float</source>
+      <source>Oword</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5805,7 +5797,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
-      <source>Double</source>
+      <source>Float</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5813,7 +5805,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
-      <source>LongDouble</source>
+      <source>Double</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5821,31 +5813,31 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
-      <source>ASCII</source>
-      <translation>ASCII</translation>
+      <source>LongDouble</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
-      <source>UNICODE</source>
-      <translation>UNICODE</translation>
+      <source>ASCII</source>
+      <translation>ASCII</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
-      <source>MMWord</source>
-      <translation type="unfinished"/>
+      <source>UNICODE</source>
+      <translation>UNICODE</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
-      <source>XMMWord</source>
+      <source>MMWord</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -5853,11 +5845,18 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
-      <source>YMMWord</source>
+      <source>XMMWord</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
+      <source>YMMWord</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
@@ -5873,7 +5872,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
@@ -5890,438 +5889,439 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
-      <source>Treat Selection Head As</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
-      <source>Toggle Register Value</source>
+      <source>Treat Selection Head As</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
-      <source>Clear</source>
+      <source>Toggle Register Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
-      <source>Copy</source>
+      <source>Clear</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
-      <source>Copy Address</source>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <source>Copy</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
-      <source>Copy RVA</source>
+      <source>Copy Address</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
-      <source>Copy Symbol</source>
+      <source>Copy RVA</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
-      <source>Copy Line</source>
-      <translation>Kopiraj Liniju</translation>
+      <source>Copy Symbol</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
-      <source>Copy Disassembly</source>
-      <translation type="unfinished"/>
+      <source>Copy Line</source>
+      <translation>Kopiraj Liniju</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
-      <source>Load Script</source>
+      <source>Copy Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
-      <source>Reload Script</source>
+      <source>Load Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
-      <source>Unload Script</source>
+      <source>Reload Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
-      <source>Edit Script</source>
+      <source>Unload Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
-      <source>Run Script</source>
+      <source>Edit Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
-      <source>Toggle Script Breakpoint</source>
+      <source>Run Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
-      <source>Run Script to Cursor</source>
+      <source>Toggle Script Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
-      <source>Step Script</source>
+      <source>Run Script to Cursor</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
-      <source>Abort Script</source>
+      <source>Step Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
-      <source>Execute Script Command</source>
+      <source>Abort Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
+      <source>Execute Script Command</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Refresh</source>
       <translation>Obnovi</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
-      <source>Zoom to cursor</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
-      <source>Fit To Window</source>
+      <source>Zoom to cursor</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
-      <source>Follow in disassembler</source>
+      <source>Fit To Window</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
-      <source>Save as image</source>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <source>Follow in disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
-      <source>Toggle overview</source>
+      <source>Save as image</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
-      <source>Toggle summary</source>
+      <source>Toggle overview</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
-      <source>Toggle sync with EIP/RIP</source>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <source>Toggle summary</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
-      <source>Increment x87 Stack</source>
+      <source>Toggle sync with EIP/RIP</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
-      <source>Decrement x87 Stack</source>
+      <source>Increment x87 Stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
-      <source>Redirect Log</source>
+      <source>Decrement x87 Stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
-      <source>Browse in Explorer</source>
+      <source>Redirect Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
-      <source>Download Symbols for This Module</source>
+      <source>Browse in Explorer</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
-      <source>Download Symbols for All Modules</source>
+      <source>Download Symbols for This Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
-      <source>Create New Thread Here</source>
+      <source>Download Symbols for All Modules</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
-      <source>Open Source File</source>
+      <source>Create New Thread Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
-      <source>Follow in Memory Map</source>
+      <source>Open Source File</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
-      <source>Follow in Stack</source>
+      <source>Follow in Memory Map</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
-      <source>Follow in Disassembler</source>
+      <source>Follow in Stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
-      <source>Follow DWORD/QWORD in Disassembler</source>
+      <source>Follow in Disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
-      <source>Follow DWORD/QWORD in Dump</source>
+      <source>Follow DWORD/QWORD in Disassembler</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
-      <source>Freeze the stack</source>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <source>Follow DWORD/QWORD in Dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
-      <source>Go to Base of Stack Frame</source>
+      <source>Freeze the stack</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
-      <source>Go to Previous Stack Frame</source>
+      <source>Go to Base of Stack Frame</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
-      <source>Go to Next Stack Frame</source>
+      <source>Go to Previous Stack Frame</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
-      <source>Go to Previous Reference</source>
+      <source>Go to Next Stack Frame</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
-      <source>Go to Next Reference</source>
+      <source>Go to Previous Reference</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
-      <source>Modify value</source>
-      <translation>Uredi vrijednost</translation>
+      <source>Go to Next Reference</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
-      <source>Watch DWORD/QWORD</source>
-      <translation type="unfinished"/>
+      <source>Modify value</source>
+      <translation>Uredi vrijednost</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
-      <source>Copy File Offset</source>
+      <source>Watch DWORD/QWORD</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
-      <source>Start/Stop trace recording</source>
+      <source>Copy File Offset</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="626"/>
-      <source>Copy -&gt; Cropped Table</source>
+      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="625"/>
+      <source>Start/Stop trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
-      <source>Copy -&gt; Table</source>
+      <source>Copy -&gt; Cropped Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
-      <source>Copy -&gt; Line, To Log</source>
+      <source>Copy -&gt; Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
-      <source>Copy -&gt; Cropped Table, To Log</source>
+      <source>Copy -&gt; Line, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
-      <source>Copy -&gt; Table, To Log</source>
+      <source>Copy -&gt; Cropped Table, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
+      <source>Copy -&gt; Table, To Log</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="632"/>
       <source>Copy -&gt; Export Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="871"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="887"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="896"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="915"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="924"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="939"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="948"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="967"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="976"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="990"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1004"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1022"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="807"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="823"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="832"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="851"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="860"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="875"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="884"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="903"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="912"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="928"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="942"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="960"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="872"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="888"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="897"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="916"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="925"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="940"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="949"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="968"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="977"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="991"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1005"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1023"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="808"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="824"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="833"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="852"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="861"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="876"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="885"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="904"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="913"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="929"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="943"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="961"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>NIJE PRONAĐEN U KONFIGURACIJI!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Tracing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Disable</source>
       <translation>Isključi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <source>Dump</source>
       <translation>Deponije:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
       <source>Cycle Hex View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
       <source>Cycle Text View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
       <source>Cycle Integer View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
       <source>Cycle Float View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <source>Cycle Address View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
       <source>Set %1 Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
       <source>Sync</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
       <source>ZMMWord</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
       <source>Copy Reference Address</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
@@ -7765,7 +7765,7 @@ Hex dugo dugo (64-bit)</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="121"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="231"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="247"/>
       <source>Could not open file!</source>
       <translation type="unfinished"/>
     </message>
@@ -7952,7 +7952,7 @@ Hex dugo dugo (64-bit)</translation>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="705"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="841"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="855"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="192"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="208"/>
       <source>Failed to read (all) memory...</source>
       <translation type="unfinished"/>
     </message>
@@ -8100,374 +8100,374 @@ Hex dugo dugo (64-bit)</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="22"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="38"/>
       <source>VirtualAllocEx failed</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="28"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
       <source>User-allocated memory</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="49"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="65"/>
       <source>$lastalloc is zero, provide a page address</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="56"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="72"/>
       <source>VirtualFreeEx failed</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="84"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="100"/>
       <source>Invalid address specified</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="93"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="109"/>
       <source>Memset failed</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="95"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="111"/>
       <source>Memory %p (size: %.8X) set to %.2X
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="133"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="149"/>
       <source>Error: using an address as arg1
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="139"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="167"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
       <source>Error getting rights of page: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="143"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="159"/>
       <source>Page: %p, Rights: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="171"/>
       <source>Error: Using an address as arg1 and as arg2: Execute, ExecuteRead, ExecuteReadWrite, ExecuteWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. You can add a G at first for add PAGE GUARD, example: GReadOnly
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="161"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
       <source>Error: Set rights of %p with Rights: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="175"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="191"/>
       <source>New rights of %p: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="202"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="218"/>
       <source>Failed to write file...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="206"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="222"/>
       <source>%p[%llX] written to "%s" !
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="208"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
       <source>%p[%X] written to "%s" !
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="240"/>
       <source>Cannot dump while running...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="282"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="298"/>
       <source>Dump saved!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="287"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="303"/>
       <source>MiniDumpWriteDump failed. GetLastError() = %s.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="29"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="332"/>
       <source>Directory '%s' doesn't exist
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="33"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="336"/>
       <source>Current directory changed!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="53"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="356"/>
       <source>Debugger hidden</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="55"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="358"/>
       <source>Something went wrong</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="93"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="396"/>
       <source>Error: you must specify the name of the DLL to load
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="125"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="428"/>
       <source>Error: couldn't get kernel32:LoadLibraryW</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="133"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="237"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="436"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="540"/>
       <source>Error: couldn't allocate memory in debuggee</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="144"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="248"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="447"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="551"/>
       <source>Error: couldn't write process memory</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="151"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="255"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="454"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="558"/>
       <source>Error: couldn't SetBPX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="202"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="505"/>
       <source>Error: the specified address does not point inside a module</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="230"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="533"/>
       <source>Error: couldn't get kernel32:FreeLibrary</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="274"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="741"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="577"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="1044"/>
       <source>Invalid expression: "%s"!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="279"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="582"/>
       <source>Invalid address: %p!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="291"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="594"/>
       <source>Failed to assemble "%s" (%s)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="323"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="626"/>
       <source>Error run the debugger as Admin to setjit
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="333"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="350"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="370"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="391"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="401"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="435"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="636"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="653"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="673"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="694"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="704"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="738"/>
       <source>Error setting JIT %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="344"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="385"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="471"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="647"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="688"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="774"/>
       <source>Error there is no old JIT entry stored.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="414"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="717"/>
       <source>New OLD JIT stored: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="425"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="486"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="728"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="789"/>
       <source>Unknown JIT entry type. Use OLD, x64 or x32 as parameter.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="433"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="493"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="736"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="796"/>
       <source>Error using x64 arg. The debugger is not a WOW64 process
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="441"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="744"/>
       <source>Error unknown parameters. Use old, oldsave, restore, x86 or x64 as parameter.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="445"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="748"/>
       <source>New JIT %s: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="459"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="495"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="762"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="798"/>
       <source>Error getting JIT %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="476"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="779"/>
       <source>OLD JIT entry stored: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="500"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="803"/>
       <source>JIT %s: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="514"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="536"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="817"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="839"/>
       <source>Error getting JIT auto %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="527"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="542"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="596"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="830"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="845"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="899"/>
       <source>Unknown JIT auto entry type. Use x64 or x32 as parameter.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="534"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="613"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="837"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="916"/>
       <source>Error using x64 arg the debugger is not a WOW64 process
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="545"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="848"/>
       <source>JIT auto %s: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="556"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="859"/>
       <source>Error run the debugger as Admin to setjitauto
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="561"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="864"/>
       <source>Error setting JIT Auto. Use ON:1 or OFF:0 arg or x64/x32, ON:1 or OFF:0.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="572"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="875"/>
       <source>Error unknown parameters. Use ON:1 or OFF:0</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="579"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="882"/>
       <source>Error setting JIT auto x64</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="581"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="884"/>
       <source>Error setting JIT auto x32</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="606"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="909"/>
       <source>Error unknown parameters. Use x86 or x64 and ON:1 or OFF:0
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="617"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="920"/>
       <source>Error getting JIT auto x64</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="619"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="922"/>
       <source>Error getting JIT auto x32</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="626"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="929"/>
       <source>Error unknown parameters use x86 or x64, ON/1 or OFF/0
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="630"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="933"/>
       <source>New JIT auto %s: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="645"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="948"/>
       <source>Command line: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="658"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="961"/>
       <source>Error: write the arg1 with the new command line of the process debugged</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="672"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="975"/>
       <source>New command line: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="683"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="986"/>
       <source>No description or empty description</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="720"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="1023"/>
       <source>Error: Configuration not found.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="735"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="1038"/>
       <source>Error updating configuration.</source>
       <translation type="unfinished"/>
     </message>
@@ -10186,103 +10186,108 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="392"/>
+      <location filename="src/dbg/module.cpp" line="487"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="408"/>
+      <location filename="src/dbg/module.cpp" line="503"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="430"/>
+      <location filename="src/dbg/module.cpp" line="525"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="509"/>
+      <location filename="src/dbg/module.cpp" line="604"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="570"/>
+      <location filename="src/dbg/module.cpp" line="665"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="577"/>
+      <location filename="src/dbg/module.cpp" line="672"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="720"/>
+      <location filename="src/dbg/module.cpp" line="815"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="785"/>
+      <location filename="src/dbg/module.cpp" line="880"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="968"/>
-      <source>Module %s%s loaded from file handle (path inaccessible)
+      <location filename="src/dbg/module.cpp" line="1042"/>
+      <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1021"/>
+      <location filename="src/dbg/module.cpp" line="1095"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/patches.cpp" line="198"/>
+      <location filename="src/dbg/patches.cpp" line="199"/>
       <source>No patches to apply</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/patches.cpp" line="213"/>
+      <location filename="src/dbg/patches.cpp" line="214"/>
       <source>Not all patches are in module %s</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/patches.cpp" line="225"/>
+      <location filename="src/dbg/patches.cpp" line="226"/>
       <source>Failed to get base of module %s</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/patches.cpp" line="235"/>
+      <location filename="src/dbg/patches.cpp" line="236"/>
       <source>Failed to get module path of module %s</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/patches.cpp" line="247"/>
+      <location filename="src/dbg/patches.cpp" line="248"/>
       <source>Failed to make a copy of the original file (patch target is in use?)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/patches.cpp" line="258"/>
+      <location filename="src/dbg/patches.cpp" line="259"/>
       <source>Unable to obtain attributes for copied file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/patches.cpp" line="273"/>
-      <source>StaticFileLoad failed</source>
+      <location filename="src/dbg/patches.cpp" line="274"/>
+      <source>Failed to map copied file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/patches.cpp" line="298"/>
-      <source>StaticFileUnload failed</source>
+      <location filename="src/dbg/patches.cpp" line="284"/>
+      <source>Copied file is not a valid PE image</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/patches.cpp" line="313"/>
+      <source>Failed to flush or unmap copied file</source>
       <translation type="unfinished"/>
     </message>
     <message>
