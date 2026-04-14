@@ -10495,7 +10495,8 @@ Do you want to continue debugging?</source>
       <location filename="src/dbg/module.cpp" line="1042"/>
       <source>Module %s%s loaded from disk path
 </source>
-      <translation type="unfinished"/>
+      <translation>モジュール %s%s はディスクパスからロードされました
+</translation>
     </message>
     <message>
       <location filename="src/dbg/module.cpp" line="1095"/>
@@ -10537,17 +10538,17 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/patches.cpp" line="274"/>
       <source>Failed to map copied file</source>
-      <translation type="unfinished"/>
+      <translation>コピーしたファイルのマッピングに失敗しました</translation>
     </message>
     <message>
       <location filename="src/dbg/patches.cpp" line="284"/>
       <source>Copied file is not a valid PE image</source>
-      <translation type="unfinished"/>
+      <translation>コピーされたファイルは有効なPEイメージではありません</translation>
     </message>
     <message>
       <location filename="src/dbg/patches.cpp" line="313"/>
       <source>Failed to flush or unmap copied file</source>
-      <translation type="unfinished"/>
+      <translation>コピーしたファイルのフラッシュまたはアンマップに失敗しました</translation>
     </message>
     <message>
       <location filename="src/dbg/plugin_loader.cpp" line="323"/>
