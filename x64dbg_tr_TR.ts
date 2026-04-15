@@ -3630,42 +3630,42 @@
       <translation>Ctrl+G</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="94"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="89"/>
       <source>Disassembly</source>
       <translation>Disassembly</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="95"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="90"/>
       <source>Stack</source>
       <translation>Yığın</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="96"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="91"/>
       <source>Registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="97"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="92"/>
       <source>Dump</source>
       <translation>Döküm</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="98"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="93"/>
       <source>Arguments</source>
       <translation>Argümanlar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="99"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="94"/>
       <source>Sidebar</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="95"/>
       <source>InfoBox</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="238"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="233"/>
       <source>Graph</source>
       <translation>Grafik</translation>
     </message>
@@ -4264,10 +4264,6 @@
   <context>
     <name>Configuration</name>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="445"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
@@ -4275,6 +4271,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
@@ -4290,76 +4290,72 @@
       <translation>Dosya</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <source>Open</source>
       <translation>Açık</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <source>Attach</source>
       <translation>Ekle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
       <source>Detach</source>
       <translation>Ayır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="445"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
       <source>Save database</source>
       <translation>Veritabanını Kaydet</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
       <source>Restore backup database</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
       <source>Reload database</source>
       <translation>Veritabanını yeniden yükle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <source>Clear database</source>
       <translation>Veri tabanını temizle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
       <source>Import database</source>
       <translation>Veritabanını içe aktar</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <source>Export database</source>
       <translation>Veritabanını dışa aktar</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <source>Restart as Admin</source>
       <translation>Yönetici olarak Yeniden Başlat</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
       <source>Exit</source>
       <translation>Çıkış</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
@@ -4382,6 +4378,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
@@ -4412,135 +4412,135 @@
       <translation>Görünüm</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <source>CPU</source>
       <translation>CPU</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <source>Log</source>
       <translation>Günlük</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
       <source>Breakpoints</source>
       <translation>Kesme Noktaları</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
       <source>Memory Map</source>
       <translation>Hafıza</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
       <source>Call Stack</source>
       <translation>Yığın Çağrıları</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
       <source>Notes</source>
       <translation>Notlar</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
       <source>SEH</source>
       <translation>SEH</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
       <source>Script</source>
       <translation>Komut Dosyası</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
       <source>Symbol Info</source>
       <translation>Sembol Bilgisi</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
       <source>Modules</source>
       <translation>Modüller</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
       <source>Source</source>
       <translation>Kaynak</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
       <source>References</source>
       <translation>Referanslar</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
       <source>Threads</source>
       <translation>İş Parçacıkları</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
       <source>Patches</source>
       <translation>Yamalar</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
       <source>Comments</source>
       <translation>Yorumlar</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
       <source>Labels</source>
       <translation>Etiketler</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
       <source>Bookmarks</source>
       <translation>Yer imleri</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <source>Functions</source>
       <translation>Fonksiyonlar</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <source>Variables</source>
       <translation>Değişkenler</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
       <source>Handles</source>
       <translation>Tutamaçlar</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
@@ -4554,40 +4554,36 @@
       <translation>Grafik</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>Previous Tab</source>
       <translation>Önceki Sekme</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <source>Next Tab</source>
       <translation>Sonraki Sekme</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <source>Previous View</source>
       <translation>Önceki Görünüm</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <source>Next View</source>
       <translation>Sonraki Görünüm</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
       <source>Hide Tab</source>
       <translation>Sekmeyi Gizle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
@@ -4617,6 +4613,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
@@ -4653,240 +4653,240 @@
       <translation>Hata Ayıklama</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <source>Run</source>
       <translation>Çalıştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <source>Run (pass exception)</source>
       <translation>Çalıştır (istisnayı geç)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
       <source>Run (swallow exception)</source>
       <translation>Run (istisnayı yut)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
       <source>Run until selection</source>
       <translation>Seçime kadar çalıştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
       <source>Run until expression</source>
       <translation>İfadeye kadar çalıştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
       <source>Pause</source>
       <translation>Durdur</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
       <source>Restart</source>
       <translation>Yeniden Başlat</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
       <source>Close</source>
       <translation>Kapat</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
       <source>Step into</source>
       <translation>Prosedürün içine gir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
       <source>Step into (pass exception)</source>
       <translation>Prosedürün içine gir (istisnayı geç)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
       <source>Step into (swallow exception)</source>
       <translation>Prosedürün içine gir (istisnayı yut)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <source>Step into (source)</source>
       <translation>Prosedürün içine gir (kaynak)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <source>Step over</source>
       <translation>Prosedürün içine girmeden devam et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
       <source>Step over (pass exception)</source>
       <translation>Prosedürün içine girmeden devam et (istisnayı geç)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
       <source>Step over (swallow exception)</source>
       <translation>Prosedürün içine girmeden devam et (istisnayı yut)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
       <source>Step over (source)</source>
       <translation>Prosedürün içine girmeden devam et (kaynak)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <source>Execute till return</source>
       <translation>İlk Return komutuna kadar çalıştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
       <source>Execute till return (pass exception)</source>
       <translation>İlk Return komutuna kadar çalıştır (istisnayı geç)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Run to user code</source>
       <translation>Kullanıcı kodunu çalıştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Skip next instruction</source>
       <translation>Bir sonraki talimatı atla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Command</source>
       <translation>Komut</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Trace into...</source>
       <translation>Prosedürün içine girerek izleri takip et...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Trace over...</source>
       <translation>Prosedürün içine girmeden izleri takip et...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Trace coverage</source>
       <translation>izleme kapsamı</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Bit</source>
       <translation>Bit</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
       <source>None</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Undo instruction</source>
       <translation>Talimatı geri al</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Animate into</source>
       <translation>Prosedürün içine izleyerek gir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
       <source>Animate over</source>
       <translation>Prosedürün içine girmeden izleyerek devam et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Animate command</source>
       <translation>İzleme komutu</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Step into until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
       <source>Step over until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Step into until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
       <source>Step over until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Plugins</source>
       <translation>Eklentiler</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Scylla</source>
       <translation>Scylla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Favourites</source>
       <translation>Sık Kullanılanlar</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Manage Favourite Tools</source>
       <translation>Sık Kullanılan Araçları Yönet</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
@@ -4896,43 +4896,43 @@
       <translation>Seçenekler</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Preferences</source>
       <translation>Tercihler</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <source>Appearance</source>
       <translation>Görünüm</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <source>Hotkeys</source>
       <translation>Kısayol Tuşları</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <source>Topmost</source>
       <translation>Her zaman üstte</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Reload style.css</source>
       <translation>Yeniden yükle -&gt; style.css</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
@@ -4944,52 +4944,48 @@
       <translation>Yardım</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <source>About</source>
       <translation>Hakkında</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Blog</source>
       <translation>Blog</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Donate</source>
       <translation>Bağışta Bulun</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <source>Calculator</source>
       <translation>Hesap Makinesi</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <source>Report Bug</source>
       <translation>Hata Raporla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <source>Manual</source>
       <translation>Manuel</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <source>Generate Crash Dump</source>
       <translation>Çökme Dökümü Oluştur</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
@@ -4998,10 +4994,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
@@ -5133,12 +5129,16 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="688"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="689"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="690"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="691"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
@@ -5300,398 +5300,394 @@
       <translation>Eylemler</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <source>Find Strings</source>
       <translation>Stringleri Bul</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <source>Find Strings in Current Module</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
       <source>Find Intermodular Calls</source>
       <translation>İntermoduler Çağrıları Bul</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <source>Toggle Breakpoint</source>
       <translation>Kesme Noktası Ayarla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <source>Set Conditional Breakpoint</source>
       <translation>Koşullu Kesme Noktası Ata</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
       <source>Toggle Bookmark</source>
       <translation>Yer İşaretini Değiştir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <source>Delete Breakpoint</source>
       <translation>Kesme Noktasını Sil</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
       <source>Enable/Disable Breakpoint</source>
       <translation>Kesme Noktasını Aktif/Pasif Yap</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
       <source>Reset breakpoint hit count</source>
       <translation>Kesme noktası uğrama sayısını sıfırla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <source>Enable all breakpoints</source>
       <translation>Tüm kopma noktalarını etkinleştir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <source>Disable all breakpoints</source>
       <translation>Tüm kopma noktalarını devre dışı bırak</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
       <source>Remove all breakpoints</source>
       <translation>Tüm kesme noktalarını kaldır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <source>Binary Edit</source>
       <translation>Binary Düzenle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
       <source>Binary Fill</source>
       <translation>Binary Doldur</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <source>Binary Fill NOPs</source>
       <translation>NOP 'lar ile Binary doldur</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <source>Binary Copy</source>
       <translation>Binary Kopyala</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <source>Binary Paste</source>
       <translation>Binary Yapıştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
       <source>Binary Paste (Ignore Size)</source>
       <translation>Binary Yapıştır (Boyutunu Önemseme)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
       <source>Binary Save</source>
       <translation>Binary Kaydet</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
       <source>Undo Selection</source>
       <translation>Seçimi Geri Al</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
       <source>Set Label</source>
       <translation>Etiketi Ayarla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
       <source>Set Label for the Operand</source>
       <translation>Operand için Etiket Ayarla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
       <source>Set Comment</source>
       <translation>Yorum Ayarla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
       <source>Toggle Function</source>
       <translation>Fonksiyon Değiştir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
       <source>Add Loop</source>
       <translation>Döngü Ekle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
       <source>Delete Loop</source>
       <translation>Döngü Sil</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <source>Toggle Argument</source>
       <translation>Argüman Değiştir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <source>Assemble</source>
       <translation>Assembly Düzenle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
       <source>Set EIP/RIP Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
       <source>Goto Origin</source>
       <translation>Başlangıç Noktasına Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
       <source>Goto EBP/RBP</source>
       <translation>EBP/RBP'e git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
       <source>Goto Previous</source>
       <translation>Öncekine Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
       <source>Goto Next</source>
       <translation>Sonrakine Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
       <source>Goto Expression</source>
       <translation>İfade'ye Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
       <source>Goto Start of Page</source>
       <translation>Sayfa Başına Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
       <source>Goto End of Page</source>
       <translation>Sayfa Sonuna Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
       <source>Goto Start of Function</source>
       <translation>Fonksiyon Başlangıcına Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
       <source>Goto End of Function</source>
       <translation>Fonksiyon Bitişine Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
       <source>Goto File Offset</source>
       <translation>Dosya İçi Pozisyona Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
       <source>Find References to Selected Address</source>
       <translation>Seçilen Adresin Referanslarını Bul</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
       <source>Find Pattern</source>
       <translation>Pattern(Şablon) Bul</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
       <source>Find Pattern in Current Module</source>
       <translation>Güncel modülde desen bul</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
       <source>Find Names in Current Module</source>
       <translation>Güncel modülde isim bul</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
       <source>Find References</source>
       <translation>Referansları Bul</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
       <source>xrefs...</source>
       <translation>Dış Referanslar...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
       <source>Analyze Single Function</source>
       <translation>Tek Fonksiyonu Analiz Et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
       <source>Analyze Module</source>
       <translation>Modülü Analiz Et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
       <source>Help on Mnemonic</source>
       <translation>Anlık günlük kaydına git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
       <source>Toggle Mnemonic Brief</source>
       <translation>Anlık kayıtları günlükte değiştir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
       <source>Highlighting Mode</source>
       <translation>Vurgulama modu</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
       <source>Enable/Disable Branch Destination Preview</source>
       <translation>Hedef Dallanma Önizlemesini Etkinleştir/Devre Dışı Bırak</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
       <source>Find</source>
       <translation>Bul</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
       <source>Find in Current Module</source>
       <translation>Güncel modülde bul</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
       <source>Enable/Disable Logging</source>
       <translation>Günlüğü Etkinleştir/Devre Dışı Bırak</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
       <source>Allocate Memory</source>
       <translation>Ayrılmış Hafıza</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <source>Free Memory</source>
       <translation>Serbest Hafıza</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
       <source>Sync With Expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
       <source>Copy All Registers</source>
       <translation>Tüm Kayıtları Kopyala</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
       <source>Mark As User Module</source>
       <translation>Kullanıcı Modülü Olarak İşaretle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
       <source>Mark As System Module</source>
       <translation>Sistem Modülü Olarak İşaretle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
       <source>Mark As Party</source>
       <translation>Topluluktan İşaretle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
       <source>Set Hardware Breakpoint (Execute)</source>
       <translation>Donanımsal Kesme Noktası Ayarla (Yürütülen)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
       <source>Remove Hardware Breakpoint</source>
       <translation>Donanımsal Kesme Noktasını Kaldır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
       <source>Remove Type Analysis From Module</source>
       <translation>Modül'den analiz türünü kaldır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
       <source>Remove Type Analysis From Selection</source>
       <translation>Seçim'den analiz türünü kaldır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
@@ -5704,6 +5700,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
@@ -5725,138 +5725,134 @@
       <translation>Seçimi İşle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <source>Code</source>
       <translation>Kod</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <source>Byte</source>
       <translation>Bayt</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
       <source>Word</source>
       <translation>Word</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <source>Dword</source>
       <translation>Dword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>Fword</source>
       <translation>Fword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
       <source>Qword</source>
       <translation>Qword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
       <source>Tbyte</source>
       <translation>Tbyte</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <source>Oword</source>
       <translation>Oword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
       <source>LongDouble</source>
       <translation>LongDouble</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
       <source>MMWord</source>
       <translation>MMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
       <source>XMMWord</source>
       <translation>XMMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
       <source>YMMWord</source>
       <translation>YMMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
@@ -5869,6 +5865,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
@@ -5890,347 +5890,347 @@
       <translation>Seçim Başını İşle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
       <source>Toggle Register Value</source>
       <translation>Yazmaç Değirini Değiştir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
       <source>Clear</source>
       <translation>Temizle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
       <source>Copy</source>
       <translation>Kopyala</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
       <source>Copy Address</source>
       <translation>Adresi Kopyala</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
       <source>Copy RVA</source>
       <translation>RVA Kopyala</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
       <source>Copy Symbol</source>
       <translation>Sembol Kopyala</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
       <source>Copy Line</source>
       <translation>Satırı Kopyala</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <source>Copy Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
       <source>Load Script</source>
       <translation>Komut Dosyası Yükle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>Reload Script</source>
       <translation>Komut Dosyasını Yeniden Yükle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Unload Script</source>
       <translation>Komut Dosyasını Kaldır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Edit Script</source>
       <translation>Komut Dosyasını Düzenle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Run Script</source>
       <translation>Komut Dosyasını Çalıştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Toggle Script Breakpoint</source>
       <translation>Komut Dosyası, Kesme Noktası Değiştir/Ayarla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Run Script to Cursor</source>
       <translation>Komut Dosyasını İmleç ile Çalıştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Step Script</source>
       <translation>Komut Dosyasını Adım Adım Yürüt</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Abort Script</source>
       <translation>Komut Dosyasını İptal Et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Execute Script Command</source>
       <translation>Komut Dosyasında Komut Çalıştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Refresh</source>
       <translation>Yenile</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Zoom to cursor</source>
       <translation>İmlece Yakınlaştır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Fit To Window</source>
       <translation>Pencereye Sığdır</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Follow in disassembler</source>
       <translation>Disassembler'de takip et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Save as image</source>
       <translation>Resim olarak kaydet</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Toggle overview</source>
       <translation>Gözden geçirmeyi değiştir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Toggle summary</source>
       <translation>Özeti aç/kapat</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
       <source>Toggle sync with EIP/RIP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Increment x87 Stack</source>
       <translation>Yığın Artışı -&gt; x87 </translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Decrement x87 Stack</source>
       <translation>Yığın Azaltma -&gt; x87</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Redirect Log</source>
       <translation>Log Yönlendir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Browse in Explorer</source>
       <translation>Explorer'da Gözat</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Download Symbols for This Module</source>
       <translation>Download Symbols for This Module</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Download Symbols for All Modules</source>
       <translation>Tüm Modüller için Semboller İndir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Create New Thread Here</source>
       <translation>Yeni işlem oluştur(Buraya)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Open Source File</source>
       <translation>Kaynak Dosyası Aç</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Follow in Memory Map</source>
       <translation>Hafıza Haritası'nda İzle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Follow in Stack</source>
       <translation>Yığında Takip Et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Follow in Disassembler</source>
       <translation>Disassembler'de Takip Et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation>Disassembler'de DWORD/QWORD Takip Et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation>Döküm'de DWORD/QWORD Takip Et</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Freeze the stack</source>
       <translation>Yığını dondur</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Go to Base of Stack Frame</source>
       <translation>Yığın Çerçevesinin Tabanına Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Go to Previous Stack Frame</source>
       <translation>Önceki Yığın Çerçevesine Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Go to Next Stack Frame</source>
       <translation>Sonraki Yığın Çerçevesine Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
       <source>Go to Previous Reference</source>
       <translation>Önceki referansa git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
       <source>Go to Next Reference</source>
       <translation>Sonraki Referansa Git</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Modify value</source>
       <translation>Değeri değiştir</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
       <source>Watch DWORD/QWORD</source>
       <translation>DWORD/QWORD İzle</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
       <source>Copy File Offset</source>
       <translation>Dosya İçi Pozisyonu Kopyala</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="625"/>
       <source>Start/Stop trace recording</source>
       <translation>İz kaydını Başlat/Durdur</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
       <source>Copy -&gt; Table</source>
       <translation>Kopyala -&gt; Tablo</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="688"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="689"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="690"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="691"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="632"/>
       <source>Copy -&gt; Export Table</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="872"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="888"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="897"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="916"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="925"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="940"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="949"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="968"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="977"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="991"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1005"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1023"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="876"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="892"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="901"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="920"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="929"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="944"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="953"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="972"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="981"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="995"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1009"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1027"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="808"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="824"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="833"/>
@@ -11346,6 +11346,24 @@ Do you want me to fix this?</translation>
     </message>
   </context>
   <context>
+    <name>DbgAdapter</name>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="208"/>
+      <source>System breakpoint</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="221"/>
+      <source>Step</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="227"/>
+      <source>Paused</source>
+      <translation>Duraklatıldı</translation>
+    </message>
+  </context>
+  <context>
     <name>DebugStatusLabel</name>
     <message>
       <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
@@ -13160,6 +13178,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
       <location filename="src/cross/minidump/MainWindow.ui" line="38"/>
       <location filename="src/cross/remote_table/MainWindow.ui" line="38"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="34"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="41"/>
       <source>&amp;File</source>
       <translation>&amp;Dosya</translation>
     </message>
@@ -13205,6 +13224,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="109"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="47"/>
       <source>&amp;Debug</source>
       <translation>&amp;Debug</translation>
     </message>
@@ -13274,6 +13294,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="334"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="45"/>
       <source>E&amp;xit</source>
       <translation>Çı&amp;kış</translation>
     </message>
@@ -13284,6 +13305,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="346"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
       <source>&amp;Run</source>
       <translation>&amp;Çalıştır</translation>
     </message>
@@ -13475,6 +13497,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="574"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="126"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="204"/>
       <source>CPU</source>
       <translation>CPU</translation>
@@ -13522,6 +13545,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>İş Parçacıkları</translation>
@@ -13650,6 +13674,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>Yığın Çağrıları</translation>
@@ -14298,6 +14323,125 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
       <translation type="unfinished"/>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="42"/>
+      <source>&amp;Open...</source>
+      <translation>&amp;Aç...</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="52"/>
+      <source>Toggle &amp;Breakpoint</source>
+      <translation>&amp;Kesme Noktası Değiştir</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="55"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
+      <source>Ready</source>
+      <translation>Hazır</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="84"/>
+      <source>Main Toolbar</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="91"/>
+      <source>Open (Ctrl+O)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="94"/>
+      <source>Restart</source>
+      <translation>Yeniden Başlat</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="98"/>
+      <source>Close</source>
+      <translation>Kapat</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="104"/>
+      <source>Run (F9)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="107"/>
+      <source>Pause</source>
+      <translation>Durdur</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="112"/>
+      <source>Step Into (F7)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="116"/>
+      <source>Step Over (F8)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="130"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
+      <source>Log</source>
+      <translation>Günlük</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="140"/>
+      <source>Breakpoints view - not yet implemented</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="140"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
+      <source>Breakpoints</source>
+      <translation>Kesme Noktaları</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <source>Memory map view - not yet implemented</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
+      <source>Memory Map</source>
+      <translation>Hafıza</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <source>Call stack view - not yet implemented</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <source>Threads view - not yet implemented</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="166"/>
+      <source>Hex</source>
+      <translation>Hex</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="174"/>
+      <source>ASCII</source>
+      <translation>ASCII</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="205"/>
+      <source>Open ELF Binary</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="205"/>
+      <source>All Files (*)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="239"/>
+      <source>Running</source>
+      <translation>Çalışıyor</translation>
+    </message>
+    <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1229"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1290"/>
@@ -14317,24 +14461,9 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
       <translation>%1 [Yükseltildi]</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
-      <source>Log</source>
-      <translation>Günlük</translation>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="162"/>
       <source>Symbols</source>
       <translation>Semboller</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
-      <source>Breakpoints</source>
-      <translation>Kesme Noktaları</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
-      <source>Memory Map</source>
-      <translation>Hafıza</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="193"/>
@@ -14350,11 +14479,6 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="467"/>
       <source>Command: </source>
       <translation>Komut: </translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
-      <source>Ready</source>
-      <translation>Hazır</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="492"/>
@@ -15077,6 +15201,24 @@ Mümkün olduğunca çok bilgi girdiğinizden emin olun.</translation>
     </message>
   </context>
   <context>
+    <name>MiniThreads</name>
+    <message>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <source>Thread ID</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <source>TEB</source>
+      <translation>TEB</translation>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <source>CIP</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
     <name>ModuleStdTable</name>
     <message>
       <location filename="src/gui/Src/Gui/SymbolView.cpp" line="139"/>
@@ -15626,223 +15768,223 @@ Bu yamaları yine de uygulamak istiyor musunuz?</translation>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2645"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2769"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="919"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="996"/>
       <source>Registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1336"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1417"/>
       <source>Copy value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1337"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1418"/>
       <source>Copy floating point value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1338"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1419"/>
       <source>Copy Symbol Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1339"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1420"/>
       <source>Copy all registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1340"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1421"/>
       <source>Change view</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1341"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
       <source>Change SIMD Register Display Mode</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1343"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
       <source>Display ST(x)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1344"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
       <source>Display x87rX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1345"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1426"/>
       <source>Display MMX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
       <source>Hexadecimal</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1351"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
       <source>Signed Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1352"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
       <source>Signed Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1353"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
       <source>Signed Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1354"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
       <source>Unsigned Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1355"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
       <source>Unsigned Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1356"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1437"/>
       <source>Unsigned Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1357"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1438"/>
       <source>Hexadecimal Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1358"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
       <source>Hexadecimal Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1359"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
       <source>Hexadecimal Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1472"/>
       <source>Always show maximum vector length</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1392"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1473"/>
       <source>Always show all AVX-512 registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
       <source>CF (Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
       <source>PF (Parity flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>ZF (Zero flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>SF (Sign flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>TF (Trap flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>IF (Interrupt enable flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>DF (Direction flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>OF (Overflow flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
       <source>Bit #</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
       <source>Mask</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
       <source>Flag</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1609"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1612"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1703"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (bit 2) : Eşlik Bayrağı - İşlem sonucunda en alçak dereceli bayt içerisinde 1'lerin sayısı çift ise ayarlanır(1); yoksa temizlenir(0).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1614"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1705"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (bit 4) : Ara Elde Bayrağı - Bir aritmetik işlemin 0-3 arasındaki bitlerinde yapılan işlemde elde veya borç üretilirse ayarlanır(1); yoksa temizlenir(0)
 Bu bayrak, ikili kodlanmış onlu (BCD) aritmetikte kullanılır.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1617"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (bit 6) : Sıfır Bayrağı - İşlem sonucu sıfır ise ayarlanır(1); yoksa temizlenir(0).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1619"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (bit 7) : İşaret Bayrağı - İşlem sonucunda elde edilen sayının en solundaki bit değerini alır.
 (0 pozitif bir değer,1 negatif bir değer belirtir.)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1622"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
@@ -15850,7 +15992,7 @@ condition for signed-integer (two’s complement) arithmetic.</source>
 Bu bayrak signed-integer(ikili tamamlayıcı) aritmetik koşulunda bir taşmayı gösterir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1626"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1717"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
@@ -15858,263 +16000,263 @@ to auto-decrement (to process strings from high addresses to low addresses). Cle
  Azaltma yönündeyse(String yüksek adresten düşük adrese doğru) 1 ayarlanır. Arttırma yönündeyse(String düşük adresten yüksek adrese doğru) 0 ayarlanır.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1630"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1721"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (bit 8) : İzleme Bayrağı - Tek adımlı hata ayıklama modu için ayarlanır(1); yoksa mod devre dışıdır(0).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1632"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (bit 9) : Kesme Yetki Bayrağı - İşlemcinin maskelenebilen kesme isteklerine cevabını kontrol eder. Maskelenebilir kesmelere yanıt vermek üzere ayarlanır(1); yoksa maskelenebilir kesmelere yanıt devre dışıdır(0)(Tavsiye edilmez).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1634"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1636"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1727"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1638"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1729"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1641"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1643"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1734"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1645"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1736"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1648"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1739"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>(Bit 0) geçersiz işlem özel durum maskesi. Maske biti ayarlandığında, buna karşılık gelen özet oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1650"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1741"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>(bit 2) anormal özel durum maskesi. Maske biti ayarlandığında, buna karşılık gelen özet oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1652"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1743"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>(bit 3) Kayma noktası maskesi. Maske biti ayarlandığında, buna karşılık gelen özet oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1654"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1745"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>(bit 4) kayma noktası sayısal özet maskesi (bit). Maske biti ayarlandığında, buna karşılık gelen özet oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1656"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1747"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>(bit 5) potansiyel kayma noktası sayısal yetersizlik durumu maskesi. Maske biti ayarlandığında, buna karşılık gelen özel durum oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1658"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>(bit 6) hatalı-sonuç/hassas özet maskesi. Maske biti ayarlandığında, buna karşılık gelen özet oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1661"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1752"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation>Eğer bir yönergenin çalıştırmsıa sırasında FPU (B=1) meşgul ise, veya (B=0) boşta ise (bit 15) meşgul bayrağı gösterilir.
 (Bit 15) B-bit sadece 8087 uyumluluk için eklenmiştir. ES bayrağı içeriği yansıtır.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1664"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1670"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1759"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1761"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation>Nokta karşılaştırması ve aritmetik işlemlerin sonuçlarını göstermek için C%1 durum kodu bayrağı (bit%2) kullanılır.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1672"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation>Hata veya istisna özet durumu bayrağı (bit 7) maskesiz özel durum bayraklarının herhangi biri ayarlandığında ayarlanır.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1674"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1679"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1770"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation>İşlemci bir veya daha fazla geçersiz aritmetik yanıt için (bit 0) geçersiz bir işlem durumu bildiriyor.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1681"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1772"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation>Eğer bir aritmetik yönerge anormal işlenen özet üzerinde çalışırsa işlemci anormal işlenen özel durum (bit 2) bildirir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1774"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation>Eğer bir yönerge sıfır işlenen 0 ile sınırlı olmayan bölme için çalışırsa işlemci-3 sıfır istisna (bit) kayan nokta bölme raporlar.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1776"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation>İşlemcinin bir talimat sonucu işlenen hedefi içine sığan en büyük izin verilen sonlu değeri aşması durumunda (4 bit) kayan nokta sayısal taşma durumu bildirir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1687"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation>Ne zaman limitsiz üst ile yuvarlamanın sonucu sıfırdan farklı ve ufak olur ise işlemci, potansiyel bir kayan noktalı sayı, aşağı taşma durumu tespit eder (bit 5).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1689"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation>Eğer bir işlemin sonucu hedef biçiminde tam olarak gösterilebilirse 6 (bit) hatalı-sonuç/hassas durum oluşur.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1692"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1783"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1785"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1787"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1698"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1789"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1702"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1793"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1795"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1797"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>7 (IM) Bit : Geçersiz İşlem Maskesi. Maske biti ayarlandığında, onu karşılayan gelen özel durum oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1799"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 8 (DM): Anormal Maske. Maske biti ayarlandığında, ona karşılık gelen istisna durumunun oluşması engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1801"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 9 (ZM) Sıfır Maskeye Böl. Maske biti ayarlandığında, ona karşılık gelen özel durum oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1803"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 10 (OM) : Taşma Maskesi. Maske biti ayarlandığında, ona karşılık gelen özel durum oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 11 (UM) : Yetersizlik Durumu Maskesi. Maske biti ayarlandığında, ona karşılık gelen özel durum oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1807"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 12 (PM) : Hassas Maske. Maske biti ayarlandığında, ona karşılık gelen özel durum oluşumu engellenir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1809"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1720"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1811"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1814"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1824"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>GetLastError()'dan gelen değer. Bu değer TEB'de saklanır.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1834"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation>TEB bu LastStatusValue alanında NTSTATUS.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1839"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>TEB geçerli işlemin, GS (x64) ofset bölüm kaydına erişebilir.
 TEB, Win32 API'sini çağırmadan süreç hakkında bir çok bilgi almak için kullanılabilir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1842"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>TEB geçerli işlemin, FS (x86) ofset bölüm kaydına erişebilir.
 TEB, Win32 API'sini çağırmadan süreç hakkında bir çok bilgi almak için kullanılabilir.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1826"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1944"/>
       <source>Hide FPU</source>
       <translation>FPU Gizle</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1828"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1946"/>
       <source>Show FPU</source>
       <translation>FPU Göster</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2122"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2162"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2210"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2252"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2294"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2243"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2283"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2331"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2373"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2415"/>
       <source>Unknown</source>
       <translation>Bilinmiyor..</translation>
     </message>
@@ -16122,82 +16264,82 @@ TEB, Win32 API'sini çağırmadan süreç hakkında bir çok bilgi almak için k
   <context>
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="324"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2263"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2384"/>
       <source>Nonzero</source>
       <translation>Sıfır olmayan</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="326"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2264"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2385"/>
       <source>Zero</source>
       <translation>Sıfır</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="328"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2265"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="402"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2386"/>
       <source>Special</source>
       <translation>Özel</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="330"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2266"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="404"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2387"/>
       <source>Empty</source>
       <translation>Boş</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2092"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2213"/>
       <source>Toward Zero</source>
       <translation>Sıfır'a Doğru</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2093"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2214"/>
       <source>Toward Positive</source>
       <translation>Pozitif'e Doğru</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2094"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2215"/>
       <source>Toward Negative</source>
       <translation>Negatif'e Doğru</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2095"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2135"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2256"/>
       <source>Round Near</source>
       <translation>Yakına Yuvarla</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2132"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2253"/>
       <source>Truncate</source>
       <translation>Uç Kes</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2133"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2254"/>
       <source>Round Up</source>
       <translation>Yukarı Yuvarla</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2134"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2255"/>
       <source>Round Down</source>
       <translation>Aşağı Yuvarla</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2221"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2342"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2222"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2343"/>
       <source>Not Used</source>
       <translation>Kullanılmadı</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2223"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2344"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2224"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2345"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
@@ -18810,12 +18952,12 @@ Bu, hata ayıklama oturumunuzda beklenmeyen davranışa sebeb olabilir...</trans
       <translation>Vurgula</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="153"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="158"/>
       <source>View XMM register</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="155"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="160"/>
       <source>View MMX register</source>
       <translation type="unfinished"/>
     </message>
@@ -18948,100 +19090,100 @@ Bu, hata ayıklama oturumunuzda beklenmeyen davranışa sebeb olabilir...</trans
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="42"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="315"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="314"/>
       <source>Load dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="99"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="91"/>
       <source>Disassembly</source>
       <translation>Disassembly</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="100"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="92"/>
       <source>Registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="103"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="231"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="95"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="230"/>
       <source>Dump</source>
       <translation>Döküm</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="104"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="236"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="96"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="235"/>
       <source>Stack</source>
       <translation>Yığın</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="106"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="98"/>
       <source>InfoBox</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="166"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="165"/>
       <source>Error</source>
       <translation>Hata</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="166"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="165"/>
       <source>Error when opening trace recording (reason: %1)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="176"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="175"/>
       <source>Trace file is recorded for another debuggee</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="177"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="176"/>
       <source>Checksum is different for current trace file and the debugee. This probably means you have opened a wrong trace file. This trace file is recorded for "%1"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="209"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="208"/>
       <source>Enabling the trace dump can consume a lot of memory (max ~%1GiB for this trace) and freeze x64dbg for prolonged periods of time. This feature is still experimental, please report any bugs you encounter.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="210"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="209"/>
       <source>Warning</source>
       <translation>Uyarı</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="258"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="257"/>
       <source>Loaded trace dump in %1ms
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="339"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="338"/>
       <source>&amp;Selected Address</source>
       <translation>&amp;Seçili Adres</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="353"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="352"/>
       <source>&amp;Address: </source>
       <translation>&amp;Adres: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="365"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="364"/>
       <source>&amp;Old value: </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="369"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="368"/>
       <source>&amp;Value: </source>
       <translation>&amp;Değer: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="375"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="374"/>
       <source>&amp;New value: </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="386"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="385"/>
       <source>&amp;Constant: </source>
       <translation>&amp;Sabit: </translation>
     </message>

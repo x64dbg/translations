@@ -3633,42 +3633,42 @@
       <translation>Ctrl+G</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="94"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="89"/>
       <source>Disassembly</source>
       <translation>Дизассемблированный код</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="95"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="90"/>
       <source>Stack</source>
       <translation>Стек</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="96"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="91"/>
       <source>Registers</source>
       <translation>Регистры</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="97"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="92"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="98"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="93"/>
       <source>Arguments</source>
       <translation>Аргументы</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="99"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="94"/>
       <source>Sidebar</source>
       <translation>Боковая панель</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="100"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="95"/>
       <source>InfoBox</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="238"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="233"/>
       <source>Graph</source>
       <translation>График</translation>
     </message>
@@ -4267,10 +4267,6 @@
   <context>
     <name>Configuration</name>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="445"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
@@ -4278,6 +4274,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
@@ -4293,76 +4293,72 @@
       <translation>Файл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="442"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
       <source>Open</source>
       <translation>Открыть</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="443"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
       <source>Attach</source>
       <translation>Присоединение</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="444"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
       <source>Detach</source>
       <translation>Отсоединить</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="445"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
       <source>Save database</source>
       <translation>Сохранить базу данных</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
       <source>Restore backup database</source>
       <translation>Восстановить базу данных</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
       <source>Reload database</source>
       <translation>Перезагрузить базу данных</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
       <source>Clear database</source>
       <translation>Очистить базу данных</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
       <source>Import database</source>
       <translation>Импорт базы данных</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
       <source>Export database</source>
       <translation>Экспорт базы данных</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
       <source>Restart as Admin</source>
       <translation>Перезапустить с правами администратора</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
       <source>Exit</source>
       <translation>Выход</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
@@ -4385,6 +4381,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
@@ -4415,135 +4415,135 @@
       <translation>Вид</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <source>CPU</source>
       <translation>CPU</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <source>Log</source>
       <translation>Журнал</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
       <source>Breakpoints</source>
       <translation>Точки останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
       <source>Memory Map</source>
       <translation>Карта памяти</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
       <source>Call Stack</source>
       <translation>Стек вызовов</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
       <source>Notes</source>
       <translation>Заметки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
       <source>SEH</source>
       <translation>SEH</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
       <source>Script</source>
       <translation>Сценарий</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
       <source>Symbol Info</source>
       <translation>Информация о символах</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
       <source>Modules</source>
       <translation>Модули</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
       <source>Source</source>
       <translation>Исходный код</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
       <source>References</source>
       <translation>Ссылки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
       <source>Threads</source>
       <translation>Потоки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
       <source>Patches</source>
       <translation>Исправления</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
       <source>Comments</source>
       <translation>Комментарии</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
       <source>Labels</source>
       <translation>Метки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
       <source>Bookmarks</source>
       <translation>Закладки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <source>Functions</source>
       <translation>Функции</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <source>Variables</source>
       <translation>Переменные</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
       <source>Handles</source>
       <translation>Дескрипторы</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
@@ -4557,40 +4557,36 @@
       <translation>График</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>Previous Tab</source>
       <translation>Предыдущая вкладка</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <source>Next Tab</source>
       <translation>Следующая вкладка</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <source>Previous View</source>
       <translation>Предыдущий вид</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <source>Next View</source>
       <translation>Следующий вид</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
       <source>Hide Tab</source>
       <translation>Скрыть вкладку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
@@ -4620,6 +4616,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
@@ -4656,240 +4656,240 @@
       <translation>Отладка</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <source>Run</source>
       <translation>Выполнить</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <source>Run (pass exception)</source>
       <translation>Выполнить (пропустить исключение)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
       <source>Run (swallow exception)</source>
       <translation>Выполнить (проглотить исключение)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
       <source>Run until selection</source>
       <translation>Выполнить до выделенного</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
       <source>Run until expression</source>
       <translation>Выполнить до выражения</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
       <source>Pause</source>
       <translation>Приостановить</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
       <source>Restart</source>
       <translation>Перезапустить</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
       <source>Close</source>
       <translation>Закрыть</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
       <source>Step into</source>
       <translation>Шаг с заходом</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
       <source>Step into (pass exception)</source>
       <translation>Шаг с заходом (пропустить исключение)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
       <source>Step into (swallow exception)</source>
       <translation>Шаг с заходом (проглотить исключение)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <source>Step into (source)</source>
       <translation>Шаг с заходом (исходный код)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <source>Step over</source>
       <translation>Шаг с обходом</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
       <source>Step over (pass exception)</source>
       <translation>Шаг с обходом (пропустить исключение)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
       <source>Step over (swallow exception)</source>
       <translation>Шаг с обходом (проглотить исключение)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
       <source>Step over (source)</source>
       <translation>Шаг с обходом (исходный код)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <source>Execute till return</source>
       <translation>Выполнить до возврата</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
       <source>Execute till return (pass exception)</source>
       <translation>Выполнить до возврата (пропустить исключение)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Run to user code</source>
       <translation>Выполнить до пользовательского кода</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Skip next instruction</source>
       <translation>Пропустить следующую инструкцию</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Command</source>
       <translation>Команда</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Trace into...</source>
       <translation>Трассировка с заходом...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Trace over...</source>
       <translation>Трассировка с обходом...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Bit</source>
       <translation>Bit</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
       <source>None</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Undo instruction</source>
       <translation>Отменить инструкцию</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Animate into</source>
       <translation>Анимация с заходом</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
       <source>Animate over</source>
       <translation>Анимация с обходом</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Animate command</source>
       <translation>Анимация команды</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Step into until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
       <source>Step over until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Step into until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
       <source>Step over until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Plugins</source>
       <translation>Плагины</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Scylla</source>
       <translation>Scylla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Favourites</source>
       <translation>Избранное</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Manage Favourite Tools</source>
       <translation>Управление избранными инструментами</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
@@ -4899,43 +4899,43 @@
       <translation>Параметры</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Preferences</source>
       <translation>Параметры</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <source>Appearance</source>
       <translation>Внешний вид</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <source>Hotkeys</source>
       <translation>Горячие клавиши</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <source>Topmost</source>
       <translation>Поверх всех окон</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Reload style.css</source>
       <translation>Перезагрузить style.css</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
@@ -4947,52 +4947,48 @@
       <translation>Помощь</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
       <source>About</source>
       <translation>О программе</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Blog</source>
       <translation>Блог</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
       <source>Donate</source>
       <translation>Пожертвовать</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <source>Calculator</source>
       <translation>Калькулятор</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
       <source>Report Bug</source>
       <translation>Сообщить об ошибке</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <source>Manual</source>
       <translation>Вручную</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <source>Generate Crash Dump</source>
       <translation>Генерировать дамп сбоя</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
@@ -5001,10 +4997,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
@@ -5136,12 +5132,16 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="688"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="689"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="690"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="691"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
@@ -5303,398 +5303,394 @@
       <translation>Действия</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <source>Find Strings</source>
       <translation>Поиск строк</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <source>Find Strings in Current Module</source>
       <translation>Найти строки в текущем модуле</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
       <source>Find Intermodular Calls</source>
       <translation>Найти межмодульные вызовы</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <source>Toggle Breakpoint</source>
       <translation>Переключить состояние точки останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <source>Set Conditional Breakpoint</source>
       <translation>Установить условную точку останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
       <source>Toggle Bookmark</source>
       <translation>Поставить/Убрать закладку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <source>Delete Breakpoint</source>
       <translation>Удалить точку останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
       <source>Enable/Disable Breakpoint</source>
       <translation>Включить/Выключить точку останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
       <source>Reset breakpoint hit count</source>
       <translation>Сбросить счетчик точек останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <source>Enable all breakpoints</source>
       <translation>Включить все точки останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
       <source>Disable all breakpoints</source>
       <translation>Выключить все точки останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
       <source>Remove all breakpoints</source>
       <translation>Удалить все точки останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <source>Binary Edit</source>
       <translation>Редактировать двоичные данные</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
       <source>Binary Fill</source>
       <translation>Заполнить двоичные данные</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <source>Binary Fill NOPs</source>
       <translation>Заполнить инструкциями NOP</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <source>Binary Copy</source>
       <translation>Копировать двоичные данные</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <source>Binary Paste</source>
       <translation>Вставить двоичные данные</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
       <source>Binary Paste (Ignore Size)</source>
       <translation>Вставить двоичные данные (игнорировать размер)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
       <source>Binary Save</source>
       <translation>Сохранить двоичные данные</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
       <source>Undo Selection</source>
       <translation>Отменить выделение</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
       <source>Set Label</source>
       <translation>Задать метку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
       <source>Set Label for the Operand</source>
       <translation>Задать метку для операнда</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
       <source>Set Comment</source>
       <translation>Задать комментарий</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
       <source>Toggle Function</source>
       <translation>Переключить функцию</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
       <source>Add Loop</source>
       <translation>Добавить цикл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
       <source>Delete Loop</source>
       <translation>Удалить цикл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <source>Toggle Argument</source>
       <translation>Переключить аргумент</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <source>Assemble</source>
       <translation>Ассемблировать</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
       <source>Set EIP/RIP Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
       <source>Goto Origin</source>
       <translation>Перейти к началу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
       <source>Goto EBP/RBP</source>
       <translation>Перейти к EBP/RBP</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
       <source>Goto Previous</source>
       <translation>Перейти к предыдущему</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
       <source>Goto Next</source>
       <translation>Перейти к следующему</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
       <source>Goto Expression</source>
       <translation>Перейти к выражению</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
       <source>Goto Start of Page</source>
       <translation>Перейти к началу страницы</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
       <source>Goto End of Page</source>
       <translation>Перейти к концу страницы</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
       <source>Goto Start of Function</source>
       <translation>Перейти к началу функции</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
       <source>Goto End of Function</source>
       <translation>Перейти к концу функции</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
       <source>Goto File Offset</source>
       <translation>Перейти по смещению в файле</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
       <source>Find References to Selected Address</source>
       <translation>Поиск ссылок на выбранные адреса</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
       <source>Find Pattern</source>
       <translation>Найти шаблон</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
       <source>Find Pattern in Current Module</source>
       <translation>Найти шаблон в текущем модуле</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
       <source>Find Names in Current Module</source>
       <translation>Найти имена в текущем модуле</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
       <source>Find References</source>
       <translation>Поиск ссылок</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
       <source>xrefs...</source>
       <translation>Перекрестные ссылки...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
       <source>Analyze Single Function</source>
       <translation>Анализ одной функции</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
       <source>Analyze Module</source>
       <translation>Анализ модуля</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
       <source>Help on Mnemonic</source>
       <translation>Справка по мнемонике</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
       <source>Toggle Mnemonic Brief</source>
       <translation>Переключить краткую мнемонику</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
       <source>Highlighting Mode</source>
       <translation>Режим подсветки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
       <source>Enable/Disable Branch Destination Preview</source>
       <translation>Включить/отключить предварительный просмотр ветви назначения</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
       <source>Find</source>
       <translation>Найти</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
       <source>Find in Current Module</source>
       <translation>Найти в текущем модуле</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
       <source>Enable/Disable Logging</source>
       <translation>Включить/выключить логирование</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
       <source>Allocate Memory</source>
       <translation>Выделить память</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <source>Free Memory</source>
       <translation>Свободная память</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
       <source>Sync With Expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
       <source>Copy All Registers</source>
       <translation>Копировать все регистры</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
       <source>Mark As User Module</source>
       <translation>Пометить как пользовательский модуль</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
       <source>Mark As System Module</source>
       <translation>Пометить как системный модуль</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
       <source>Mark As Party</source>
       <translation>Отметить как группа</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
       <source>Set Hardware Breakpoint (Execute)</source>
       <translation>Установить аппаратную точку останова (Выполнение)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
       <source>Remove Hardware Breakpoint</source>
       <translation>Удалить аппаратную точку останова</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
       <source>Remove Type Analysis From Module</source>
       <translation>Удалить анализ типов из модуля</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
       <source>Remove Type Analysis From Selection</source>
       <translation>Удалить анализ типов из выделения</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
@@ -5707,6 +5703,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
@@ -5728,138 +5728,134 @@
       <translation>Считать выделение как</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <source>Code</source>
       <translation>Код</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <source>Byte</source>
       <translation>Byte</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
       <source>Word</source>
       <translation>Word</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <source>Dword</source>
       <translation>Dword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <source>Fword</source>
       <translation>Fword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
       <source>Qword</source>
       <translation>Qword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
       <source>Tbyte</source>
       <translation>Tbyte</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <source>Oword</source>
       <translation>Oword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
       <source>LongDouble</source>
       <translation>LongDouble</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
       <source>MMWord</source>
       <translation>MMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
       <source>XMMWord</source>
       <translation>XMMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
       <source>YMMWord</source>
       <translation>YMMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
@@ -5872,6 +5868,10 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
@@ -5893,347 +5893,347 @@
       <translation>Считать начало выделения как</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
       <source>Toggle Register Value</source>
       <translation>Переключить значение регистра</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
       <source>Clear</source>
       <translation>Очистить</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
       <source>Copy</source>
       <translation>Копировать</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
       <source>Copy Address</source>
       <translation>Копировать адрес</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
       <source>Copy RVA</source>
       <translation>Копировать RVA</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
       <source>Copy Symbol</source>
       <translation>Копировать символ</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
       <source>Copy Line</source>
       <translation>Копировать строку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <source>Copy Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
       <source>Load Script</source>
       <translation>Загрузить скрипт</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>Reload Script</source>
       <translation>Перезагрузить сценарий</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Unload Script</source>
       <translation>Выгрузить сценарий</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Edit Script</source>
       <translation>Редактировать сценарий</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Run Script</source>
       <translation>Запустить сценарий</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Toggle Script Breakpoint</source>
       <translation>Переключить точку останова сценария</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Run Script to Cursor</source>
       <translation>Выполнить сценарий до курсора</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Step Script</source>
       <translation>Пошаговое выполнение сценария</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Abort Script</source>
       <translation>Прервать выполнение сценария</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Execute Script Command</source>
       <translation>Выполнить команду сценария</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Refresh</source>
       <translation>Обновить</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Zoom to cursor</source>
       <translation>Масштабировать до курсора</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Fit To Window</source>
       <translation>Подогнать под размер окна</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Follow in disassembler</source>
       <translation>Перейти к дизассемблированному коду</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Save as image</source>
       <translation>Сохранить как изображение</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Toggle overview</source>
       <translation>Переключить обзор</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Toggle summary</source>
       <translation>Переключить краткий обзор</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
       <source>Toggle sync with EIP/RIP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Increment x87 Stack</source>
       <translation>Увеличить стек x87</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Decrement x87 Stack</source>
       <translation>Уменьшить стек x87</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Redirect Log</source>
       <translation>Журнал перенаправления</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <source>Browse in Explorer</source>
       <translation>Показать в Проводнике</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Download Symbols for This Module</source>
       <translation>Загрузить символы для этого модуля</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Download Symbols for All Modules</source>
       <translation>Загрузить символы для всех модулей</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Create New Thread Here</source>
       <translation>Создать новый поток здесь</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Open Source File</source>
       <translation>Открыть исходный файл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Follow in Memory Map</source>
       <translation>Перейти к карте памяти</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Follow in Stack</source>
       <translation>Перейти к стеку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Follow in Disassembler</source>
       <translation>Перейти к дизассемблированному коду</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation>Перейти по DWORD/QWORD в дизассемблированный код</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation>Перейти по DWORD/QWORD в дамп</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Freeze the stack</source>
       <translation>Заморозить стек</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Go to Base of Stack Frame</source>
       <translation>Перейти к базе кадра стека</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Go to Previous Stack Frame</source>
       <translation>Перейти к предыдущему кадру стека</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Go to Next Stack Frame</source>
       <translation>Перейти к следующему кадру стека</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
       <source>Go to Previous Reference</source>
       <translation>Перейти к предыдущей ссылке</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
       <source>Go to Next Reference</source>
       <translation>Перейти к следующей ссылке</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Modify value</source>
       <translation>Изменение значения</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
       <source>Watch DWORD/QWORD</source>
       <translation>Просмотр DWORD/QWORD</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
       <source>Copy File Offset</source>
       <translation>Копировать смещение файла</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="625"/>
       <source>Start/Stop trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>Копировать -&gt; Обрезанная таблица</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
       <source>Copy -&gt; Table</source>
       <translation>Копировать -&gt; Таблица</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="688"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>Копировать -&gt; Строка в лог-файл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="689"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>Копировать -&gt; Обрезанная таблица в лог-файл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="690"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>Копировать -&gt; Таблица в лог-файл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="691"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="632"/>
       <source>Copy -&gt; Export Table</source>
       <translation>Копировать -&gt; Экспортировать таблицу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="872"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="888"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="897"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="916"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="925"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="940"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="949"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="968"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="977"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="991"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1005"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1023"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="876"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="892"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="901"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="920"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="929"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="944"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="953"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="972"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="981"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="995"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1009"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1027"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="808"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="824"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="833"/>
@@ -11373,6 +11373,24 @@ Do you want me to fix this?</source>
     </message>
   </context>
   <context>
+    <name>DbgAdapter</name>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="208"/>
+      <source>System breakpoint</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="221"/>
+      <source>Step</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="227"/>
+      <source>Paused</source>
+      <translation>Приостановлен</translation>
+    </message>
+  </context>
+  <context>
     <name>DebugStatusLabel</name>
     <message>
       <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
@@ -13188,6 +13206,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/cross/minidump/MainWindow.ui" line="38"/>
       <location filename="src/cross/remote_table/MainWindow.ui" line="38"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="34"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="41"/>
       <source>&amp;File</source>
       <translation>&amp;Файл</translation>
     </message>
@@ -13233,6 +13252,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="109"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="47"/>
       <source>&amp;Debug</source>
       <translation>&amp;Отладка</translation>
     </message>
@@ -13302,6 +13322,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="334"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="45"/>
       <source>E&amp;xit</source>
       <translation>&amp;Выход</translation>
     </message>
@@ -13312,6 +13333,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="346"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
       <source>&amp;Run</source>
       <translation>&amp;Выполнить</translation>
     </message>
@@ -13503,6 +13525,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="574"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="126"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="204"/>
       <source>CPU</source>
       <translation>CPU</translation>
@@ -13550,6 +13573,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>Потоки</translation>
@@ -13678,6 +13702,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>Стек вызовов</translation>
@@ -14326,6 +14351,125 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="42"/>
+      <source>&amp;Open...</source>
+      <translation>&amp;Открыть...</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="52"/>
+      <source>Toggle &amp;Breakpoint</source>
+      <translation>Переключить &amp;точку останова</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="55"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
+      <source>Ready</source>
+      <translation>Готов</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="84"/>
+      <source>Main Toolbar</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="91"/>
+      <source>Open (Ctrl+O)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="94"/>
+      <source>Restart</source>
+      <translation>Перезапустить</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="98"/>
+      <source>Close</source>
+      <translation>Закрыть</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="104"/>
+      <source>Run (F9)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="107"/>
+      <source>Pause</source>
+      <translation>Приостановить</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="112"/>
+      <source>Step Into (F7)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="116"/>
+      <source>Step Over (F8)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="130"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
+      <source>Log</source>
+      <translation>Журнал</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="140"/>
+      <source>Breakpoints view - not yet implemented</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="140"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
+      <source>Breakpoints</source>
+      <translation>Точки останова</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <source>Memory map view - not yet implemented</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
+      <source>Memory Map</source>
+      <translation>Карта памяти</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <source>Call stack view - not yet implemented</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <source>Threads view - not yet implemented</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="166"/>
+      <source>Hex</source>
+      <translation>Шестнадцатеричное</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="174"/>
+      <source>ASCII</source>
+      <translation>ASCII</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="205"/>
+      <source>Open ELF Binary</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="205"/>
+      <source>All Files (*)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="239"/>
+      <source>Running</source>
+      <translation>Запущен</translation>
+    </message>
+    <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1229"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1290"/>
@@ -14345,24 +14489,9 @@ Do you want to continue rendering this graph?</source>
       <translation>%1 [Elevated]</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
-      <source>Log</source>
-      <translation>Журнал</translation>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="162"/>
       <source>Symbols</source>
       <translation>Отладочные символы</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
-      <source>Breakpoints</source>
-      <translation>Точки останова</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
-      <source>Memory Map</source>
-      <translation>Карта памяти</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="193"/>
@@ -14378,11 +14507,6 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="467"/>
       <source>Command: </source>
       <translation>Команда: </translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
-      <source>Ready</source>
-      <translation>Готов</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="492"/>
@@ -15105,6 +15229,24 @@ Make sure to fill in as much information as possible.</source>
     </message>
   </context>
   <context>
+    <name>MiniThreads</name>
+    <message>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <source>Thread ID</source>
+      <translation>ID потока</translation>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <source>TEB</source>
+      <translation>TEB</translation>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <source>CIP</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
     <name>ModuleStdTable</name>
     <message>
       <location filename="src/gui/Src/Gui/SymbolView.cpp" line="139"/>
@@ -15654,204 +15796,204 @@ Do you want to apply these patches anyway?</source>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2645"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2769"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="919"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="996"/>
       <source>Registers</source>
       <translation>Регистры</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1336"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1417"/>
       <source>Copy value</source>
       <translation>Скопировать значение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1337"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1418"/>
       <source>Copy floating point value</source>
       <translation>Скопировать значение с плавающей точкой</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1338"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1419"/>
       <source>Copy Symbol Value</source>
       <translation>Скопировать значение символа</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1339"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1420"/>
       <source>Copy all registers</source>
       <translation>Скопировать все регистры</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1340"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1421"/>
       <source>Change view</source>
       <translation>Изменить вид</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1341"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
       <source>Change SIMD Register Display Mode</source>
       <translation>Изменить режим отображения регистров SIMD</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1343"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
       <source>Display ST(x)</source>
       <translation>Отобразить ST(x)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1344"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
       <source>Display x87rX</source>
       <translation>Отобразить x87rX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1345"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1426"/>
       <source>Display MMX</source>
       <translation>Отобразить MMX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1348"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
       <source>Hexadecimal</source>
       <translation>Hexadecimal</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1349"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1350"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1351"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
       <source>Signed Word</source>
       <translation>Signed Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1352"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
       <source>Signed Dword</source>
       <translation>Signed Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1353"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
       <source>Signed Qword</source>
       <translation>Signed Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1354"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
       <source>Unsigned Word</source>
       <translation>Unsigned Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1355"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
       <source>Unsigned Dword</source>
       <translation>Unsigned Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1356"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1437"/>
       <source>Unsigned Qword</source>
       <translation>Unsigned Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1357"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1438"/>
       <source>Hexadecimal Word</source>
       <translation>Hexadecimal Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1358"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
       <source>Hexadecimal Dword</source>
       <translation>Hexadecimal Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1359"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
       <source>Hexadecimal Qword</source>
       <translation>Hexadecimal Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1391"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1472"/>
       <source>Always show maximum vector length</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1392"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1473"/>
       <source>Always show all AVX-512 registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
       <source>CF (Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
       <source>PF (Parity flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1584"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>ZF (Zero flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>SF (Sign flag)</source>
       <translation>SF (флаг знака)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1585"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>TF (Trap flag)</source>
       <translation>TF (флаг ловушки)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>IF (Interrupt enable flag)</source>
       <translation>IF (флаг включения прерываний)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>DF (Direction flag)</source>
       <translation>DF (флаг направления)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1586"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>OF (Overflow flag)</source>
       <translation>OF (флаг переполнения)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
       <source>Bit #</source>
       <translation>Бит #</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
       <source>Mask</source>
       <translation>Маска</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1602"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
       <source>Flag</source>
       <translation>Флаг</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1609"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1612"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1703"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (бит 2) : Флаг четности - устанавливается если младший байт результата содержит четное число единичных бит; в противном случае сбрасывается.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1614"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1705"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (бит 4) : Вспомогательный флаг переноса - устанавливается если в результате арифметической операции 
@@ -15859,12 +16001,12 @@ This flag indicates an overflow condition for unsigned-integer arithmetic. It is
 Этот флаг используется только в вычислениях с двоично-десятичными числами (BCD).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1617"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (бит 6) : Флаг нуля - устанавливается если результат равен нулю; в противном случае сбрасывается.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1619"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (бит 7) : Флаг знака - устанавливается равным старшему биту результата, который является 
@@ -15872,7 +16014,7 @@ integer. (0 indicates a positive value and 1 indicates a negative value.)</sourc
 (0 указывает на положительное значение и 1 указывает на отрицательное значение)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1622"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
@@ -15882,7 +16024,7 @@ condition for signed-integer (two’s complement) arithmetic.</source>
 на переполнение для знакового целого числа (в дополнительном коде).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1626"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1717"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
@@ -15892,114 +16034,114 @@ to auto-decrement (to process strings from high addresses to low addresses). Cle
 для строковых инструкций (обработка строк от младших адресов к старшим).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1630"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1721"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (бит 8) : Флаг ловушки - устанавливается для включения режима пошаговой отладки; для отключения режима необходимо сбросить.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1632"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (бит 9) : Флаг прерывания - управляет реакцией процессора на маскирование прерываний.
 Установленный флаг разрешает прерывания; сброшенный флаг маскирует (запрещает) прерывания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1634"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>16-битное слово управления x87 FPU управляет точностью и методом округления x87 FPU.
 Оно также содержит биты маски исключения с плавающей запятой x87 FPU.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1636"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1727"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>16-битный x87 FPU регистр статуса указывает текущее состояние x87 FPU.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1638"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1729"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>16-битное слово тегов указывает содержимое каждого из 8-и регистров стека в x87 FPU (одно 2-битное поле в регистре).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1641"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>Поле контроля точности (PC) (биты 8 и 9 слова управления x87 FPU) определяет точность
 вычислений с плавающей запятой (64, 53, или 24 бит), выполняемые в x87 FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1643"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1734"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>Поле режима округления (RC) регистра управления x87 FPU (биты 10 и 11) определяет каким образом округляются результаты инструкций x87 FPU с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1645"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1736"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>Флаг управления бесконечностью (бит 12 слова управления x87 FPU) обеспечивает совместимость с математическим сопроцессором Intel 287; 
 для более поздних версий x87 FPU сопроцессоров или процессоров IA-32 не имеет смысла.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1648"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1739"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска исключения недействительной операции (бит 0). Когда бит маски установлен,
 соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1650"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1741"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска исключения денормализованного операнда (бит 2). Когда бит маски установлен,
 соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1652"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1743"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска исключения деления на ноль чисел с плавающей запятой (бит 3). Когда бит маски установлен,
 соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1654"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1745"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска исключения переполнения чисел с плавающей запятой (бит 4). Когда бит маски установлен,
 соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1656"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1747"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска условия потенциального антипереполнения чисел с плавающей запятой (бит 5).
 Когда бит маски установлен, соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1658"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска исключения неточного результата (бит 6). Когда бит маски установлен,
 соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1661"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1752"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation>Флаг занятости (бит 15) указывает, если FPU занят (B=1) во время выполнения инструкции или свободен (B=0).
 B-бит (бит 15) присутствует только для совместимости с 8087. Он дублирует состояние флага ES.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1664"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1670"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1759"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1761"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation>Код флага состояния C%1 (бит %2) используется для отображения результатов сравнения чисел с плавающей запятой и арифметических операций.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1672"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation>Флаг суммарной ошибки/исключения (бит 7) устанавливается, когда устанавливается любой флаг немаскируемого исключения.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1674"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>Флаг ошибки стека (бит 6 слова состояния x87 FPU) указывает, что произошло переполнение или антипереполнение стека с данными в регистре данных стека x87 FPU.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>Указатель на регистр данных x87 FPU, находящийся в данный момент на верхушке стека регистров x87 FPU;
@@ -16007,161 +16149,161 @@ of the x87 FPU status word. This pointer, which is commonly referred to as TOP (
 является двоичным значением от 0 до 7.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1679"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1770"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation>Процессор сообщает об исключении недействительной операции (бит 0) в ответ на один или несколько недействительных арифметических операндов.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1681"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1772"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation>Процессор сообщает об исключении денормализованного операнда (бит 2) в случае попытки обработать денормализованный операнд.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1774"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation>Процессор сообщает об исключении деления на ноль чисел с плавающей запятой (бит 3) всякий раз, когда инструкция пытается разделить конечный ненулевой операнд на 0.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1776"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation>Процессор сообщает об исключении переполнения чисел с плавающей запятой (бит 4) всякий раз, когда округленный результат инструкции
 превышает максимально допустимое конечное значение, которое может поместиться в операнд-приемник.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1687"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation>Процессор определяет потенциальное условие антипереполнения чисел с плавающей запятой (бит 5) всякий раз,
 когда результат округления с неограниченной экспонентой не нулевой и очень маленький.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1689"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation>Исключение неточного результата (бит 6) возникает, если результат операции нельзя точно представить в выходном формате.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1692"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1783"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>32-битный MXCSR регистр содержит информацию об управлении и состоянии SIMD-операций с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1785"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Бит 0 (IE) : Флаг недействительной операции; указывает, было ли обнаружено исключение SIMD с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1787"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Бит 1 (DE) : Флаг денормализованного операнда; указывает, было ли обнаружено исключение SIMD с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1698"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1789"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Бит 2 (ZE) : Флаг деление на ноль; указывает, было ли обнаружено исключение SIMD с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Бит 3 (OE) : Флаг переполнения; указывает, было ли обнаружено исключение SIMD с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1702"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1793"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Бит 4 (UE) : Флаг антипереполнения; указывает, было ли обнаружено исключение SIMD с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1795"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Бит 5 (PE) : Флаг точности; указывает, было ли обнаружено исключение SIMD с плавающей запятой .</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1797"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Бит 7 (IM) : Маска недействительной операции. Когда бит маски установлен,
 соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1799"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Бит 8 (DM) : Маска денормализованного операнда. Когда бит маски установлен,
 соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1801"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Бит 9 (ZM) : Маска деления на ноль. Когда бит маски установлен, соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1803"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Бит 10 (OM) : Маска переполнения. Когда бит маски установлен, соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Бит 11 (UM) : Маска антипереполнения. Когда бит маски установлен, соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1807"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Бит 12 (PM) : Маска точности. Когда бит маски установлен, соответствующее исключение блокируется с момента создания.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1809"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>Бит 15 (FZ) регистра MXCSR включает режим сброс-в-ноль, который управляет маскированием состояния антипереполнения SIMD с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1720"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1811"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>Бит 6 (DAZ) регистра MXCSR включает режим денормализованное-как-ноль, который управляет ответом процессора на
 денормализованный операнд SIMD с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1814"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>Биты 13 и 14 MXCSR-регистра (управление округлением [RC]) определяют, каким образом округляются результаты SIMD-инструкций с плавающей запятой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1824"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>Значение GetLastError(). Это значение хранится в TEB.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1834"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation>NTSTATUS в поле LastStatusValue TEB.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1839"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>Значение TEB текущего потока может быть получено как смещение сегментного регистра GS (x64).
 TEB может использоваться для получения информации о процессе без вызова Win32 API.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1842"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>Значение TEB текущего потока может быть получено как смещение сегментного регистра FS (x86).
 TEB может использоваться для получения информации о процессе без вызова Win32 API.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1826"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1944"/>
       <source>Hide FPU</source>
       <translation>Скрыть FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1828"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1946"/>
       <source>Show FPU</source>
       <translation>Показать FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2122"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2162"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2210"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2252"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2294"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2243"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2283"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2331"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2373"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2415"/>
       <source>Unknown</source>
       <translation>Неизвестно</translation>
     </message>
@@ -16169,82 +16311,82 @@ TEB может использоваться для получения инфор
   <context>
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="324"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2263"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2384"/>
       <source>Nonzero</source>
       <translation>Ненулевое значение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="326"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2264"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2385"/>
       <source>Zero</source>
       <translation>Нулевое значение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="328"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2265"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="402"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2386"/>
       <source>Special</source>
       <translation>Специальное значение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="330"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2266"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="404"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2387"/>
       <source>Empty</source>
       <translation>Пусто</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2092"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2213"/>
       <source>Toward Zero</source>
       <translation>Округление к нулю</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2093"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2214"/>
       <source>Toward Positive</source>
       <translation>Округление к положительным</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2094"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2215"/>
       <source>Toward Negative</source>
       <translation>Округление к отрицательным</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2095"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2135"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2256"/>
       <source>Round Near</source>
       <translation>Округлить до ближайшего</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2132"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2253"/>
       <source>Truncate</source>
       <translation>Усечение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2133"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2254"/>
       <source>Round Up</source>
       <translation>Округлить вверх</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2134"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2255"/>
       <source>Round Down</source>
       <translation>Округлить вниз</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2221"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2342"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2222"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2343"/>
       <source>Not Used</source>
       <translation>Не используется</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2223"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2344"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2224"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2345"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
@@ -18858,12 +19000,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>Подсветить</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="153"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="158"/>
       <source>View XMM register</source>
       <translation>Посмотреть регистр XMM</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="155"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="160"/>
       <source>View MMX register</source>
       <translation>Посмотреть регистр MMX</translation>
     </message>
@@ -18996,100 +19138,100 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="42"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="315"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="314"/>
       <source>Load dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="99"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="91"/>
       <source>Disassembly</source>
       <translation>Дизассемблированный код</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="100"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="92"/>
       <source>Registers</source>
       <translation>Регистры</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="103"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="231"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="95"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="230"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="104"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="236"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="96"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="235"/>
       <source>Stack</source>
       <translation>Стек</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="106"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="98"/>
       <source>InfoBox</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="166"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="165"/>
       <source>Error</source>
       <translation>Ошибка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="166"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="165"/>
       <source>Error when opening trace recording (reason: %1)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="176"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="175"/>
       <source>Trace file is recorded for another debuggee</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="177"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="176"/>
       <source>Checksum is different for current trace file and the debugee. This probably means you have opened a wrong trace file. This trace file is recorded for "%1"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="209"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="208"/>
       <source>Enabling the trace dump can consume a lot of memory (max ~%1GiB for this trace) and freeze x64dbg for prolonged periods of time. This feature is still experimental, please report any bugs you encounter.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="210"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="209"/>
       <source>Warning</source>
       <translation>Внимание</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="258"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="257"/>
       <source>Loaded trace dump in %1ms
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="339"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="338"/>
       <source>&amp;Selected Address</source>
       <translation>&amp;Выделенный адрес</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="353"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="352"/>
       <source>&amp;Address: </source>
       <translation>&amp;Адрес: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="365"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="364"/>
       <source>&amp;Old value: </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="369"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="368"/>
       <source>&amp;Value: </source>
       <translation>&amp;Значение: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="375"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="374"/>
       <source>&amp;New value: </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="386"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="385"/>
       <source>&amp;Constant: </source>
       <translation>&amp;Константа: </translation>
     </message>
