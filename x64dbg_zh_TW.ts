@@ -1492,112 +1492,112 @@
       <translation>qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="394"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="422"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="423"/>
       <source>access</source>
       <translation>存取</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="401"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="426"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="402"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="427"/>
       <source>write</source>
       <translation>寫入</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="408"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="428"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="409"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="429"/>
       <source>execute</source>
       <translation>執行</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="424"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="425"/>
       <source>read</source>
       <translation>讀取</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="448"/>
       <source>load</source>
       <translation>載入</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="451"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="453"/>
       <source>unload</source>
       <translation>移除</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="458"/>
       <source>all</source>
       <translation>所有</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="469"/>
       <source>firstchance</source>
       <translation>首次</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="472"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="474"/>
       <source>secondchance</source>
       <translation>二次</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="477"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="479"/>
       <source>anychance</source>
       <translation>首次或二次</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="492"/>
       <source>breakif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="500"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="502"/>
       <source>fastresume</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="509"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="511"/>
       <source>logif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="517"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="519"/>
       <source>log</source>
       <translation>記錄檔</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="539"/>
       <source>cmdif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="547"/>
       <source>cmd</source>
       <translation>命令提示字元</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="608"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="614"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="610"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="616"/>
       <source>Cannot follow this breakpoint.
 </source>
       <translation>無法跟隨此斷點</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="772"/>
       <source>Enter the module name</source>
       <translation>請輸入模組名稱</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="772"/>
       <source>Example: mydll.dll</source>
       <translation>範例: mydll.dll</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="779"/>
       <source>Enter the exception code</source>
       <translation>請輸入例外代碼</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="779"/>
       <source>Example: EXCEPTION_ACCESS_VIOLATION</source>
       <translation>範例：EXCEPTION_ACCESS_VIOLATION</translation>
     </message>
@@ -3060,81 +3060,81 @@
       <translation>跳轉未實現</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="518"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="519"/>
       <source>Jump from </source>
       <translation>跳轉來自 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="521"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="522"/>
       <source>Call from </source>
       <translation>呼叫來自 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="525"/>
       <source>Reference from </source>
       <translation>參考來自 </translation>
     </message>
     <message numerus="yes">
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="603"/>
       <source>Accessed %n time(s)</source>
       <translation>
         <numerusform>已訪問%n次</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="638"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="639"/>
       <source>Modify Value</source>
       <translation>修改數值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="693"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="757"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="821"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="694"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="758"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="822"/>
       <source>&amp;Address: </source>
       <translation>位址(&amp;A): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="698"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="762"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="826"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="699"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="763"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="827"/>
       <source>&amp;Constant: </source>
       <translation>常數(&amp;C): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="701"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="765"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="702"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="830"/>
       <source>&amp;Value: </source>
       <translation>值(&amp;V): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="737"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="801"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="738"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="802"/>
       <source>&amp;Selected Address</source>
       <translation>選定的位址(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="887"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="888"/>
       <source>&amp;Follow in Dump</source>
       <translation>在資料視窗中跟隨(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="890"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="891"/>
       <source>&amp;Modify Value</source>
       <translation>修改值(&amp;M)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="894"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="895"/>
       <source>&amp;Watch</source>
       <translation>監視(&amp;W)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="898"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
       <source>&amp;Show References</source>
       <translation>顯示參考(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="900"/>
       <source>&amp;Copy</source>
       <translation>複製(&amp;C)</translation>
     </message>
@@ -10217,27 +10217,27 @@ Do you want to continue debugging?</source>
       <translation>沒有歷史記錄</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="74"/>
+      <location filename="src/dbg/memory.cpp" line="75"/>
       <source>Reserved (%p)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="76"/>
+      <location filename="src/dbg/memory.cpp" line="77"/>
       <source>Reserved</source>
       <translation>保留</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="460"/>
+      <location filename="src/dbg/memory.cpp" line="461"/>
       <source>TEB (%s)</source>
       <translation>TEB (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="467"/>
+      <location filename="src/dbg/memory.cpp" line="468"/>
       <source>WoW64 TEB (%s)</source>
       <translation>WoW64 TEB (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="476"/>
+      <location filename="src/dbg/memory.cpp" line="477"/>
       <source>Stack (%s)</source>
       <translation type="unfinished"/>
     </message>
@@ -10297,37 +10297,37 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="665"/>
+      <location filename="src/dbg/module.cpp" line="666"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="672"/>
+      <location filename="src/dbg/module.cpp" line="673"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="815"/>
+      <location filename="src/dbg/module.cpp" line="816"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="880"/>
+      <location filename="src/dbg/module.cpp" line="881"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1042"/>
+      <location filename="src/dbg/module.cpp" line="1043"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1095"/>
+      <location filename="src/dbg/module.cpp" line="1096"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
@@ -10456,90 +10456,90 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="862"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="863"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="886"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="887"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[外掛程式，%s]命令“%s”註冊失敗……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="892"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="893"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[外掛程式，%s]命令“%s”已註冊！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="919"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="920"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[外掛程式，%s]命令“%s”已刪除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="924"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="925"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[外掛程式，%s]命令“%s”刪除失敗……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1339"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1365"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1340"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1366"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[外掛程式，%s]運算式函數“%s”註冊失敗……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1345"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1371"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1346"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1372"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[外掛程式，%s]運算式函數“%s”已註冊！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1391"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1392"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1396"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1397"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[外掛程式，%s]運算式函數“%s”刪除失敗……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1410"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1411"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[外掛程式，%s]格式函數“%s”註冊失敗……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1416"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1417"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[外掛程式，%s]格式函數“%s”已註冊！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1435"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1436"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1440"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1441"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[外掛程式，%s]格式函數“%s”刪除失敗……
@@ -16414,17 +16414,17 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>搜尋...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="275"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="276"/>
       <source>&amp;Copy</source>
       <translation>複製(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="298"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="299"/>
       <source>Use case sensitive regular expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="302"/>
       <source>Use case insensitive regular expression</source>
       <translation type="unfinished"/>
     </message>

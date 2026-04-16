@@ -1493,113 +1493,113 @@
       <translation>qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="394"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="422"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="423"/>
       <source>access</source>
       <translation>доступ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="401"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="426"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="402"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="427"/>
       <source>write</source>
       <translation>запись</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="408"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="428"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="409"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="429"/>
       <source>execute</source>
       <translation>выполнение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="424"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="425"/>
       <source>read</source>
       <translation>прочитать</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="448"/>
       <source>load</source>
       <translation>загрузить</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="451"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="453"/>
       <source>unload</source>
       <translation>выгрузить</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="458"/>
       <source>all</source>
       <translation>все</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="469"/>
       <source>firstchance</source>
       <translation>первая попытка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="472"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="474"/>
       <source>secondchance</source>
       <translation>вторая попытка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="477"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="479"/>
       <source>anychance</source>
       <translation>любая попытка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="492"/>
       <source>breakif</source>
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="500"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="502"/>
       <source>fastresume</source>
       <translation>быстрое продолжение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="509"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="511"/>
       <source>logif</source>
       <translation>logif</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="517"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="519"/>
       <source>log</source>
       <translation>журнал</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="539"/>
       <source>cmdif</source>
       <translation>cmdif</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="547"/>
       <source>cmd</source>
       <translation>cmd</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="608"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="614"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="610"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="616"/>
       <source>Cannot follow this breakpoint.
 </source>
       <translation>Не удается следовать за этой точкой останова.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="772"/>
       <source>Enter the module name</source>
       <translation>Введите имя модуля</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="772"/>
       <source>Example: mydll.dll</source>
       <translation>Пример: mydll.dll</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="779"/>
       <source>Enter the exception code</source>
       <translation>Введите код исключения</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="779"/>
       <source>Example: EXCEPTION_ACCESS_VIOLATION</source>
       <translation>Пример: EXCEPTION_ACCESS_VIOLATION</translation>
     </message>
@@ -3062,22 +3062,22 @@
       <translation>Прыжок не произойдет</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="518"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="519"/>
       <source>Jump from </source>
       <translation>Перейти от </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="521"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="522"/>
       <source>Call from </source>
       <translation>Вызвать от </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="525"/>
       <source>Reference from </source>
       <translation>Ссылка от </translation>
     </message>
     <message numerus="yes">
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="603"/>
       <source>Accessed %n time(s)</source>
       <translation>
         <numerusform>Доступно %n раз(-а)</numerusform>
@@ -3087,59 +3087,59 @@
       </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="638"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="639"/>
       <source>Modify Value</source>
       <translation>Изменить значение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="693"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="757"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="821"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="694"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="758"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="822"/>
       <source>&amp;Address: </source>
       <translation>&amp;Адрес: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="698"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="762"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="826"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="699"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="763"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="827"/>
       <source>&amp;Constant: </source>
       <translation>&amp;Константа: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="701"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="765"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="702"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="830"/>
       <source>&amp;Value: </source>
       <translation>&amp;Значение: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="737"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="801"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="738"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="802"/>
       <source>&amp;Selected Address</source>
       <translation>&amp;Выделенный адрес</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="887"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="888"/>
       <source>&amp;Follow in Dump</source>
       <translation>&amp;Перейти к дампу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="890"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="891"/>
       <source>&amp;Modify Value</source>
       <translation>&amp;Изменить значение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="894"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="895"/>
       <source>&amp;Watch</source>
       <translation>&amp;Наблюдать</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="898"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
       <source>&amp;Show References</source>
       <translation>&amp;Показать ссылки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="900"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копировать</translation>
     </message>
@@ -10346,27 +10346,27 @@ Do you want to continue debugging?</source>
       <translation>Запись истории пуста</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="74"/>
+      <location filename="src/dbg/memory.cpp" line="75"/>
       <source>Reserved (%p)</source>
       <translation>Зарезервировано (%p)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="76"/>
+      <location filename="src/dbg/memory.cpp" line="77"/>
       <source>Reserved</source>
       <translation>Зарезервировано</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="460"/>
+      <location filename="src/dbg/memory.cpp" line="461"/>
       <source>TEB (%s)</source>
       <translation>TEB (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="467"/>
+      <location filename="src/dbg/memory.cpp" line="468"/>
       <source>WoW64 TEB (%s)</source>
       <translation>WoW64 TEB (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="476"/>
+      <location filename="src/dbg/memory.cpp" line="477"/>
       <source>Stack (%s)</source>
       <translation>Стек (%s)</translation>
     </message>
@@ -10430,41 +10430,41 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="665"/>
+      <location filename="src/dbg/module.cpp" line="666"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>Пропуск неподдерживаемого отладочного типа %s в модуле %s%s...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="672"/>
+      <location filename="src/dbg/module.cpp" line="673"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>Не найдены какие-либо поддерживаемые отладочные типы в модуле %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="815"/>
+      <location filename="src/dbg/module.cpp" line="816"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>Исключение при получении информации о модуле (%s), пожалуйста, сообщите...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="880"/>
+      <location filename="src/dbg/module.cpp" line="881"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>Модуль %s%s: некорректный PE-файл!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1042"/>
+      <location filename="src/dbg/module.cpp" line="1043"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1095"/>
+      <location filename="src/dbg/module.cpp" line="1096"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
@@ -10597,93 +10597,93 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="862"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="863"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[PLUGIN] Неверный обработчик плагина %d...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="886"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="887"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] Ошибка регистрации команды "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="892"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="893"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[PLUGIN, %s] Команда "%s" зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="919"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="920"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] Команда "%s" не зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="924"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="925"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] Ошибка при отмене регистрации команды "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1339"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1365"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1340"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1366"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] Ошибка регистрации функции выражения "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1345"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1371"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1346"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1372"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[PLUGIN, %s] Функция выражения "%s" зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1391"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1392"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] Функция выражения "%s" не зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1396"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1397"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] Ошибка при отмене регистрации функции выражения "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1410"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1411"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] Ошибка регистрации функции форматирования "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1416"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1417"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[PLUGIN, %s] Функция форматирования "%s" зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1435"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1436"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] Функция форматирования "%s" не зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1440"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1441"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] Ошибка при отмене регистрации функции форматирования "%s"...
@@ -16626,17 +16626,17 @@ TEB может использоваться для получения инфор
       <translation>Поиск...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="275"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="276"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копировать</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="298"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="299"/>
       <source>Use case sensitive regular expression</source>
       <translation>Учитывать регистр в регулярном выражении</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="302"/>
       <source>Use case insensitive regular expression</source>
       <translation>Не учитывать регистр в регулярном выражении</translation>
     </message>

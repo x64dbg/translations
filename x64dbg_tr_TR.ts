@@ -1493,112 +1493,112 @@
       <translation>qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="394"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="422"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="423"/>
       <source>access</source>
       <translation>erişim</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="401"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="426"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="402"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="427"/>
       <source>write</source>
       <translation>yaz</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="408"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="428"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="409"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="429"/>
       <source>execute</source>
       <translation>yürüt</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="424"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="425"/>
       <source>read</source>
       <translation>oku</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="448"/>
       <source>load</source>
       <translation>yükle</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="451"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="453"/>
       <source>unload</source>
       <translation>bellekten kaldır</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="458"/>
       <source>all</source>
       <translation>hepsi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="469"/>
       <source>firstchance</source>
       <translation>ilk şans</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="472"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="474"/>
       <source>secondchance</source>
       <translation>ikinci şans</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="477"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="479"/>
       <source>anychance</source>
       <translation>herhangi bir şans</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="492"/>
       <source>breakif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="500"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="502"/>
       <source>fastresume</source>
       <translation>hızlı özgeçmiş</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="509"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="511"/>
       <source>logif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="517"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="519"/>
       <source>log</source>
       <translation>günlük</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="539"/>
       <source>cmdif</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="547"/>
       <source>cmd</source>
       <translation>cmd</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="608"/>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="614"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="610"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="616"/>
       <source>Cannot follow this breakpoint.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="772"/>
       <source>Enter the module name</source>
       <translation>Modül adı girin</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="772"/>
       <source>Example: mydll.dll</source>
       <translation>Örnek: mydll.dll</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="779"/>
       <source>Enter the exception code</source>
       <translation>Özel durum kodu girin</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="779"/>
       <source>Example: EXCEPTION_ACCESS_VIOLATION</source>
       <translation>Örnek: EXCEPTION_ACCESS_VIOLATION</translation>
     </message>
@@ -3061,22 +3061,22 @@
       <translation>Atlamayacak</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="518"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="519"/>
       <source>Jump from </source>
       <translation>Buradan atladı </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="521"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="522"/>
       <source>Call from </source>
       <translation>Buradan çağırıldı </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="525"/>
       <source>Reference from </source>
       <translation>Referans yeri </translation>
     </message>
     <message numerus="yes">
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="603"/>
       <source>Accessed %n time(s)</source>
       <translation>
         <numerusform>Erişme süresi %n</numerusform>
@@ -3084,59 +3084,59 @@
       </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="638"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="639"/>
       <source>Modify Value</source>
       <translation>Değeri Değiştir</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="693"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="757"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="821"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="694"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="758"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="822"/>
       <source>&amp;Address: </source>
       <translation>&amp;Adres: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="698"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="762"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="826"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="699"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="763"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="827"/>
       <source>&amp;Constant: </source>
       <translation>&amp;Sabit: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="701"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="765"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="702"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="830"/>
       <source>&amp;Value: </source>
       <translation>&amp;Değer: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="737"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="801"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="738"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="802"/>
       <source>&amp;Selected Address</source>
       <translation>&amp;Seçili Adres</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="887"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="888"/>
       <source>&amp;Follow in Dump</source>
       <translation>Döküm'de &amp;Takip Et</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="890"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="891"/>
       <source>&amp;Modify Value</source>
       <translation>&amp;Değeri Değiştir</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="894"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="895"/>
       <source>&amp;Watch</source>
       <translation>&amp;İzle</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="898"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
       <source>&amp;Show References</source>
       <translation>&amp;Referansları Göster</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="900"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopyala</translation>
     </message>
@@ -10320,27 +10320,27 @@ Do you want to continue debugging?</source>
       <translation>Geçmiş kaydı boş</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="74"/>
+      <location filename="src/dbg/memory.cpp" line="75"/>
       <source>Reserved (%p)</source>
       <translation>Ayrılmış (%p)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="76"/>
+      <location filename="src/dbg/memory.cpp" line="77"/>
       <source>Reserved</source>
       <translation>Ayrılmış</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="460"/>
+      <location filename="src/dbg/memory.cpp" line="461"/>
       <source>TEB (%s)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="467"/>
+      <location filename="src/dbg/memory.cpp" line="468"/>
       <source>WoW64 TEB (%s)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="476"/>
+      <location filename="src/dbg/memory.cpp" line="477"/>
       <source>Stack (%s)</source>
       <translation type="unfinished"/>
     </message>
@@ -10404,41 +10404,41 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="665"/>
+      <location filename="src/dbg/module.cpp" line="666"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>%s%s Modülündeki desteklenmeyen hata ayıklama türü %s atlanıyor...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="672"/>
+      <location filename="src/dbg/module.cpp" line="673"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>Modül %s%s de desteklenen herhangi bir debug türü bulunamadı!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="815"/>
+      <location filename="src/dbg/module.cpp" line="816"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>Modül bilgisi (%s) alınırken özel durum oluştu, lütfen rapor edin...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="880"/>
+      <location filename="src/dbg/module.cpp" line="881"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>Modül %s%s: hatalı PE dosyası!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1042"/>
+      <location filename="src/dbg/module.cpp" line="1043"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1095"/>
+      <location filename="src/dbg/module.cpp" line="1096"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
@@ -10571,93 +10571,93 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="862"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="863"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[EKLENTİ] Geçersiz eklenti tutamacı %d...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="886"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="887"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[EKLENTİ, %s] Komut "%s" kaydı başarısız oldu...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="892"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="893"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[EKLENTİ, %s] Komut "%s" kaydedildi!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="919"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="920"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[EKLENTİ, %s] Komut "%s" silindi!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="924"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="925"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[EKLENTİ, %s] Komut "%s" kaydı silinemedi...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1339"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1365"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1340"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1366"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[EKLENTİ, %s] Fonksiyon ifadesi kaydı "%s" başarısız oldu...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1345"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1371"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1346"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1372"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[EKLENTİ, %s] Fonksiyon ifadesi "%s" kaydedildi!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1391"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1392"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[EKLENTİ, %s] Fonksiyon ifadesi "%s" silindi!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1396"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1397"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[EKLENTİ, %s] Fonksiyon ifadesi kaydı "%s" silinemedi...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1410"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1411"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[EKLENTİ, %s] Fonksiyon ifadesi kaydı "%s" başarısız oldu...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1416"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1417"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[EKLENTİ, %s] Fonksiyon formatı "%s" kaydedildi!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1435"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1436"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[EKLENTİ, %s] Fonksiyon formatı "%s" kaydedilmedi!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1440"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1441"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[EKLENTİ, %s] Fonksiyon formatı "%s" kaydı başarısız oldu...
@@ -16579,17 +16579,17 @@ TEB, Win32 API'sini çağırmadan süreç hakkında bir çok bilgi almak için k
       <translation>Ara...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="275"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="276"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopyala</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="298"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="299"/>
       <source>Use case sensitive regular expression</source>
       <translation>Büyük küçük harf duyarlı kurallı ifadeyi kullanın</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="301"/>
+      <location filename="src/gui/Src/BasicView/SearchListView.cpp" line="302"/>
       <source>Use case insensitive regular expression</source>
       <translation>Harf büyüklüğüne duyarsız kurallı ifade kullanın</translation>
     </message>
