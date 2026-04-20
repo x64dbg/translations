@@ -1976,18 +1976,33 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
-      <source>Bit</source>
-      <translation>Bit</translation>
+      <source>Mark covered (yes/no)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
+      <source>Enable trace coverage with 1 bit (whether an instruction was executed or not)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
-      <source>Byte</source>
-      <translation>Byte</translation>
+      <source>Count hits (up to 63)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
+      <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
-      <source>Word</source>
-      <translation>Word</translation>
+      <source>Count hits (up to 16383)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
+      <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
@@ -7919,8 +7934,8 @@
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
       <location filename="src/dbg/value.cpp" line="1762"/>
-      <location filename="src/dbg/value.cpp" line="2456"/>
-      <location filename="src/dbg/value.cpp" line="2500"/>
+      <location filename="src/dbg/value.cpp" line="2549"/>
+      <location filename="src/dbg/value.cpp" line="2592"/>
       <source>Not debugging!</source>
       <translation>Не отладка!</translation>
     </message>
@@ -8048,8 +8063,8 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="961"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="992"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1014"/>
-      <location filename="src/dbg/value.cpp" line="2284"/>
-      <location filename="src/dbg/value.cpp" line="2302"/>
+      <location filename="src/dbg/value.cpp" line="2366"/>
+      <location filename="src/dbg/value.cpp" line="2384"/>
       <source>Failed to read register context...</source>
       <translation>Не удалось прочить контекст регистра...</translation>
     </message>
@@ -8141,14 +8156,14 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="221"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="401"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="490"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="643"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="399"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="488"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="591"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="641"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="744"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="938"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
@@ -8157,8 +8172,8 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="222"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="196"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="350"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
       <source>Data</source>
       <translation>Данные</translation>
     </message>
@@ -8661,41 +8676,41 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="105"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="155"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="256"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="103"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="153"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="254"/>
       <source>Failed to transform pattern!</source>
       <translation>Не удалось преобразовать шаблон!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="113"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="163"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="111"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="161"/>
       <source>Invalid memory address %p!
 </source>
       <translation>Адрес памяти %p некорректен!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="119"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="169"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="117"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="167"/>
       <source>Failed to read memory!</source>
       <translation>Не удалось прочитать память!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="190"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="344"/>
       <source>Pattern: %s</source>
       <translation>Шаблон: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="198"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="352"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="402"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="491"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="594"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="644"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="748"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="350"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="400"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="489"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="592"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="642"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="939"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
@@ -8703,87 +8718,87 @@
       <translation>Дизассемблированный код</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="230"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="382"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="228"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="380"/>
       <source>[Error disassembling]</source>
       <translation>[Ошибка дизассемблирования]</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="238"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="390"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="236"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="388"/>
       <source>%d occurrences found in %ums
 </source>
       <translation>найдено %d вхождени(я,й) за %uмс
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="339"/>
       <source>MemFindInMap failed!</source>
       <translation>Сбой MemFindInMap!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="448"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="446"/>
       <source>Failed to assemble "%s" (%s)!
 </source>
       <translation>Не удалось собрать "%s" (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="457"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="455"/>
       <source>Command: "%s"</source>
       <translation>Команда: «%s»</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="460"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="458"/>
       <source>%u result(s) in %ums
 </source>
       <translation>%u результат(-ов) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="572"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="570"/>
       <source>Constant: %p</source>
       <translation>Константа: %p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="574"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="572"/>
       <source>Range: %p-%p</source>
       <translation>Диапазон: %p-%p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="583"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="581"/>
       <source>%u reference(s) in %ums
 </source>
       <translation>%u ссылка(-ок) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="595"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
       <source>String Address</source>
       <translation>Адрес Строки</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="596"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="594"/>
       <source>String</source>
       <translation>Строка</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="597"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="595"/>
       <source>Follow in Disassembly and Dump</source>
       <translation>Проследовать в дизассемблированном коде и дампе</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="598"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="596"/>
       <source>Follow string in Dump</source>
       <translation>Перейти к строке в дампе</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="645"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="643"/>
       <source>Function pointer</source>
       <translation>Указатель на функцию</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="646"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="644"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="164"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="240"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="327"/>
@@ -8791,86 +8806,86 @@
       <translation>Метка</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="706"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="704"/>
       <source>Strings</source>
       <translation>Строки</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="709"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="707"/>
       <source>%u string(s) in %ums
 </source>
       <translation>%u строк(-а) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="733"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="731"/>
       <source>Function pointers</source>
       <translation>Указатели на функцию</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="736"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="734"/>
       <source>%u function pointer(s) in %ums
 </source>
       <translation>%u указатель(-ей) на функцию в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="747"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="745"/>
       <source>Module</source>
       <translation>Модуль</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="749"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="747"/>
       <source>Destination</source>
       <translation>Назначение</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="843"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="841"/>
       <source>Calls</source>
       <translation>Вызовы</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="846"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="844"/>
       <source>%u call(s) in %ums
 </source>
       <translation>%u вызов(-ов) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="942"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1085"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1083"/>
       <source>GUID</source>
       <translation>GUID</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="943"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
       <source>ProgId</source>
       <translation>ProgId</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="944"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="942"/>
       <source>Path</source>
       <translation>Путь</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="945"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="943"/>
       <source>Description</source>
       <translation>Описание</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1057"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1055"/>
       <source>RegOpenKeyExW() failed. Cannot enumerate GUIDs.</source>
       <translation>Не удалось выполнить RegOpenKeyExW(). Невозможно перечислить идентификаторы GUID.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1088"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1086"/>
       <source>%u GUID(s) in %ums
 </source>
       <translation>%u GUID(-ов) в %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1101"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1099"/>
       <source>Invalid expression: "%s"</source>
       <translation>Недопустимое выражение: "%s"</translation>
     </message>
@@ -10997,8 +11012,8 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/value.cpp" line="1630"/>
       <location filename="src/dbg/value.cpp" line="1776"/>
-      <location filename="src/dbg/value.cpp" line="2334"/>
-      <location filename="src/dbg/value.cpp" line="2485"/>
+      <location filename="src/dbg/value.cpp" line="2413"/>
+      <location filename="src/dbg/value.cpp" line="2580"/>
       <source>Not debugging</source>
       <translation>Не отлаживается</translation>
     </message>
@@ -11022,7 +11037,7 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="2444"/>
+      <location filename="src/dbg/value.cpp" line="2531"/>
       <source>Failed to write memory</source>
       <translation>Не удалось записать в память</translation>
     </message>
@@ -13268,9 +13283,9 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1969"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1972"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1975"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1970"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1973"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1976"/>
       <source>&amp;Plugins</source>
       <translation>&amp;Модули</translation>
     </message>
@@ -13281,7 +13296,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="182"/>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1473"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1478"/>
       <source>&amp;Theme</source>
       <translation>&amp;Тема</translation>
     </message>
@@ -13729,7 +13744,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2168"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2169"/>
       <source>Donate</source>
       <translation>Пожертвовать</translation>
     </message>
@@ -13808,7 +13823,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2194"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2195"/>
       <source>Report Bug</source>
       <translation>Сообщить об ошибке</translation>
     </message>
@@ -13910,7 +13925,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1009"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1012"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1312"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1313"/>
       <source>Trace over...</source>
       <translation>Трассировка с обходом...</translation>
     </message>
@@ -13922,7 +13937,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1024"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1027"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1295"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
       <source>Trace into...</source>
       <translation>Трассировка с заходом...</translation>
     </message>
@@ -13943,410 +13958,415 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1051"/>
-      <source>Count hits (up to 255)</source>
+      <source>Count hits (up to 63)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1054"/>
-      <source>Enable trace coverage with 1 byte to record how many times an instruction has been executed.</source>
+      <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1063"/>
-      <source>Count hits (up to 65535)</source>
+      <source>Count hits (up to 16383)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1066"/>
-      <source>Enable trace coverage with 1 word to record how many times an instruction has been executed.</source>
+      <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1075"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1071"/>
+      <source>Reset trace coverage</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1080"/>
       <source>Step into until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1078"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1083"/>
       <source>Step into until reaching an instruction that was not covered before. Equivalent command "tibt"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1087"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1092"/>
       <source>Step over until reaching uncovered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1090"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1095"/>
       <source>Step over until reaching an instruction that was not covered before. Equivalent command "tobt"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1099"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1104"/>
       <source>Step into until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1102"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1107"/>
       <source>Step into until reaching an instruction that has been covered before. Equivalent command "tiit"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1111"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1116"/>
       <source>Step over until reaching covered code</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1114"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1119"/>
       <source>Step over until reaching an instruction that has been covered before. Equivalent command "toit"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1123"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1128"/>
       <source>Disable</source>
       <translation>Отключить</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1126"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1131"/>
       <source>Disable trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1135"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1140"/>
       <source>Run to &amp;user code</source>
       <translation>Выполнить до &amp;пользовательского кода</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1138"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1143"/>
       <source>Trace over until user code would be executed.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1147"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1152"/>
       <source>Run until e&amp;xpression</source>
       <translation>Выполнить до &amp;выражения</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1156"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1161"/>
       <source>Undo last instruction</source>
       <translation>Вернуть последнюю инструкцию</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2207"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1170"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2208"/>
       <source>Generate crash dump</source>
       <translation>Создание дампа сбоя</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2452"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1179"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2453"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>&amp;Управление избранными инструментами...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1183"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1188"/>
       <source>Step over (source)</source>
       <translation>Шаг с обходом (исходный код)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1186"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1191"/>
       <source>Execute a single line of source code without entering the subroutine. Equivalent to "TraceOverConditional src.line(cip) &amp;&amp; !src.disp(cip)"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1195"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1200"/>
       <source>Step into (source)</source>
       <translation>Шаг с заходом (исходный код)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1198"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1203"/>
       <source>Execute a single source code line. Equivalent to "TraceIntoConditional src.line(cip) &amp;&amp; !src.disp(cip)"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1207"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1212"/>
       <source>&amp;Graph</source>
       <translation>&amp;Граф</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1210"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1215"/>
       <source>Show the CPU tab and switch to Graph mode.</source>
       <translation>Показать вкладку дизассемблера и переключиться в режим графа.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1219"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1224"/>
       <source>Step into (swallow exception)</source>
       <translation>Шаг с заходом (проглотить исключение)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1231"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1236"/>
       <source>Step over (swallow exception)</source>
       <translation>Шаг с обходом (проглотить исключение)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1240"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1245"/>
       <source>Run (swallow exception)</source>
       <translation>Выполнить (проглотить исключение)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1243"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1248"/>
       <source>Run the debuggee and ignore all exceptions so the debuggee will not process the exception.</source>
       <translation>Выполнить отлаживаемую программу, игнорируя все исключения, чтобы программа не могла обработать исключения.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2181"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1257"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2182"/>
       <source>Blog</source>
       <translation>Блог</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1255"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1260"/>
       <source>Open https://blog.x64dbg.com</source>
       <translation>Открыть https://blog.x64dbg.com</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1264"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1269"/>
       <source>Animate into</source>
       <translation>Анимация с заходом</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1267"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1272"/>
       <source>Execute the step into command at a fixed pace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1276"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1281"/>
       <source>Animate over</source>
       <translation>Анимация с обходом</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1279"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1284"/>
       <source>Execute the step over command at a fixed pace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1288"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1293"/>
       <source>Animate command...</source>
       <translation>Анимация команды...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1291"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1296"/>
       <source>Execute a command at a fixed pace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1300"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1305"/>
       <source>System breakpoint scripts</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1303"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1308"/>
       <source>Set the script file to run automatically when the system breakpoint is reached.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1312"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1317"/>
       <source>Import settings...</source>
       <translation>Импорт настроек...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1315"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1320"/>
       <source>Import settings from an external file</source>
       <translation>Импортировать настройки из внешнего файла</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1324"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1329"/>
       <source>Customize menus</source>
       <translation>Настройка меню</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1327"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1332"/>
       <source>Open the Customize Menus dialog to hide infrequently used menu items into the "more commands" submenu.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1336"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1341"/>
       <source>&amp;Import database</source>
       <translation>&amp;Импорт базы данных</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1339"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1344"/>
       <source>Open an external database file to import data.</source>
       <translation>Открыть внешний файл базы данных для импортирования данных.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1348"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1353"/>
       <source>&amp;Export database</source>
       <translation>&amp;Экспорт базы данных</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1357"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1362"/>
       <source>Previous Tab</source>
       <translation>Предыдущая вкладка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1360"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1365"/>
       <source>Show the tab on the left.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1369"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1374"/>
       <source>Next Tab</source>
       <translation>Следующая вкладка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1372"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1377"/>
       <source>Show the tab on the right.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1381"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1386"/>
       <source>Previous View</source>
       <translation>Предыдущий вид</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1384"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1389"/>
       <source>Show the tab history popup window and select more recently used tab.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1393"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1398"/>
       <source>Next View</source>
       <translation>Следующий вид</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1396"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1401"/>
       <source>Show the tab history popup window and select previously viewed tab.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1405"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1410"/>
       <source>Hide Tab</source>
       <translation>Скрыть вкладку</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1408"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1413"/>
       <source>Hide the current tab. The hidden tab can be reopened from the View menu.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1417"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1422"/>
       <source>&amp;Variables</source>
       <translation>Переменные</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1420"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1425"/>
       <source>Show a list of x64dbg variables. Equivalent command "varlist"</source>
       <translation>Показать список переменных x64dbg. Эквивалентная команда "varlist".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1429"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1434"/>
       <source>Restart as Admin</source>
       <translation>Перезапустить с правами администратора</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1432"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1437"/>
       <source>Restart x64dbg under Administrator privilege.</source>
       <translation>Перезапустить x64dbg с правами Администратора.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1441"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1446"/>
       <source>Plugins</source>
       <translation>Плагины</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1444"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1449"/>
       <source>Open https://plugins.x64dbg.com</source>
       <translation>Открыть https://plugins.x64dbg.com</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1453"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1458"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="235"/>
       <source>Trace</source>
       <translation>Трассировка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1456"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1461"/>
       <source>Show the Trace tab.</source>
       <translation>Показать вкладку трассировки.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1465"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1470"/>
       <source>Modules</source>
       <translation>Модули</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1468"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1473"/>
       <source>Show the Symbols tab. Note that the Modules list is in the symbols tab.</source>
       <translation>Показать вкладку символов. Заметьте, что на этой вкладке находится список модулей.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1484"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1489"/>
       <source>&amp;Default</source>
       <translation>&amp;По умолчанию</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1493"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1498"/>
       <source>&amp;Save database</source>
       <translation>&amp;Сохранить базу данных</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1496"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1501"/>
       <source>Save all data. The database will be automatically saved when debugging is stopped.</source>
       <translation>Сохранить все данные. База данных будет сохранена автоматически после прекращения отладки.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1505"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1510"/>
       <source>Re&amp;load database</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1508"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1513"/>
       <source>Discard all modifications and read all data from disk.</source>
       <translation>Отменить все модификации и прочитать все данные с диска.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1517"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1522"/>
       <source>&amp;Restore backup database</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1520"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1525"/>
       <source>Read data from the backup database to recover from database corruption.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1529"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1534"/>
       <source>&amp;Clear database</source>
       <translation>&amp;Очистить базу данных</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1532"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1537"/>
       <source>Clear all data.</source>
       <translation>Очистить все данные.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1537"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1542"/>
       <source>About Qt</source>
       <translation>О Qt</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1540"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1545"/>
       <source>Display information about Qt</source>
       <translation>Отобразить информацию о Qt</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1550"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1555"/>
       <source>Mnemonic Help</source>
       <translation>Справка по мнемоникам инструкций</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1553"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1558"/>
       <source>Output the detailed help information about an assembly mnemonic to the log. Equivalent command "mnemonichelp name".</source>
       <translation>Отобразить детальную информацию о мнемонике ассемблерной инструкции в лог. Эквивалентная команда "mnemonichelp название".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1562"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1567"/>
       <source>Release Notes</source>
       <translation type="unfinished"/>
     </message>
@@ -14362,7 +14382,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="55"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="477"/>
       <source>Ready</source>
       <translation>Готов</translation>
     </message>
@@ -14471,10 +14491,10 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1229"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1290"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1307"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2303"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1230"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1291"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1308"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2304"/>
       <source>Error</source>
       <translation>Ошибка</translation>
     </message>
@@ -14499,285 +14519,285 @@ Do you want to continue rendering this graph?</source>
       <translation>SEH</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="390"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="391"/>
       <source>Favourite Toolbox</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="468"/>
       <source>Command: </source>
       <translation>Команда: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="492"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="495"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2614"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2621"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2634"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2641"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="493"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="496"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2615"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2622"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2635"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2642"/>
       <source>Languages</source>
       <translation>Языки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="733"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="734"/>
       <source>Dark</source>
       <translation>Тёмная</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
       <source>Remember my choice</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
       <source>The debuggee is still running and will be terminated if you exit. What do you want to do?</source>
       <translation>Отлаживаемая программа все еще выполняется и ее выполнение будет прекращено, если Вы выйдете. Что Вы хотите сделать?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="804"/>
       <source>Debuggee is still running</source>
       <translation>Отладка ещё выполняется</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="806"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="807"/>
       <source>&amp;Exit</source>
       <translation>&amp;Выход</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="807"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="808"/>
       <source>Stop the debuggee and exit x64dbg.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="809"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="810"/>
       <source>&amp;Detach and exit</source>
       <translation>&amp;Отсоединиться и выйти</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="810"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="811"/>
       <source>Detach from the debuggee (leaving it running) and exit x64dbg.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="812"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="813"/>
       <source>&amp;Restart debugging</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="813"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="814"/>
       <source>Restart the debuggee and keep x64dbg open.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="815"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="816"/>
       <source>&amp;Continue debugging</source>
       <translation>&amp;Продолжить отладку</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="816"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="817"/>
       <source>Close this dialog and continue where you left off.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1065"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1073"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1066"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1074"/>
       <source>Unsupported system</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1066"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1067"/>
       <source>You are running x64dbg in ARM64 emulation mode. &lt;b&gt;This system is not supported by x64dbg and will cause unexpected behavior.&lt;/b&gt; Analyzing malware in this environment is dangerous and you should switch to an actual Intel/AMD CPU.&lt;br&gt;&lt;br&gt;For more information, see the &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1074"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1075"/>
       <source>You are running x64dbg on an unsupported operating system version. &lt;b&gt;Future updates will completely stop running on this system.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more information, see the official &lt;a href="%1"&gt;announcement&lt;/a&gt;.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1230"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1231"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1290"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1307"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1291"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1308"/>
       <source>Cannot start a trace when running, pause execution first.</source>
       <translation>Нельзя начинать трассировку во время выполнения программы, для начала остановите выполнение.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1346"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1347"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2737"/>
       <source>Open file</source>
       <translation>Открыть файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1346"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1347"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>Исполняемые (*.exe *.dll);;Все файлы (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1969"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1970"/>
       <source>Disassembly</source>
       <translation>Дизассемблированный код</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1972"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1973"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1975"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1976"/>
       <source>Stack</source>
       <translation>Стек</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2088"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2089"/>
       <source>Enter expression to run to...</source>
       <translation>Введите выражение для запуска до...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2111"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2112"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2281"/>
       <source>Error!</source>
       <translation>Ошибка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2111"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2112"/>
       <source>Patches can only be shown while debugging...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2168"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2169"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>Все суммы будут направлены на разработку x64dbg.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2181"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2182"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>Вы посетите официальный блог x64dbg.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2194"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2195"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>Вы перейдете на сайт, где вы можете сообщить об ошибке.
 Убедитесь, что вы указали как можно больше информации.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2207"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2208"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>Это действие приведет к аварийному завершению отладчика и созданию дампа. Вы ПОТЕРЯЕТЕ ВСЕ ВАШИ НЕ СОХРАНЕННЫЕ ДАННЫЕ. Вы действительно хотите продолжить?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2220"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2221"/>
       <source>Have fun debugging the debugger!</source>
       <translation>Получай удовольствие, отлаживая отладчик!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2220"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2221"/>
       <source>Debugger detected!</source>
       <translation>Обнаружен отладчик!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2226"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2227"/>
       <source>Mnemonic help</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2265"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2266"/>
       <source>Change Command Line</source>
       <translation>Изменение аргументов командной строки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2271"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>Не удается получить параметры удаленной командной строки, используйте команду 'getcmdline' для получения дополнительной информации.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2281"/>
       <source>Could not set command line!</source>
       <translation>Не удалось установить параметры командной строки!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2286"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2287"/>
       <source>New command line: </source>
       <translation>Новая командная строка: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2304"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2305"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>Руководство не может быть открыто. Пожалуйста, проверьте, существует ли файл x64dbg.chm и убедитесь, что нет никаких проблем с вашей системой.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2305"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2306"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>Хотите ли Вы открыть онлайн руководство по адресу https://help.x64dbg.com ?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2453"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2454"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2568"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2569"/>
       <source>Starting tool %1
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2622"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>Перевод почти пуст. Вы все еще хотите использовать этот язык?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2642"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2643"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>Новые настройки языка применятся при следующем запуске приложения.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
       <source>Animate command</source>
       <translation>Анимация команды</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
       <source>Example: StepInto</source>
       <translation>Пример: StepInto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2728"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2729"/>
       <source>Customize Menus</source>
       <translation>Настройка меню</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2737"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>Файлы настроек (*.ini);;Все файлы (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2747"/>
       <source>Import database</source>
       <translation>Импорт базы данных</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2747"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2756"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2757"/>
       <source>Export database</source>
       <translation>Экспорт базы данных</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2756"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2757"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>Базы данных (%1);;Все файлы (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2806"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2816"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2807"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2817"/>
       <source>More Commands</source>
       <translation>Больше команд</translation>
     </message>

@@ -1974,18 +1974,33 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
-      <source>Bit</source>
-      <translation>位</translation>
+      <source>Mark covered (yes/no)</source>
+      <translation>标记已覆盖(是/否)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
+      <source>Enable trace coverage with 1 bit (whether an instruction was executed or not)</source>
+      <translation>启用1比特代码覆盖（指令是否被执行）</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
-      <source>Byte</source>
-      <translation>1字节</translation>
+      <source>Count hits (up to 63)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
+      <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
-      <source>Word</source>
-      <translation>2字节</translation>
+      <source>Count hits (up to 16383)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
+      <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
@@ -7929,8 +7944,8 @@
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
       <location filename="src/dbg/value.cpp" line="1762"/>
-      <location filename="src/dbg/value.cpp" line="2456"/>
-      <location filename="src/dbg/value.cpp" line="2500"/>
+      <location filename="src/dbg/value.cpp" line="2549"/>
+      <location filename="src/dbg/value.cpp" line="2592"/>
       <source>Not debugging!</source>
       <translation>未在调试！</translation>
     </message>
@@ -8058,8 +8073,8 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="961"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="992"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1014"/>
-      <location filename="src/dbg/value.cpp" line="2284"/>
-      <location filename="src/dbg/value.cpp" line="2302"/>
+      <location filename="src/dbg/value.cpp" line="2366"/>
+      <location filename="src/dbg/value.cpp" line="2384"/>
       <source>Failed to read register context...</source>
       <translation>无法读取注册表上下文...</translation>
     </message>
@@ -8153,14 +8168,14 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="221"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="401"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="490"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="643"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="399"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="488"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="591"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="641"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="744"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="938"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
@@ -8169,8 +8184,8 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="222"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="196"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="350"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
       <source>Data</source>
       <translation>数据</translation>
     </message>
@@ -8672,41 +8687,41 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="105"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="155"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="256"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="103"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="153"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="254"/>
       <source>Failed to transform pattern!</source>
       <translation>变换匹配特征时失败！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="113"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="163"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="111"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="161"/>
       <source>Invalid memory address %p!
 </source>
       <translation>内存地址 %p 无效！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="119"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="169"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="117"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="167"/>
       <source>Failed to read memory!</source>
       <translation>读取内存失败!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="190"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="344"/>
       <source>Pattern: %s</source>
       <translation>匹配特征： %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="198"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="352"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="402"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="491"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="594"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="644"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="748"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="350"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="400"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="489"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="592"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="642"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="939"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
@@ -8714,87 +8729,87 @@
       <translation>反汇编</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="230"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="382"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="228"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="380"/>
       <source>[Error disassembling]</source>
       <translation>[反汇编出错]</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="238"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="390"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="236"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="388"/>
       <source>%d occurrences found in %ums
 </source>
       <translation>找到了 %d 项于 %u毫秒内
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="339"/>
       <source>MemFindInMap failed!</source>
       <translation>MemFindInMap 失败！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="448"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="446"/>
       <source>Failed to assemble "%s" (%s)!
 </source>
       <translation>汇编“%s”失败(%s)！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="457"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="455"/>
       <source>Command: "%s"</source>
       <translation>命令: “%s”</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="460"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="458"/>
       <source>%u result(s) in %ums
 </source>
       <translation>%u 结果， 用时 %u毫秒
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="572"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="570"/>
       <source>Constant: %p</source>
       <translation>常数： %p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="574"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="572"/>
       <source>Range: %p-%p</source>
       <translation>范围： %p-%p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="583"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="581"/>
       <source>%u reference(s) in %ums
 </source>
       <translation>搜索到 %u 个引用于 %u毫秒内
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="595"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
       <source>String Address</source>
       <translation>字符串地址</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="596"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="594"/>
       <source>String</source>
       <translation>字符串</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="597"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="595"/>
       <source>Follow in Disassembly and Dump</source>
       <translation>在反汇编和内存窗口中转到</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="598"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="596"/>
       <source>Follow string in Dump</source>
       <translation>在内存窗口中转到字符串</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="645"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="643"/>
       <source>Function pointer</source>
       <translation>函数指针</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="646"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="644"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="164"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="240"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="327"/>
@@ -8802,86 +8817,86 @@
       <translation>标签</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="706"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="704"/>
       <source>Strings</source>
       <translation>字符串</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="709"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="707"/>
       <source>%u string(s) in %ums
 </source>
       <translation>搜索到 %u 个字符串于 %u 毫秒内
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="733"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="731"/>
       <source>Function pointers</source>
       <translation>函数指针</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="736"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="734"/>
       <source>%u function pointer(s) in %ums
 </source>
       <translation>找到了 %u 个函数指针于 %u 毫秒内。
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="747"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="745"/>
       <source>Module</source>
       <translation>模块</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="749"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="747"/>
       <source>Destination</source>
       <translation>目标</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="843"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="841"/>
       <source>Calls</source>
       <translation>调用</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="846"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="844"/>
       <source>%u call(s) in %ums
 </source>
       <translation>找到 %u 个调用于 %u毫秒内
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="942"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1085"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1083"/>
       <source>GUID</source>
       <translation>GUID</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="943"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
       <source>ProgId</source>
       <translation>ProgId</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="944"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="942"/>
       <source>Path</source>
       <translation>路径</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="945"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="943"/>
       <source>Description</source>
       <translation>描述</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1057"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1055"/>
       <source>RegOpenKeyExW() failed. Cannot enumerate GUIDs.</source>
       <translation>RegOpenKeyExW() 失败。因此无法搜索GUID。</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1088"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1086"/>
       <source>%u GUID(s) in %ums
 </source>
       <translation>找到 %u 个GUID于 %u 毫秒内
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1101"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1099"/>
       <source>Invalid expression: "%s"</source>
       <translation>无效表达式：“%s”</translation>
     </message>
@@ -11021,8 +11036,8 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/value.cpp" line="1630"/>
       <location filename="src/dbg/value.cpp" line="1776"/>
-      <location filename="src/dbg/value.cpp" line="2334"/>
-      <location filename="src/dbg/value.cpp" line="2485"/>
+      <location filename="src/dbg/value.cpp" line="2413"/>
+      <location filename="src/dbg/value.cpp" line="2580"/>
       <source>Not debugging</source>
       <translation>未在调试</translation>
     </message>
@@ -11046,7 +11061,7 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="2444"/>
+      <location filename="src/dbg/value.cpp" line="2531"/>
       <source>Failed to write memory</source>
       <translation>写入内存失败</translation>
     </message>
@@ -13294,9 +13309,9 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1969"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1972"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1975"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1970"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1973"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1976"/>
       <source>&amp;Plugins</source>
       <translation>插件(&amp;P)</translation>
     </message>
@@ -13307,7 +13322,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="182"/>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1473"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1478"/>
       <source>&amp;Theme</source>
       <translation>主题(&amp;T)</translation>
     </message>
@@ -13755,7 +13770,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2168"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2169"/>
       <source>Donate</source>
       <translation>捐赠</translation>
     </message>
@@ -13834,7 +13849,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2194"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2195"/>
       <source>Report Bug</source>
       <translation>报告Bug</translation>
     </message>
@@ -13936,7 +13951,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1009"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1012"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1312"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1313"/>
       <source>Trace over...</source>
       <translation>条件跟踪步过...</translation>
     </message>
@@ -13948,7 +13963,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1024"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1027"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1295"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
       <source>Trace into...</source>
       <translation>条件跟踪步进...</translation>
     </message>
@@ -13969,410 +13984,415 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1051"/>
-      <source>Count hits (up to 255)</source>
-      <translation>点击次数 (最多 255)</translation>
+      <source>Count hits (up to 63)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1054"/>
-      <source>Enable trace coverage with 1 byte to record how many times an instruction has been executed.</source>
-      <translation>启用1字节代码覆盖记录指令执行次数</translation>
+      <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1063"/>
-      <source>Count hits (up to 65535)</source>
-      <translation>点击次数 (最多 65535)</translation>
+      <source>Count hits (up to 16383)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1066"/>
-      <source>Enable trace coverage with 1 word to record how many times an instruction has been executed.</source>
-      <translation>启用2字节代码覆盖记录指令执行次数</translation>
+      <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1075"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1071"/>
+      <source>Reset trace coverage</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1080"/>
       <source>Step into until reaching uncovered code</source>
       <translation>步进至未覆盖的代码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1078"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1083"/>
       <source>Step into until reaching an instruction that was not covered before. Equivalent command "tibt"</source>
       <translation>步进并追踪直到当前指令未曾被执行过，等价于命令“tibt”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1087"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1092"/>
       <source>Step over until reaching uncovered code</source>
       <translation>步过至未覆盖的代码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1090"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1095"/>
       <source>Step over until reaching an instruction that was not covered before. Equivalent command "tobt"</source>
       <translation>步过并追踪直到当前指令未曾被执行过，等价于命令“tobt”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1099"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1104"/>
       <source>Step into until reaching covered code</source>
       <translation>步进至已覆盖的代码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1102"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1107"/>
       <source>Step into until reaching an instruction that has been covered before. Equivalent command "tiit"</source>
       <translation>步进并追踪直到当前指令已经被执行过，等价于命令“tiit”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1111"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1116"/>
       <source>Step over until reaching covered code</source>
       <translation>步过至已覆盖的代码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1114"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1119"/>
       <source>Step over until reaching an instruction that has been covered before. Equivalent command "toit"</source>
       <translation>步过并追踪直到当前指令已经被执行过，等价于命令“toit”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1123"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1128"/>
       <source>Disable</source>
       <translation>禁用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1126"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1131"/>
       <source>Disable trace coverage</source>
       <translation>禁用代码覆盖</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1135"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1140"/>
       <source>Run to &amp;user code</source>
       <translation>运行到用户代码(&amp;U)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1138"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1143"/>
       <source>Trace over until user code would be executed.</source>
       <translation>步过并追踪直到用户代码将被执行。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1147"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1152"/>
       <source>Run until e&amp;xpression</source>
       <translation>运行到表达式(&amp;X)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1156"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1161"/>
       <source>Undo last instruction</source>
       <translation>撤销上个指令</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2207"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1170"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2208"/>
       <source>Generate crash dump</source>
       <translation>生成故障转储</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2452"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1179"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2453"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>管理收藏工具(&amp;M)...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1183"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1188"/>
       <source>Step over (source)</source>
       <translation>步过 (源代码)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1186"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1191"/>
       <source>Execute a single line of source code without entering the subroutine. Equivalent to "TraceOverConditional src.line(cip) &amp;&amp; !src.disp(cip)"</source>
       <translation>执行源代码内的单行而不进入子程序内，等价于“TraceOverConditional src.line(cip) &amp;&amp; !src.disp(cip)”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1195"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1200"/>
       <source>Step into (source)</source>
       <translation>步进 (源代码)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1198"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1203"/>
       <source>Execute a single source code line. Equivalent to "TraceIntoConditional src.line(cip) &amp;&amp; !src.disp(cip)"</source>
       <translation>执行单行源代码，等价于“TraceIntoConditional src.line(cip) &amp;&amp; !src.disp(cip)”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1207"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1212"/>
       <source>&amp;Graph</source>
       <translation>流程图(&amp;G)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1210"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1215"/>
       <source>Show the CPU tab and switch to Graph mode.</source>
       <translation>显示 CPU 菜单栏并切换至图形模式。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1219"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1224"/>
       <source>Step into (swallow exception)</source>
       <translation>步进(无视异常)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1231"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1236"/>
       <source>Step over (swallow exception)</source>
       <translation>步过(无视异常)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1240"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1245"/>
       <source>Run (swallow exception)</source>
       <translation>运行(无视异常)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1243"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1248"/>
       <source>Run the debuggee and ignore all exceptions so the debuggee will not process the exception.</source>
       <translation>执行被调试进程并忽略所有异常，使得被调试进程不处理异常。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2181"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1257"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2182"/>
       <source>Blog</source>
       <translation>博客</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1255"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1260"/>
       <source>Open https://blog.x64dbg.com</source>
       <translation>打开 https://blog.x64dbg.com</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1264"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1269"/>
       <source>Animate into</source>
       <translation>连续步进</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1267"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1272"/>
       <source>Execute the step into command at a fixed pace</source>
       <translation>以固定速度运行步进命令</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1276"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1281"/>
       <source>Animate over</source>
       <translation>自动步过</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1279"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1284"/>
       <source>Execute the step over command at a fixed pace</source>
       <translation>以固定速度运行步过命令</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1288"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1293"/>
       <source>Animate command...</source>
       <translation>自动运行命令...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1291"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1296"/>
       <source>Execute a command at a fixed pace</source>
       <translation>以固定速度运行命令</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1300"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1305"/>
       <source>System breakpoint scripts</source>
       <translation>系统断点脚本</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1303"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1308"/>
       <source>Set the script file to run automatically when the system breakpoint is reached.</source>
       <translation>设置当运行到系统断点时自动运行的脚本文件。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1312"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1317"/>
       <source>Import settings...</source>
       <translation>导入设置...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1315"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1320"/>
       <source>Import settings from an external file</source>
       <translation>从外部文件导入设置</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1324"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1329"/>
       <source>Customize menus</source>
       <translation>自定义菜单</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1327"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1332"/>
       <source>Open the Customize Menus dialog to hide infrequently used menu items into the "more commands" submenu.</source>
       <translation>打开自定义菜单对话框，将不经常使用的菜单项隐藏到“更多命令”子菜单中。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1336"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1341"/>
       <source>&amp;Import database</source>
       <translation>导入数据库(&amp;I)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1339"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1344"/>
       <source>Open an external database file to import data.</source>
       <translation>打开外部数据库文件导入数据。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1348"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1353"/>
       <source>&amp;Export database</source>
       <translation>导出数据库(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1357"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1362"/>
       <source>Previous Tab</source>
       <translation>上一页</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1360"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1365"/>
       <source>Show the tab on the left.</source>
       <translation>显示左侧的标签页。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1369"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1374"/>
       <source>Next Tab</source>
       <translation>下一页</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1372"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1377"/>
       <source>Show the tab on the right.</source>
       <translation>显示右侧的标签页。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1381"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1386"/>
       <source>Previous View</source>
       <translation>上一个视图</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1384"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1389"/>
       <source>Show the tab history popup window and select more recently used tab.</source>
       <translation>显示标签页历史窗口并选择最近使用的标签页。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1393"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1398"/>
       <source>Next View</source>
       <translation>下一个视图</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1396"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1401"/>
       <source>Show the tab history popup window and select previously viewed tab.</source>
       <translation>显示标签历史窗口并选择更旧的标签页。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1405"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1410"/>
       <source>Hide Tab</source>
       <translation>隐藏页面</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1408"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1413"/>
       <source>Hide the current tab. The hidden tab can be reopened from the View menu.</source>
       <translation>隐藏当前标签页。可以从视图菜单重新打开被隐藏的标签页。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1417"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1422"/>
       <source>&amp;Variables</source>
       <translation>变量(&amp;V)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1420"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1425"/>
       <source>Show a list of x64dbg variables. Equivalent command "varlist"</source>
       <translation>显示x64dbg变量列表。等效命令“varlist”</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1429"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1434"/>
       <source>Restart as Admin</source>
       <translation>以管理员身份重新启动</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1432"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1437"/>
       <source>Restart x64dbg under Administrator privilege.</source>
       <translation>以管理员权限重启 x64dbg。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1441"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1446"/>
       <source>Plugins</source>
       <translation>插件</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1444"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1449"/>
       <source>Open https://plugins.x64dbg.com</source>
       <translation>打开 https://plugins.x64dbg.com</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1453"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1458"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="235"/>
       <source>Trace</source>
       <translation>跟踪</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1456"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1461"/>
       <source>Show the Trace tab.</source>
       <translation>显示跟踪标签页。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1465"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1470"/>
       <source>Modules</source>
       <translation>模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1468"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1473"/>
       <source>Show the Symbols tab. Note that the Modules list is in the symbols tab.</source>
       <translation>显示符号标签页。注意模块列表在符号标签页内。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1484"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1489"/>
       <source>&amp;Default</source>
       <translation>默认(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1493"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1498"/>
       <source>&amp;Save database</source>
       <translation>保存数据库(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1496"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1501"/>
       <source>Save all data. The database will be automatically saved when debugging is stopped.</source>
       <translation>保存所有数据。当调试停止时，数据库将自动保存。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1505"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1510"/>
       <source>Re&amp;load database</source>
       <translation>重新载入数据库(&amp;L)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1508"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1513"/>
       <source>Discard all modifications and read all data from disk.</source>
       <translation>放弃所有修改并从磁盘读取所有数据。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1517"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1522"/>
       <source>&amp;Restore backup database</source>
       <translation>还原备份数据库(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1520"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1525"/>
       <source>Read data from the backup database to recover from database corruption.</source>
       <translation>从备份数据库读取数据以恢复数据库损坏。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1529"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1534"/>
       <source>&amp;Clear database</source>
       <translation>清空数据库(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1532"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1537"/>
       <source>Clear all data.</source>
       <translation>清除全部数据。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1537"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1542"/>
       <source>About Qt</source>
       <translation>关于 Qt</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1540"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1545"/>
       <source>Display information about Qt</source>
       <translation>显示 Qt 相关信息</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1550"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1555"/>
       <source>Mnemonic Help</source>
       <translation>指令帮助</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1553"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1558"/>
       <source>Output the detailed help information about an assembly mnemonic to the log. Equivalent command "mnemonichelp name".</source>
       <translation>输出有关汇编指令的详细的帮助信息到日志。等价于命令“mnemonichelp 名称”。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1562"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1567"/>
       <source>Release Notes</source>
       <translation>发布说明</translation>
     </message>
@@ -14388,7 +14408,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="55"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="477"/>
       <source>Ready</source>
       <translation>就绪</translation>
     </message>
@@ -14497,10 +14517,10 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1229"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1290"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1307"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2303"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1230"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1291"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1308"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2304"/>
       <source>Error</source>
       <translation>错误</translation>
     </message>
@@ -14525,285 +14545,285 @@ Do you want to continue rendering this graph?</source>
       <translation>SEH链</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="390"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="391"/>
       <source>Favourite Toolbox</source>
       <translation>收藏工具箱</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="468"/>
       <source>Command: </source>
       <translation>命令: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="492"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="495"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2614"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2621"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2634"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2641"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="493"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="496"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2615"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2622"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2635"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2642"/>
       <source>Languages</source>
       <translation>语言</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="733"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="734"/>
       <source>Dark</source>
       <translation>深色</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
       <source>Remember my choice</source>
       <translation>记住我的选择</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
       <source>The debuggee is still running and will be terminated if you exit. What do you want to do?</source>
       <translation>被调试程序还在运行，如果退出，被调试程序也将终止。你想要做什么？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="804"/>
       <source>Debuggee is still running</source>
       <translation>调试对象仍在运行</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="806"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="807"/>
       <source>&amp;Exit</source>
       <translation>退出(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="807"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="808"/>
       <source>Stop the debuggee and exit x64dbg.</source>
       <translation>停止被调试程序，并退出 x64dbg。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="809"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="810"/>
       <source>&amp;Detach and exit</source>
       <translation>分离并退出(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="810"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="811"/>
       <source>Detach from the debuggee (leaving it running) and exit x64dbg.</source>
       <translation>从被调试程序分离（使其保持运行），然后退出 x64dbg。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="812"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="813"/>
       <source>&amp;Restart debugging</source>
       <translation>重新调试(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="813"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="814"/>
       <source>Restart the debuggee and keep x64dbg open.</source>
       <translation>重新启动被调试程序，x64dbg仍然打开。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="815"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="816"/>
       <source>&amp;Continue debugging</source>
       <translation>继续调试(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="816"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="817"/>
       <source>Close this dialog and continue where you left off.</source>
       <translation>关闭此对话框，继续调试。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1065"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1073"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1066"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1074"/>
       <source>Unsupported system</source>
       <translation>不受支持的系统</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1066"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1067"/>
       <source>You are running x64dbg in ARM64 emulation mode. &lt;b&gt;This system is not supported by x64dbg and will cause unexpected behavior.&lt;/b&gt; Analyzing malware in this environment is dangerous and you should switch to an actual Intel/AMD CPU.&lt;br&gt;&lt;br&gt;For more information, see the &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</source>
       <translation>你正在 ARM64 模拟下运行x64dbg 。 &lt;b&gt;此系统不被 x64dbg 支持，并将导致意外行为。&lt;/b&gt; 在此环境中分析恶意软件是危险的，您应该改用真实的 Intel/AMD CPU。&lt;br&gt;&lt;br&gt;了解更多信息，请参阅 &lt;a href="%1"&gt;FAQ&lt;/a&gt;。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1074"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1075"/>
       <source>You are running x64dbg on an unsupported operating system version. &lt;b&gt;Future updates will completely stop running on this system.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more information, see the official &lt;a href="%1"&gt;announcement&lt;/a&gt;.</source>
       <translation>您正在一个不支持的操作系统版本上运行 x64dbg。 &lt;b&gt;未来的更新版本将完全停止在此系统上运行。&lt;/b&gt;&lt;br&gt;&lt;br&gt;了解更多信息，请参阅官方 &lt;a href="%1"&gt;公告&lt;/a&gt;。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1230"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1231"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
       <translation>发布说明不可用。最新更新请参阅 &lt;a href="%1"&gt;%2&lt;/a&gt;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1290"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1307"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1291"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1308"/>
       <source>Cannot start a trace when running, pause execution first.</source>
       <translation>运行时无法启动跟踪，请先暂停。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1346"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1347"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2737"/>
       <source>Open file</source>
       <translation>打开文件</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1346"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1347"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>可执行文件 (*.exe *.dll);;所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1969"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1970"/>
       <source>Disassembly</source>
       <translation>反汇编</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1972"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1973"/>
       <source>Dump</source>
       <translation>内存窗口</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1975"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1976"/>
       <source>Stack</source>
       <translation>堆栈</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2088"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2089"/>
       <source>Enter expression to run to...</source>
       <translation>请输入要运行到的表达式...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2111"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2112"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2281"/>
       <source>Error!</source>
       <translation>错误!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2111"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2112"/>
       <source>Patches can only be shown while debugging...</source>
       <translation>只能在调试时显示补丁……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2168"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2169"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>所有捐款都将用于赞助x64dbg的开发。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2181"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2182"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>您将打开 x64dbg 的官方博客。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2194"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2195"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>您将会进入报告Bug的网站。记得尽可能填写最多信息。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2207"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2208"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>此操作将使调试器崩溃并生成故障转储。你将失去你所有未保存的数据。你真的想要继续吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2220"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2221"/>
       <source>Have fun debugging the debugger!</source>
       <translation>祝您调试调试器愉快！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2220"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2221"/>
       <source>Debugger detected!</source>
       <translation>发现调试器！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2226"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2227"/>
       <source>Mnemonic help</source>
       <translation>指令帮助</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2265"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2266"/>
       <source>Change Command Line</source>
       <translation>改变命令行</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2271"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>无法获得调试对象的命令行，请尝试调用“getcmdline”命令来获得更多信息。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2281"/>
       <source>Could not set command line!</source>
       <translation>无法设置命令行！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2286"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2287"/>
       <source>New command line: </source>
       <translation>新的命令行︰ </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2304"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2305"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>不能打开手册。请检查 x64dbg.chm 是否存在，并确保您的系统没有其他问题。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2305"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2306"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>您想在 https://help.x64dbg.com 上打开在线手册吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2453"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2454"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation>打开收藏夹对话框来管理收藏夹菜单</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2568"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2569"/>
       <source>Starting tool %1
 </source>
       <translation>正在启动工具 %1
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2622"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>翻译几乎是空的。你仍然想要使用这种语言吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2642"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2643"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>新的语言设置将在重新启动应用程序时生效。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
       <source>Animate command</source>
       <translation>自动运行命令</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
       <source>Example: StepInto</source>
       <translation>例如: StepInto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2728"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2729"/>
       <source>Customize Menus</source>
       <translation>自定义菜单</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2737"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>配置文件 (*.ini);;所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2747"/>
       <source>Import database</source>
       <translation>导入数据库</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2747"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>数据库(%1);数据库备份(%1.bak);所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2756"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2757"/>
       <source>Export database</source>
       <translation>导出数据库</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2756"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2757"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>数据库 (%1);;所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2806"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2816"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2807"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2817"/>
       <source>More Commands</source>
       <translation>更多命令</translation>
     </message>

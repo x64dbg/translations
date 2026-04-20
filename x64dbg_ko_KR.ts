@@ -1975,18 +1975,33 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
-      <source>Bit</source>
-      <translation>Bit</translation>
+      <source>Mark covered (yes/no)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
+      <source>Enable trace coverage with 1 bit (whether an instruction was executed or not)</source>
+      <translation>1비트 추적 커버리지를 활성화합니다 (명령이 실행되는 것과는 상관없이)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
-      <source>Byte</source>
-      <translation>Byte</translation>
+      <source>Count hits (up to 63)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
+      <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
-      <source>Word</source>
-      <translation>Word</translation>
+      <source>Count hits (up to 16383)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
+      <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
@@ -7915,8 +7930,8 @@
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
       <location filename="src/dbg/value.cpp" line="1762"/>
-      <location filename="src/dbg/value.cpp" line="2456"/>
-      <location filename="src/dbg/value.cpp" line="2500"/>
+      <location filename="src/dbg/value.cpp" line="2549"/>
+      <location filename="src/dbg/value.cpp" line="2592"/>
       <source>Not debugging!</source>
       <translation>디버깅하지 않음!</translation>
     </message>
@@ -8044,8 +8059,8 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="961"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="992"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1014"/>
-      <location filename="src/dbg/value.cpp" line="2284"/>
-      <location filename="src/dbg/value.cpp" line="2302"/>
+      <location filename="src/dbg/value.cpp" line="2366"/>
+      <location filename="src/dbg/value.cpp" line="2384"/>
       <source>Failed to read register context...</source>
       <translation>레지스터 컨텍스트를 읽는데 실패했습니다...</translation>
     </message>
@@ -8137,14 +8152,14 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="221"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="401"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="490"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="643"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="399"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="488"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="591"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="641"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="744"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="938"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
@@ -8153,8 +8168,8 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="222"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="196"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="350"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
       <source>Data</source>
       <translation>데이터</translation>
     </message>
@@ -8655,41 +8670,41 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="105"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="155"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="256"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="103"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="153"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="254"/>
       <source>Failed to transform pattern!</source>
       <translation>패턴 변환하지 못했습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="113"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="163"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="111"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="161"/>
       <source>Invalid memory address %p!
 </source>
       <translation>잘못 된 메모리 주소 %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="119"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="169"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="117"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="167"/>
       <source>Failed to read memory!</source>
       <translation>메모리 읽지 못했습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="190"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="344"/>
       <source>Pattern: %s</source>
       <translation>패턴: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="198"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="352"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="402"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="491"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="594"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="644"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="748"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="350"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="400"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="489"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="592"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="642"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="939"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
@@ -8697,87 +8712,87 @@
       <translation>디스어셈블리</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="230"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="382"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="228"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="380"/>
       <source>[Error disassembling]</source>
       <translation>[디스어셈블링 오류]</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="238"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="390"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="236"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="388"/>
       <source>%d occurrences found in %ums
 </source>
       <translation>%d 개의 발생 찾음 (%ums)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="339"/>
       <source>MemFindInMap failed!</source>
       <translation>MemFindInMap 실패!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="448"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="446"/>
       <source>Failed to assemble "%s" (%s)!
 </source>
       <translation>"%s" 어셈블하지 못했습니다 (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="457"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="455"/>
       <source>Command: "%s"</source>
       <translation>명령: "%s"</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="460"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="458"/>
       <source>%u result(s) in %ums
 </source>
       <translation>%u 개의 결과 (%ums)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="572"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="570"/>
       <source>Constant: %p</source>
       <translation>상수: %p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="574"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="572"/>
       <source>Range: %p-%p</source>
       <translation>구간: %p-%p</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="583"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="581"/>
       <source>%u reference(s) in %ums
 </source>
       <translation>%u 개의 참조 (%ums)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="595"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="593"/>
       <source>String Address</source>
       <translation>문자열 주소</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="596"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="594"/>
       <source>String</source>
       <translation>문자열</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="597"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="595"/>
       <source>Follow in Disassembly and Dump</source>
       <translation>디스어셈블리와 덤프를 따라가기</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="598"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="596"/>
       <source>Follow string in Dump</source>
       <translation>덤프에서 문자열 따라가기</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="645"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="643"/>
       <source>Function pointer</source>
       <translation>함수 포인터</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="646"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="644"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="164"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="240"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="327"/>
@@ -8785,85 +8800,85 @@
       <translation>레이블</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="706"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="704"/>
       <source>Strings</source>
       <translation>문자열</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="709"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="707"/>
       <source>%u string(s) in %ums
 </source>
       <translation>%u 개의 문자열 (%ums)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="733"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="731"/>
       <source>Function pointers</source>
       <translation>함수 포인터</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="736"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="734"/>
       <source>%u function pointer(s) in %ums
 </source>
       <translation>%u 함수 포인터 %ums</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="747"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="745"/>
       <source>Module</source>
       <translation>모듈</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="749"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="747"/>
       <source>Destination</source>
       <translation>대상</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="843"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="841"/>
       <source>Calls</source>
       <translation>호출</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="846"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="844"/>
       <source>%u call(s) in %ums
 </source>
       <translation>%u 개의 호출 (%ums)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="942"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1085"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1083"/>
       <source>GUID</source>
       <translation>GUID</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="943"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
       <source>ProgId</source>
       <translation>ProgId</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="944"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="942"/>
       <source>Path</source>
       <translation>경로</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="945"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="943"/>
       <source>Description</source>
       <translation>설명</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1057"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1055"/>
       <source>RegOpenKeyExW() failed. Cannot enumerate GUIDs.</source>
       <translation>RegOpenKeyExW()에 실패했습니다. GUID를 나열할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1088"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1086"/>
       <source>%u GUID(s) in %ums
 </source>
       <translation>%u 개의 GUID (%ums)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1101"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1099"/>
       <source>Invalid expression: "%s"</source>
       <translation>잘못 된 표현식: "%s"</translation>
     </message>
@@ -10947,8 +10962,8 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/value.cpp" line="1630"/>
       <location filename="src/dbg/value.cpp" line="1776"/>
-      <location filename="src/dbg/value.cpp" line="2334"/>
-      <location filename="src/dbg/value.cpp" line="2485"/>
+      <location filename="src/dbg/value.cpp" line="2413"/>
+      <location filename="src/dbg/value.cpp" line="2580"/>
       <source>Not debugging</source>
       <translation>디버깅하지 않음</translation>
     </message>
@@ -10972,7 +10987,7 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="2444"/>
+      <location filename="src/dbg/value.cpp" line="2531"/>
       <source>Failed to write memory</source>
       <translation>메모리 쓰기 실패</translation>
     </message>
@@ -13224,9 +13239,9 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1969"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1972"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1975"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1970"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1973"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1976"/>
       <source>&amp;Plugins</source>
       <translation>플러그인(&amp;P)</translation>
     </message>
@@ -13237,7 +13252,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="182"/>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1473"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1478"/>
       <source>&amp;Theme</source>
       <translation>테마(&amp;T)</translation>
     </message>
@@ -13685,7 +13700,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="793"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2168"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2169"/>
       <source>Donate</source>
       <translation>기부</translation>
     </message>
@@ -13764,7 +13779,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="892"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2194"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2195"/>
       <source>Report Bug</source>
       <translation>버그 보고</translation>
     </message>
@@ -13866,7 +13881,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1009"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1012"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1312"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1313"/>
       <source>Trace over...</source>
       <translation>건너서 추적...</translation>
     </message>
@@ -13878,7 +13893,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1024"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1027"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1295"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1296"/>
       <source>Trace into...</source>
       <translation>안으로 추적...</translation>
     </message>
@@ -13900,416 +13915,420 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1051"/>
-      <source>Count hits (up to 255)</source>
+      <source>Count hits (up to 63)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1054"/>
-      <source>Enable trace coverage with 1 byte to record how many times an instruction has been executed.</source>
-      <translation>명령이 몇번이나 실행되었는지 기록하기 위해 1바이트 추적 커버리지를 활성화합니다.</translation>
+      <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1063"/>
-      <source>Count hits (up to 65535)</source>
+      <source>Count hits (up to 16383)</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1066"/>
-      <source>Enable trace coverage with 1 word to record how many times an instruction has been executed.</source>
-      <translation>명령이 몇번이나 실행되었는지 기록하기 위해 1단어 추적 커버리지를 활성화합니다.
-</translation>
+      <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1075"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1071"/>
+      <source>Reset trace coverage</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1080"/>
       <source>Step into until reaching uncovered code</source>
       <translation>커버되지 않은 코드까지 단계별로 진행
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1078"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1083"/>
       <source>Step into until reaching an instruction that was not covered before. Equivalent command "tibt"</source>
       <translation>커버되지 않은 명령에 도달할 때까지 단계별 진행합니다. 동일한 명령어는 "tibt"입니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1087"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1092"/>
       <source>Step over until reaching uncovered code</source>
       <translation>커버되지 않은 코드까지 건너뛰기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1090"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1095"/>
       <source>Step over until reaching an instruction that was not covered before. Equivalent command "tobt"</source>
       <translation>커버되지 않은 명령에 도달할 때까지 건너뜁니다. 동일한 명령어는 "tobt"입니다.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1099"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1104"/>
       <source>Step into until reaching covered code</source>
       <translation>커버된 코드까지 단계별로 진행</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1102"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1107"/>
       <source>Step into until reaching an instruction that has been covered before. Equivalent command "tiit"</source>
       <translation>커버된 명령에 도달할 때까지 단계별 진행합니다. 동일한 명령어는 "tilt"입니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1111"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1116"/>
       <source>Step over until reaching covered code</source>
       <translation>커버된 코드까지 건너뛰기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1114"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1119"/>
       <source>Step over until reaching an instruction that has been covered before. Equivalent command "toit"</source>
       <translation>커버된 명령에 도달할 때까지 건너뜁니다. 동일한 명령어는 "toit"입니다.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1123"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1128"/>
       <source>Disable</source>
       <translation>비활성화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1126"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1131"/>
       <source>Disable trace coverage</source>
       <translation>추적 커버리지 비활성화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1135"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1140"/>
       <source>Run to &amp;user code</source>
       <translation>사용자 코드로 실행(&amp;U)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1138"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1143"/>
       <source>Trace over until user code would be executed.</source>
       <translation>사용자의 코드가 실행될 때까지 추적합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1147"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1152"/>
       <source>Run until e&amp;xpression</source>
       <translation>표현식까지 실행(&amp;X)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1156"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1161"/>
       <source>Undo last instruction</source>
       <translation>마지막 명령어 실행 취소</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1165"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2207"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1170"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2208"/>
       <source>Generate crash dump</source>
       <translation>크래시 덤프 생성</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1174"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2452"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1179"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2453"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>즐겨찾기 도구 관리(&amp;M)...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1183"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1188"/>
       <source>Step over (source)</source>
       <translation>건너서 단계진행 (소스)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1186"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1191"/>
       <source>Execute a single line of source code without entering the subroutine. Equivalent to "TraceOverConditional src.line(cip) &amp;&amp; !src.disp(cip)"</source>
       <translation>서브루틴에 들어가지 않고 소스 코드 한 줄을 실행합니다. 동일한 명령어는 "TraceOverConditional src.line(cip) &amp;&amp; !src.disp(cip)"입니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1195"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1200"/>
       <source>Step into (source)</source>
       <translation>안으로 단계진행 (소스)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1198"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1203"/>
       <source>Execute a single source code line. Equivalent to "TraceIntoConditional src.line(cip) &amp;&amp; !src.disp(cip)"</source>
       <translation>소스 코드 한 줄을 실행합니다. 동일한 명령어는 "TraceIntoConditional src.line(cip) &amp;&amp; !src.disp(cip)"입니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1207"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1212"/>
       <source>&amp;Graph</source>
       <translation>그래프(&amp;G)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1210"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1215"/>
       <source>Show the CPU tab and switch to Graph mode.</source>
       <translation>CPU 탭을 표시하고 그래프모드로 전환합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1219"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1224"/>
       <source>Step into (swallow exception)</source>
       <translation>안으로 단계진행 (예외 통과)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1231"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1236"/>
       <source>Step over (swallow exception)</source>
       <translation>건너서 단계진행 (예외 통과)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1240"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1245"/>
       <source>Run (swallow exception)</source>
       <translation>실행 (예외 통과)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1243"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1248"/>
       <source>Run the debuggee and ignore all exceptions so the debuggee will not process the exception.</source>
       <translation>디버그 대상을 실행하고 예외를 실행하지 않기 위해 모든 예외를 무시합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1252"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2181"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1257"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2182"/>
       <source>Blog</source>
       <translation>블로그</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1255"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1260"/>
       <source>Open https://blog.x64dbg.com</source>
       <translation>https://blog.x64dbg.com 열기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1264"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1269"/>
       <source>Animate into</source>
       <translation>안으로 자동진행</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1267"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1272"/>
       <source>Execute the step into command at a fixed pace</source>
       <translation>일정한 속도로 명령어를 단계별 실행</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1276"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1281"/>
       <source>Animate over</source>
       <translation>건너서 자동진행</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1279"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1284"/>
       <source>Execute the step over command at a fixed pace</source>
       <translation>일정한 속도로 명령어를 건너뛰기
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1288"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1293"/>
       <source>Animate command...</source>
       <translation>자동진행 명령...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1291"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1296"/>
       <source>Execute a command at a fixed pace</source>
       <translation>일정한 속도로 명령어를 실행</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1300"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1305"/>
       <source>System breakpoint scripts</source>
       <translation>시스템 중단점 스크립트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1303"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1308"/>
       <source>Set the script file to run automatically when the system breakpoint is reached.</source>
       <translation>시스템 중단점에 도달했을 때 스크립트 파일이 자동으로 실행되도록 설정합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1312"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1317"/>
       <source>Import settings...</source>
       <translation>설정 가져오기...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1315"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1320"/>
       <source>Import settings from an external file</source>
       <translation>외부 파일에서 설정을 가져오기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1324"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1329"/>
       <source>Customize menus</source>
       <translation>사용자 지정 메뉴</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1327"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1332"/>
       <source>Open the Customize Menus dialog to hide infrequently used menu items into the "more commands" submenu.</source>
       <translation>자주 사용하지 않는 메뉴 항목을 "추가 명령어" 하위 메뉴에 숨기기 위해 메뉴 사용자 지정 대화 상자를 엽니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1336"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1341"/>
       <source>&amp;Import database</source>
       <translation>데이터베이스 가져오기(&amp;I)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1339"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1344"/>
       <source>Open an external database file to import data.</source>
       <translation>데이터를 가져오기 위해 외부 데이터베이스를 엽니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1348"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1353"/>
       <source>&amp;Export database</source>
       <translation>데이터베이스 내보내기(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1357"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1362"/>
       <source>Previous Tab</source>
       <translation>이전 탭</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1360"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1365"/>
       <source>Show the tab on the left.</source>
       <translation>탭을 왼쪽에 표시합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1369"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1374"/>
       <source>Next Tab</source>
       <translation>다음 탭</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1372"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1377"/>
       <source>Show the tab on the right.</source>
       <translation>탭을 오른쪽에 표시합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1381"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1386"/>
       <source>Previous View</source>
       <translation>이전 보기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1384"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1389"/>
       <source>Show the tab history popup window and select more recently used tab.</source>
       <translation>탭 히스토리 팝업창을 표시하고 최근에 사용한 탭을 선택하세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1393"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1398"/>
       <source>Next View</source>
       <translation>다음 보기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1396"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1401"/>
       <source>Show the tab history popup window and select previously viewed tab.</source>
       <translation>탭 히스토리 팝업창을 표시하고 전에 사용한 탭을 선택하세요.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1405"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1410"/>
       <source>Hide Tab</source>
       <translation>탭 숨기기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1408"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1413"/>
       <source>Hide the current tab. The hidden tab can be reopened from the View menu.</source>
       <translation>현재 탭을 숨깁니다. 숨긴 탭은 뷰 메뉴에서 다시 열 수 있습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1417"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1422"/>
       <source>&amp;Variables</source>
       <translation>변수(&amp;V)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1420"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1425"/>
       <source>Show a list of x64dbg variables. Equivalent command "varlist"</source>
       <translation>x64dbg의 변수의 리스트를 표시합니다. 동일한 명령어는 "varlist"입니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1429"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1434"/>
       <source>Restart as Admin</source>
       <translation>관리자로 다시 시작</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1432"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1437"/>
       <source>Restart x64dbg under Administrator privilege.</source>
       <translation>x64dbg를 관리자 권한으로 재시작합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1441"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1446"/>
       <source>Plugins</source>
       <translation>플러그인</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1444"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1449"/>
       <source>Open https://plugins.x64dbg.com</source>
       <translation>https://plugins.x64dbg.com 열기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1453"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1458"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="235"/>
       <source>Trace</source>
       <translation>추적</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1456"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1461"/>
       <source>Show the Trace tab.</source>
       <translation>추적 탭을 표시합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1465"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1470"/>
       <source>Modules</source>
       <translation>모듈</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1468"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1473"/>
       <source>Show the Symbols tab. Note that the Modules list is in the symbols tab.</source>
       <translation>심볼 탭을 표시합니다. 모듈 목록이 심볼 탭에 있음을 참고하세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1484"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1489"/>
       <source>&amp;Default</source>
       <translation>기본값(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1493"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1498"/>
       <source>&amp;Save database</source>
       <translation>데이터베이스 저장(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1496"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1501"/>
       <source>Save all data. The database will be automatically saved when debugging is stopped.</source>
       <translation>모든 데이터를 저장합니다. 데이터베이스는 디버깅이 멈추면 자동으로 저장됩니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1505"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1510"/>
       <source>Re&amp;load database</source>
       <translation>데이터베이스 리로드(&amp;L)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1508"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1513"/>
       <source>Discard all modifications and read all data from disk.</source>
       <translation>모든 수정사항을 버리고 디스크에서 모든 데이터를 읽습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1517"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1522"/>
       <source>&amp;Restore backup database</source>
       <translation>백업 데이터베이스 복원(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1520"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1525"/>
       <source>Read data from the backup database to recover from database corruption.</source>
       <translation>데이터베이스 복원을 위해 백업 데이터베이스에서 데이터를 읽습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1529"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1534"/>
       <source>&amp;Clear database</source>
       <translation>데이터베이스 초기화(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1532"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1537"/>
       <source>Clear all data.</source>
       <translation>모든 데이터 삭제.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1537"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1542"/>
       <source>About Qt</source>
       <translation>Qt에 대하여</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1540"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1545"/>
       <source>Display information about Qt</source>
       <translation>Qt에대한 정보를 표시</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1550"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1555"/>
       <source>Mnemonic Help</source>
       <translation>연상기호 도움말</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1553"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1558"/>
       <source>Output the detailed help information about an assembly mnemonic to the log. Equivalent command "mnemonichelp name".</source>
       <translation>어셈블리 연상기호에 대한 자세한 도움말 정보를 로그에 출력합니다. 동일한 명령어는 "mnemonichelp name"입니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1562"/>
+      <location filename="src/gui/Src/Gui/MainWindow.ui" line="1567"/>
       <source>Release Notes</source>
       <translation type="unfinished"/>
     </message>
@@ -14325,7 +14344,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="55"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="476"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="477"/>
       <source>Ready</source>
       <translation>준비</translation>
     </message>
@@ -14434,10 +14453,10 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1229"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1290"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1307"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2303"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1230"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1291"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1308"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2304"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
@@ -14462,285 +14481,285 @@ Do you want to continue rendering this graph?</source>
       <translation>SEH</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="390"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="391"/>
       <source>Favourite Toolbox</source>
       <translation>즐겨찾는 도구</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="468"/>
       <source>Command: </source>
       <translation>명령: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="492"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="495"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2614"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2621"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2634"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2641"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="493"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="496"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2615"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2622"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2635"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2642"/>
       <source>Languages</source>
       <translation>언어</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="733"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="734"/>
       <source>Dark</source>
       <translation>다크</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="800"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
       <source>Remember my choice</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
       <source>The debuggee is still running and will be terminated if you exit. What do you want to do?</source>
       <translation>디버그 대상이 아직 실행중이며, 나갈 경우 종료됩니다. 어떻게 하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="804"/>
       <source>Debuggee is still running</source>
       <translation>디버그 대상이 아직 실행중</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="806"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="807"/>
       <source>&amp;Exit</source>
       <translation>종료(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="807"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="808"/>
       <source>Stop the debuggee and exit x64dbg.</source>
       <translation>디버그 대상을 종료하고 x64dbg도 종료합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="809"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="810"/>
       <source>&amp;Detach and exit</source>
       <translation>분리 후 종료(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="810"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="811"/>
       <source>Detach from the debuggee (leaving it running) and exit x64dbg.</source>
       <translation>디버그 대상에서 분리(실행상태로 유지) 후 x64dbg를 종료합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="812"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="813"/>
       <source>&amp;Restart debugging</source>
       <translation>디버깅 재시작(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="813"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="814"/>
       <source>Restart the debuggee and keep x64dbg open.</source>
       <translation>x64dbg를 켜놓은 채로 디버그 대상을 재시작합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="815"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="816"/>
       <source>&amp;Continue debugging</source>
       <translation>이어서 디버깅(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="816"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="817"/>
       <source>Close this dialog and continue where you left off.</source>
       <translation>이 창을 닫고 이전 위치에서 계속  진행합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1065"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1073"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1066"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1074"/>
       <source>Unsupported system</source>
       <translation>미지원 시스템</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1066"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1067"/>
       <source>You are running x64dbg in ARM64 emulation mode. &lt;b&gt;This system is not supported by x64dbg and will cause unexpected behavior.&lt;/b&gt; Analyzing malware in this environment is dangerous and you should switch to an actual Intel/AMD CPU.&lt;br&gt;&lt;br&gt;For more information, see the &lt;a href="%1"&gt;FAQ&lt;/a&gt;.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1074"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1075"/>
       <source>You are running x64dbg on an unsupported operating system version. &lt;b&gt;Future updates will completely stop running on this system.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more information, see the official &lt;a href="%1"&gt;announcement&lt;/a&gt;.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1230"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1231"/>
       <source>Release notes are not available, see &lt;a href="%1"&gt;%2&lt;/a&gt; for the latest updates.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1290"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1307"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1291"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1308"/>
       <source>Cannot start a trace when running, pause execution first.</source>
       <translation>실행 중에는 추적 기능을 시작할 수 없으니, 먼저 중지해주세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1346"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1347"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2737"/>
       <source>Open file</source>
       <translation>파일 열기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1346"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1347"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>실행 파일(*.exe *.dll);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1969"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1970"/>
       <source>Disassembly</source>
       <translation>디스어셈블리</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1972"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1973"/>
       <source>Dump</source>
       <translation>덤프</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1975"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1976"/>
       <source>Stack</source>
       <translation>스택</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2088"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2089"/>
       <source>Enter expression to run to...</source>
       <translation>실행할 표현식 입력...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2111"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2112"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2281"/>
       <source>Error!</source>
       <translation>오류발생!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2111"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2112"/>
       <source>Patches can only be shown while debugging...</source>
       <translation>패치는 디버깅 중에만 보입니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2168"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2169"/>
       <source>All the money will go to x64dbg development.</source>
       <translation>모든 기부금은 x64dbg 개발에 사용됩니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2181"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2182"/>
       <source>You will visit x64dbg's official blog.</source>
       <translation>x64dbg 공식 블로그에 방문합니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2194"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2195"/>
       <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
       <translation>버그를 보고하기 위해서 웹사이트에 방문합니다.
 가능한 많은 정보를 입력해주세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2207"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2208"/>
       <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR UNSAVED DATA. Do you really want to continue?</source>
       <translation>이 작업은 디버거 충돌시켜서 크래시 덤프를 생성합니다. 저장하지 않은 데이터는 모두 잃어버립니다. 정말로 계속 하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2220"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2221"/>
       <source>Have fun debugging the debugger!</source>
       <translation>디버거 디버깅하기로 즐거운 시간 보내세요!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2220"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2221"/>
       <source>Debugger detected!</source>
       <translation>디버거 감지됨!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2226"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2227"/>
       <source>Mnemonic help</source>
       <translation>연상기호 도움말</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2265"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2266"/>
       <source>Change Command Line</source>
       <translation>명령줄 바꾸기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2270"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2271"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>원격 명령줄을 가져올 수 없습니다, 명령 'getcmdline'을 사용해서 자세한 정보를 확인하세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2280"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2281"/>
       <source>Could not set command line!</source>
       <translation>명령줄을 설정할 수 없음!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2286"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2287"/>
       <source>New command line: </source>
       <translation>새로운 명령줄: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2304"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2305"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>사용설명서를 열 수 없습니다. x64dbg.chm 파일이 존재하는지, 시스템의 다른 프로그램에서 사용되지는 않는지 확인해보세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2305"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2306"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>https://help.x64dbg.com에서 온라인 메뉴얼을 여시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2453"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2454"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation>즐겨찾기 메뉴를 관리할 수 있는 즐겨찾기 창을 엽니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2568"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2569"/>
       <source>Starting tool %1
 </source>
       <translation>%1 도구 시작</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2622"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2623"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>번역문이 거의 비어있습니다. 이 언어를 계속 사용하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2642"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2643"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>새로운 언어 설정이 재시작하면 적용됩니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
       <source>Animate command</source>
       <translation>자동진행 명령</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2715"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2716"/>
       <source>Example: StepInto</source>
       <translation>예시: StepInto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2728"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2729"/>
       <source>Customize Menus</source>
       <translation>사용자 지정 메뉴</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2736"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2737"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>설정 파일 (*.ini);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2747"/>
       <source>Import database</source>
       <translation>데이터베이스 가져오기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2746"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2747"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>데이터베이스 (%1);;데이터베이스 백업 (%1.bak);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2756"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2757"/>
       <source>Export database</source>
       <translation>데이터베이스 내보내기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2756"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2757"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>데이터베이스 (%1);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2806"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2816"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2807"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2817"/>
       <source>More Commands</source>
       <translation>더 많은 명령어</translation>
     </message>
