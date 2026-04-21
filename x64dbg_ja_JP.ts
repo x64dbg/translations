@@ -1987,22 +1987,22 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
       <source>Count hits (up to 63)</source>
-      <translation type="unfinished"/>
+      <translation>ヒット数のカウント (最大63件)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
       <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
-      <translation type="unfinished"/>
+      <translation>コードのバイトあたり1バイトのトレースカバレッジを有効にし、命令が何回実行されたかを記録します。ヒットカウントを最大63件まで有効にし、正確な実行トレースによる逆アセンブルを可能にします。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
       <source>Count hits (up to 16383)</source>
-      <translation type="unfinished"/>
+      <translation>ヒット数のカウント (最大16383件)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
       <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
-      <translation type="unfinished"/>
+      <translation>コードのバイトあたり2バイトのトレースカバレッジを有効にし、命令の実行回数を記録します。ヒットカウントを最大16383件まで有効にし、正確な実行トレースによる逆アセンブルを可能にします。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
@@ -14008,22 +14008,22 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1051"/>
       <source>Count hits (up to 63)</source>
-      <translation type="unfinished"/>
+      <translation>ヒット数のカウント (最大63件)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1054"/>
       <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
-      <translation type="unfinished"/>
+      <translation>コードのバイトあたり1バイトのトレースカバレッジを有効にし、命令が何回実行されたかを記録します。ヒットカウントを最大63件まで有効にし、正確な実行トレースによる逆アセンブルを可能にします。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1063"/>
       <source>Count hits (up to 16383)</source>
-      <translation type="unfinished"/>
+      <translation>ヒット数のカウント (最大16383件)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1066"/>
       <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
-      <translation type="unfinished"/>
+      <translation>コードのバイトあたり2バイトのトレースカバレッジを有効にし、命令の実行回数を記録します。ヒットカウントを最大16383件まで有効にし、正確な実行トレースによる逆アセンブルを可能にします。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1071"/>
