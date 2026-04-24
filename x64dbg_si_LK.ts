@@ -3376,20 +3376,79 @@
   <context>
     <name>CPUStack</name>
     <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="68"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="42"/>
       <source>Comments</source>
       <translation>අදහස්</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="75"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="92"/>
       <source>Align Stack Pointer</source>
       <translation>සන්ධානගත වීම Stack පොයින්ටර්</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="76"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="228"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="98"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="909"/>
       <source>Modify</source>
       <translation>වෙනස් කරන්න</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="80"/>
+      <source>Go to RSP</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="81"/>
+      <source>Go to RBP</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="85"/>
+      <source>Follow in Disassembly</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="87"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="112"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="137"/>
+      <source>&amp;Copy</source>
+      <translation>&amp;පිටපත්</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="88"/>
+      <source>&amp;Selection</source>
+      <translation>සහ තේරීම</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="89"/>
+      <source>&amp;Address</source>
+      <translation>&amp; ලිපිනය</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="90"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
+      <source>&amp;QWORD</source>
+      <translation>&amp;වචනය</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="90"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
+      <source>&amp;DWORD</source>
+      <translation>&amp;ඩවර්ඩ්</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="92"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="135"/>
+      <source>&amp;Comments</source>
+      <translation>&amp;අදහස්</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="96"/>
+      <source>Freeze Stack</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="103"/>
@@ -3400,12 +3459,6 @@
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="106"/>
       <source>&amp;Fill...</source>
       <translation>&amp;පුරවන්න...</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="112"/>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="137"/>
-      <source>&amp;Copy</source>
-      <translation>&amp;පිටපත්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="115"/>
@@ -3421,21 +3474,6 @@
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="120"/>
       <source>B&amp;inary</source>
       <translation>ද්වි/නරි</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
-      <source>&amp;DWORD</source>
-      <translation>&amp;ඩවර්ඩ්</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
-      <source>&amp;QWORD</source>
-      <translation>&amp;වචනය</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="135"/>
-      <source>&amp;Comments</source>
-      <translation>&amp;අදහස්</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="140"/>
@@ -11418,17 +11456,17 @@ Do you want me to fix this?</source>
   <context>
     <name>DbgAdapter</name>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="208"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="238"/>
       <source>System breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="221"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="251"/>
       <source>Step</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="227"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="257"/>
       <source>Paused</source>
       <translation>විරාම</translation>
     </message>
@@ -13251,7 +13289,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/cross/minidump/MainWindow.ui" line="38"/>
       <location filename="src/cross/remote_table/MainWindow.ui" line="38"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="34"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="41"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="42"/>
       <source>&amp;File</source>
       <translation>&amp;ගොනුව</translation>
     </message>
@@ -13297,7 +13335,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="109"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="47"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
       <source>&amp;Debug</source>
       <translation>&amp;නිදොස්කරණය</translation>
     </message>
@@ -13367,7 +13405,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="334"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="45"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="46"/>
       <source>E&amp;xit</source>
       <translation>ඊ සහ XIT</translation>
     </message>
@@ -13378,7 +13416,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="346"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="49"/>
       <source>&amp;Run</source>
       <translation>&amp;දුවන්න</translation>
     </message>
@@ -13570,7 +13608,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="574"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="126"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="127"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="204"/>
       <source>CPU</source>
       <translation>CPU</translation>
@@ -13618,7 +13656,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>නූල්</translation>
@@ -13747,7 +13785,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>ඇමතුම් Stack</translation>
@@ -14401,121 +14439,121 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="42"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="43"/>
       <source>&amp;Open...</source>
       <translation>&amp;විවෘත...</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="52"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="53"/>
       <source>Toggle &amp;Breakpoint</source>
       <translation>ටොගල් කරන්න සහ බ්රේක්පොයින්ට්</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="55"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="56"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="477"/>
       <source>Ready</source>
       <translation>සූදානම්</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="84"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="85"/>
       <source>Main Toolbar</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="91"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="92"/>
       <source>Open (Ctrl+O)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="94"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="95"/>
       <source>Restart</source>
       <translation>නැවත ආරම්භ කරන්න</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="98"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="99"/>
       <source>Close</source>
       <translation>වසන්න</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="104"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="105"/>
       <source>Run (F9)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="107"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="108"/>
       <source>Pause</source>
       <translation>විරාමය</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="112"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="113"/>
       <source>Step Into (F7)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="116"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="117"/>
       <source>Step Over (F8)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="130"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="131"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
       <source>Log</source>
       <translation>ලොග්</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="140"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
       <source>Breakpoints view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="140"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
       <source>Breakpoints</source>
       <translation>බිඳවැටීම්</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <source>Memory map view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
       <translation>මතක සිතියම</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <source>Call stack view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <source>Threads view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="166"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="168"/>
       <source>Hex</source>
       <translation>හෙක්ස්</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="174"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="176"/>
       <source>ASCII</source>
       <translation>ඇසි</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="205"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
       <source>Open ELF Binary</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="205"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
       <source>All Files (*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="239"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="251"/>
       <source>Running</source>
       <translation>ධාවනය</translation>
     </message>

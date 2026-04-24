@@ -3376,20 +3376,79 @@
   <context>
     <name>CPUStack</name>
     <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="68"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="42"/>
       <source>Comments</source>
       <translation>コメント</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="75"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="92"/>
       <source>Align Stack Pointer</source>
       <translation>スタックポインタを整列</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="76"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="228"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="98"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="909"/>
       <source>Modify</source>
       <translation>修正</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="80"/>
+      <source>Go to RSP</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="81"/>
+      <source>Go to RBP</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="85"/>
+      <source>Follow in Disassembly</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="87"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="112"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="137"/>
+      <source>&amp;Copy</source>
+      <translation>コピー(&amp;C)</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="88"/>
+      <source>&amp;Selection</source>
+      <translation>選択範囲(&amp;S)</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="89"/>
+      <source>&amp;Address</source>
+      <translation>アドレス(&amp;A)</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="90"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
+      <source>&amp;QWORD</source>
+      <translation>QWORD(&amp;Q)</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="90"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
+      <source>&amp;DWORD</source>
+      <translation>DWORD(&amp;D)</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="92"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="135"/>
+      <source>&amp;Comments</source>
+      <translation>コメント(&amp;C)</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="96"/>
+      <source>Freeze Stack</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="103"/>
@@ -3400,12 +3459,6 @@
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="106"/>
       <source>&amp;Fill...</source>
       <translation>埋め込み(&amp;F)...</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="112"/>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="137"/>
-      <source>&amp;Copy</source>
-      <translation>コピー(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="115"/>
@@ -3421,21 +3474,6 @@
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="120"/>
       <source>B&amp;inary</source>
       <translation>バイナリ(&amp;I)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
-      <source>&amp;DWORD</source>
-      <translation>DWORD(&amp;D)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
-      <source>&amp;QWORD</source>
-      <translation>QWORD(&amp;Q)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="135"/>
-      <source>&amp;Comments</source>
-      <translation>コメント(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="140"/>
@@ -11435,17 +11473,17 @@ Do you want me to fix this?</source>
   <context>
     <name>DbgAdapter</name>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="208"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="238"/>
       <source>System breakpoint</source>
       <translation>システム ブレークポイント</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="221"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="251"/>
       <source>Step</source>
       <translation>ステップ実行</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="227"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="257"/>
       <source>Paused</source>
       <translation>一時停止</translation>
     </message>
@@ -13270,7 +13308,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/cross/minidump/MainWindow.ui" line="38"/>
       <location filename="src/cross/remote_table/MainWindow.ui" line="38"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="34"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="41"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="42"/>
       <source>&amp;File</source>
       <translation>ファイル(&amp;F)</translation>
     </message>
@@ -13316,7 +13354,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="109"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="47"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
       <source>&amp;Debug</source>
       <translation>デバッグ(&amp;D)</translation>
     </message>
@@ -13386,7 +13424,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="334"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="45"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="46"/>
       <source>E&amp;xit</source>
       <translation>終了(&amp;X)</translation>
     </message>
@@ -13397,7 +13435,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="346"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="49"/>
       <source>&amp;Run</source>
       <translation>実行(&amp;R)</translation>
     </message>
@@ -13589,7 +13627,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="574"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="126"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="127"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="204"/>
       <source>CPU</source>
       <translation>CPU</translation>
@@ -13637,7 +13675,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>スレッド</translation>
@@ -13766,7 +13804,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>コールスタック</translation>
@@ -14420,121 +14458,121 @@ Do you want to continue rendering this graph?</source>
       <translation>リリースノート</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="42"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="43"/>
       <source>&amp;Open...</source>
       <translation>開く(&amp;O)...</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="52"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="53"/>
       <source>Toggle &amp;Breakpoint</source>
       <translation>ブレークポイントの切り替え(&amp;B)</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="55"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="56"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="477"/>
       <source>Ready</source>
       <translation>待機中</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="84"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="85"/>
       <source>Main Toolbar</source>
       <translation>メインツールバー</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="91"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="92"/>
       <source>Open (Ctrl+O)</source>
       <translation>開く (Ctrl+O)</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="94"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="95"/>
       <source>Restart</source>
       <translation>再起動</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="98"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="99"/>
       <source>Close</source>
       <translation>閉じる</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="104"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="105"/>
       <source>Run (F9)</source>
       <translation>実行 (F9)</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="107"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="108"/>
       <source>Pause</source>
       <translation>一時停止</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="112"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="113"/>
       <source>Step Into (F7)</source>
       <translation>ステップイン (F7)</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="116"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="117"/>
       <source>Step Over (F8)</source>
       <translation>ステップオーバー (F8)</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="130"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="131"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
       <source>Log</source>
       <translation>ログ</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="140"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
       <source>Breakpoints view - not yet implemented</source>
       <translation>ブレークポイントビュー - まだ実装されていません</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="140"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
       <source>Breakpoints</source>
       <translation>ブレークポイント</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <source>Memory map view - not yet implemented</source>
       <translation>メモリマップビュー - まだ実装されていません</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
       <translation>メモリ マップ</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <source>Call stack view - not yet implemented</source>
       <translation>コールスタックビュー - まだ実装されていません</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <source>Threads view - not yet implemented</source>
       <translation>スレッドビュー - まだ実装されていません</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="166"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="168"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="174"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="176"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="205"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
       <source>Open ELF Binary</source>
       <translation>ELF バイナリを開く</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="205"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
       <source>All Files (*)</source>
       <translation>すべてのファイル (*)</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="239"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="251"/>
       <source>Running</source>
       <translation>実行中</translation>
     </message>
