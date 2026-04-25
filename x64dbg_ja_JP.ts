@@ -3398,17 +3398,17 @@
     <message>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="80"/>
       <source>Go to RSP</source>
-      <translation type="unfinished"/>
+      <translation>RSP へ移動</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="81"/>
       <source>Go to RBP</source>
-      <translation type="unfinished"/>
+      <translation>RBP へ移動</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="85"/>
       <source>Follow in Disassembly</source>
-      <translation type="unfinished"/>
+      <translation>逆アセンブルで追跡</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="87"/>
@@ -3448,7 +3448,7 @@
     <message>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="96"/>
       <source>Freeze Stack</source>
-      <translation type="unfinished"/>
+      <translation>スタックを固定</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="103"/>
