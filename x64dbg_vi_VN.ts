@@ -7893,9 +7893,9 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
-      <location filename="src/dbg/value.cpp" line="1762"/>
-      <location filename="src/dbg/value.cpp" line="2549"/>
-      <location filename="src/dbg/value.cpp" line="2592"/>
+      <location filename="src/dbg/value.cpp" line="1770"/>
+      <location filename="src/dbg/value.cpp" line="2557"/>
+      <location filename="src/dbg/value.cpp" line="2600"/>
       <source>Not debugging!</source>
       <translation type="unfinished"/>
     </message>
@@ -8016,8 +8016,8 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="961"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="992"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="1014"/>
-      <location filename="src/dbg/value.cpp" line="2366"/>
-      <location filename="src/dbg/value.cpp" line="2384"/>
+      <location filename="src/dbg/value.cpp" line="2374"/>
+      <location filename="src/dbg/value.cpp" line="2392"/>
       <source>Failed to read register context...</source>
       <translation type="unfinished"/>
     </message>
@@ -10772,32 +10772,32 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1630"/>
-      <location filename="src/dbg/value.cpp" line="1776"/>
-      <location filename="src/dbg/value.cpp" line="2413"/>
-      <location filename="src/dbg/value.cpp" line="2580"/>
+      <location filename="src/dbg/value.cpp" line="1638"/>
+      <location filename="src/dbg/value.cpp" line="1784"/>
+      <location filename="src/dbg/value.cpp" line="2421"/>
+      <location filename="src/dbg/value.cpp" line="2588"/>
       <source>Not debugging</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1738"/>
+      <location filename="src/dbg/value.cpp" line="1746"/>
       <source>valfromstring_noexpr failed on %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1746"/>
+      <location filename="src/dbg/value.cpp" line="1754"/>
       <source>Failed to read memory</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="1829"/>
+      <location filename="src/dbg/value.cpp" line="1837"/>
       <source>Invalid value: "%s"!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/value.cpp" line="2531"/>
+      <location filename="src/dbg/value.cpp" line="2539"/>
       <source>Failed to write memory</source>
       <translation type="unfinished"/>
     </message>
