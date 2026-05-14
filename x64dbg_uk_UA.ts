@@ -1785,415 +1785,395 @@
   <context>
     <name>CPUDisassembly</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="164"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="166"/>
       <source>&amp;Selected Address</source>
       <translation>&amp;Виділена адреса</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="189"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="191"/>
       <source>&amp;Address: </source>
       <translation>&amp;Адреса: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="192"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="194"/>
       <source>&amp;Constant: </source>
       <translation>&amp;Константа: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="195"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="197"/>
       <source>&amp;Value: </source>
       <translation>&amp;Значення: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="209"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="211"/>
       <source>Jump table%1: </source>
       <translation>Таблиця стрибків%1: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="238"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="240"/>
       <source>Address: </source>
       <translation>Адреса: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="242"/>
       <source>Constant: </source>
       <translation>Константа: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="280"/>
       <source>&amp;Edit</source>
       <translation>&amp;Редагувати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="279"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="281"/>
       <source>&amp;Fill...</source>
       <translation>&amp;Заповнити...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="280"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="282"/>
       <source>Fill with &amp;NOPs</source>
       <translation>Заповнити &amp;NOP-ами</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="282"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="314"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="284"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="316"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="283"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="285"/>
       <source>&amp;Paste</source>
       <translation>&amp;Вставити</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="287"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="289"/>
       <source>Paste (&amp;Ignore Size)</source>
       <translation>Вставити (&amp;ігноруючи розмір)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="291"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="293"/>
       <source>&amp;Binary</source>
       <translation>&amp;Двійкові операції</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="294"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="296"/>
       <source>&amp;Selection</source>
       <translation>&amp;Виділення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="295"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="297"/>
       <source>Selection to &amp;File</source>
       <translation>Виділення до &amp;файлу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="296"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="298"/>
       <source>Selection (Bytes only)</source>
       <translation>Обране (лише Байти)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="297"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="299"/>
       <source>Selection (&amp;No Bytes)</source>
       <translation>Виділення (&amp;без байтів)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="298"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="300"/>
       <source>Selection to File (No Bytes)</source>
       <translation>Виділення до файлу (без байтів)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="299"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="301"/>
       <source>&amp;Address</source>
       <translation>&amp;Адреса</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="300"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="302"/>
       <source>&amp;RVA</source>
       <translation>&amp;RVA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="301"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="303"/>
       <source>&amp;File Offset</source>
       <translation>&amp;Зміщення файлу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="302"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="304"/>
       <source>&amp;Header VA</source>
       <translation>&amp;Header VA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="303"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1357"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="305"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1359"/>
       <source>Disassembly</source>
       <translation>Дизасембльований код</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="316"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="318"/>
       <source>&amp;Restore selection</source>
       <translation>&amp;Відновити виділені дані</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="329"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="331"/>
       <source>&amp;Follow in Dump</source>
       <translation>&amp;Перейти до дампу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="335"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="337"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>&amp;Перейти до дизасембльованого коду</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="345"/>
       <source>Open Source File</source>
       <translation>Відкрити файл із початковим кодом</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="348"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="350"/>
       <source>Help on Symbolic Name</source>
       <translation>Довідка по символьному імені</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="357"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="359"/>
       <source>Help on mnemonic</source>
       <translation>Довідка по мнемоніці</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="358"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="364"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="360"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="366"/>
       <source>Show mnemonic brief</source>
       <translation>Показати короткий опис мнемоніки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="362"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="364"/>
       <source>Hide mnemonic brief</source>
       <translation>Сховати короткий опис мнемоніки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="368"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="370"/>
       <source>&amp;Highlighting mode</source>
       <translation>&amp;Режим виділення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="369"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="371"/>
       <source>Edit columns...</source>
       <translation>Редагувати колонки…</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="372"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="374"/>
       <source>Label Current Address</source>
       <translation>Додати мітку до поточної адреси</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="373"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="390"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="375"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="392"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="396"/>
       <source>Label</source>
       <translation>Мітка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="397"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
       <source>Disable</source>
       <translation>Відключити</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
       <source>Mark covered (yes/no)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
       <source>Enable trace coverage with 1 bit (whether an instruction was executed or not)</source>
       <translation>Увімкнути відстеження покриття інформацією із одним бітом (виконана інструкція чи ні)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
       <source>Count hits (up to 63)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
       <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
       <source>Count hits (up to 16383)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
       <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="403"/>
       <source>Reset trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="424"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="404"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="426"/>
       <source>Start trace recording</source>
       <translation>Розпочати запис трасування</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="403"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="405"/>
       <source>Trace coverage</source>
       <translation>Покриття трасування</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="419"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="421"/>
       <source>Stop trace recording</source>
       <translation>Зупинити запис трасування</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="436"/>
       <source>Function</source>
       <translation>Функція</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="437"/>
       <source>Analyze module</source>
       <translation>Аналізувати модуль</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="439"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="441"/>
       <source>Add function</source>
       <translation>Додати функцію</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="441"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="443"/>
       <source>Delete function</source>
       <translation>Видалити функцію</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="444"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="446"/>
       <source>Argument</source>
       <translation>Аргумент</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="450"/>
       <source>Add argument</source>
       <translation>Додати аргумент</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="450"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="452"/>
       <source>Delete argument</source>
       <translation>Видалити аргумент</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="453"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="455"/>
       <source>Add loop</source>
       <translation>Додати цикл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="454"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="456"/>
       <source>Delete loop</source>
       <translation>Видалити цикл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="458"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="460"/>
       <source>Analyze single function</source>
       <translation>Аналізувати одиничну функцію</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="461"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="463"/>
       <source>Remove type analysis from module</source>
       <translation>Видалити аналіз типів з модуля</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="464"/>
       <source>Remove type analysis from selection</source>
       <translation>Видалити аналіз типів з виділеного</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="467"/>
       <source>Treat selection &amp;head as</source>
       <translation>Вважати &amp;початок виділення як</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="466"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="468"/>
       <source>Treat from &amp;selection as</source>
       <translation>Вважати &amp;виділене як</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="527"/>
       <source>Analysis</source>
       <translation>Аналіз</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="526"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="528"/>
       <source>Download Symbols for This Module</source>
       <translation>Завантажити символи для цього модуля</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="535"/>
       <source>Assemble</source>
       <translation>Асемблювати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="534"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="536"/>
       <source>Patches</source>
       <translation>Патчі</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="542"/>
       <source>Previous</source>
       <translation>Попередній крок</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="544"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="546"/>
       <source>Next</source>
       <translation>Наступний крок</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="550"/>
       <source>Expression</source>
       <translation>Вираз</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="549"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="551"/>
       <source>File Offset</source>
       <translation>Зміщення файлу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="554"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="556"/>
       <source>Start of Page</source>
       <translation>Початок сторінки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="555"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="557"/>
       <source>End of Page</source>
       <translation>Кінець сторінки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="558"/>
       <source>Start of Function</source>
       <translation>Початок функції</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="560"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="562"/>
       <source>End of Function</source>
       <translation>Кінець функції</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="564"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="566"/>
       <source>Previous Reference</source>
       <translation>Попереднє посилання</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="568"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="570"/>
       <source>Next Reference</source>
       <translation>Наступне посилання</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="573"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="575"/>
       <source>Go to</source>
       <translation>Перейти до</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="575"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="577"/>
       <source>xrefs...</source>
       <translation>перехресні посилання...</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="596"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="610"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="626"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="640"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="654"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="668"/>
-      <source>C&amp;ommand</source>
-      <translation>К&amp;оманда</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="597"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="611"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="627"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="641"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="655"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="669"/>
-      <source>&amp;Constant</source>
-      <translation>&amp;Константа</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="598"/>
@@ -2202,8 +2182,8 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="642"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="656"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="670"/>
-      <source>&amp;String references</source>
-      <translation>&amp;Посилання на рядки</translation>
+      <source>C&amp;ommand</source>
+      <translation>К&amp;оманда</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="599"/>
@@ -2212,8 +2192,8 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="643"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="657"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="671"/>
-      <source>&amp;Intermodular calls</source>
-      <translation>&amp;Міжмодульні виклики</translation>
+      <source>&amp;Constant</source>
+      <translation>&amp;Константа</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="600"/>
@@ -2222,8 +2202,8 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="644"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="658"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="672"/>
-      <source>&amp;Pattern</source>
-      <translation>&amp;Шаблон</translation>
+      <source>&amp;String references</source>
+      <translation>&amp;Посилання на рядки</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="601"/>
@@ -2232,210 +2212,230 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="645"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="659"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="673"/>
+      <source>&amp;Intermodular calls</source>
+      <translation>&amp;Міжмодульні виклики</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="632"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="646"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="660"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="674"/>
+      <source>&amp;Pattern</source>
+      <translation>&amp;Шаблон</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="603"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="617"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="647"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="661"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="675"/>
       <source>&amp;GUID</source>
       <translation>&amp;GUID</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="618"/>
       <source>&amp;Names</source>
       <translation>&amp;Імена</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="681"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="683"/>
       <source>Current Region</source>
       <translation>Поточна область</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="684"/>
       <source>Current Module</source>
       <translation>Поточний модуль</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="685"/>
       <source>Current Function</source>
       <translation>Поточна функція</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="685"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="687"/>
       <source>All User Modules</source>
       <translation>Всі модулі користувачів</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="686"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="688"/>
       <source>All System Modules</source>
       <translation>Всі системні модулі</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="687"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="689"/>
       <source>All Modules</source>
       <translation>Всі модулі</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="688"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="690"/>
       <source>&amp;Search for</source>
       <translation>&amp;Пошук в</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="690"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="692"/>
       <source>&amp;Selected Address(es)</source>
       <translation>&amp;Виділені адреси</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="692"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="694"/>
       <source>Find &amp;references to</source>
       <translation>Знайти &amp;посилання на</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="719"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="721"/>
       <source>Copy token &amp;text</source>
       <translation>Копіювати &amp;текст маркера</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="720"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="722"/>
       <source>Copy token &amp;value</source>
       <translation>Копіювати &amp;значення маркера</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="749"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="795"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="751"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="797"/>
       <source>Add label at </source>
       <translation>Додати мітку до</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="756"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="758"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="804"/>
       <source>The label may be in use</source>
       <translation>Можливо мітка вже використовується</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="757"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="759"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="805"/>
       <source>The label "%1" may be an existing label or a valid expression. Using such label might have undesired effects. Do you still want to continue?</source>
       <translation>"%1" може бути існуючою міткою або допустимим виразом. Використання такої мітки може мати небажані наслідки. Продовжити?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="766"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="812"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="946"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1000"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1694"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1715"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1739"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1834"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="768"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="814"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="948"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1002"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1696"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1717"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1741"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1836"/>
       <source>Error!</source>
       <translation>Помилка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="766"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="812"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="768"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="814"/>
       <source>DbgSetLabelAt failed!</source>
       <translation>Не вдалося виконати DbgSetLabelAt!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="925"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="927"/>
       <source>Assemble at %1</source>
       <translation>Асемблювання за адресою %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="946"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="948"/>
       <source>Failed to assemble instruction " %1 " (%2)</source>
       <translation>Не вдалося асемблювати інструкцію " %1 " (%2)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1000"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1002"/>
       <source>Not inside a module...</source>
       <translation>Не всередині модуля...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1007"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1009"/>
       <source>Goto File Offset in </source>
       <translation>Перейти до зміщення файлу в </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1148"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1150"/>
       <source>Enter Constant</source>
       <translation>Введіть константу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1239"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1241"/>
       <source>Find Pattern...</source>
       <translation>Пошук шаблону...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1383"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1385"/>
       <source>Edit code at %1</source>
       <translation>Редагування даних за адресою %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1400"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1402"/>
       <source>Fill code at %1</source>
       <translation>Заповнення кода за адресою %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1421"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2049"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2070"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1423"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2051"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2072"/>
       <source>Size</source>
       <translation>Розмір</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1519"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
       <source>Open File</source>
       <translation>Відкрити файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1519"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
       <source>Text Files (*.txt)</source>
       <translation>Текстові файли (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1525"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1527"/>
       <source>Error</source>
       <translation>Помилка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1525"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1527"/>
       <source>Could not open file</source>
       <translation>Не вдалося відкрити файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1694"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1739"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1696"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1741"/>
       <source>Selection not in a module...</source>
       <translation>Виділене не у модулі...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1715"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1717"/>
       <source>Selection not in a file...</source>
       <translation>Виділене не у файлі...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1818"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1820"/>
       <source>Start from &amp;Selection</source>
       <translation>Почати з &amp;Обраного</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1834"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1836"/>
       <source>Failed to assemble instruction "</source>
       <translation>Не вдалося асемблювати інструкцію "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1945"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1962"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1979"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1947"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1964"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1981"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>Не вдалося увімкнути покриття трасування для сторінки %1.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1999"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2001"/>
       <source>Failed to reset trace coverage for page %1.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2015"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2017"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>Не вдалося вимкнути покриття трасування для сторінки %1.

@@ -1783,415 +1783,395 @@
   <context>
     <name>CPUDisassembly</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="164"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="166"/>
       <source>&amp;Selected Address</source>
       <translation>选定的地址(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="189"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="191"/>
       <source>&amp;Address: </source>
       <translation>地址(&amp;A): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="192"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="194"/>
       <source>&amp;Constant: </source>
       <translation>常数(&amp;C): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="195"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="197"/>
       <source>&amp;Value: </source>
       <translation>值(&amp;V): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="209"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="211"/>
       <source>Jump table%1: </source>
       <translation>跳转表%1: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="238"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="240"/>
       <source>Address: </source>
       <translation>地址: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="242"/>
       <source>Constant: </source>
       <translation>常数: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="280"/>
       <source>&amp;Edit</source>
       <translation>编辑(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="279"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="281"/>
       <source>&amp;Fill...</source>
       <translation>填充(&amp;F)...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="280"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="282"/>
       <source>Fill with &amp;NOPs</source>
       <translation>用NOP填充(&amp;N)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="282"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="314"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="284"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="316"/>
       <source>&amp;Copy</source>
       <translation>复制(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="283"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="285"/>
       <source>&amp;Paste</source>
       <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="287"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="289"/>
       <source>Paste (&amp;Ignore Size)</source>
       <translation>粘贴时忽略大小(&amp;I)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="291"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="293"/>
       <source>&amp;Binary</source>
       <translation>二进制(&amp;B)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="294"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="296"/>
       <source>&amp;Selection</source>
       <translation>选区(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="295"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="297"/>
       <source>Selection to &amp;File</source>
       <translation>选区，到文件(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="296"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="298"/>
       <source>Selection (Bytes only)</source>
       <translation>选区，仅限字节</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="297"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="299"/>
       <source>Selection (&amp;No Bytes)</source>
       <translation>选区，不含字节(&amp;N)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="298"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="300"/>
       <source>Selection to File (No Bytes)</source>
       <translation>选区，到文件（不含字节）</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="299"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="301"/>
       <source>&amp;Address</source>
       <translation>地址(&amp;A)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="300"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="302"/>
       <source>&amp;RVA</source>
       <translation>&amp;RVA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="301"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="303"/>
       <source>&amp;File Offset</source>
       <translation>文件偏移(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="302"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="304"/>
       <source>&amp;Header VA</source>
       <translation>首字节地址(&amp;H)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="303"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1357"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="305"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1359"/>
       <source>Disassembly</source>
       <translation>反汇编</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="316"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="318"/>
       <source>&amp;Restore selection</source>
       <translation>恢复选区(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="329"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="331"/>
       <source>&amp;Follow in Dump</source>
       <translation>在内存窗口中转到(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="335"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="337"/>
       <source>&amp;Follow in Disassembler</source>
       <translation>在反汇编中转到(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="345"/>
       <source>Open Source File</source>
       <translation>打开源代码文件</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="348"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="350"/>
       <source>Help on Symbolic Name</source>
       <translation>符号名称帮助</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="357"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="359"/>
       <source>Help on mnemonic</source>
       <translation>指令帮助</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="358"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="364"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="360"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="366"/>
       <source>Show mnemonic brief</source>
       <translation>显示指令提示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="362"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="364"/>
       <source>Hide mnemonic brief</source>
       <translation>隐藏指令提示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="368"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="370"/>
       <source>&amp;Highlighting mode</source>
       <translation>高亮模式(&amp;H)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="369"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="371"/>
       <source>Edit columns...</source>
       <translation>编辑列...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="372"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="374"/>
       <source>Label Current Address</source>
       <translation>给当前地址写标签</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="373"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="390"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="375"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="392"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="396"/>
       <source>Label</source>
       <translation>标签</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="397"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
       <source>Disable</source>
       <translation>禁用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
       <source>Mark covered (yes/no)</source>
       <translation>标记已覆盖(是/否)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
       <source>Enable trace coverage with 1 bit (whether an instruction was executed or not)</source>
       <translation>启用1比特代码覆盖（指令是否被执行）</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
       <source>Count hits (up to 63)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
       <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
       <source>Count hits (up to 16383)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
       <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="403"/>
       <source>Reset trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="424"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="404"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="426"/>
       <source>Start trace recording</source>
       <translation>启动运行跟踪</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="403"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="405"/>
       <source>Trace coverage</source>
       <translation>代码覆盖</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="419"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="421"/>
       <source>Stop trace recording</source>
       <translation>停止运行跟踪</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="434"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="436"/>
       <source>Function</source>
       <translation>函数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="437"/>
       <source>Analyze module</source>
       <translation>分析模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="439"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="441"/>
       <source>Add function</source>
       <translation>添加函数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="441"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="443"/>
       <source>Delete function</source>
       <translation>删除函数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="444"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="446"/>
       <source>Argument</source>
       <translation>参数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="450"/>
       <source>Add argument</source>
       <translation>添加参数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="450"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="452"/>
       <source>Delete argument</source>
       <translation>删除参数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="453"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="455"/>
       <source>Add loop</source>
       <translation>添加循环</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="454"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="456"/>
       <source>Delete loop</source>
       <translation>删除循环</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="458"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="460"/>
       <source>Analyze single function</source>
       <translation>分析这个函数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="461"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="463"/>
       <source>Remove type analysis from module</source>
       <translation>从模块中删除类型分析</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="464"/>
       <source>Remove type analysis from selection</source>
       <translation>从选区中删除类型分析</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="467"/>
       <source>Treat selection &amp;head as</source>
       <translation>将选区头字节视为(&amp;H)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="466"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="468"/>
       <source>Treat from &amp;selection as</source>
       <translation>将选区视为(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="527"/>
       <source>Analysis</source>
       <translation>分析</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="526"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="528"/>
       <source>Download Symbols for This Module</source>
       <translation>下载此模块的符号信息</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="535"/>
       <source>Assemble</source>
       <translation>汇编</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="534"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="536"/>
       <source>Patches</source>
       <translation>补丁</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="542"/>
       <source>Previous</source>
       <translation>上一个</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="544"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="546"/>
       <source>Next</source>
       <translation>下一个</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="550"/>
       <source>Expression</source>
       <translation>表达式</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="549"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="551"/>
       <source>File Offset</source>
       <translation>文件偏移</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="554"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="556"/>
       <source>Start of Page</source>
       <translation>页首</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="555"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="557"/>
       <source>End of Page</source>
       <translation>页尾</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="558"/>
       <source>Start of Function</source>
       <translation>函数头部</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="560"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="562"/>
       <source>End of Function</source>
       <translation>函数尾部</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="564"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="566"/>
       <source>Previous Reference</source>
       <translation>上一个引用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="568"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="570"/>
       <source>Next Reference</source>
       <translation>下一个引用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="573"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="575"/>
       <source>Go to</source>
       <translation>转到</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="575"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="577"/>
       <source>xrefs...</source>
       <translation>相互引用...</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="596"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="610"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="626"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="640"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="654"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="668"/>
-      <source>C&amp;ommand</source>
-      <translation>命令(&amp;O)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="597"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="611"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="627"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="641"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="655"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="669"/>
-      <source>&amp;Constant</source>
-      <translation>常数(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="598"/>
@@ -2200,8 +2180,8 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="642"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="656"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="670"/>
-      <source>&amp;String references</source>
-      <translation>字符串(&amp;S)</translation>
+      <source>C&amp;ommand</source>
+      <translation>命令(&amp;O)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="599"/>
@@ -2210,8 +2190,8 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="643"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="657"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="671"/>
-      <source>&amp;Intermodular calls</source>
-      <translation>跨模块调用(&amp;I)</translation>
+      <source>&amp;Constant</source>
+      <translation>常数(&amp;C)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="600"/>
@@ -2220,8 +2200,8 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="644"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="658"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="672"/>
-      <source>&amp;Pattern</source>
-      <translation>匹配特征(&amp;P)</translation>
+      <source>&amp;String references</source>
+      <translation>字符串(&amp;S)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="601"/>
@@ -2230,210 +2210,230 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="645"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="659"/>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="673"/>
+      <source>&amp;Intermodular calls</source>
+      <translation>跨模块调用(&amp;I)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="632"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="646"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="660"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="674"/>
+      <source>&amp;Pattern</source>
+      <translation>匹配特征(&amp;P)</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="603"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="617"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="647"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="661"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="675"/>
       <source>&amp;GUID</source>
       <translation>&amp;GUID</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="618"/>
       <source>&amp;Names</source>
       <translation>名称(&amp;N)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="681"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="683"/>
       <source>Current Region</source>
       <translation>当前区域</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="684"/>
       <source>Current Module</source>
       <translation>当前模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="685"/>
       <source>Current Function</source>
       <translation>当前函数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="685"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="687"/>
       <source>All User Modules</source>
       <translation>所有用户模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="686"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="688"/>
       <source>All System Modules</source>
       <translation>所有系统模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="687"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="689"/>
       <source>All Modules</source>
       <translation>所有模块</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="688"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="690"/>
       <source>&amp;Search for</source>
       <translation>搜索(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="690"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="692"/>
       <source>&amp;Selected Address(es)</source>
       <translation>选定的地址(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="692"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="694"/>
       <source>Find &amp;references to</source>
       <translation>查找引用(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="719"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="721"/>
       <source>Copy token &amp;text</source>
       <translation>复制标记文本(&amp;T)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="720"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="722"/>
       <source>Copy token &amp;value</source>
       <translation>复制标记值(&amp;V)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="749"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="795"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="751"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="797"/>
       <source>Add label at </source>
       <translation>添加标签到 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="756"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="758"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="804"/>
       <source>The label may be in use</source>
       <translation>标签可能正在使用中</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="757"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="759"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="805"/>
       <source>The label "%1" may be an existing label or a valid expression. Using such label might have undesired effects. Do you still want to continue?</source>
       <translation>标签“%1”可能早已定义或是一个有效的表达式。使用这种标签可能产生意外的影响。您仍想继续使用该标签吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="766"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="812"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="946"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1000"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1694"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1715"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1739"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1834"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="768"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="814"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="948"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1002"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1696"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1717"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1741"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1836"/>
       <source>Error!</source>
       <translation>错误!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="766"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="812"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="768"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="814"/>
       <source>DbgSetLabelAt failed!</source>
       <translation>DbgSetLabelAt 失败!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="925"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="927"/>
       <source>Assemble at %1</source>
       <translation>汇编于 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="946"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="948"/>
       <source>Failed to assemble instruction " %1 " (%2)</source>
       <translation>无法汇编指令 "%1" (%2)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1000"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1002"/>
       <source>Not inside a module...</source>
       <translation>不在已知模块中...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1007"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1009"/>
       <source>Goto File Offset in </source>
       <translation>转到指定文件的文件偏移</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1148"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1150"/>
       <source>Enter Constant</source>
       <translation>输入常数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1239"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1241"/>
       <source>Find Pattern...</source>
       <translation>搜索特征码...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1383"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1385"/>
       <source>Edit code at %1</source>
       <translation>编辑代码于 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1400"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1402"/>
       <source>Fill code at %1</source>
       <translation>填充代码于 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1421"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2049"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2070"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1423"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2051"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2072"/>
       <source>Size</source>
       <translation>大小</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1519"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
       <source>Open File</source>
       <translation>打开文件</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1519"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
       <source>Text Files (*.txt)</source>
       <translation>文本文件 (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1525"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1527"/>
       <source>Error</source>
       <translation>错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1525"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1527"/>
       <source>Could not open file</source>
       <translation>无法打开文件</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1694"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1739"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1696"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1741"/>
       <source>Selection not in a module...</source>
       <translation>选区不在一个模块中……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1715"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1717"/>
       <source>Selection not in a file...</source>
       <translation>选区不在一个文件中……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1818"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1820"/>
       <source>Start from &amp;Selection</source>
       <translation>从&amp;选择开始</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1834"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1836"/>
       <source>Failed to assemble instruction "</source>
       <translation>无法汇编指令 "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1945"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1962"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1979"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1947"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1964"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1981"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>为页面%1启用代码覆盖时失败。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1999"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2001"/>
       <source>Failed to reset trace coverage for page %1.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2015"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2017"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>为页面%1禁用代码覆盖时失败。
