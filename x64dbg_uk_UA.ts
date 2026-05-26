@@ -92,7 +92,7 @@
       <translation>&amp;Експортувати таблицю</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1031"/>
+      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1089"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
@@ -3687,42 +3687,42 @@
       <translation>Ctrl+G</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="89"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="84"/>
       <source>Disassembly</source>
       <translation>Дизасембльований код</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="90"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="85"/>
       <source>Stack</source>
       <translation>Стек</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="91"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="86"/>
       <source>Registers</source>
       <translation>Регістри</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="92"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="87"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="93"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="88"/>
       <source>Arguments</source>
       <translation>Аргументи</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="94"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="89"/>
       <source>Sidebar</source>
       <translation>Бічна панель</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="95"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="90"/>
       <source>InfoBox</source>
       <translation>InfoBox</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="233"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="228"/>
       <source>Graph</source>
       <translation>Граф</translation>
     </message>
@@ -12610,7 +12610,7 @@ Do you want to continue rendering this graph?</source>
       <translation>Виділене не у модулі...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1668"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1712"/>
       <source>Address</source>
       <translation>Адреса</translation>
     </message>
@@ -15808,230 +15808,230 @@ Do you want to apply these patches anyway?</source>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2769"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2752"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation>AVX-512 не підтримується у вашій системі.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="996"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="990"/>
       <source>Registers</source>
       <translation>Регістри</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1417"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1410"/>
       <source>Copy value</source>
       <translation>Копіювати значення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1418"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1411"/>
       <source>Copy floating point value</source>
       <translation>Копіювати значення з плаваючою крапкою</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1419"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1412"/>
       <source>Copy Symbol Value</source>
       <translation>Копіювати значення символу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1420"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1413"/>
       <source>Copy all registers</source>
       <translation>Копіювати всі регістри</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1421"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1414"/>
       <source>Change view</source>
       <translation>Змінити вигляд</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1415"/>
       <source>Change SIMD Register Display Mode</source>
       <translation>Змінити режим відображення SIMD регістру</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1417"/>
       <source>Display ST(x)</source>
       <translation>ВІдобразити ST(x)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1418"/>
       <source>Display x87rX</source>
       <translation>Відобразити x87rX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1426"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1419"/>
       <source>Display MMX</source>
       <translation>Відобразити MMX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
       <source>Hexadecimal</source>
       <translation>Hexadecimal</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1423"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
       <source>Signed Word</source>
       <translation>Signed Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1426"/>
       <source>Signed Dword</source>
       <translation>Signed Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
       <source>Signed Qword</source>
       <translation>Signed Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
       <source>Unsigned Word</source>
       <translation>Unsigned Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
       <source>Unsigned Dword</source>
       <translation>Unsigned Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1437"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
       <source>Unsigned Qword</source>
       <translation>Unsigned Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1438"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
       <source>Hexadecimal Word</source>
       <translation>Hexadecimal Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
       <source>Hexadecimal Dword</source>
       <translation>Hexadecimal Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
       <source>Hexadecimal Qword</source>
       <translation>Hexadecimal Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1472"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1465"/>
       <source>Always show maximum vector length</source>
       <translation>Завжди показувати максимальну довжину вектора</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1473"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1466"/>
       <source>Always show all AVX-512 registers</source>
       <translation>Завжди показувати всі регістри AVX-512</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
       <source>CF (Carry flag)</source>
       <translation>CF (Прапорець переносу)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
       <source>PF (Parity flag)</source>
       <translation>PF (Прапорець парності)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation>AF (Допоміжний прапорець переносу)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
       <source>ZF (Zero flag)</source>
       <translation>ZF (Нульовий прапорець)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
       <source>SF (Sign flag)</source>
       <translation>SF (Прапорець знаку)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
       <source>TF (Trap flag)</source>
       <translation>TF (Прапорець пастки)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
       <source>IF (Interrupt enable flag)</source>
       <translation>IF (Прапорець переривання)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
       <source>DF (Direction flag)</source>
       <translation>DF (Прапорець напрямку)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
       <source>OF (Overflow flag)</source>
       <translation>OF (Прапорець переповнення)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>Bit #</source>
       <translation>Біт #</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>Mask</source>
       <translation>Маска</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>Flag</source>
       <translation>Прапорець</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1691"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation>CF (біт 0) : прапорець переносу (Carry Flag) - встановлюється, якщо арифметична операція генерує перенос або позику з найбільш значного біту; інакше скидається.
 Цей прапорець вказує на переповнення при операціях із беззнаковими цілими. Він також використовується в обчисленнях із високою точністю.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1703"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (біт 2) : прапорець парності (Parity Flag) - встановлюється, якщо наймолодший байт результату містить парну кількість одиничних бітів; інакше скидається.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1705"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (bit 4) : допоміжний прапорець переносу (Auxiliary Carry Flag) - встановлюється, якщо арифметична операція генерує перенос із біту 3 або займ в біт 3 результату; інакше скидається. Цей прапорець використовується в арифметиці двійково-кодованих десяткових (BCD).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1699"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (біт 6) : прапорець Zero - встановлюється, якщо результат нуль; скидається в іншому випадку.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (біт 7) : Біт знаку - встановлюється рівним найбільш значущому біту результату, який є знаковим бітом числа цілого типу. (0 вказує на додатнє значення і 1 вказує на від'ємне значення.)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
       <translation>OF (біт 11) : прапорець переповнення -встановлюється якщо цілочисельний результат є занадто великим додатнім числом або занадто маленьким від'ємним числом (за винятком біту знаку), щоб поміститись в адресаті, інакше очищається. Цей прапорець вказує на переповненя для знакового цілого числа (арифметика доповнення до 2).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1717"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
@@ -16040,263 +16040,253 @@ to auto-decrement (to process strings from high addresses to low addresses). Cle
 (обробляти рядки з низьких адрес до високих).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1721"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (bit 8) : Прапорець Пасток - встановлюється для режиму покрокового налагодження. Для відімкнення режиму необхідно скинути цей прапорець.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (біт 9) : Прапорець переривань - керує відповіддю процесора на масковані запити переривань. Встановлений прапорець дозволяє переривання; скинутий - маскує (забороняє) перериввання.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>16-біт x87 FPU керуюче слово керує точністю та методом та округлення x87 FPU. Також містить біти маски виключення з плаваючою точкою x87 FPU.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1727"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>16-бітний статус регістр x87 FPU вказує на поточний стан x87 FPU.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1729"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1720"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>16-бітне слово тегів вказує на вміст кожного з 8 регістрів стеку у x87 FPU (одне 2-бітне поле на регістр).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>Точність управління (PC) поле (8 та 9 слова контролю x87 FPU) визначає точність (64, 4, 53, або 24 біт) розрахунків чисел з плаваючою комою x87 FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1734"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>Керування округленням (RC) поля управління x87 FPU (bits 10 та 11) визначає, як округлюються результати x87 FPU чисел із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1736"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1727"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>Прапор контролю нескінченності (біт 12 слова управління x87 FPU) надається для сумісності з Intel 287 Math Coprocessor;
 для пізнішої версії x87 FPU не враховується.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1739"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1730"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Невірна маска виключної операції (біт 0). Коли біт маски встановлено, його відповідний виняток блокується від створення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1741"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска винятків денормалізованих операндів (біт 2). Коли маска задана, відповідний виняток блокується від моменту створення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1743"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1734"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска виключення ділення на нуль чисел із плаваючою комою (біт 3). Коли біт маски встановлений,
 відповідне виключення блокується із моменту створення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1745"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1736"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска виключення переповнення чисел із плаваючою комою (біт 4). Коли біт маски встановлений,
 відповідне виключення блокується із моменту створення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1747"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1738"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска умови потенційного антипереповнення чисел із плаваючою комою (біт 5). Коли біт маски встановлений, відповідний виняток блокується із моменту створення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Маска виключення неточного результату (біт 6). Коли біт маски встановлений,
 відповідне виключення  блокується із моменту створення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1752"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1743"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation>Прапорець зайнятості (біт 15) вказує коли FPU зайнятий (B=1) під час виконання інструкції або ж вільний (B=0).
 B-біт (біт 15) присутній лишень для сумісності з 8087. Він дублює стан прапорця ES.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1759"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1761"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1750"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1752"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation>Прапорець коду стану C%1 (біт %2) використовується для позначення результатів порівняння чисел із плаваючою комою та арифметичних операцій.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1754"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation>Прапорець підсумкової помилки/виключення (біт 7) встановлений, коли встановлюється будь-який прапорець із немаскованих винятків.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1756"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>Прапорець помилки стеку (біт 6 слова стану x87 FPU) вказує на те, що відбулось переповнення чи антипереповнення стеку з даними в регістрі даних стеку x87 FPU.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1758"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>Вказівник на регістр даних x87 FPU, що знаходиться наразі на вершині стеку x87 FPU; міститься в бітах із 11 по 13 слова статусу x87 FPU. Цей вказівник, який зазвичай зветься TOP (top-of-stack), є двійковим значенням від 0 до 7.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1770"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1761"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation>Процесор повідомляє про некоректне виключення операції (біт 0) у відповідь на одну або кілька недійсних арифметичних операцій.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1772"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation>Процесор повідомляє про виняток денормалізованого операнду (біт 2) в випадку спроби опрацювати денормалізований операнд.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1774"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation>Процесор повідомляє про виключення типу ділення числа з плаваючою точкою на нуль (біт 3) кожного разу, коли інструкція намагається поділити скінченний ненульовий операнд на 0.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1776"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation>Процесор повідомляє про можливість переповнення чисел із плаваючою комопю (біт 4) кожного разу, коли результат інструкції перевищує максимально допустиме скінченне значення, яке може поміститись в операнд призначення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1769"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation>Процесор виявив потенційну умову анти-переповнення чисел із плаваючою комою (біт 5), щоразу, коли результат округлення з необмеженою експонентою не дорівнює нулю і дуже маленький.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation>Витянок неточного результату (біт 6) виникає, якщо результат операції не є цілком показовим у форматі призначення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1783"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1774"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>32-бітний MXCSR регістр містить інформацію про керування та статус SIMD операцій із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1785"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1776"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Біт 0 (IE) : Прапорець недійсної операції; вказує чи було виявлено виняток SIMD для чисел із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1787"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Біт 1 (DE) : Прапорець денормалізації; вказує чи було виявлено SIMD виняток для чисел із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1789"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Біт 2 (ZE) : Прапорець ділення на нуль; вказує на те, чи було виявлено виняток SIMD числа із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Біт 3 (OE) : Прапорець переповнення; вказує чи було виявлено виняток SIMD числа з плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1793"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Біт 4 (UE) : Прапорець антипереповнення вказує, чи було виявлено виняток SIMD на числах із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1795"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 5 (PE) : Прапорець точності; вказує, чи було виявлено виняток SIMD числа із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1797"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Біт 7 (IM) : Прапорець маски неприпустимої операції. Коли біт маски задано, його відповідний виняток блокується від моменту створення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1799"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1790"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Біт 8 (DM) : Маска денормалізованого операнду. Коли маска визначена, її відповідний виняток блокується від створення.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1801"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1792"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Біт 9 (ZM) : Прапорець маски ділення на нуль. Коли біт маски встановлений, відповідний виняток блокується від моменту генерації.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1803"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1794"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Біт 10 (OM) : Маска переповнення. Коли біт встановлений, то відповідний виняток блокується із моменту генерації.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1796"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Біт 11 (UM) : Маска антипереповнення. Коли біт маски встановлений, відповідний виняток блокується від моменту генерації.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1807"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1798"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Біт 12 (PM) : Маска точності. Коли біт маски задано, його відповідний виняток блокується від моменту генерування.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1809"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1800"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>Біт 15 (FZ) регістру MXCSR вмикає режим скинути-в-нуль, який контролює замасковану відповідь на умову SIMD антипереповнення числа із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1811"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1802"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>Біт 6 (DAZ) регістру MXCSR вмикає режим денормалізоване-як-нуль, який контролює відповідь процесора на денормалізований операнд SIMD із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1814"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>Біти 13 і 14 регістру MXCSR (керування округленням [RC]) визначають яким чином округляються результати SIMD інструкцій із плаваючою комою.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1824"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>Значення GetLastError(). Це значення зберігається у TEB.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1834"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation>Поле LastStatusValue у TEB містить NTSTATUS.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1839"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1830"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>TEB поточного потоку може бути доступний як зсув сегментного регістру GS (x64).
 TEB можна використовувати для отримання інформації про процес без виклику Win32 API.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1842"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1833"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>TEB поточного потоку можна отримати як зсув від сегментного регістру FS (x86). 
 TEB може бути використаний для отримання інформації про процес без виклику Win32 API.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1944"/>
-      <source>Hide FPU</source>
-      <translation>Приховати FPU</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1946"/>
-      <source>Show FPU</source>
-      <translation>Показати FPU</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2243"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2283"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2331"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2373"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2415"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2226"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2266"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2314"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2356"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2398"/>
       <source>Unknown</source>
       <translation>Невідомо</translation>
     </message>
@@ -16304,82 +16294,82 @@ TEB може бути використаний для отримання інф�
   <context>
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2384"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="392"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2367"/>
       <source>Nonzero</source>
       <translation>Ненульове значення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="400"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2385"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2368"/>
       <source>Zero</source>
       <translation>Нульове значення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="402"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2386"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="396"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2369"/>
       <source>Special</source>
       <translation>Спеціальне значення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="404"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2387"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2370"/>
       <source>Empty</source>
       <translation>Порожньо</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2213"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2196"/>
       <source>Toward Zero</source>
       <translation>Заокруглення до нуля</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2214"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2197"/>
       <source>Toward Positive</source>
       <translation>Заокруглення до позитивних</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2215"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2198"/>
       <source>Toward Negative</source>
       <translation>Заокруглення до негативних</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2256"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2199"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2239"/>
       <source>Round Near</source>
       <translation>Заокруглити до найближчого</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2253"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2236"/>
       <source>Truncate</source>
       <translation>Урізання</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2254"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2237"/>
       <source>Round Up</source>
       <translation>Заокруглити вгору</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2255"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2238"/>
       <source>Round Down</source>
       <translation>Заокруглити вниз</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2325"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2343"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2326"/>
       <source>Not Used</source>
       <translation>Не використовується</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2344"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2327"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2345"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2328"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
@@ -16471,122 +16461,122 @@ TEB може бути використаний для отримання інф�
       <translation>Виконання команд сценарію...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="384"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="388"/>
       <source>&amp;Open...</source>
       <translation>&amp;Відкрити...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="385"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="389"/>
       <source>&amp;Paste</source>
       <translation>&amp;Вставити</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="399"/>
       <source>Load Script</source>
       <translation>Завантажити скрипт</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="404"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="408"/>
       <source>Re&amp;load Script</source>
       <translation>Перезавантажити скрипт</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="405"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="409"/>
       <source>&amp;Unload Script</source>
       <translation>&amp;Вивантажити скрипт</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="406"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="410"/>
       <source>&amp;Edit Script</source>
       <translation>&amp;Редагувати скрипт</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="408"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="412"/>
       <source>Toggle &amp;BP</source>
       <translation>Переключити &amp;BP</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="409"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="413"/>
       <source>Ru&amp;n until selection</source>
       <translation>В&amp;иконати до виділеного</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="410"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="414"/>
       <source>&amp;Step</source>
       <translation>&amp;Крок</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="411"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="415"/>
       <source>&amp;Run</source>
       <translation>&amp;Виконати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="412"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="416"/>
       <source>&amp;Abort</source>
       <translation>&amp;Перервати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="413"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="417"/>
       <source>&amp;Continue here...</source>
       <translation>&amp;Продовжити звідси...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="417"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="421"/>
       <source>Copy</source>
       <translation>Копіювати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="418"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="422"/>
       <source>E&amp;xecute Command...</source>
       <translation>Ви&amp;конати команду...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="473"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="477"/>
       <source>Error on line</source>
       <translation>Помилка в рядку</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="475"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="479"/>
       <source>Script Error!</source>
       <translation>Помилка скрипту!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="510"/>
       <source>Select script</source>
       <translation>Вибір скрипту</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="510"/>
       <source>Script files (*.txt *.scr);;All files (*.*)</source>
       <translation>Файли скриптів (*.txt *.scr);Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="540"/>
       <source>Error!</source>
       <translation>Помилка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="540"/>
       <source>File open failed! Please open the file yourself...</source>
       <translation>Не вдалося відкрити файл! Будь ласка, відкрийте файл самостійно...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="552"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="556"/>
       <source>Error setting script breakpoint!</source>
       <translation>Помилка встановлення точки зупину скрипту!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="583"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="587"/>
       <source>Error executing command!</source>
       <translation>Помилка при виконанні команди!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="589"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="593"/>
       <source>Message</source>
       <translation>Повідомлення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="608"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="612"/>
       <source>Question</source>
       <translation>Запитання</translation>
     </message>
@@ -18243,7 +18233,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
       <source>Error</source>
       <translation>Помилка</translation>
     </message>
@@ -18413,7 +18403,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
       <source>Delete recording</source>
       <translation>Видалити запис</translation>
     </message>
@@ -18433,87 +18423,87 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>Відкрити файл трасування у Провіднику.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1292"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1336"/>
       <source>Open trace recording</source>
       <translation>Відкрити запис трасування</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1293"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1337"/>
       <source>Trace recording</source>
       <translation>Запис трасування</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1294"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation>Записи трасування (*.%1);Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation>Ви дійсно бажаєте видалити цей запис?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1397"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1441"/>
       <source>Address not found in trace</source>
       <translation>Адресу в трейсі не знайдено</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1409"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1453"/>
       <source>The address %1 is not found in trace.</source>
       <translation>Адресу %1 не знайдено в трейсі.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation>Бажаєте замість цього слідувати в процесорі?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
       <source>Open File</source>
       <translation>Відкрити файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
       <source>Text Files (*.txt)</source>
       <translation>Текстові файли (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
       <source>Could not open file</source>
       <translation>Не вдалося відкрити файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
       <source>Error!</source>
       <translation>Помилка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
       <source>Selection not in a module...</source>
       <translation>Виділення не знаходиться в модулі...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
       <source>Selection not in a file...</source>
       <translation>Виділення не знаходиться в файлі...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1889"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1933"/>
       <source>Constant</source>
       <translation>Константа</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1896"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1912"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1922"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1940"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1956"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1966"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation>%1 результат(-ів) в %2ms</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1903"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1947"/>
       <source>References</source>
       <translation>Посилання</translation>
     </message>
@@ -18993,12 +18983,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>Виділення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="158"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="159"/>
       <source>View XMM register</source>
       <translation>Переглянути регістр XMM</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="160"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="161"/>
       <source>View MMX register</source>
       <translation>Переглянути регістр MMX</translation>
     </message>
@@ -19131,100 +19121,100 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="42"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="314"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="308"/>
       <source>Load dump</source>
       <translation>Завантажити дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="91"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="85"/>
       <source>Disassembly</source>
       <translation>Дизасембльований код</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="92"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="86"/>
       <source>Registers</source>
       <translation>Регістри</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="230"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="89"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="224"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="96"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="235"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="90"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="229"/>
       <source>Stack</source>
       <translation>Стек</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="98"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="92"/>
       <source>InfoBox</source>
       <translation>InfoBox</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="165"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="159"/>
       <source>Error</source>
       <translation>Помилка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="165"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="159"/>
       <source>Error when opening trace recording (reason: %1)</source>
       <translation>Помилка при відкритті запису трасування (причина: %1)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="175"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="169"/>
       <source>Trace file is recorded for another debuggee</source>
       <translation>Файл трасування записано для іншого відлагоджувача</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="176"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="170"/>
       <source>Checksum is different for current trace file and the debugee. This probably means you have opened a wrong trace file. This trace file is recorded for "%1"</source>
       <translation>Контрольна сума відрізняється для поточного файлу трасування та відлагоджуваної програми. Це, ймовірно, означає, що ви відкрили невірний файл трасування. Цей файл трасування записано для "%1".</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="208"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="202"/>
       <source>Enabling the trace dump can consume a lot of memory (max ~%1GiB for this trace) and freeze x64dbg for prolonged periods of time. This feature is still experimental, please report any bugs you encounter.</source>
       <translation>Увімкнення трейс-дампу може споживати багато пам'яті (максимум ~%1Gдля цього трейсу) та завдати шкоди х64dbg протягом тривалого періоду часу. Ця функція є експериментальною, будь ласка повідомте про будь-які помилки, з якими ви зіткнетесь.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="209"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="203"/>
       <source>Warning</source>
       <translation>Попередження</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="257"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="251"/>
       <source>Loaded trace dump in %1ms
 </source>
       <translation>Завантажено трейс-дамп в %1ms</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="338"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="332"/>
       <source>&amp;Selected Address</source>
       <translation>&amp;Виділена адреса</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="352"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="346"/>
       <source>&amp;Address: </source>
       <translation>&amp;Адреса: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="364"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="358"/>
       <source>&amp;Old value: </source>
       <translation>&amp;Старе значення: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="368"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="362"/>
       <source>&amp;Value: </source>
       <translation>&amp;Значення: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="374"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="368"/>
       <source>&amp;New value: </source>
       <translation>&amp;Нове значення: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="385"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="379"/>
       <source>&amp;Constant: </source>
       <translation>&amp;Константа: </translation>
     </message>

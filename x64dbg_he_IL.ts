@@ -92,7 +92,7 @@
       <translation>&amp;יצא טבלאות</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1031"/>
+      <location filename="src/gui/Src/BasicView/AbstractStdTable.cpp" line="1089"/>
       <source>&amp;Copy</source>
       <translation>&amp;העתק</translation>
     </message>
@@ -3678,42 +3678,42 @@
       <translation>Ctrl+G</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="89"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="84"/>
       <source>Disassembly</source>
       <translation>Disassembly</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="90"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="85"/>
       <source>Stack</source>
       <translation>מחסנית</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="91"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="86"/>
       <source>Registers</source>
       <translation>אוגרים</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="92"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="87"/>
       <source>Dump</source>
       <translation>Dump</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="93"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="88"/>
       <source>Arguments</source>
       <translation>ארגומנטים</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="94"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="89"/>
       <source>Sidebar</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="95"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="90"/>
       <source>InfoBox</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="233"/>
+      <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="228"/>
       <source>Graph</source>
       <translation>גרף</translation>
     </message>
@@ -12376,7 +12376,7 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1668"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1712"/>
       <source>Address</source>
       <translation>כתובת</translation>
     </message>
@@ -15555,484 +15555,474 @@ Do you want to apply these patches anyway?</source>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2769"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2752"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="996"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="990"/>
       <source>Registers</source>
       <translation>אוגרים</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1417"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1410"/>
       <source>Copy value</source>
       <translation>העתק ערך</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1418"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1411"/>
       <source>Copy floating point value</source>
       <translation>העתק ערך float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1419"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1412"/>
       <source>Copy Symbol Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1420"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1413"/>
       <source>Copy all registers</source>
       <translation>העתק את כל האוגרים</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1421"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1414"/>
       <source>Change view</source>
       <translation>שנה תצוגה</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1415"/>
       <source>Change SIMD Register Display Mode</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1417"/>
       <source>Display ST(x)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1418"/>
       <source>Display x87rX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1426"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1419"/>
       <source>Display MMX</source>
       <translation>הצג MMX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
       <source>Hexadecimal</source>
       <translation>הקסדצימאלי</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1423"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
       <source>Signed Word</source>
       <translation>Signed Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1426"/>
       <source>Signed Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
       <source>Signed Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
       <source>Unsigned Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
       <source>Unsigned Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1437"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
       <source>Unsigned Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1438"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
       <source>Hexadecimal Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
       <source>Hexadecimal Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
       <source>Hexadecimal Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1472"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1465"/>
       <source>Always show maximum vector length</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1473"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1466"/>
       <source>Always show all AVX-512 registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
       <source>CF (Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
       <source>PF (Parity flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1675"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
       <source>ZF (Zero flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
       <source>SF (Sign flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
       <source>TF (Trap flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
       <source>IF (Interrupt enable flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
       <source>DF (Direction flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
       <source>OF (Overflow flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>Bit #</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>Mask</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1693"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>Flag</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1700"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1691"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1703"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1705"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1699"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1710"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1717"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1721"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1727"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1729"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1720"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1734"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1736"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1727"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1739"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1730"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1741"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1743"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1734"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1745"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1736"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1747"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1738"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1752"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1743"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1759"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1761"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1750"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1752"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1754"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1756"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1758"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1770"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1761"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1772"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1774"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1776"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1769"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1783"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1774"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1785"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1776"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1787"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1789"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1793"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1795"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1797"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1799"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1790"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1801"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1792"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1803"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1794"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1796"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1807"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1798"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1809"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1800"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1811"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1802"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1814"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1824"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1834"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1839"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1830"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1842"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1833"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1944"/>
-      <source>Hide FPU</source>
-      <translation>הסתר FPU</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1946"/>
-      <source>Show FPU</source>
-      <translation>הצג FPU</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2243"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2283"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2331"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2373"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2415"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2226"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2266"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2314"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2356"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2398"/>
       <source>Unknown</source>
       <translation>לא ידוע</translation>
     </message>
@@ -16040,82 +16030,82 @@ The TEB can be used to get a lot of information on the process without calling W
   <context>
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2384"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="392"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2367"/>
       <source>Nonzero</source>
       <translation>לא אפס</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="400"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2385"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="394"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2368"/>
       <source>Zero</source>
       <translation>אפס</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="402"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2386"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="396"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2369"/>
       <source>Special</source>
       <translation>מיוחד</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="404"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2387"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2370"/>
       <source>Empty</source>
       <translation>ריק</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2213"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2196"/>
       <source>Toward Zero</source>
       <translation>לכיוון אפס</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2214"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2197"/>
       <source>Toward Positive</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2215"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2198"/>
       <source>Toward Negative</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2256"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2199"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2239"/>
       <source>Round Near</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2253"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2236"/>
       <source>Truncate</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2254"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2237"/>
       <source>Round Up</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2255"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2238"/>
       <source>Round Down</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2325"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2343"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2326"/>
       <source>Not Used</source>
       <translation>לא בשימוש</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2344"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2327"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2345"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2328"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
@@ -16207,122 +16197,122 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="384"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="388"/>
       <source>&amp;Open...</source>
       <translation>&amp;פותח...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="385"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="389"/>
       <source>&amp;Paste</source>
       <translation>&amp;הדבק</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="399"/>
       <source>Load Script</source>
       <translation>טען סקריפט</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="404"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="408"/>
       <source>Re&amp;load Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="405"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="409"/>
       <source>&amp;Unload Script</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="406"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="410"/>
       <source>&amp;Edit Script</source>
       <translation>&amp;ערוך סקריפט</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="408"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="412"/>
       <source>Toggle &amp;BP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="409"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="413"/>
       <source>Ru&amp;n until selection</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="410"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="414"/>
       <source>&amp;Step</source>
       <translation>&amp;צעד</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="411"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="415"/>
       <source>&amp;Run</source>
       <translation>&amp;הרץ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="412"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="416"/>
       <source>&amp;Abort</source>
       <translation>&amp;בטל</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="413"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="417"/>
       <source>&amp;Continue here...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="417"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="421"/>
       <source>Copy</source>
       <translation>העתק</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="418"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="422"/>
       <source>E&amp;xecute Command...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="473"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="477"/>
       <source>Error on line</source>
       <translation>שגיאה בשורה</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="475"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="479"/>
       <source>Script Error!</source>
       <translation>שגיאת סקריפט!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="510"/>
       <source>Select script</source>
       <translation>בחר סקריפט</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="510"/>
       <source>Script files (*.txt *.scr);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="540"/>
       <source>Error!</source>
       <translation>שגיאה!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="540"/>
       <source>File open failed! Please open the file yourself...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="552"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="556"/>
       <source>Error setting script breakpoint!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="583"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="587"/>
       <source>Error executing command!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="589"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="593"/>
       <source>Message</source>
       <translation>הודעה</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="608"/>
+      <location filename="src/gui/Src/Gui/ScriptView.cpp" line="612"/>
       <source>Question</source>
       <translation>שאלה</translation>
     </message>
@@ -17977,7 +17967,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
       <source>Error</source>
       <translation>שגיאה</translation>
     </message>
@@ -18146,7 +18136,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
       <source>Delete recording</source>
       <translation type="unfinished"/>
     </message>
@@ -18166,87 +18156,87 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1292"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1336"/>
       <source>Open trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1293"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1337"/>
       <source>Trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1294"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1330"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1397"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1441"/>
       <source>Address not found in trace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1409"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1453"/>
       <source>The address %1 is not found in trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1400"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
       <source>Open File</source>
       <translation>פתח קובץ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1670"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
       <source>Text Files (*.txt)</source>
       <translation>קבצי טקסט (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1676"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
       <source>Could not open file</source>
       <translation>לא ניתן לפתוח את הקובץ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
       <source>Error!</source>
       <translation>שגיאה!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1765"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
       <source>Selection not in a module...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1790"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
       <source>Selection not in a file...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1889"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1933"/>
       <source>Constant</source>
       <translation>קבוע</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1896"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1912"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1922"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1940"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1956"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1966"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1903"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1947"/>
       <source>References</source>
       <translation type="unfinished"/>
     </message>
@@ -18726,12 +18716,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="158"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="159"/>
       <source>View XMM register</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="160"/>
+      <location filename="src/gui/Src/Tracer/TraceRegisters.cpp" line="161"/>
       <source>View MMX register</source>
       <translation type="unfinished"/>
     </message>
@@ -18864,100 +18854,100 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="42"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="314"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="308"/>
       <source>Load dump</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="91"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="85"/>
       <source>Disassembly</source>
       <translation>Disassembly</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="92"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="86"/>
       <source>Registers</source>
       <translation>אוגרים</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="230"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="89"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="224"/>
       <source>Dump</source>
       <translation>Dump</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="96"/>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="235"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="90"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="229"/>
       <source>Stack</source>
       <translation>מחסנית</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="98"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="92"/>
       <source>InfoBox</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="165"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="159"/>
       <source>Error</source>
       <translation>שגיאה</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="165"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="159"/>
       <source>Error when opening trace recording (reason: %1)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="175"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="169"/>
       <source>Trace file is recorded for another debuggee</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="176"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="170"/>
       <source>Checksum is different for current trace file and the debugee. This probably means you have opened a wrong trace file. This trace file is recorded for "%1"</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="208"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="202"/>
       <source>Enabling the trace dump can consume a lot of memory (max ~%1GiB for this trace) and freeze x64dbg for prolonged periods of time. This feature is still experimental, please report any bugs you encounter.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="209"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="203"/>
       <source>Warning</source>
       <translation>אזהרה</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="257"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="251"/>
       <source>Loaded trace dump in %1ms
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="338"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="332"/>
       <source>&amp;Selected Address</source>
       <translation>&amp;כתובת שנבחרה</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="352"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="346"/>
       <source>&amp;Address: </source>
       <translation>&amp;כתובת: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="364"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="358"/>
       <source>&amp;Old value: </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="368"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="362"/>
       <source>&amp;Value: </source>
       <translation>&amp;ערך: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="374"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="368"/>
       <source>&amp;New value: </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="385"/>
+      <location filename="src/gui/Src/Tracer/TraceWidget.cpp" line="379"/>
       <source>&amp;Constant: </source>
       <translation type="unfinished"/>
     </message>
