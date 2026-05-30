@@ -3270,63 +3270,63 @@
       <translation>強調表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
       <source>Error</source>
       <translation>エラー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="311"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="323"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="502"/>
       <source>Edit %1</source>
       <translation>%1 の編集</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="318"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="320"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="322"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="330"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="332"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="337"/>
       <source>Edit</source>
       <translation>編集</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="331"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="346"/>
       <source>Edit %1 register</source>
       <translation>%1 レジスタの編集</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="341"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="353"/>
       <source>Edit FPU register</source>
       <translation>FPU レジスタの編集</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="447"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation>HEX への変換エラー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="450"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="462"/>
       <source>Set Last Error</source>
       <translation>Last Error を設定</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="471"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="483"/>
       <source>Set Last Status</source>
       <translation>Last Status を設定</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="686"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="698"/>
       <source>Follow in &amp;Dump</source>
       <translation>ダンプ画面で追跡(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="728"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="740"/>
       <source>Copy old value: %1</source>
       <translation>変更前の値をコピー : %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="785"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation>%1 にハードウェア ブレークポイントを設定</translation>
     </message>
@@ -9756,57 +9756,57 @@ Invalid database file (JSON)!</source>
       <translation>警告 : データベースには、デバッグしているモジュールとは異なるチェックサムがあります。 最後のセッションからデバッグ対象が変更されている可能性があります。このデータベースのコンテンツが正しくない可能性があります。</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="152"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="154"/>
       <source>Missing operand</source>
       <translation>オペランドがありません</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="170"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="172"/>
       <source>Failed to convert operand</source>
       <translation>オペランドの変換に失敗しました</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="177"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="179"/>
       <source>Operand value too big</source>
       <translation>オペランドの値が大きすぎます</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="190"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="213"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="192"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="215"/>
       <source>Invalid operand (FromHex failed)</source>
       <translation>無効なオペランド (FromHex 失敗)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="196"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="219"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
       <source>Invalid size (expected %llu, got %llu)</source>
       <translation>不正なサイズ (期待値 %llu, 取得 %llu)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="200"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="223"/>
       <source>Invalid size (expected %u, got %u)</source>
       <translation>不正なサイズ (期待値 %u, 取得 %u)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="246"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="248"/>
       <source>80bit extended float is not supported</source>
       <translation>80bit拡張 浮動小数点数 はサポートされていません</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="254"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="277"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="256"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="279"/>
       <source>Invalid string literal</source>
       <translation>無効な文字列リテラル</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="259"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="284"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="261"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="286"/>
       <source>String too long</source>
       <translation>文字列が長すぎます</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="304"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
       <source>Dest buffer too small</source>
       <translation>Dest バッファが小さすぎます</translation>
     </message>
@@ -10781,63 +10781,63 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="40"/>
+      <location filename="src/dbg/reference.cpp" line="41"/>
       <source>Invalid memory page 0x%p
 </source>
       <translation>無効なメモリページ 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="61"/>
+      <location filename="src/dbg/reference.cpp" line="62"/>
       <source>%s (Region %s)</source>
       <translation>%s (領域 %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="63"/>
+      <location filename="src/dbg/reference.cpp" line="64"/>
       <source>%s (Region %p)</source>
       <translation>%s (領域 %p)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="75"/>
+      <location filename="src/dbg/reference.cpp" line="76"/>
       <source>Region Search</source>
       <translation>領域検索</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="87"/>
+      <location filename="src/dbg/reference.cpp" line="88"/>
       <source>Couldn't locate module for 0x%p
 </source>
       <translation>0x%p のモジュールを特定できませんでした
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="116"/>
+      <location filename="src/dbg/reference.cpp" line="117"/>
       <source>Module Search</source>
       <translation>モジュールの検索</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="144"/>
-      <location filename="src/dbg/reference.cpp" line="206"/>
-      <location filename="src/dbg/reference.cpp" line="268"/>
+      <location filename="src/dbg/reference.cpp" line="145"/>
+      <location filename="src/dbg/reference.cpp" line="207"/>
+      <location filename="src/dbg/reference.cpp" line="269"/>
       <source>Couldn't get module list</source>
       <translation>モジュールリストを取得できませんでした</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="153"/>
+      <location filename="src/dbg/reference.cpp" line="154"/>
       <source>User Modules (%s)</source>
       <translation>ユーザー モジュール (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="215"/>
+      <location filename="src/dbg/reference.cpp" line="216"/>
       <source>System Modules (%s)</source>
       <translation>システム モジュール (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="277"/>
+      <location filename="src/dbg/reference.cpp" line="278"/>
       <source>All Modules (%s)</source>
       <translation>すべてのモジュール (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="317"/>
+      <location filename="src/dbg/reference.cpp" line="318"/>
       <source>Invalid scan size 0 passed to RefFindInRange
 </source>
       <translation>RefFindInRange に無効なスキャンサイズ 0 が渡されました
@@ -15902,7 +15902,7 @@ Do you want to apply these patches anyway?</source>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2752"/>
       <source>AVX-512 isn't supported on this computer.
 </source>

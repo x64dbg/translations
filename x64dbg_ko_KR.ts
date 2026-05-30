@@ -3267,63 +3267,63 @@
       <translation>하이라이트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="311"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="323"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="502"/>
       <source>Edit %1</source>
       <translation>%1 수정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="318"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="320"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="322"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="330"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="332"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="337"/>
       <source>Edit</source>
       <translation>편집</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="331"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="346"/>
       <source>Edit %1 register</source>
       <translation>레지스터 %1 수정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="341"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="353"/>
       <source>Edit FPU register</source>
       <translation>FPU 레지스터 수정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="447"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation>HEX로 변환하는데 오류발생</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="450"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="462"/>
       <source>Set Last Error</source>
       <translation>마지막 오류 설정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="471"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="483"/>
       <source>Set Last Status</source>
       <translation>최종 상태 설정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="686"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="698"/>
       <source>Follow in &amp;Dump</source>
       <translation>덤프에서 따라가기(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="728"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="740"/>
       <source>Copy old value: %1</source>
       <translation>이전 값 복사: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="785"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation>%1에 하드웨어 중단점 설정</translation>
     </message>
@@ -9723,57 +9723,57 @@ x64dbg를 관리자권한으로 실행해주세요.</translation>
       <translation>경고: 데이터베이스의 체크섬이 디버깅 중인 모듈과 다릅니다. 마지막 세션 이후 디버그 대상이 수정되었을 수 있습니다. 이 데이터베이스의 내용이 정확하지 않을 수 있습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="152"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="154"/>
       <source>Missing operand</source>
       <translation>누락된 피연산자</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="170"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="172"/>
       <source>Failed to convert operand</source>
       <translation>피연산자 변환 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="177"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="179"/>
       <source>Operand value too big</source>
       <translation>피연산자가 너무 큼</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="190"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="213"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="192"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="215"/>
       <source>Invalid operand (FromHex failed)</source>
       <translation>잘못 된 피연산자 (FromHex 실패)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="196"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="219"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
       <source>Invalid size (expected %llu, got %llu)</source>
       <translation>잘못된 크기 (예상값 %llu, 획득값 %llu)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="200"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="223"/>
       <source>Invalid size (expected %u, got %u)</source>
       <translation>잘못된 크기 (예상값 %u, 획득값 %u)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="246"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="248"/>
       <source>80bit extended float is not supported</source>
       <translation>80bit extended float가 지원되지 않습니다</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="254"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="277"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="256"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="279"/>
       <source>Invalid string literal</source>
       <translation>부적절한 문자열 문자</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="259"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="284"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="261"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="286"/>
       <source>String too long</source>
       <translation>너무 긴 문자열</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="304"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
       <source>Dest buffer too small</source>
       <translation>Dest 버퍼가 너무 작습니다</translation>
     </message>
@@ -10702,63 +10702,63 @@ Do you want to continue debugging?</source>
       <translation>[PLUGIN, %s] 포맷 함수 "%s" 레지스터 해제 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="40"/>
+      <location filename="src/dbg/reference.cpp" line="41"/>
       <source>Invalid memory page 0x%p
 </source>
       <translation>잘못 된 메모리 페이지 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="61"/>
+      <location filename="src/dbg/reference.cpp" line="62"/>
       <source>%s (Region %s)</source>
       <translation>%s (구역 %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="63"/>
+      <location filename="src/dbg/reference.cpp" line="64"/>
       <source>%s (Region %p)</source>
       <translation>%s (구역 %p)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="75"/>
+      <location filename="src/dbg/reference.cpp" line="76"/>
       <source>Region Search</source>
       <translation>구역 검색</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="87"/>
+      <location filename="src/dbg/reference.cpp" line="88"/>
       <source>Couldn't locate module for 0x%p
 </source>
       <translation>0x%p에 모듈을 위치시킬 수 없습니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="116"/>
+      <location filename="src/dbg/reference.cpp" line="117"/>
       <source>Module Search</source>
       <translation>모듈 검색</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="144"/>
-      <location filename="src/dbg/reference.cpp" line="206"/>
-      <location filename="src/dbg/reference.cpp" line="268"/>
+      <location filename="src/dbg/reference.cpp" line="145"/>
+      <location filename="src/dbg/reference.cpp" line="207"/>
+      <location filename="src/dbg/reference.cpp" line="269"/>
       <source>Couldn't get module list</source>
       <translation>모듈 목록을 가져올 수 없습니다</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="153"/>
+      <location filename="src/dbg/reference.cpp" line="154"/>
       <source>User Modules (%s)</source>
       <translation>유저 모듈 (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="215"/>
+      <location filename="src/dbg/reference.cpp" line="216"/>
       <source>System Modules (%s)</source>
       <translation>시스템 모듈 (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="277"/>
+      <location filename="src/dbg/reference.cpp" line="278"/>
       <source>All Modules (%s)</source>
       <translation>모든 모듈 (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="317"/>
+      <location filename="src/dbg/reference.cpp" line="318"/>
       <source>Invalid scan size 0 passed to RefFindInRange
 </source>
       <translation type="unfinished"/>
@@ -15815,7 +15815,7 @@ Do you want to apply these patches anyway?</source>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2752"/>
       <source>AVX-512 isn't supported on this computer.
 </source>

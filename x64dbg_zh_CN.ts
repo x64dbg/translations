@@ -3267,63 +3267,63 @@
       <translation>高亮</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
       <source>Error</source>
       <translation>错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="311"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="323"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="502"/>
       <source>Edit %1</source>
       <translation>编辑 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="316"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="318"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="320"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="322"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="325"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="328"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="330"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="332"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="337"/>
       <source>Edit</source>
       <translation>编辑</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="331"/>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="334"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="343"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="346"/>
       <source>Edit %1 register</source>
       <translation>编辑%1寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="341"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="353"/>
       <source>Edit FPU register</source>
       <translation>编辑FPU寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="435"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="447"/>
       <source>ERROR CONVERTING TO HEX</source>
       <translation>转换到十六进制时发生错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="450"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="462"/>
       <source>Set Last Error</source>
       <translation>设置上次错误</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="471"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="483"/>
       <source>Set Last Status</source>
       <translation>设置上次状态</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="686"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="698"/>
       <source>Follow in &amp;Dump</source>
       <translation>在内存窗口中转到(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="728"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="740"/>
       <source>Copy old value: %1</source>
       <translation>复制旧值：%1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="785"/>
       <source>Set Hardware Breakpoint on %1</source>
       <translation>设置硬件断点于 %1</translation>
     </message>
@@ -9749,57 +9749,57 @@ JSON数据库文件无效！</translation>
       <translation>警告：数据库的校验码与你现在正在调试的校验码不同，可能是因为你的调试对象已经修改，因此当前数据库中的内容未必准确。</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="152"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="154"/>
       <source>Missing operand</source>
       <translation>缺少操作数</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="170"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="172"/>
       <source>Failed to convert operand</source>
       <translation>转换操作数失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="177"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="179"/>
       <source>Operand value too big</source>
       <translation>操作数的值太大</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="190"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="213"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="192"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="215"/>
       <source>Invalid operand (FromHex failed)</source>
       <translation>无效操作数 (FromHex 失败)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="196"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="219"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
       <source>Invalid size (expected %llu, got %llu)</source>
       <translation>无效的大小（期望 %llu，实际 %llu）</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="200"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="223"/>
       <source>Invalid size (expected %u, got %u)</source>
       <translation>无效的大小（期望 %u，实际 %u）</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="246"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="248"/>
       <source>80bit extended float is not supported</source>
       <translation>不支持80位扩展型浮点数</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="254"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="277"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="256"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="279"/>
       <source>Invalid string literal</source>
       <translation>无效的字符串</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="259"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="284"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="261"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="286"/>
       <source>String too long</source>
       <translation>字符串太长</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="304"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
       <source>Dest buffer too small</source>
       <translation>目标缓冲区太小</translation>
     </message>
@@ -10761,63 +10761,63 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="40"/>
+      <location filename="src/dbg/reference.cpp" line="41"/>
       <source>Invalid memory page 0x%p
 </source>
       <translation>无效的内存页 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="61"/>
+      <location filename="src/dbg/reference.cpp" line="62"/>
       <source>%s (Region %s)</source>
       <translation>%s (区域 %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="63"/>
+      <location filename="src/dbg/reference.cpp" line="64"/>
       <source>%s (Region %p)</source>
       <translation>%s (区域 %p)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="75"/>
+      <location filename="src/dbg/reference.cpp" line="76"/>
       <source>Region Search</source>
       <translation>区域搜索</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="87"/>
+      <location filename="src/dbg/reference.cpp" line="88"/>
       <source>Couldn't locate module for 0x%p
 </source>
       <translation>无法为%p定位模块
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="116"/>
+      <location filename="src/dbg/reference.cpp" line="117"/>
       <source>Module Search</source>
       <translation>模块搜索</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="144"/>
-      <location filename="src/dbg/reference.cpp" line="206"/>
-      <location filename="src/dbg/reference.cpp" line="268"/>
+      <location filename="src/dbg/reference.cpp" line="145"/>
+      <location filename="src/dbg/reference.cpp" line="207"/>
+      <location filename="src/dbg/reference.cpp" line="269"/>
       <source>Couldn't get module list</source>
       <translation>无法获取模块列表</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="153"/>
+      <location filename="src/dbg/reference.cpp" line="154"/>
       <source>User Modules (%s)</source>
       <translation>用户模块 (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="215"/>
+      <location filename="src/dbg/reference.cpp" line="216"/>
       <source>System Modules (%s)</source>
       <translation>用户模块 (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="277"/>
+      <location filename="src/dbg/reference.cpp" line="278"/>
       <source>All Modules (%s)</source>
       <translation>所有模块 (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/reference.cpp" line="317"/>
+      <location filename="src/dbg/reference.cpp" line="318"/>
       <source>Invalid scan size 0 passed to RefFindInRange
 </source>
       <translation>RefFindInRange 收到无效扫描大小 0
@@ -15876,7 +15876,7 @@ Do you want to apply these patches anyway?</source>
   <context>
     <name>RegistersView</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="303"/>
+      <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2752"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
