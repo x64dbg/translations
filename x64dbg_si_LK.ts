@@ -6506,26 +6506,26 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="537"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="546"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="554"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="563"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation>ගොනු ශීර්ෂය ලිවිය නොහැකි නිසා හෝඩුවාවන් පටිගත කිරීම ආරම්භ කිරීමට නොහැකි විය.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="557"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="574"/>
       <source>Started trace recording to file: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="592"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>හෝඩුවාවන් පටිගත කිරීමේ ගොනුව සෑදිය නොහැක. GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="586"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="603"/>
       <source>Trace recording stopped.</source>
       <translation>හෝඩුවාවන් පටිගත කිරීම නතර විය.</translation>
     </message>
@@ -7942,25 +7942,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="285"/>
-      <location filename="src/dbg/debugger.cpp" line="3014"/>
+      <location filename="src/dbg/debugger.cpp" line="3019"/>
       <source>Process is already being debugged!</source>
       <translation>ක්‍රියාවලිය දැනටමත් නිදොස් කරමින් පවතී!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="292"/>
-      <location filename="src/dbg/debugger.cpp" line="2933"/>
+      <location filename="src/dbg/debugger.cpp" line="2938"/>
       <source>IsWow64Process failed!</source>
       <translation>IsW64ක්රියාවලිය අසාර්ථකයි!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="298"/>
-      <location filename="src/dbg/debugger.cpp" line="2940"/>
+      <location filename="src/dbg/debugger.cpp" line="2945"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x32dbg භාවිතා කරන්න!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="300"/>
-      <location filename="src/dbg/debugger.cpp" line="2942"/>
+      <location filename="src/dbg/debugger.cpp" line="2947"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>මෙම ක්රියාවලිය නිදොස් කිරීමට x64dbg භාවිතා කරන්න!</translation>
     </message>
@@ -10241,55 +10241,55 @@ Invalid database file (JSON)!</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2251"/>
+      <location filename="src/dbg/debugger.cpp" line="2256"/>
       <source>Attached to process!</source>
       <translation>ක්රියාවලියට අමුණා ඇත!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2816"/>
+      <location filename="src/dbg/debugger.cpp" line="2821"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>DLL නිදොස්කරණය දෝෂ (කාරකය පිටපත් කිරීමට අසමත් විය)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2865"/>
+      <location filename="src/dbg/debugger.cpp" line="2870"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>DLL නිදොස්කරණය දෝෂ (loaddll.exe සොයාගත නොහැක)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2899"/>
+      <location filename="src/dbg/debugger.cpp" line="2904"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>ඔබ නිදොස් කිරීමට උත්සාහ කරන ක්රියාත්මක කළ හැකි උන්නතාංශය අවශ්ය වේ. පරිපාලක ලෙස නැවත ආරම්භ කරන්න?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2900"/>
+      <location filename="src/dbg/debugger.cpp" line="2905"/>
       <source>Elevation</source>
       <translation>උන්නතාංශය</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2924"/>
+      <location filename="src/dbg/debugger.cpp" line="2929"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>දෝෂ ආරම්භක ක්රියාවලිය (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3016"/>
+      <location filename="src/dbg/debugger.cpp" line="3021"/>
       <source>Attach to process failed: %s
 </source>
       <translation>ක්‍රියාවලියට ඇමිණීම අසාර්ථක විය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3054"/>
+      <location filename="src/dbg/debugger.cpp" line="3059"/>
       <source>Debugging stopped!</source>
       <translation>නිදොස්කරණය නැවැත්වුවා!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3106"/>
+      <location filename="src/dbg/debugger.cpp" line="3111"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:

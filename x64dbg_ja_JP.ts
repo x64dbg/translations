@@ -6506,27 +6506,27 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="537"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="546"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="554"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="563"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation>ファイル ヘッダーを書き込めないため、トレース記録を開始できませんでした。</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="557"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="574"/>
       <source>Started trace recording to file: %s
 </source>
       <translation>ファイルへのトレース記録を開始 : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="592"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>トレース記録ファイルを作成できません。GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="586"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="603"/>
       <source>Trace recording stopped.</source>
       <translation>トレース記録を停止しました。</translation>
     </message>
@@ -7943,25 +7943,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="285"/>
-      <location filename="src/dbg/debugger.cpp" line="3014"/>
+      <location filename="src/dbg/debugger.cpp" line="3019"/>
       <source>Process is already being debugged!</source>
       <translation>プロセスは既にデバッグされています!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="292"/>
-      <location filename="src/dbg/debugger.cpp" line="2933"/>
+      <location filename="src/dbg/debugger.cpp" line="2938"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失敗!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="298"/>
-      <location filename="src/dbg/debugger.cpp" line="2940"/>
+      <location filename="src/dbg/debugger.cpp" line="2945"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>x32dbg を使用してこのプロセスをデバッグ!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="300"/>
-      <location filename="src/dbg/debugger.cpp" line="2942"/>
+      <location filename="src/dbg/debugger.cpp" line="2947"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>x64dbg を使用してこのプロセスをデバッグ!</translation>
     </message>
@@ -10249,55 +10249,55 @@ Invalid database file (JSON)!</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2251"/>
+      <location filename="src/dbg/debugger.cpp" line="2256"/>
       <source>Attached to process!</source>
       <translation>プロセスをアタッチしました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2816"/>
+      <location filename="src/dbg/debugger.cpp" line="2821"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>DLL のデバッグ エラー (ローダーのコピーに失敗しました)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2865"/>
+      <location filename="src/dbg/debugger.cpp" line="2870"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>DLL のデバッグ エラー (loaddll.exe が見つかりません)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2899"/>
+      <location filename="src/dbg/debugger.cpp" line="2904"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>デバッグしようとしている実行可能ファイルには昇格が必要です。管理者として再起動しますか?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2900"/>
+      <location filename="src/dbg/debugger.cpp" line="2905"/>
       <source>Elevation</source>
       <translation>昇格</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2924"/>
+      <location filename="src/dbg/debugger.cpp" line="2929"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>プロセス開始時にエラーが発生しました (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3016"/>
+      <location filename="src/dbg/debugger.cpp" line="3021"/>
       <source>Attach to process failed: %s
 </source>
       <translation>プロセスのアタッチに失敗しました : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3054"/>
+      <location filename="src/dbg/debugger.cpp" line="3059"/>
       <source>Debugging stopped!</source>
       <translation>デバッグが停止しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3106"/>
+      <location filename="src/dbg/debugger.cpp" line="3111"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:

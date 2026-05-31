@@ -6505,25 +6505,25 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="537"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="546"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="554"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="563"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="557"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="574"/>
       <source>Started trace recording to file: %s
 </source>
       <translation>Начата запись трассировки в файл: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="592"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>Невозможно создать файл записи трассировки. GetLastError() = %s.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="586"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="603"/>
       <source>Trace recording stopped.</source>
       <translation>Запись трассировки остановлена.</translation>
     </message>
@@ -7930,25 +7930,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="285"/>
-      <location filename="src/dbg/debugger.cpp" line="3014"/>
+      <location filename="src/dbg/debugger.cpp" line="3019"/>
       <source>Process is already being debugged!</source>
       <translation>Процесс уже находится в отладке!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="292"/>
-      <location filename="src/dbg/debugger.cpp" line="2933"/>
+      <location filename="src/dbg/debugger.cpp" line="2938"/>
       <source>IsWow64Process failed!</source>
       <translation>Сбой IsWow64Process!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="298"/>
-      <location filename="src/dbg/debugger.cpp" line="2940"/>
+      <location filename="src/dbg/debugger.cpp" line="2945"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Для отладки этого процесса используйте x32dbg!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="300"/>
-      <location filename="src/dbg/debugger.cpp" line="2942"/>
+      <location filename="src/dbg/debugger.cpp" line="2947"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Для отладки этого процесса используйте x64dbg!</translation>
     </message>
@@ -10222,54 +10222,54 @@ Invalid database file (JSON)!</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2251"/>
+      <location filename="src/dbg/debugger.cpp" line="2256"/>
       <source>Attached to process!</source>
       <translation>Присоединиться к процессу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2816"/>
+      <location filename="src/dbg/debugger.cpp" line="2821"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>Ошибка отладки DLL (ошибка копирования загрузчика)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2865"/>
+      <location filename="src/dbg/debugger.cpp" line="2870"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>Ошибка отладки DLL (не найден loaddll.exe)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2899"/>
+      <location filename="src/dbg/debugger.cpp" line="2904"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>Для отладки исполняемого файла требуется повышение привилегий. Перезапустить с правами администратора?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2900"/>
+      <location filename="src/dbg/debugger.cpp" line="2905"/>
       <source>Elevation</source>
       <translation>Повышение</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2924"/>
+      <location filename="src/dbg/debugger.cpp" line="2929"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>Ошибка запуска процесса (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3016"/>
+      <location filename="src/dbg/debugger.cpp" line="3021"/>
       <source>Attach to process failed: %s
 </source>
       <translation>Не удалось присоединиться к процессу: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3054"/>
+      <location filename="src/dbg/debugger.cpp" line="3059"/>
       <source>Debugging stopped!</source>
       <translation>Отладка остановлена!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3106"/>
+      <location filename="src/dbg/debugger.cpp" line="3111"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
