@@ -1727,7 +1727,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
       <source>Copy Value</source>
-      <translation type="unfinished"/>
+      <translation>Copia valore</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="210"/>
@@ -3083,7 +3083,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="522"/>
       <source>Call from </source>
-      <translation type="unfinished"/>
+      <translation>Chiama da </translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="525"/>
@@ -4177,7 +4177,7 @@
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="158"/>
       <source>Replace Slot %1 (0x%2)</source>
-      <translation type="unfinished"/>
+      <translation>Sostituisci Slot %1 (0x%2)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Utils/CommonActions.cpp" line="171"/>
@@ -5591,7 +5591,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
       <source>Find Pattern</source>
-      <translation type="unfinished"/>
+      <translation>Trova pattern</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
