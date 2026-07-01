@@ -7897,7 +7897,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="121"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="247"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="253"/>
       <source>Could not open file!</source>
       <translation>ගොනුව විවෘත කළ නොහැක!</translation>
     </message>
@@ -8094,7 +8094,7 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="705"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="841"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="855"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="208"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="214"/>
       <source>Failed to read (all) memory...</source>
       <translation>කියවීමට අසමත් විය (සියලු) මතකය...</translation>
     </message>
@@ -8250,116 +8250,116 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="38"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
       <source>VirtualAllocEx failed</source>
       <translation>වර්චුවලලොක්ස් අසමත්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="50"/>
       <source>User-allocated memory</source>
       <translation>පරිශීලක-වෙන් මතකය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="65"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="71"/>
       <source>$lastalloc is zero, provide a page address</source>
       <translation>$lastalloc ශුන්ය වේ, පිටු ලිපිනයක් ලබා</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="72"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="78"/>
       <source>VirtualFreeEx failed</source>
       <translation>වර්චුවල් ෆ්රීක්ස් අසමත් විය</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="100"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="106"/>
       <source>Invalid address specified</source>
       <translation>වලංගු නොවන ලිපිනය නිශ්චිතව දක්වා ඇත</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="109"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="115"/>
       <source>Memset failed</source>
       <translation>Memset අසමත්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="111"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="117"/>
       <source>Memory %p (size: %.8X) set to %.2X
 </source>
       <translation>මතකය %p (ප්රමාණය: %.8X) %.2X
 දක්වා සකස්</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="149"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
       <source>Error: using an address as arg1
 </source>
       <translation>දෝෂය: arg1
 ලෙස ලිපිනයක් භාවිතා කිරීම</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="161"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="189"/>
       <source>Error getting rights of page: %s
 </source>
       <translation>පිටුවේ අයිතිවාසිකම් ලබා ගැනීමේ දෝෂය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="159"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="165"/>
       <source>Page: %p, Rights: %s
 </source>
       <translation>පිටුව: %p, අයිතිවාසිකම්: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="171"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
       <source>Error: Using an address as arg1 and as arg2: Execute, ExecuteRead, ExecuteReadWrite, ExecuteWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. You can add a G at first for add PAGE GUARD, example: GReadOnly
 </source>
       <translation>දෝෂය: Arg1 ලෙස සහ arg2 ලෙස ලිපිනයක් භාවිතා කිරීම: ක්රියාත්මක කරන්න, ක්රියාත්මක කරන්නකියවන්න, ක්රියාත්මක කරන්නWrite, ක්රියාත්මක කරන්නWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. ඔබට මුලින් G එකක් එකතු කළ හැකිය පේජ් ගාඩ් එකතු කරන්න, උදාහරණයක්: GreadOnly
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
       <source>Error: Set rights of %p with Rights: %s
 </source>
       <translation>දෝෂය: %p හි අයිතිවාසිකම් සමඟ සකසන්න: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="191"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="197"/>
       <source>New rights of %p: %s
 </source>
       <translation>%pහි නව අයිතිවාසිකම්: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="218"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
       <source>Failed to write file...</source>
       <translation>ගොනුව ලිවීමට අසමත් විය...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="222"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="228"/>
       <source>%p[%llX] written to "%s" !
 </source>
       <translation>%p[%llX] "%s" වෙත ලියා ඇත!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="230"/>
       <source>%p[%X] written to "%s" !
 </source>
       <translation>%p[%X] "%s" වෙත ලියා ඇත!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="246"/>
       <source>Cannot dump while running...</source>
       <translation>ක්‍රියාත්මක වන අතරතුර ඩම්ප් කළ නොහැක...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="298"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="304"/>
       <source>Dump saved!</source>
       <translation>ඩම්ප් සුරකින ලදී!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="303"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="309"/>
       <source>MiniDumpWriteDump failed. GetLastError() = %s.
 </source>
       <translation>MiniDumpWriteDump අසාර්ථකයි. GetLastError() = %s.

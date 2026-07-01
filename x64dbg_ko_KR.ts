@@ -7881,7 +7881,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="121"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="247"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="253"/>
       <source>Could not open file!</source>
       <translation>파일을 열 수 없습니다!</translation>
     </message>
@@ -8078,7 +8078,7 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="705"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="841"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="855"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="208"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="214"/>
       <source>Failed to read (all) memory...</source>
       <translation>(모든) 메모리 읽기에 실패했습니다...</translation>
     </message>
@@ -8232,116 +8232,116 @@
       <translation>주소 "%s"는 어떤 모듈에도 속해있지 않습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="38"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
       <source>VirtualAllocEx failed</source>
       <translation>VirtualAllocEx 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="50"/>
       <source>User-allocated memory</source>
       <translation>사용자 할당 메모리</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="65"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="71"/>
       <source>$lastalloc is zero, provide a page address</source>
       <translation>$lastalloc 가 0입니다, 페이지 주소를 제공해주세요</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="72"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="78"/>
       <source>VirtualFreeEx failed</source>
       <translation>VirtualFreeEx 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="100"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="106"/>
       <source>Invalid address specified</source>
       <translation>잘못 된 주소 지정됨</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="109"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="115"/>
       <source>Memset failed</source>
       <translation>Memset 실패</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="111"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="117"/>
       <source>Memory %p (size: %.8X) set to %.2X
 </source>
       <translation> %p (크기: %.8X) 설정됨 %.2X에 메모리
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="149"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
       <source>Error: using an address as arg1
 </source>
       <translation>오류: 주소를 arg1 처럼 사용하기
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="161"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="189"/>
       <source>Error getting rights of page: %s
 </source>
       <translation>페이지 권한 가져오는 중 오류발생: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="159"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="165"/>
       <source>Page: %p, Rights: %s
 </source>
       <translation>페이지: %p, 권한: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="171"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
       <source>Error: Using an address as arg1 and as arg2: Execute, ExecuteRead, ExecuteReadWrite, ExecuteWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. You can add a G at first for add PAGE GUARD, example: GReadOnly
 </source>
       <translation>오류: 주소를 arg1 이나 arg2 로 사용하세요: Execute, ExecuteRead, ExecuteReadWrite, ExecuteWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. 덧붙여서 페이지 가드에 앞에 G를 추가하실 수도 있습니다, 예시: GReadOnly
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
       <source>Error: Set rights of %p with Rights: %s
 </source>
       <translation>오류: 페이지 %p 의 권리를 다음 권한으로 설정: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="191"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="197"/>
       <source>New rights of %p: %s
 </source>
       <translation>%p의 새로운 권한: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="218"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
       <source>Failed to write file...</source>
       <translation>파일을 작성하지 못했습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="222"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="228"/>
       <source>%p[%llX] written to "%s" !
 </source>
       <translation>%p[%llX] 가 "%s"에 쓰여졌습니다 !
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="230"/>
       <source>%p[%X] written to "%s" !
 </source>
       <translation>%p[%X] 가 "%s"에 쓰여졌습니다 !
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="246"/>
       <source>Cannot dump while running...</source>
       <translation>실행중에는 덤프할 수 없습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="298"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="304"/>
       <source>Dump saved!</source>
       <translation>덤프 저장됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="303"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="309"/>
       <source>MiniDumpWriteDump failed. GetLastError() = %s.
 </source>
       <translation>MiniDumpWriteDump 실패. GetLastError() = %s.</translation>

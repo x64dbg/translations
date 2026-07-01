@@ -7876,7 +7876,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="121"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="247"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="253"/>
       <source>Could not open file!</source>
       <translation>Tiedoston avaaminen epäonnistui!</translation>
     </message>
@@ -8073,7 +8073,7 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="705"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="841"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="855"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="208"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="214"/>
       <source>Failed to read (all) memory...</source>
       <translation>(Kaiken) muistin lukeminen epäonnistui...</translation>
     </message>
@@ -8227,116 +8227,116 @@
       <translation>Osoite "%s" ei kuulu mihinkään moduuliin!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="38"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
       <source>VirtualAllocEx failed</source>
       <translation>VirtualAllocEx-komento epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="50"/>
       <source>User-allocated memory</source>
       <translation>Käyttäjän varaama muisti</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="65"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="71"/>
       <source>$lastalloc is zero, provide a page address</source>
       <translation>$lastalloc on nolla, syötä muistisivun osoite</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="72"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="78"/>
       <source>VirtualFreeEx failed</source>
       <translation>VirtualFreeEx-komento epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="100"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="106"/>
       <source>Invalid address specified</source>
       <translation>Syötetty osoite ei kelpaa</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="109"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="115"/>
       <source>Memset failed</source>
       <translation>Memset-komento epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="111"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="117"/>
       <source>Memory %p (size: %.8X) set to %.2X
 </source>
       <translation>Muistikohdan %p (koko: %.8X) arvoksi asetettu %.2X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="149"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
       <source>Error: using an address as arg1
 </source>
       <translation>Virhe: käytetty osoitetta ensimmäisenä argumenttina
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="161"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="189"/>
       <source>Error getting rights of page: %s
 </source>
       <translation>Virhe hakiessa muistisivun oikeuksia: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="159"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="165"/>
       <source>Page: %p, Rights: %s
 </source>
       <translation>Muistisivu: %p, Oikeudet: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="171"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
       <source>Error: Using an address as arg1 and as arg2: Execute, ExecuteRead, ExecuteReadWrite, ExecuteWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. You can add a G at first for add PAGE GUARD, example: GReadOnly
 </source>
       <translation>Virhe: Käytetty osoitetta 1. ja 2. argumenttina: Execute, ExecuteRead, ExecuteReadWrite, ExecuteWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. Voit lisätä G-merkin niiden eteen lisätäkseksi sivuvahdin, esimerkiksi: GReadOnly
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
       <source>Error: Set rights of %p with Rights: %s
 </source>
       <translation>Virhe: Sivun %p oikeuksien päivittäminen epäonnistui: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="191"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="197"/>
       <source>New rights of %p: %s
 </source>
       <translation>Muistisivun %p uudet oikeudet: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="218"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
       <source>Failed to write file...</source>
       <translation>Tiedoston kirjoittaminen epäonnistui...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="222"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="228"/>
       <source>%p[%llX] written to "%s" !
 </source>
       <translation>%p[%llX] kirjoitettiin kohtaan "%s"!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="230"/>
       <source>%p[%X] written to "%s" !
 </source>
       <translation>%p[%X] kirjoitettiin kohtaan "%s"!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="246"/>
       <source>Cannot dump while running...</source>
       <translation>Ei voi luoda vedosta, kun suoritus on käynnissä...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="298"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="304"/>
       <source>Dump saved!</source>
       <translation>Vedos tallennettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="303"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="309"/>
       <source>MiniDumpWriteDump failed. GetLastError() = %s.
 </source>
       <translation>MiniDumpWriteDump-komento epäonnistui. GetLastError() = %s.</translation>

@@ -7898,7 +7898,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="121"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="247"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="253"/>
       <source>Could not open file!</source>
       <translation>ファイルを開けませんでした!</translation>
     </message>
@@ -8095,7 +8095,7 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="705"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="841"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="855"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="208"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="214"/>
       <source>Failed to read (all) memory...</source>
       <translation>(すべての)メモリの読み込みに失敗しました...</translation>
     </message>
@@ -8252,116 +8252,116 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="38"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
       <source>VirtualAllocEx failed</source>
       <translation>VirtualAllocEx 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="50"/>
       <source>User-allocated memory</source>
       <translation>ユーザー割り当てメモリ</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="65"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="71"/>
       <source>$lastalloc is zero, provide a page address</source>
       <translation>$lastalloc はゼロです。ページアドレスを入力してください</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="72"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="78"/>
       <source>VirtualFreeEx failed</source>
       <translation>VirtualFreeEx 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="100"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="106"/>
       <source>Invalid address specified</source>
       <translation>無効なアドレスが指定されました</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="109"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="115"/>
       <source>Memset failed</source>
       <translation>Memset 失敗</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="111"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="117"/>
       <source>Memory %p (size: %.8X) set to %.2X
 </source>
       <translation>メモリ %p (サイズ : %.8X) が %.2X に設定されました
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="149"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
       <source>Error: using an address as arg1
 </source>
       <translation>エラー : arg1 としてアドレスを使用しています
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="161"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="189"/>
       <source>Error getting rights of page: %s
 </source>
       <translation>ページの権限を取得中にエラーが発生しました : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="159"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="165"/>
       <source>Page: %p, Rights: %s
 </source>
       <translation>ページ : %p, 権限 : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="171"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
       <source>Error: Using an address as arg1 and as arg2: Execute, ExecuteRead, ExecuteReadWrite, ExecuteWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. You can add a G at first for add PAGE GUARD, example: GReadOnly
 </source>
       <translation>エラー : アドレスを arg1 および arg2 として使用しています : Execute、ExecuteRead、ExecuteReadWrite、ExecuteWriteCopy、NoAccess、ReadOnly、ReadWrite、WriteCopy。ページ ガードを追加するには、最初に G を追加できます。例: GReadOnly
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
       <source>Error: Set rights of %p with Rights: %s
 </source>
       <translation>エラー : %p の権限を、権限 : %s に設定しました
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="191"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="197"/>
       <source>New rights of %p: %s
 </source>
       <translation>%p の新しい権限 : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="218"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
       <source>Failed to write file...</source>
       <translation>ファイルの書き込みに失敗しました...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="222"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="228"/>
       <source>%p[%llX] written to "%s" !
 </source>
       <translation>%p[%llX] が "%s" に書き込まれました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="230"/>
       <source>%p[%X] written to "%s" !
 </source>
       <translation>%p[%X] が "%s" に書き込まれました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="246"/>
       <source>Cannot dump while running...</source>
       <translation>実行中はダンプできません...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="298"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="304"/>
       <source>Dump saved!</source>
       <translation>ダンプを保存しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="303"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="309"/>
       <source>MiniDumpWriteDump failed. GetLastError() = %s.
 </source>
       <translation>MiniDumpWriteDump に失敗しました。GetLastError() = %s.

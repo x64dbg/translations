@@ -7895,7 +7895,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="121"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="247"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="253"/>
       <source>Could not open file!</source>
       <translation>无法打开文件！</translation>
     </message>
@@ -8092,7 +8092,7 @@
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="705"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="841"/>
       <location filename="src/dbg/commands/cmd-general-purpose.cpp" line="855"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="208"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="214"/>
       <source>Failed to read (all) memory...</source>
       <translation>读取(全部)内存失败...</translation>
     </message>
@@ -8249,116 +8249,116 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="38"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
       <source>VirtualAllocEx failed</source>
       <translation>VirtualAllocEx 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="44"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="50"/>
       <source>User-allocated memory</source>
       <translation>用户分配的内存</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="65"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="71"/>
       <source>$lastalloc is zero, provide a page address</source>
       <translation>$lastalloc 为零，提供一个页面地址</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="72"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="78"/>
       <source>VirtualFreeEx failed</source>
       <translation>VirtualFreeEx 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="100"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="106"/>
       <source>Invalid address specified</source>
       <translation>指定了无效地址</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="109"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="115"/>
       <source>Memset failed</source>
       <translation>Memset 失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="111"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="117"/>
       <source>Memory %p (size: %.8X) set to %.2X
 </source>
       <translation>内存 %p (大小：%.8X)已设为%.2X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="149"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
       <source>Error: using an address as arg1
 </source>
       <translation>错误：请用一个地址作为参数1
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="155"/>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="161"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="189"/>
       <source>Error getting rights of page: %s
 </source>
       <translation>获取页的权限时出错︰%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="159"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="165"/>
       <source>Page: %p, Rights: %s
 </source>
       <translation>页面： %p，权限： %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="171"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
       <source>Error: Using an address as arg1 and as arg2: Execute, ExecuteRead, ExecuteReadWrite, ExecuteWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. You can add a G at first for add PAGE GUARD, example: GReadOnly
 </source>
       <translation>错误：请用地址作参数1并用以下参数作参数2：Execute，ExecuteRead，ExecuteReadWrite，ExecureWriteCopy，NoAccess，ReadOnly，ReadWrite，WriteCopy。你可以在前面加G来添加PAGE GUARD，例如：GReadOnly
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="177"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="183"/>
       <source>Error: Set rights of %p with Rights: %s
 </source>
       <translation>发生错误：试图将页面 %p 的访问权限设为：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="191"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="197"/>
       <source>New rights of %p: %s
 </source>
       <translation>页面 %p 已设置新的权限: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="218"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
       <source>Failed to write file...</source>
       <translation>写入文件失败……</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="222"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="228"/>
       <source>%p[%llX] written to "%s" !
 </source>
       <translation>%p[%llX] 已写入 "%s"！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="224"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="230"/>
       <source>%p[%X] written to "%s" !
 </source>
       <translation>%p[%X] 已写入 "%s"！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="246"/>
       <source>Cannot dump while running...</source>
       <translation>程序正在运行时无法保存内存……</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="298"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="304"/>
       <source>Dump saved!</source>
       <translation>内存已保存！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="303"/>
+      <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="309"/>
       <source>MiniDumpWriteDump failed. GetLastError() = %s.
 </source>
       <translation>MiniDumpWriteDump 失败。GetLastError() = %s。
