@@ -9753,52 +9753,52 @@ Invalid database file (JSON)!</source>
       <translation>අතුරුදහන් මෙහෙයුම</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="172"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="206"/>
       <source>Failed to convert operand</source>
       <translation>මෙහෙයුම් පරිවර්තනය කිරීමට අසමත් විය</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="179"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="222"/>
       <source>Operand value too big</source>
       <translation>මෙහෙයුම් අගය ඉතා විශාලයි</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="192"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="215"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="237"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="260"/>
       <source>Invalid operand (FromHex failed)</source>
       <translation>වලංගු නොවන මෙහෙයුම් (ෆ්රොම්හෙක්ස් අසමත් විය)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="243"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="266"/>
       <source>Invalid size (expected %llu, got %llu)</source>
       <translation>වලංගු නොවන ප්රමාණය (අපේක්ෂිත %llu, %lluවී)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="200"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="223"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="245"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="268"/>
       <source>Invalid size (expected %u, got %u)</source>
       <translation>වලංගු නොවන ප්රමාණය (අපේක්ෂිත %u, %uවී)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="248"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="293"/>
       <source>80bit extended float is not supported</source>
       <translation>80bit දීර්ඝ පාවෙන සහය නොදක්වයි</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="256"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="279"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="301"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="324"/>
       <source>Invalid string literal</source>
       <translation>වලංගු නොවන string වචනාර්ථයෙන්</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="261"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="286"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="331"/>
       <source>String too long</source>
       <translation>සංගීත ඉතා දිගු</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="351"/>
       <source>Dest buffer too small</source>
       <translation>ඉතා කුඩා බෆරය</translation>
     </message>

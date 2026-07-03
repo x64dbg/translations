@@ -9714,52 +9714,52 @@ El archivo de base de datos no es válido (JSON)</translation>
       <translation>Falta un operando</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="172"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="206"/>
       <source>Failed to convert operand</source>
       <translation>Falló en convertir el operando</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="179"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="222"/>
       <source>Operand value too big</source>
       <translation>El valor del operando es demasiado grande</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="192"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="215"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="237"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="260"/>
       <source>Invalid operand (FromHex failed)</source>
       <translation>Operando no válido (FromHex ha fallado)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="243"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="266"/>
       <source>Invalid size (expected %llu, got %llu)</source>
       <translation>Tamaño no válido (esperado: %llu, encontrado: %llu)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="200"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="223"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="245"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="268"/>
       <source>Invalid size (expected %u, got %u)</source>
       <translation>Tamaño no válido (esperado: %u, encontrado: %u)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="248"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="293"/>
       <source>80bit extended float is not supported</source>
       <translation>El tipo float extendido de 80bits no está soportado</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="256"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="279"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="301"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="324"/>
       <source>Invalid string literal</source>
       <translation>Literal de cadena no válido</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="261"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="286"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="331"/>
       <source>String too long</source>
       <translation>Cadena/Palabra/String demasiado larga</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="351"/>
       <source>Dest buffer too small</source>
       <translation>Buffer de destino demasiado pequeño</translation>
     </message>

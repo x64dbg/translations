@@ -9738,52 +9738,52 @@ Invalid database file (JSON)!</source>
       <translation>Пропущенный операнд</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="172"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="206"/>
       <source>Failed to convert operand</source>
       <translation>Не удалось преобразовать операнд</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="179"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="222"/>
       <source>Operand value too big</source>
       <translation>Значение операнда слишком большое</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="192"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="215"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="237"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="260"/>
       <source>Invalid operand (FromHex failed)</source>
       <translation>Недопустимый операнд (ошибка FromHex)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="243"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="266"/>
       <source>Invalid size (expected %llu, got %llu)</source>
       <translation>Недопустимый размер (ожидается %llu, получено %llu)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="200"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="223"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="245"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="268"/>
       <source>Invalid size (expected %u, got %u)</source>
       <translation>Недопустимый размер (ожидается %u, получено %u)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="248"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="293"/>
       <source>80bit extended float is not supported</source>
       <translation>80-битное число с плавающей точкой не поддерживается</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="256"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="279"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="301"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="324"/>
       <source>Invalid string literal</source>
       <translation>Неверный строковый литерал</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="261"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="286"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="331"/>
       <source>String too long</source>
       <translation>Слишком длинная строка</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="351"/>
       <source>Dest buffer too small</source>
       <translation>Буфер назначения слишком маленький</translation>
     </message>

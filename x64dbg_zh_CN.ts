@@ -9754,52 +9754,52 @@ JSON数据库文件无效！</translation>
       <translation>缺少操作数</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="172"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="206"/>
       <source>Failed to convert operand</source>
       <translation>转换操作数失败</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="179"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="222"/>
       <source>Operand value too big</source>
       <translation>操作数的值太大</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="192"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="215"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="237"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="260"/>
       <source>Invalid operand (FromHex failed)</source>
       <translation>无效操作数 (FromHex 失败)</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="198"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="221"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="243"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="266"/>
       <source>Invalid size (expected %llu, got %llu)</source>
       <translation>无效的大小（期望 %llu，实际 %llu）</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="200"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="223"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="245"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="268"/>
       <source>Invalid size (expected %u, got %u)</source>
       <translation>无效的大小（期望 %u，实际 %u）</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="248"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="293"/>
       <source>80bit extended float is not supported</source>
       <translation>不支持80位扩展型浮点数</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="256"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="279"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="301"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="324"/>
       <source>Invalid string literal</source>
       <translation>无效的字符串</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="261"/>
-      <location filename="src/dbg/datainst_helper.cpp" line="286"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="331"/>
       <source>String too long</source>
       <translation>字符串太长</translation>
     </message>
     <message>
-      <location filename="src/dbg/datainst_helper.cpp" line="306"/>
+      <location filename="src/dbg/datainst_helper.cpp" line="351"/>
       <source>Dest buffer too small</source>
       <translation>目标缓冲区太小</translation>
     </message>
