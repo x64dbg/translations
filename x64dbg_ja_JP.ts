@@ -19781,7 +19781,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="157"/>
       <source>All xrefs</source>
-      <translation>すべてのクロスリファレンス</translation>
+      <translation>すべての xrefs</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/XrefBrowseDialog.cpp" line="158"/>
