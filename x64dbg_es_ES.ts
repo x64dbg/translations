@@ -147,7 +147,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="429"/>
       <source>Transparent</source>
-      <translation type="unfinished"/>
+      <translation>透明度</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="437"/>
