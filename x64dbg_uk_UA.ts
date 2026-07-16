@@ -1682,102 +1682,102 @@
     <name>CPUArgumentWidget</name>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="14"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="247"/>
       <source>Arguments</source>
       <translation>Аргументи</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="294"/>
       <source>Unlocked</source>
       <translation>Розблоковано</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="294"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="295"/>
       <source>Refresh is automatic.</source>
       <translation>Оновлення відбувається автоматично.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="114"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="115"/>
       <source>Follow %1 in %2</source>
       <translation>Перейти до %1 у %2</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="144"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="145"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="151"/>
       <source>Disassembler</source>
       <translation>Дизасемблер</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="145"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="151"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="146"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="152"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="147"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="153"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="148"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="154"/>
       <source>Stack</source>
       <translation>Стек</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="157"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="158"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="165"/>
       <source>Copy Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="210"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="211"/>
       <source>Default (x64 fastcall)</source>
       <translation>За замовчуванням (x64 fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="217"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="218"/>
       <source>Default (stdcall)</source>
       <translation>За замовчуванням (stdcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="221"/>
       <source>Default (stdcall, EBP stack)</source>
       <translation>За замовчуванням (stdcall, EBP стек)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="223"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="224"/>
       <source>thiscall</source>
       <translation>thiscall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="227"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="228"/>
       <source>fastcall</source>
       <translation>fastcall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="232"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="233"/>
       <source>Delphi (Borland fastcall)</source>
       <translation>Delphi (Borland fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="279"/>
       <source>Locked</source>
       <translation>Заблоковано</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="279"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="280"/>
       <source>Refresh is disabled.</source>
       <translation>Оновлення вимкнено</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Calls</source>
       <translation>Виклики</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="288"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>Оновлення виконується лише при виконанні інструкції CALL.</translation>
     </message>
@@ -3919,7 +3919,7 @@
       <translation>Система</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CallStackView.cpp" line="403"/>
+      <location filename="src/gui/Src/Gui/CallStackView.cpp" line="409"/>
       <source>Thread name - %1</source>
       <translation>Назва потоку - %1</translation>
     </message>
@@ -6619,7 +6619,7 @@
     <message>
       <location filename="src/dbg/breakpoint.cpp" line="581"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="431"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="463"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
       <translation>Помилка встановлення точки зупину за адресою %p! (SetBPX)
@@ -6789,7 +6789,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="213"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="113"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="114"/>
       <source>File does not exist!</source>
       <translation>Файл не існує!</translation>
     </message>
@@ -7237,7 +7237,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="454"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="542"/>
-      <location filename="src/dbg/debugger.cpp" line="1232"/>
+      <location filename="src/dbg/debugger.cpp" line="1297"/>
       <source>You can only set 4 hardware breakpoints</source>
       <translation>Можна встановити лише 4 апаратні точки зупину</translation>
     </message>
@@ -7283,7 +7283,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="510"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="529"/>
-      <location filename="src/dbg/debugger.cpp" line="821"/>
+      <location filename="src/dbg/debugger.cpp" line="886"/>
       <source>Delete hardware breakpoint failed: %p (DeleteHardwareBreakPoint)
 </source>
       <translation>Не вдалося видалити апаратну точку зупину: %p (DeleteHardwareBreakPoint)</translation>
@@ -7849,114 +7849,114 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="39"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="40"/>
       <source>Skipped INT3!</source>
       <translation>Пропущено INT3!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="91"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="92"/>
       <source>Resolved shortcut "%s" -&gt; "%s"
 </source>
       <translation>Вирішено ярлик"%s"-&gt;"%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="98"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="99"/>
       <source>Resolved arguments from shortcut "%s"
 </source>
       <translation>Вирішені аргументи з ярлика "%s"</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="106"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="107"/>
       <source>Resolved working directory from shortcut "%s"
 </source>
       <translation>Вирішена робоча директорія з ярлика "%s"</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="121"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="122"/>
       <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="253"/>
       <source>Could not open file!</source>
       <translation>Не вдалося відкрити файл!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="125"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="126"/>
       <source>Debugging: %s
 </source>
       <translation>Відлагодження: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="140"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="141"/>
       <source>Invalid PE file!</source>
       <translation>Хибний PE файл!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="146"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="147"/>
       <source>Use x32dbg to debug this file!</source>
       <translation>Використовуйте x32dbg для відлагодження цього файлу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="150"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="151"/>
       <source>Use x64dbg to debug this file!</source>
       <translation>Використовуйте x64dbg для відлагодження цього файлу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="222"/>
       <source>Finalizing the debugger thread took more than 10 seconds. This can happen if you are loading large symbol files or saving a large database.</source>
       <translation>Завершення потоку відлагоджувача займає більше 10 секунд. Це може статися, якщо ви завантажуєте великі файли символів або зберігаєте велику базу даних.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="225"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="226"/>
       <source>The debuggee did not stop after 10 seconds of requesting termination. The debugger state may be corrupted. It is recommended to restart x64dbg.</source>
       <translation>Відлагоджуваний не зупинився через 10 секунд після запиту на завершення роботи. Можливо, стан відлагоджувач пошкоджено. Рекомендується перезапустити x64dbg.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="278"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
       <source>Could not open process %X!
 </source>
       <translation>Не вдалося відкрити процес %X!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="285"/>
-      <location filename="src/dbg/debugger.cpp" line="3019"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
+      <location filename="src/dbg/debugger.cpp" line="3245"/>
       <source>Process is already being debugged!</source>
       <translation>Процес вже відлагоджений!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="292"/>
-      <location filename="src/dbg/debugger.cpp" line="2938"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="293"/>
+      <location filename="src/dbg/debugger.cpp" line="3163"/>
       <source>IsWow64Process failed!</source>
       <translation>Не вдалося виконати IsWow64Process!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="298"/>
-      <location filename="src/dbg/debugger.cpp" line="2945"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="299"/>
+      <location filename="src/dbg/debugger.cpp" line="3170"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Використовуйте x32dbg для відлагодження цього процесу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="300"/>
-      <location filename="src/dbg/debugger.cpp" line="2947"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="301"/>
+      <location filename="src/dbg/debugger.cpp" line="3172"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Використовуйте x64dbg для відлагодження цього процесу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="307"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="308"/>
       <source>Could not get module filename %X!
 </source>
       <translation>Не вдалося отримати ім'я файлу модуля %X!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="357"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="359"/>
       <source>DetachDebuggerEx failed...</source>
       <translation>Не вдалося виконати DetachDebuggerEx...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="359"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="361"/>
       <source>Detached!</source>
       <translation>Від’єднано!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="411"/>
       <location filename="src/dbg/value.cpp" line="1770"/>
       <location filename="src/dbg/value.cpp" line="2557"/>
       <location filename="src/dbg/value.cpp" line="2600"/>
@@ -7964,29 +7964,29 @@
       <translation>Не відлагоджується!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="414"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="416"/>
       <source>Program is not running</source>
       <translation>Програма не запущена</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="424"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="456"/>
       <source>The active thread is suspended, switch to a running thread to pause the process</source>
       <translation>Поточний потік призупинено, перейдіть до запущеного потоку, щоб призупинити процес</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="434"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="445"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="107"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="466"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="477"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="120"/>
       <source>Error resuming thread</source>
       <translation>Не вдалося відновити потік</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="456"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="488"/>
       <source>Exception will be swallowed</source>
       <translation>Виняток буде приглушено</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="461"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="493"/>
       <source>Exception will be thrown in the program</source>
       <translation>Виняток буде кинуто в програму</translation>
     </message>
@@ -8117,12 +8117,12 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="23"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="57"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="79"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="101"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="127"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="206"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="230"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="59"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="92"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="114"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="140"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="219"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="243"/>
       <source>Invalid thread %s
 </source>
       <translation>Некоректний потік %s</translation>
@@ -8132,7 +8132,7 @@
       <location filename="src/dbg/commands/cmd-gui.cpp" line="65"/>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="92"/>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="114"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="361"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="367"/>
       <location filename="src/dbg/commands/cmd-undocumented.cpp" line="210"/>
       <source>Invalid address "%s"!
 </source>
@@ -8145,37 +8145,37 @@
       <translation>Недійсна адреса стеку!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="148"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="157"/>
       <source>Invalid address %p!
 </source>
       <translation>Недійсна адреса %p!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="170"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="176"/>
       <source>No graph generated...</source>
       <translation>Немає згенерованого графа...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="209"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="215"/>
       <source>Stack is now frozen
 </source>
       <translation>Стек тепер заморожено
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="211"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="217"/>
       <source>Stack is now unfrozen
 </source>
       <translation>Стек тепер розморожено
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="219"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="225"/>
       <source>Script</source>
       <translation>Скрипт</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="227"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="399"/>
@@ -8191,28 +8191,28 @@
       <translation>Адреса</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="222"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="228"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
       <source>Data</source>
       <translation>Дані</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="326"/>
       <source>Invalid argument 1 : %s
 </source>
       <translation>Неприпустимий аргумент 1: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="331"/>
       <source>Invalid argument 2 : %s
 </source>
       <translation>Неприпустимий аргумент 2: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="368"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="374"/>
       <source>Address "%s" doesn't belong to any module!
 </source>
       <translation>Адреса "%s" не належить жодному модулю!
@@ -8912,81 +8912,81 @@
       <translation>Створено потік %s за адресою %s %p(Аргумент=%X)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="66"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="72"/>
       <source>Thread switched!</source>
       <translation>Потік змінено!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="85"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="98"/>
       <source>Error suspending thread</source>
       <translation>Помилка призупинення потоку</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="88"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="101"/>
       <source>Thread suspended</source>
       <translation>Потік призупинено</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="110"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="123"/>
       <source>Thread resumed!</source>
       <translation>Потік відновлено!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="134"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="147"/>
       <source>Thread terminated</source>
       <translation>Потік завершено</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="137"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="150"/>
       <source>Error terminating thread!</source>
       <translation>Помилка завершення потоку!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="143"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="156"/>
       <source>%d/%d thread(s) suspended
 </source>
       <translation>%dз%d пот(ік/оків) призупинено
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="151"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="164"/>
       <source>%d/%d thread(s) resumed
 </source>
       <translation>%dз%d пот(ік/оків) відновлено
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="183"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="200"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="213"/>
       <source>Unknown priority value, read the help!</source>
       <translation>Невідоме значення пріоритету, прочитайте довідку!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="212"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="225"/>
       <source>Error setting thread priority</source>
       <translation>Не вдалося встановити пріоритет потоку.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="215"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="228"/>
       <source>Thread priority changed!</source>
       <translation>Пріоритет потоку змінено!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="236"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="249"/>
       <source>Failed to change the name for thread %s
 </source>
       <translation>Не вдалося змінити ім'я потоку %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="253"/>
       <source>Thread name set to "%s"!
 </source>
       <translation>Ім'я потоку змінено на "%s"!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="242"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="255"/>
       <source>Thread name changed from "%s" to "%s"!
 </source>
       <translation>Ім'я потоку змінено з "%s" на "%s"!</translation>
@@ -9750,486 +9750,497 @@ Invalid database file (JSON)!</source>
       <translation>Буфер призначення занадто малий</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="289"/>
+      <location filename="src/dbg/debugger.cpp" line="297"/>
       <source>Thread switched from %X to %X !
 </source>
       <translation>Потік змінено з %X на %X !
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="507"/>
+      <location filename="src/dbg/debugger.cpp" line="403"/>
+      <source>Failed to create a break-in thread (DebugBreakProcess)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/debugger.cpp" line="406"/>
+      <source>Created a break-in thread to pause the debuggee</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/debugger.cpp" line="572"/>
       <source>Module: %s - </source>
       <translation>Модуль: %s - </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="520"/>
+      <location filename="src/dbg/debugger.cpp" line="585"/>
       <source> (switched from %s)</source>
       <translation> (перемкнулись з %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="530"/>
+      <location filename="src/dbg/debugger.cpp" line="595"/>
       <source>%s - PID: %s - %sThread: %s%s%s</source>
       <translation>%s - PID: %s - %sПотік: %s%s%s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="649"/>
+      <location filename="src/dbg/debugger.cpp" line="714"/>
       <source>%s breakpoint "%s" at %s!
 </source>
       <translation>%s точки зупинки "%s" на %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="651"/>
+      <location filename="src/dbg/debugger.cpp" line="716"/>
       <source>%s breakpoint at %s!
 </source>
       <translation>%s точки зупинки на %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="678"/>
+      <location filename="src/dbg/debugger.cpp" line="743"/>
       <source>execute</source>
       <translation>виконати</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="682"/>
+      <location filename="src/dbg/debugger.cpp" line="747"/>
       <source>read/write</source>
       <translation>читання/запис</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="685"/>
+      <location filename="src/dbg/debugger.cpp" line="750"/>
       <source>write</source>
       <translation>запис</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="692"/>
+      <location filename="src/dbg/debugger.cpp" line="757"/>
       <source>Hardware breakpoint (%s%s) "%s" at %s!
 </source>
       <translation>Апаратна точка зупинки (%s%s) "%s" на %s!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="694"/>
+      <location filename="src/dbg/debugger.cpp" line="759"/>
       <source>Hardware breakpoint (%s%s) at %s!
 </source>
       <translation>Апаратна точка зупинки (%s%s) на %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="704"/>
+      <location filename="src/dbg/debugger.cpp" line="769"/>
       <source> (read)</source>
       <translation> (читання)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="707"/>
+      <location filename="src/dbg/debugger.cpp" line="772"/>
       <source> (write)</source>
       <translation> (запис)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="710"/>
+      <location filename="src/dbg/debugger.cpp" line="775"/>
       <source> (execute)</source>
       <translation> (виконання)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="713"/>
+      <location filename="src/dbg/debugger.cpp" line="778"/>
       <source> (read/write/execute)</source>
       <translation> (читання/запис/виконання)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="721"/>
+      <location filename="src/dbg/debugger.cpp" line="786"/>
       <source>Memory breakpoint%s "%s" at %s, exception address: %s!
 </source>
       <translation>Точки зупинки пам'яті%s "%s" на %s, адреса винятку: %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="730"/>
+      <location filename="src/dbg/debugger.cpp" line="795"/>
       <source>Memory breakpoint%s at %s, exception address: %s!
 </source>
       <translation>Точки зупинки пам'яті%s на %s, адреса винятку: %s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="745"/>
+      <location filename="src/dbg/debugger.cpp" line="810"/>
       <source>DLL Load</source>
       <translation>Завантаження DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="748"/>
+      <location filename="src/dbg/debugger.cpp" line="813"/>
       <source>DLL Unload</source>
       <translation>Вивантажені DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="751"/>
+      <location filename="src/dbg/debugger.cpp" line="816"/>
       <source>DLL Load and unload</source>
       <translation>Завантаження й вивантаження DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="757"/>
+      <location filename="src/dbg/debugger.cpp" line="822"/>
       <source>DLL Breakpoint %s (%s): Module %s
 </source>
       <translation>Точка зупину DLL %s (%s): Модуль %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="759"/>
+      <location filename="src/dbg/debugger.cpp" line="824"/>
       <source>DLL Breakpoint (%s): Module %s
 </source>
       <translation>Точка зупину DLL (%s): Модуль %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="766"/>
-      <location filename="src/dbg/debugger.cpp" line="768"/>
+      <location filename="src/dbg/debugger.cpp" line="831"/>
+      <location filename="src/dbg/debugger.cpp" line="833"/>
       <source>Exception Breakpoint %s (%p) at %p!
 </source>
       <translation>Точка зупину на виключення %s (%p) в %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="795"/>
+      <location filename="src/dbg/debugger.cpp" line="860"/>
+      <location filename="src/dbg/debugger.cpp" line="2241"/>
       <source>paused!</source>
       <translation>призупинено!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="897"/>
+      <location filename="src/dbg/debugger.cpp" line="962"/>
       <source>Breakpoint reached not in list!</source>
       <translation>Досягнуто точки зупину не в списку!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="931"/>
-      <location filename="src/dbg/debugger.cpp" line="1398"/>
+      <location filename="src/dbg/debugger.cpp" line="996"/>
+      <location filename="src/dbg/debugger.cpp" line="1463"/>
       <source>Error when evaluating break condition.</source>
       <translation>Помилка під час обчислення умови переривання.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="945"/>
-      <location filename="src/dbg/debugger.cpp" line="1413"/>
+      <location filename="src/dbg/debugger.cpp" line="1010"/>
+      <location filename="src/dbg/debugger.cpp" line="1478"/>
       <source>Error when evaluating log condition.</source>
       <translation>Помилка при розрахунку стану журналу.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="958"/>
-      <location filename="src/dbg/debugger.cpp" line="1419"/>
+      <location filename="src/dbg/debugger.cpp" line="1023"/>
+      <location filename="src/dbg/debugger.cpp" line="1484"/>
       <source>Error when evaluating command condition.</source>
       <translation>Помилка під час обчислення умови "command".</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1077"/>
+      <location filename="src/dbg/debugger.cpp" line="1142"/>
       <source>Failed to open breakpoint log: %s (%s)
 </source>
       <translation>Не вдалося відкрити журнал точки зупинки: %s (%s)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1106"/>
+      <location filename="src/dbg/debugger.cpp" line="1171"/>
       <source>User code reached at %s</source>
       <translation>Код користувача досягнуто у %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1203"/>
+      <location filename="src/dbg/debugger.cpp" line="1268"/>
       <source>Breakpoint %p has been disabled because the bytes don't match! Expected: %02X %02X, Found: %02X %02X
 </source>
       <translation>Точка зупину %p була вимкнена, оскільки байти не співпадають! Очікується: %02X %02X, отримано: %02X %02X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1210"/>
+      <location filename="src/dbg/debugger.cpp" line="1275"/>
       <source>Could not set breakpoint %p! (SetBPX)
 </source>
       <translation>Не вдалося встановити точку зупину %p! (SetBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1213"/>
+      <location filename="src/dbg/debugger.cpp" line="1278"/>
       <source>MemRead failed on breakpoint address %p!
 </source>
       <translation>Помилка MemRead на точці зупинки по адресі %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1223"/>
+      <location filename="src/dbg/debugger.cpp" line="1288"/>
       <source>Could not set memory breakpoint %p! (SetMemoryBPXEx)
 </source>
       <translation>Не вдалося встановити точку зупинки пам'яті %p! (SetMemoryBPXEx)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1239"/>
+      <location filename="src/dbg/debugger.cpp" line="1304"/>
       <source>Could not set hardware breakpoint %p! (SetHardwareBreakPoint)
 </source>
       <translation>Не вдалося встановити апаратну точку зупинки %p! (SetHardwareBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1241"/>
+      <location filename="src/dbg/debugger.cpp" line="1306"/>
       <source>Set hardware breakpoint on %p!
 </source>
       <translation>Встановити апаратну точку зупину на %p!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1274"/>
+      <location filename="src/dbg/debugger.cpp" line="1339"/>
       <source>Could not delete breakpoint %p! (DeleteBPX)
 </source>
       <translation>Не вдалося видалити точку зупинки %p! (DeleteBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1278"/>
+      <location filename="src/dbg/debugger.cpp" line="1343"/>
       <source>Could not delete memory breakpoint %p! (RemoveMemoryBPX)
 </source>
       <translation>Не вдалося видалити точку зупинки пам'яті %p! (RemoveMemoryBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1282"/>
+      <location filename="src/dbg/debugger.cpp" line="1347"/>
       <source>Could not delete hardware breakpoint %p! (DeleteHardwareBreakPoint)
 </source>
       <translation>Не вдалося вимкнути апаратну точку зупинки %p! (DeleteHardwareBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1444"/>
+      <location filename="src/dbg/debugger.cpp" line="1509"/>
       <source>Trace finished after %llu steps!
 </source>
       <translation>Трасування завершено після %llu кроків
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1446"/>
+      <location filename="src/dbg/debugger.cpp" line="1511"/>
       <source>Trace finished after %u steps!
 </source>
       <translation>Трасування завершено після %u кроків
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1517"/>
-      <location filename="src/dbg/debugger.cpp" line="1880"/>
+      <location filename="src/dbg/debugger.cpp" line="1582"/>
+      <location filename="src/dbg/debugger.cpp" line="1981"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNameFromHandle не вдалося)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1519"/>
+      <location filename="src/dbg/debugger.cpp" line="1584"/>
       <source>Process Started: %p %s
 </source>
       <translation>Процес запущено: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1568"/>
+      <location filename="src/dbg/debugger.cpp" line="1633"/>
       <source>TLS Callback %d</source>
       <translation>TLS Callback %d</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1576"/>
-      <location filename="src/dbg/debugger.cpp" line="1933"/>
+      <location filename="src/dbg/debugger.cpp" line="1641"/>
+      <location filename="src/dbg/debugger.cpp" line="2034"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d некоректні адреси TLS callback...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1581"/>
-      <location filename="src/dbg/debugger.cpp" line="1905"/>
+      <location filename="src/dbg/debugger.cpp" line="1646"/>
+      <location filename="src/dbg/debugger.cpp" line="2006"/>
       <source>entry breakpoint</source>
       <translation>зупинка в точці входу</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1645"/>
+      <location filename="src/dbg/debugger.cpp" line="1710"/>
       <source>Process stopped with exit code %s
 </source>
       <translation>Процес зупинено з кодом виходу %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1685"/>
+      <location filename="src/dbg/debugger.cpp" line="1754"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation>Потік %s створено, точка входу: %s, параметр: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1694"/>
+      <location filename="src/dbg/debugger.cpp" line="1763"/>
       <source>Thread Entry</source>
       <translation>Точка входу потоку</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1723"/>
+      <location filename="src/dbg/debugger.cpp" line="1792"/>
       <source>Thread %s Stack</source>
       <translation>Стек потоку %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1749"/>
+      <location filename="src/dbg/debugger.cpp" line="1818"/>
       <source>No threads left to switch to (bug?)</source>
       <translation>Не залишилось жодного потоку, на який можна перемкнутись (баг?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1758"/>
+      <location filename="src/dbg/debugger.cpp" line="1833"/>
       <source>Thread %s exit
 </source>
       <translation>Потік %s завершений</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1781"/>
+      <location filename="src/dbg/debugger.cpp" line="1856"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation>Помилка: Не вдалося завантажити глобальний скрипт ініціалізації.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1786"/>
+      <location filename="src/dbg/debugger.cpp" line="1861"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation>Помилка: Неможливо завантажити скрипт ініціалізації відлагодження.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1807"/>
+      <location filename="src/dbg/debugger.cpp" line="1924"/>
       <source>System breakpoint reached!</source>
       <translation>Досягнута системна точка зупину!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1819"/>
+      <location filename="src/dbg/debugger.cpp" line="1935"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation>Було помічено, що записувана точка налагодження знаходиться в заголовку MZ виконуваного файла. Це призведе до дивної поведінки, тому системна точка зупину ввімкнена незалежно від ваших налаштувань. Будьте обережні!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1924"/>
-      <location filename="src/dbg/debugger.cpp" line="1926"/>
+      <location filename="src/dbg/debugger.cpp" line="2025"/>
+      <location filename="src/dbg/debugger.cpp" line="2027"/>
       <source>TLS Callback</source>
       <translation>TLS Callback</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1962"/>
+      <location filename="src/dbg/debugger.cpp" line="2063"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>Очікування завантажених символів ntdll.dll...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1968"/>
+      <location filename="src/dbg/debugger.cpp" line="2069"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>Встановлення LdrpDebugFlags до 0x%08X успішно!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1970"/>
+      <location filename="src/dbg/debugger.cpp" line="2071"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>Не вдалося записати в LdrpDebugFlags
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1974"/>
+      <location filename="src/dbg/debugger.cpp" line="2075"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>Символ 'LdrpDebugFlags' не знайдено!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1979"/>
+      <location filename="src/dbg/debugger.cpp" line="2080"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>Не вдалося знайти LdrpDebugFlags (необхідно завантажити символи для ntdll.dll).</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1984"/>
+      <location filename="src/dbg/debugger.cpp" line="2085"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>Завантажено DLL: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2051"/>
+      <location filename="src/dbg/debugger.cpp" line="2152"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL вивантажено: %p %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2094"/>
+      <location filename="src/dbg/debugger.cpp" line="2195"/>
       <source>DebugString: "%s"
 </source>
       <translation>Рядок відлагодження: "%s"</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2157"/>
+      <location filename="src/dbg/debugger.cpp" line="2285"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>Виняток SetThreadName на %p (%X, "%s")
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2178"/>
+      <location filename="src/dbg/debugger.cpp" line="2306"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>Перша спроба виключення на %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2180"/>
+      <location filename="src/dbg/debugger.cpp" line="2308"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>Перша спроба виключення на %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2191"/>
+      <location filename="src/dbg/debugger.cpp" line="2319"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>Остання спроба виключення на %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2193"/>
+      <location filename="src/dbg/debugger.cpp" line="2321"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>Остання спроба виключення на %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2256"/>
+      <location filename="src/dbg/debugger.cpp" line="2472"/>
       <source>Attached to process!</source>
       <translation>Приєднатися до процесу!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2821"/>
+      <location filename="src/dbg/debugger.cpp" line="3040"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>Помилка налагодження DLL (не вдалося скопіювати лоадер)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2870"/>
+      <location filename="src/dbg/debugger.cpp" line="3095"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>Помилка налагодження DLL (loaddll.exe не знайдено)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2904"/>
+      <location filename="src/dbg/debugger.cpp" line="3129"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>Виконуваному файлу, який ви намагаєтеся відлагоджувати, потрібно підвищення прав. Перезапустити від імені адміністратора?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2905"/>
+      <location filename="src/dbg/debugger.cpp" line="3130"/>
       <source>Elevation</source>
       <translation>Підвищення</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2929"/>
+      <location filename="src/dbg/debugger.cpp" line="3154"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>Не вдалося запустити процес (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3021"/>
+      <location filename="src/dbg/debugger.cpp" line="3247"/>
       <source>Attach to process failed: %s
 </source>
       <translation>Приєднання до процесу не вдалося: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3059"/>
+      <location filename="src/dbg/debugger.cpp" line="3290"/>
       <source>Debugging stopped!</source>
       <translation>Відлагодження призупинено!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3111"/>
+      <location filename="src/dbg/debugger.cpp" line="3342"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10242,6 +10253,11 @@ Do you want to continue debugging?</source>
 %s
 
 Хочете продовжити?</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/debugger.cpp" line="3368"/>
+      <source>Failed to create the debug loop thread</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/exception.cpp" line="30"/>
@@ -13111,72 +13127,78 @@ Do you want to continue rendering this graph?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="391"/>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="405"/>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="427"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="362"/>
+      <source>warning: pending GUI log buffer reached %1 bytes, dropping buffered messages.
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="413"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="435"/>
       <source>Log redirection is stopped.
 </source>
       <translation>Перенаправлення журналу зупинено.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="403"/>
       <source>Log is not redirected.
 </source>
       <translation>Журнал не перенаправлено.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="409"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="417"/>
       <source>_wfopen() failed. Log will not be redirected to %1.
 </source>
       <translation>помилка _wfopen(). Журнал не буде перенаправлений у %1.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="417"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="425"/>
       <source>Log will be redirected to %1.
 </source>
       <translation>Журнал буде перенаправлено у %1.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="439"/>
       <source>Redirect log to file</source>
       <translation>Перенаправити журнал до файлу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="439"/>
       <source>Enter the file to which you want to redirect log messages.</source>
       <translation>Введіть назву файлу, до якого ви хочете перенаправити повідомлення журналу.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="439"/>
       <source>Log files (*.txt);;All files (*.*)</source>
       <translation>Файли журналу (*.txt);;Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="444"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="452"/>
       <source>Logging will be enabled.
 </source>
       <translation>Журналювання буде увімкнено.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="456"/>
       <source>Logging will be disabled.
 </source>
       <translation>Журналювання буде вимкнуто.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="469"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="477"/>
       <source>Error, log have not been saved.
 </source>
       <translation>Помилка, журнал не був збережений.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="475"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="483"/>
       <source>Log have been saved as %1
 </source>
       <translation>Журнал було збережено як %1
@@ -13597,8 +13619,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="637"/>
-      <source>Opem the Preferences dialog.</source>
-      <translation>Відкрити діалогове вікно налаштувань.</translation>
+      <source>Open the Preferences dialog.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="646"/>
@@ -18179,14 +18201,14 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <name>TraceBrowser</name>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="18"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="882"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
       <source>Index</source>
       <translation>Індекс</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="19"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
       <source>Address</source>
       <translation>Адреса</translation>
     </message>
@@ -18197,7 +18219,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="21"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="859"/>
       <source>Disassembly</source>
       <translation>Дизасембльований код</translation>
     </message>
@@ -18217,293 +18239,293 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>Коментарі</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="86"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="88"/>
       <source>Start trace recording</source>
       <translation>Розпочати запис трасування</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="87"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="89"/>
       <source>Trace recording file</source>
       <translation>Файл трасування</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="88"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="90"/>
       <source>Trace recordings (*%1);;All files (*.*)</source>
       <translation>Записи трасування (*%1);Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
       <source>Error</source>
       <translation>Помилка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
       <source>File name contains invalid character.</source>
       <translation>Ім'я файлу містить неприпустимі символи.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="291"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="293"/>
       <source>An error occurred when reading trace file (reason: %1).
 </source>
       <translation>Сталася помилка під час читання файлу трасування (причина: %1).
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="849"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="851"/>
       <source>&amp;Selection</source>
       <translation>&amp;Виділення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="850"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
       <source>Selection to &amp;File</source>
       <translation>Виділення до &amp;файлу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="851"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
       <source>Selection (&amp;No Bytes)</source>
       <translation>Виділення (&amp;без байтів)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
       <source>Selection to File (No Bytes)</source>
       <translation>Виділення до файлу (без байтів)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
       <source>&amp;Export Table</source>
       <translation>&amp;Експортувати таблицю</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
       <source>&amp;RVA</source>
       <translation>&amp;RVA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
       <source>&amp;File Offset</source>
       <translation>&amp;Зміщення файлу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="862"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="862"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="864"/>
       <source>&amp;Follow in Dump</source>
       <translation>&amp;Перейти до дампу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="869"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="871"/>
       <source>&amp;Highlighting mode</source>
       <translation>&amp;Режим виділення</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="870"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="872"/>
       <source>Help on mnemonic</source>
       <translation>Довідка по мнемоніці</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="871"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="877"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="873"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="879"/>
       <source>Show mnemonic brief</source>
       <translation>Показати короткий опис мнемоніки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="875"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="877"/>
       <source>Hide mnemonic brief</source>
       <translation>Сховати короткий опис мнемоніки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="881"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="883"/>
       <source>Expression</source>
       <translation>Вираз</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="883"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="885"/>
       <source>Function return</source>
       <translation>Повернення функції</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="886"/>
       <source>Previous</source>
       <translation>Попередній крок</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="888"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="890"/>
       <source>Next</source>
       <translation>Наступний крок</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="892"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="894"/>
       <source>Go to</source>
       <translation>Перейти до</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="894"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="896"/>
       <source>xrefs...</source>
       <translation>перехресні посилання...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="897"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
       <source>Address/Constant</source>
       <translation>Адреса/Константа</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="898"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
       <source>Memory Reference</source>
       <translation>Посилання на пам’ять</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
       <source>&amp;Intermodular Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="902"/>
       <source>&amp;All Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="903"/>
       <source>&amp;Search</source>
       <translation>&amp;Шукати</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="931"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="933"/>
       <source>Information</source>
       <translation>Інформація</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="933"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="935"/>
       <source>Sync with CPU</source>
       <translation>Синхронізація з CPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="939"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="951"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="941"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="953"/>
       <source>Start recording</source>
       <translation>Розпочати запис</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="946"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="948"/>
       <source>Stop recording</source>
       <translation>Зупинити запис</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="956"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
       <source>Close recording</source>
       <translation>Закрити запис</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="957"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
       <source>Close the trace file tab, and stop recording trace.</source>
       <translation>Закрити вкладку "Відстежування за файлами" і зупинити відстеження запису.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
       <source>Delete recording</source>
       <translation>Видалити запис</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
       <source>Delete the trace file from disk, and stop recording trace.</source>
       <translation>Видалити файл трасування з диска і зупинити запис трасування.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="962"/>
       <source>Browse in Explorer</source>
       <translation>Переглянути в провіднику</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="963"/>
       <source>Open the trace file in Explorer.</source>
       <translation>Відкрити файл трасування у Провіднику.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1336"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
       <source>Open trace recording</source>
       <translation>Відкрити запис трасування</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1337"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1339"/>
       <source>Trace recording</source>
       <translation>Запис трасування</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1340"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation>Записи трасування (*.%1);Всі файли (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation>Ви дійсно бажаєте видалити цей запис?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1441"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1443"/>
       <source>Address not found in trace</source>
       <translation>Адресу в трейсі не знайдено</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1453"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1455"/>
       <source>The address %1 is not found in trace.</source>
       <translation>Адресу %1 не знайдено в трейсі.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation>Бажаєте замість цього слідувати в процесорі?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
       <source>Open File</source>
       <translation>Відкрити файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
       <source>Text Files (*.txt)</source>
       <translation>Текстові файли (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
       <source>Could not open file</source>
       <translation>Не вдалося відкрити файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
       <source>Error!</source>
       <translation>Помилка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
       <source>Selection not in a module...</source>
       <translation>Виділення не знаходиться в модулі...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
       <source>Selection not in a file...</source>
       <translation>Виділення не знаходиться в файлі...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1933"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1935"/>
       <source>Constant</source>
       <translation>Константа</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1940"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1956"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1966"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1942"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1958"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1968"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation>%1 результат(-ів) в %2ms</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1947"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1949"/>
       <source>References</source>
       <translation>Посилання</translation>
     </message>

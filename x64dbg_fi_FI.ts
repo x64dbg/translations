@@ -1681,102 +1681,102 @@
     <name>CPUArgumentWidget</name>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="14"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="247"/>
       <source>Arguments</source>
       <translation>Argumentit</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="294"/>
       <source>Unlocked</source>
       <translation>Lukitsematon</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="294"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="295"/>
       <source>Refresh is automatic.</source>
       <translation>Päivittyy automaattisesti.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="114"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="115"/>
       <source>Follow %1 in %2</source>
       <translation>Siirry %1 %2</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="144"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="145"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="151"/>
       <source>Disassembler</source>
       <translation>koodissa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="145"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="151"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="146"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="152"/>
       <source>Dump</source>
       <translation>muistivedoksessa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="147"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="153"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="148"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="154"/>
       <source>Stack</source>
       <translation>pinossa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="157"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="158"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopioi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="165"/>
       <source>Copy Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="210"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="211"/>
       <source>Default (x64 fastcall)</source>
       <translation>Oletus (x64 fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="217"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="218"/>
       <source>Default (stdcall)</source>
       <translation>Oletus (stdcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="221"/>
       <source>Default (stdcall, EBP stack)</source>
       <translation>Oletus (stdcall, EBP-pino)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="223"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="224"/>
       <source>thiscall</source>
       <translation>thiscall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="227"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="228"/>
       <source>fastcall</source>
       <translation>fastcall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="232"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="233"/>
       <source>Delphi (Borland fastcall)</source>
       <translation>Delphi (Borland fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="279"/>
       <source>Locked</source>
       <translation>Lukittu</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="279"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="280"/>
       <source>Refresh is disabled.</source>
       <translation>Näkymä ei päivity automaattisesti.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Calls</source>
       <translation>Kutsut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="288"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>Näkymä päivittyy vain CALL-käskyn suorituksen yhteydessä.</translation>
     </message>
@@ -3915,7 +3915,7 @@
       <translation>Järjestelmä</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CallStackView.cpp" line="403"/>
+      <location filename="src/gui/Src/Gui/CallStackView.cpp" line="409"/>
       <source>Thread name - %1</source>
       <translation type="unfinished"/>
     </message>
@@ -6611,7 +6611,7 @@
     <message>
       <location filename="src/dbg/breakpoint.cpp" line="581"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="431"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="463"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
       <translation>Keskeytyskohdan asettaminen kohtaan %p epäonnistui! (SetBPX)
@@ -6781,7 +6781,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="213"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="113"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="114"/>
       <source>File does not exist!</source>
       <translation>Tiedostoa ei ole olemassa!</translation>
     </message>
@@ -7230,7 +7230,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="454"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="542"/>
-      <location filename="src/dbg/debugger.cpp" line="1232"/>
+      <location filename="src/dbg/debugger.cpp" line="1297"/>
       <source>You can only set 4 hardware breakpoints</source>
       <translation>Kerralla voi asettaa korkeintaan 4 laitteistokeskeytyskohtaa</translation>
     </message>
@@ -7276,7 +7276,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="510"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="529"/>
-      <location filename="src/dbg/debugger.cpp" line="821"/>
+      <location filename="src/dbg/debugger.cpp" line="886"/>
       <source>Delete hardware breakpoint failed: %p (DeleteHardwareBreakPoint)
 </source>
       <translation>Laitteistokeskeytyskohdan %p poistaminen epäonnistui (DeleteHardwareBreakPoint)
@@ -7852,116 +7852,116 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="39"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="40"/>
       <source>Skipped INT3!</source>
       <translation>INT3 ohitettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="91"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="92"/>
       <source>Resolved shortcut "%s" -&gt; "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="98"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="99"/>
       <source>Resolved arguments from shortcut "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="106"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="107"/>
       <source>Resolved working directory from shortcut "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="121"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="122"/>
       <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="253"/>
       <source>Could not open file!</source>
       <translation>Tiedoston avaaminen epäonnistui!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="125"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="126"/>
       <source>Debugging: %s
 </source>
       <translation>Virheenjäljitys käynnissä: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="140"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="141"/>
       <source>Invalid PE file!</source>
       <translation>Virheellinen PE-tiedosto!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="146"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="147"/>
       <source>Use x32dbg to debug this file!</source>
       <translation>Käytä x32dbg-ohjelmaa tutkiakseksi tätä tiedostoa!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="150"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="151"/>
       <source>Use x64dbg to debug this file!</source>
       <translation>Käytä x64dbg-ohjelmaa tutkiakseksi tätä tiedostoa!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="222"/>
       <source>Finalizing the debugger thread took more than 10 seconds. This can happen if you are loading large symbol files or saving a large database.</source>
       <translation>Virheenjäljittimen säikeen viimeistely kesti yli 10 sekuntia. Näin voi käydä, jos yrität ladata suuria symbolitiedostoja tai tallentaa suurta tietokantaa.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="225"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="226"/>
       <source>The debuggee did not stop after 10 seconds of requesting termination. The debugger state may be corrupted. It is recommended to restart x64dbg.</source>
       <translation>Tutkittava ohjelmisto ei pysähtynyt 10 sekuntia lopettamispyynnön jälkeen. Virheenjäljittimen tila voi olla korruptoitunut. x64dbg-ohjelmiston uudelleenkäynnistäminen on suositeltavaa.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="278"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
       <source>Could not open process %X!
 </source>
       <translation>Prosessin %X avaaminen epäonnistui!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="285"/>
-      <location filename="src/dbg/debugger.cpp" line="3019"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
+      <location filename="src/dbg/debugger.cpp" line="3245"/>
       <source>Process is already being debugged!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="292"/>
-      <location filename="src/dbg/debugger.cpp" line="2938"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="293"/>
+      <location filename="src/dbg/debugger.cpp" line="3163"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process-komento epäonnistui!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="298"/>
-      <location filename="src/dbg/debugger.cpp" line="2945"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="299"/>
+      <location filename="src/dbg/debugger.cpp" line="3170"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>Käytä x32dbg-ohjelmaa tutkiakseksi tätä prosessia!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="300"/>
-      <location filename="src/dbg/debugger.cpp" line="2947"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="301"/>
+      <location filename="src/dbg/debugger.cpp" line="3172"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>Käytä x64dbg-ohjelmaa tutkiakseksi tätä prosessia!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="307"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="308"/>
       <source>Could not get module filename %X!
 </source>
       <translation>Moduulin tiedostonimen %X saaminen epäonnistui!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="357"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="359"/>
       <source>DetachDebuggerEx failed...</source>
       <translation>DetachDebuggerEx-komento epäonnistui...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="359"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="361"/>
       <source>Detached!</source>
       <translation>Virheenjäljitin irrotettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="411"/>
       <location filename="src/dbg/value.cpp" line="1770"/>
       <location filename="src/dbg/value.cpp" line="2557"/>
       <location filename="src/dbg/value.cpp" line="2600"/>
@@ -7969,29 +7969,29 @@
       <translation>Virheenjäljitys ei ole käynnissä!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="414"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="416"/>
       <source>Program is not running</source>
       <translation>Ohjelma ei ole käynnissä</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="424"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="456"/>
       <source>The active thread is suspended, switch to a running thread to pause the process</source>
       <translation>Aktiivinen säie on keskeytetty; vaihda käynnissä olevalle säikeelle keskeyttääkseksi prosessin</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="434"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="445"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="107"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="466"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="477"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="120"/>
       <source>Error resuming thread</source>
       <translation>Virhe säikeen jatkamisessa</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="456"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="488"/>
       <source>Exception will be swallowed</source>
       <translation>Poikkeama unohtuu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="461"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="493"/>
       <source>Exception will be thrown in the program</source>
       <translation>Poikkeama päästetään läpi ohjelmalle</translation>
     </message>
@@ -8125,12 +8125,12 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="23"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="57"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="79"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="101"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="127"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="206"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="230"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="59"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="92"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="114"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="140"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="219"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="243"/>
       <source>Invalid thread %s
 </source>
       <translation>Virheellinen säie %s</translation>
@@ -8140,7 +8140,7 @@
       <location filename="src/dbg/commands/cmd-gui.cpp" line="65"/>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="92"/>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="114"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="361"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="367"/>
       <location filename="src/dbg/commands/cmd-undocumented.cpp" line="210"/>
       <source>Invalid address "%s"!
 </source>
@@ -8153,38 +8153,38 @@
       <translation>Pinon osoite ei kelpaa!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="148"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="157"/>
       <source>Invalid address %p!
 </source>
       <translation>Osoite %p ei kelpaa!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="170"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="176"/>
       <source>No graph generated...</source>
       <translation>Kaaviota ei luotu...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="209"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="215"/>
       <source>Stack is now frozen
 </source>
       <translation>Pino on nyt jäädytetty
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="211"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="217"/>
       <source>Stack is now unfrozen
 </source>
       <translation>Pino on nyt vapautettu
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="219"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="225"/>
       <source>Script</source>
       <translation>Skripti</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="227"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="399"/>
@@ -8200,28 +8200,28 @@
       <translation>Osoite</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="222"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="228"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
       <source>Data</source>
       <translation>Data</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="326"/>
       <source>Invalid argument 1 : %s
 </source>
       <translation>1. argumentti ei kelpaa : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="331"/>
       <source>Invalid argument 2 : %s
 </source>
       <translation>2. argumentti ei kelpaa : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="368"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="374"/>
       <source>Address "%s" doesn't belong to any module!
 </source>
       <translation>Osoite "%s" ei kuulu mihinkään moduuliin!</translation>
@@ -8934,80 +8934,80 @@
       <translation>Säie %s luotiin kohtaan %s %p(Argumentti=%X)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="66"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="72"/>
       <source>Thread switched!</source>
       <translation>Säie vaihtui!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="85"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="98"/>
       <source>Error suspending thread</source>
       <translation>Virhe säikeen keskeyttämisessä</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="88"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="101"/>
       <source>Thread suspended</source>
       <translation>Säie keskeytetty</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="110"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="123"/>
       <source>Thread resumed!</source>
       <translation>Säie jatkui!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="134"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="147"/>
       <source>Thread terminated</source>
       <translation>Säie lopetettu</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="137"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="150"/>
       <source>Error terminating thread!</source>
       <translation>Virhe säikeen pysäyttämisessä!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="143"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="156"/>
       <source>%d/%d thread(s) suspended
 </source>
       <translation>%d/%d säie(ttä) keskeytetty
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="151"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="164"/>
       <source>%d/%d thread(s) resumed
 </source>
       <translation>%d/%d säie(ttä) jatkettu
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="183"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="200"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="213"/>
       <source>Unknown priority value, read the help!</source>
       <translation>Tuntematon prioriteetin arvo, lue ohje!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="212"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="225"/>
       <source>Error setting thread priority</source>
       <translation>Virhe säikeen prioriteetin asettamisessa</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="215"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="228"/>
       <source>Thread priority changed!</source>
       <translation>Säikeen prioriteetti muutettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="236"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="249"/>
       <source>Failed to change the name for thread %s
 </source>
       <translation>Säikeen %s nimen muuttaminen epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="253"/>
       <source>Thread name set to "%s"!
 </source>
       <translation>Säikeen nimeksi muutettiin "%s"!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="242"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="255"/>
       <source>Thread name changed from "%s" to "%s"!
 </source>
       <translation>Säikeen nimi vaihdettiin "%s":sta "%s":ksi!
@@ -9777,474 +9777,485 @@ Tietokantatiedosto ei kelpaa (JSON)!</translation>
       <translation>Kohdepuskuri on liian pieni</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="289"/>
+      <location filename="src/dbg/debugger.cpp" line="297"/>
       <source>Thread switched from %X to %X !
 </source>
       <translation>Säie vaihtui kohteesta %X kohteeseen %X!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="507"/>
+      <location filename="src/dbg/debugger.cpp" line="403"/>
+      <source>Failed to create a break-in thread (DebugBreakProcess)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/debugger.cpp" line="406"/>
+      <source>Created a break-in thread to pause the debuggee</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/debugger.cpp" line="572"/>
       <source>Module: %s - </source>
       <translation>Moduuli: %s - </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="520"/>
+      <location filename="src/dbg/debugger.cpp" line="585"/>
       <source> (switched from %s)</source>
       <translation> (vaihtui kohteesta %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="530"/>
+      <location filename="src/dbg/debugger.cpp" line="595"/>
       <source>%s - PID: %s - %sThread: %s%s%s</source>
       <translation>%s - PID: %s - %s Säie: %s%s%s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="649"/>
+      <location filename="src/dbg/debugger.cpp" line="714"/>
       <source>%s breakpoint "%s" at %s!
 </source>
       <translation>%s keskeytyskohta "%s" kohdassa %s!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="651"/>
+      <location filename="src/dbg/debugger.cpp" line="716"/>
       <source>%s breakpoint at %s!
 </source>
       <translation>%s keskeytyskohta kohdassa %s!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="678"/>
+      <location filename="src/dbg/debugger.cpp" line="743"/>
       <source>execute</source>
       <translation>suoritus</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="682"/>
+      <location filename="src/dbg/debugger.cpp" line="747"/>
       <source>read/write</source>
       <translation>luku/kirjoitus</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="685"/>
+      <location filename="src/dbg/debugger.cpp" line="750"/>
       <source>write</source>
       <translation>kirjoitus</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="692"/>
+      <location filename="src/dbg/debugger.cpp" line="757"/>
       <source>Hardware breakpoint (%s%s) "%s" at %s!
 </source>
       <translation>Laitteistokeskeytyskohta (%s%s) "%s" kohdassa %s!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="694"/>
+      <location filename="src/dbg/debugger.cpp" line="759"/>
       <source>Hardware breakpoint (%s%s) at %s!
 </source>
       <translation>Laitteistokeskeytyskohta (%s%s) kohdassa %s!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="704"/>
+      <location filename="src/dbg/debugger.cpp" line="769"/>
       <source> (read)</source>
       <translation> (luku)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="707"/>
+      <location filename="src/dbg/debugger.cpp" line="772"/>
       <source> (write)</source>
       <translation> (kirjoitus)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="710"/>
+      <location filename="src/dbg/debugger.cpp" line="775"/>
       <source> (execute)</source>
       <translation> (suoritus)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="713"/>
+      <location filename="src/dbg/debugger.cpp" line="778"/>
       <source> (read/write/execute)</source>
       <translation> (luku/kirjoitus/suoritus)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="721"/>
+      <location filename="src/dbg/debugger.cpp" line="786"/>
       <source>Memory breakpoint%s "%s" at %s, exception address: %s!
 </source>
       <translation>Muistikeskeytyskohta %s "%s" kohdassa %s, poikkeaman osoite: %s!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="730"/>
+      <location filename="src/dbg/debugger.cpp" line="795"/>
       <source>Memory breakpoint%s at %s, exception address: %s!
 </source>
       <translation>Muistikeskeytyskohta %s kohdassa %s, poikkeaman osoite: %s!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="745"/>
+      <location filename="src/dbg/debugger.cpp" line="810"/>
       <source>DLL Load</source>
       <translation>DLL-lataus</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="748"/>
+      <location filename="src/dbg/debugger.cpp" line="813"/>
       <source>DLL Unload</source>
       <translation>DLL-latauksen poisto</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="751"/>
+      <location filename="src/dbg/debugger.cpp" line="816"/>
       <source>DLL Load and unload</source>
       <translation>DLL-lataus ja latauksen poisto</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="757"/>
+      <location filename="src/dbg/debugger.cpp" line="822"/>
       <source>DLL Breakpoint %s (%s): Module %s
 </source>
       <translation>DLL-keskeytyskohta %s (%s): Moduuli %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="759"/>
+      <location filename="src/dbg/debugger.cpp" line="824"/>
       <source>DLL Breakpoint (%s): Module %s
 </source>
       <translation>DLL-keskeytyskohta (%s): Moduuli %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="766"/>
-      <location filename="src/dbg/debugger.cpp" line="768"/>
+      <location filename="src/dbg/debugger.cpp" line="831"/>
+      <location filename="src/dbg/debugger.cpp" line="833"/>
       <source>Exception Breakpoint %s (%p) at %p!
 </source>
       <translation>Poikkeuskeskeytyskohta %s (%p) kohdassa %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="795"/>
+      <location filename="src/dbg/debugger.cpp" line="860"/>
+      <location filename="src/dbg/debugger.cpp" line="2241"/>
       <source>paused!</source>
       <translation>keskeytetty!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="897"/>
+      <location filename="src/dbg/debugger.cpp" line="962"/>
       <source>Breakpoint reached not in list!</source>
       <translation>Osuttiin keskeytyskohtaan, jota ei löydy listasta!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="931"/>
-      <location filename="src/dbg/debugger.cpp" line="1398"/>
+      <location filename="src/dbg/debugger.cpp" line="996"/>
+      <location filename="src/dbg/debugger.cpp" line="1463"/>
       <source>Error when evaluating break condition.</source>
       <translation>Virhe evaluoidessa keskeytysehtoa.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="945"/>
-      <location filename="src/dbg/debugger.cpp" line="1413"/>
+      <location filename="src/dbg/debugger.cpp" line="1010"/>
+      <location filename="src/dbg/debugger.cpp" line="1478"/>
       <source>Error when evaluating log condition.</source>
       <translation>Virhe evaluoidessa lokiehtoa.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="958"/>
-      <location filename="src/dbg/debugger.cpp" line="1419"/>
+      <location filename="src/dbg/debugger.cpp" line="1023"/>
+      <location filename="src/dbg/debugger.cpp" line="1484"/>
       <source>Error when evaluating command condition.</source>
       <translation>Virhe evaluoidessa komentoehtoa.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1077"/>
+      <location filename="src/dbg/debugger.cpp" line="1142"/>
       <source>Failed to open breakpoint log: %s (%s)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1106"/>
+      <location filename="src/dbg/debugger.cpp" line="1171"/>
       <source>User code reached at %s</source>
       <translation>Käyttäjäalueen koodi saavutettiin kohdassa %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1203"/>
+      <location filename="src/dbg/debugger.cpp" line="1268"/>
       <source>Breakpoint %p has been disabled because the bytes don't match! Expected: %02X %02X, Found: %02X %02X
 </source>
       <translation>Keskeytyskohta %p on poistettu käytöstä, koska tavut eivät täsmää! Odotettu arvo: %02X %02X, saatu arvo: %02X %02X
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1210"/>
+      <location filename="src/dbg/debugger.cpp" line="1275"/>
       <source>Could not set breakpoint %p! (SetBPX)
 </source>
       <translation>Keskeytyskohdan %p asettaminen epäonnistui! (SetBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1213"/>
+      <location filename="src/dbg/debugger.cpp" line="1278"/>
       <source>MemRead failed on breakpoint address %p!
 </source>
       <translation>MemRead-komento epäonnistui keskeytyskohdan osoitteessa %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1223"/>
+      <location filename="src/dbg/debugger.cpp" line="1288"/>
       <source>Could not set memory breakpoint %p! (SetMemoryBPXEx)
 </source>
       <translation>Muistikeskeytyskohdan %p asettaminen epäonnistui! (SetMemoryBPXEx)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1239"/>
+      <location filename="src/dbg/debugger.cpp" line="1304"/>
       <source>Could not set hardware breakpoint %p! (SetHardwareBreakPoint)
 </source>
       <translation>Laitteistokeskeytyskohdan %p asettaminen epäonnistui! (SetHardwareBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1241"/>
+      <location filename="src/dbg/debugger.cpp" line="1306"/>
       <source>Set hardware breakpoint on %p!
 </source>
       <translation>Laitteistokeskeytyskohta asetettu kohtaan %p!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1274"/>
+      <location filename="src/dbg/debugger.cpp" line="1339"/>
       <source>Could not delete breakpoint %p! (DeleteBPX)
 </source>
       <translation>Keskeytyskohdan %p poistaminen epäonnistui! (DeleteBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1278"/>
+      <location filename="src/dbg/debugger.cpp" line="1343"/>
       <source>Could not delete memory breakpoint %p! (RemoveMemoryBPX)
 </source>
       <translation>Muistikeskeytyskohdan %p poistaminen epäonnistui! (RemoveMemoryBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1282"/>
+      <location filename="src/dbg/debugger.cpp" line="1347"/>
       <source>Could not delete hardware breakpoint %p! (DeleteHardwareBreakPoint)
 </source>
       <translation>Laitteistokeskeytyskohdan %p poistaminen epäonnistui! (DeleteHardwareBreakPoint)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1444"/>
+      <location filename="src/dbg/debugger.cpp" line="1509"/>
       <source>Trace finished after %llu steps!
 </source>
       <translation>Suorituksen jäljitys päättyi %llu askeleen jälkeen!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1446"/>
+      <location filename="src/dbg/debugger.cpp" line="1511"/>
       <source>Trace finished after %u steps!
 </source>
       <translation>Suorituksenjäljitys päättyi %u askeleen jälkeen!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1517"/>
-      <location filename="src/dbg/debugger.cpp" line="1880"/>
+      <location filename="src/dbg/debugger.cpp" line="1582"/>
+      <location filename="src/dbg/debugger.cpp" line="1981"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNameFromHandle epäonnistui)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1519"/>
+      <location filename="src/dbg/debugger.cpp" line="1584"/>
       <source>Process Started: %p %s
 </source>
       <translation>Prosessi käynnistyi: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1568"/>
+      <location filename="src/dbg/debugger.cpp" line="1633"/>
       <source>TLS Callback %d</source>
       <translation>TLS-takaisunkutsu %d</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1576"/>
-      <location filename="src/dbg/debugger.cpp" line="1933"/>
+      <location filename="src/dbg/debugger.cpp" line="1641"/>
+      <location filename="src/dbg/debugger.cpp" line="2034"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d TLS-takaisinkutsuosoitetta ei kelpaa...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1581"/>
-      <location filename="src/dbg/debugger.cpp" line="1905"/>
+      <location filename="src/dbg/debugger.cpp" line="1646"/>
+      <location filename="src/dbg/debugger.cpp" line="2006"/>
       <source>entry breakpoint</source>
       <translation>aloituskohdan keskeytyskohta</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1645"/>
+      <location filename="src/dbg/debugger.cpp" line="1710"/>
       <source>Process stopped with exit code %s
 </source>
       <translation>Prosessi pysähtyi tilakoodilla %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1685"/>
+      <location filename="src/dbg/debugger.cpp" line="1754"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation>Säie %s luotu, Aloituskohta: %s, Parametri: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1694"/>
+      <location filename="src/dbg/debugger.cpp" line="1763"/>
       <source>Thread Entry</source>
       <translation>Säikeen aloituskohta</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1723"/>
+      <location filename="src/dbg/debugger.cpp" line="1792"/>
       <source>Thread %s Stack</source>
       <translation>Säikeen %s pino</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1749"/>
+      <location filename="src/dbg/debugger.cpp" line="1818"/>
       <source>No threads left to switch to (bug?)</source>
       <translation>Ei ole jäljellä yhtään säiettä, jolle vaihtaa (bugi?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1758"/>
+      <location filename="src/dbg/debugger.cpp" line="1833"/>
       <source>Thread %s exit
 </source>
       <translation>Säie %s poistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1781"/>
+      <location filename="src/dbg/debugger.cpp" line="1856"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation>Virhe: Globaalin alustusskriptin lataaminen epäonnistui.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1786"/>
+      <location filename="src/dbg/debugger.cpp" line="1861"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation>Virhe: Ohjelmakohtaisen alustusskriptin lataaminen epäonnistui.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1807"/>
+      <location filename="src/dbg/debugger.cpp" line="1924"/>
       <source>System breakpoint reached!</source>
       <translation>Järjestelmäkeskeytyskohta saavutettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1819"/>
+      <location filename="src/dbg/debugger.cpp" line="1935"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation>Ilmeisesti tutkittavan ohjelman aloituskohta sijaitsee MZ-otsakkeessa. Tämä aiheuttaa outoja seuraamuksia, joten järjestelmäkeskeytyskohta on käytössä käyttäjän asetuksista huolimatta. Ole varovainen!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1924"/>
-      <location filename="src/dbg/debugger.cpp" line="1926"/>
+      <location filename="src/dbg/debugger.cpp" line="2025"/>
+      <location filename="src/dbg/debugger.cpp" line="2027"/>
       <source>TLS Callback</source>
       <translation>TLS-takaisinkutsu</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1962"/>
+      <location filename="src/dbg/debugger.cpp" line="2063"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>Odotetaan, kunnes ntdll.dll-kirjaston symbolit on ladattu...</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1968"/>
+      <location filename="src/dbg/debugger.cpp" line="2069"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>LdrpDebugFlags-liput asetettiin arvoon 0x%08X onnistuneesti!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1970"/>
+      <location filename="src/dbg/debugger.cpp" line="2071"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>LdrpDebugFlags-lippujen kirjoitus epäonnistui</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1974"/>
+      <location filename="src/dbg/debugger.cpp" line="2075"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>Symbolia 'LdrpDebugFlags' ei löytynyt!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1979"/>
+      <location filename="src/dbg/debugger.cpp" line="2080"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>LdrpDebugFlags-lippuja ei löytynyt (sinun on ladattava symbolit ntdll.dll-kirjastolle)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1984"/>
+      <location filename="src/dbg/debugger.cpp" line="2085"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL latautui: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2051"/>
+      <location filename="src/dbg/debugger.cpp" line="2152"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL:n lataus poistui: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2094"/>
+      <location filename="src/dbg/debugger.cpp" line="2195"/>
       <source>DebugString: "%s"
 </source>
       <translation>Virheenjäljitysmerkkijono: "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2157"/>
+      <location filename="src/dbg/debugger.cpp" line="2285"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2178"/>
+      <location filename="src/dbg/debugger.cpp" line="2306"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>Ensimmäisen tilaisuuden poikkeama kohdassa %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2180"/>
+      <location filename="src/dbg/debugger.cpp" line="2308"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>Ensimmäisen tilaisuuden poikkeama kohdassa %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2191"/>
+      <location filename="src/dbg/debugger.cpp" line="2319"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>Viimeisen tilaisuuden poikkeama kohdassa %p (%.8X, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2193"/>
+      <location filename="src/dbg/debugger.cpp" line="2321"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>Viimeisen tilaisuuden poikkeama kohdassa %p (%.8X)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2256"/>
+      <location filename="src/dbg/debugger.cpp" line="2472"/>
       <source>Attached to process!</source>
       <translation>Kytketty prosessiin!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2821"/>
+      <location filename="src/dbg/debugger.cpp" line="3040"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>Tapahtui virhe DLL:n virhejäljityksessä (latauskoodin kopiointi epäonnistui)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2870"/>
+      <location filename="src/dbg/debugger.cpp" line="3095"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>Tapahtui virhe DLL:n virhejäljityksessä (loaddll.exe-tiedostoa ei löytynyt)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2904"/>
+      <location filename="src/dbg/debugger.cpp" line="3129"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>Ohjelma, jota yrität tutkia, vaatii korotusta. Käynnistetäänkö uudelleen pääkäyttäjänä?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2905"/>
+      <location filename="src/dbg/debugger.cpp" line="3130"/>
       <source>Elevation</source>
       <translation>Korotus</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2929"/>
+      <location filename="src/dbg/debugger.cpp" line="3154"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>Virhe aloittaessa prosessia (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3021"/>
+      <location filename="src/dbg/debugger.cpp" line="3247"/>
       <source>Attach to process failed: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3059"/>
+      <location filename="src/dbg/debugger.cpp" line="3290"/>
       <source>Debugging stopped!</source>
       <translation>Virheenjäljitys lopetettu!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3111"/>
+      <location filename="src/dbg/debugger.cpp" line="3342"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10257,6 +10268,11 @@ Lista ajureista:
 %s
 
 Haluatko jatkaa virheenjäljitystä?</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/debugger.cpp" line="3368"/>
+      <source>Failed to create the debug loop thread</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/exception.cpp" line="30"/>
@@ -13126,66 +13142,72 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
       <translation>fwrite() epäonnistui (GetLastError()=%1). Lokin ohjaus pysäytetty.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="391"/>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="405"/>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="427"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="362"/>
+      <source>warning: pending GUI log buffer reached %1 bytes, dropping buffered messages.
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="413"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="435"/>
       <source>Log redirection is stopped.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="403"/>
       <source>Log is not redirected.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="409"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="417"/>
       <source>_wfopen() failed. Log will not be redirected to %1.
 </source>
       <translation>_wfopen() epäonnistui. Lokia ei ohjata tiedostoon %1.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="417"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="425"/>
       <source>Log will be redirected to %1.
 </source>
       <translation>Loki ohjataan tiedostoon %1.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="439"/>
       <source>Redirect log to file</source>
       <translation>Ohjaa loki tiedostoon</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="439"/>
       <source>Enter the file to which you want to redirect log messages.</source>
       <translation>Syötä tiedosto, johon haluat ohjata lokikirjaukset.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="439"/>
       <source>Log files (*.txt);;All files (*.*)</source>
       <translation>Lokitiedostot (*.log);;Kaikki tiedostot (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="444"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="452"/>
       <source>Logging will be enabled.
 </source>
       <translation>Lokikirjoitus on käytössä.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="456"/>
       <source>Logging will be disabled.
 </source>
       <translation>Lokikirjoitus ei ole käytössä.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="469"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="477"/>
       <source>Error, log have not been saved.
 </source>
       <translation>Virhe, lokia ei ole tallennettu.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="475"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="483"/>
       <source>Log have been saved as %1
 </source>
       <translation>Loki on tallennettu kohteeseen %1</translation>
@@ -13605,7 +13627,7 @@ Haluatko jatkaan tämän kaavion piirtämistä?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="637"/>
-      <source>Opem the Preferences dialog.</source>
+      <source>Open the Preferences dialog.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -18195,14 +18217,14 @@ Se voi aiheuttaa odottamatonta toimintaa virheenjäljitysistunnossa...</translat
     <name>TraceBrowser</name>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="18"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="882"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
       <source>Index</source>
       <translation>Indeksi</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="19"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
       <source>Address</source>
       <translation>Osoite</translation>
     </message>
@@ -18213,7 +18235,7 @@ Se voi aiheuttaa odottamatonta toimintaa virheenjäljitysistunnossa...</translat
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="21"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="859"/>
       <source>Disassembly</source>
       <translation>Purettu koodi</translation>
     </message>
@@ -18233,292 +18255,292 @@ Se voi aiheuttaa odottamatonta toimintaa virheenjäljitysistunnossa...</translat
       <translation>Kommentit</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="86"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="88"/>
       <source>Start trace recording</source>
       <translation>Aloita suorituksen jäljitystallennus</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="87"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="89"/>
       <source>Trace recording file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="88"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="90"/>
       <source>Trace recordings (*%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
       <source>Error</source>
       <translation>Virhe</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
       <source>File name contains invalid character.</source>
       <translation>Tiedostonimi sisältää kiellettyjä merkkejä.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="291"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="293"/>
       <source>An error occurred when reading trace file (reason: %1).
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="849"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="851"/>
       <source>&amp;Selection</source>
       <translation>&amp;Valinta</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="850"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
       <source>Selection to &amp;File</source>
       <translation>Valinta &amp;tiedostoon</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="851"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
       <source>Selection (&amp;No Bytes)</source>
       <translation>Valinta (&amp;ei tavuja)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
       <source>Selection to File (No Bytes)</source>
       <translation>Valinta tiedostoon (ei tavuja)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
       <source>&amp;Export Table</source>
       <translation>&amp;Vie taulukko</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
       <source>&amp;RVA</source>
       <translation>&amp;RVA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
       <source>&amp;File Offset</source>
       <translation>&amp;Paikka tiedostossa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="862"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopioi</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="862"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="864"/>
       <source>&amp;Follow in Dump</source>
       <translation>&amp;Siirry muistivedoksessa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="869"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="871"/>
       <source>&amp;Highlighting mode</source>
       <translation>&amp;Korostustila</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="870"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="872"/>
       <source>Help on mnemonic</source>
       <translation>Tietoa käskylyhenteestä</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="871"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="877"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="873"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="879"/>
       <source>Show mnemonic brief</source>
       <translation>Näytä käskylyhenteen yhteenveto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="875"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="877"/>
       <source>Hide mnemonic brief</source>
       <translation>Piilota käskylyhenteen yhteenveto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="881"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="883"/>
       <source>Expression</source>
       <translation>Lauseke</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="883"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="885"/>
       <source>Function return</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="886"/>
       <source>Previous</source>
       <translation>Edellinen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="888"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="890"/>
       <source>Next</source>
       <translation>Seuraava</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="892"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="894"/>
       <source>Go to</source>
       <translation>Siirry</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="894"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="896"/>
       <source>xrefs...</source>
       <translation>Viittaukset...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="897"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
       <source>Address/Constant</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="898"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
       <source>Memory Reference</source>
       <translation>Muistiviittaus</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
       <source>&amp;Intermodular Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="902"/>
       <source>&amp;All Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="903"/>
       <source>&amp;Search</source>
       <translation>&amp;Hae</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="931"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="933"/>
       <source>Information</source>
       <translation>Tiedot</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="933"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="935"/>
       <source>Sync with CPU</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="939"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="951"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="941"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="953"/>
       <source>Start recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="946"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="948"/>
       <source>Stop recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="956"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
       <source>Close recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="957"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
       <source>Close the trace file tab, and stop recording trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
       <source>Delete recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
       <source>Delete the trace file from disk, and stop recording trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="962"/>
       <source>Browse in Explorer</source>
       <translation>Selaa Resurssienhallinnassa</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="963"/>
       <source>Open the trace file in Explorer.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1336"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
       <source>Open trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1337"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1339"/>
       <source>Trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1340"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1441"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1443"/>
       <source>Address not found in trace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1453"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1455"/>
       <source>The address %1 is not found in trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
       <source>Open File</source>
       <translation>Avaa tiedosto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
       <source>Text Files (*.txt)</source>
       <translation>Tekstitiedostot (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
       <source>Could not open file</source>
       <translation>Tiedoston avaaminen ei onnistunut</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
       <source>Error!</source>
       <translation>Virhe!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
       <source>Selection not in a module...</source>
       <translation>Valinta ei ole moduulissa...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
       <source>Selection not in a file...</source>
       <translation>Valinta ei ole tiedostossa...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1933"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1935"/>
       <source>Constant</source>
       <translation>Vakio</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1940"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1956"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1966"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1942"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1958"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1968"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1947"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1949"/>
       <source>References</source>
       <translation>Viittaukset</translation>
     </message>

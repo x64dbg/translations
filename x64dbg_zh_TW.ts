@@ -1680,102 +1680,102 @@
     <name>CPUArgumentWidget</name>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="14"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="247"/>
       <source>Arguments</source>
       <translation>參數</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.ui" line="68"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="293"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="294"/>
       <source>Unlocked</source>
       <translation>未鎖定</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="16"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="294"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="295"/>
       <source>Refresh is automatic.</source>
       <translation>自動更新</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="114"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="115"/>
       <source>Follow %1 in %2</source>
       <translation>在 %2 中跳轉到 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="144"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="145"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="151"/>
       <source>Disassembler</source>
       <translation>反組譯</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="145"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="151"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="146"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="152"/>
       <source>Dump</source>
       <translation>資料視窗</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="147"/>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="153"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="148"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="154"/>
       <source>Stack</source>
       <translation>堆疊</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="157"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="158"/>
       <source>&amp;Copy</source>
       <translation>複製(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="164"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="165"/>
       <source>Copy Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="210"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="211"/>
       <source>Default (x64 fastcall)</source>
       <translation>預設 (x64 fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="217"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="218"/>
       <source>Default (stdcall)</source>
       <translation>預設 (stdcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="220"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="221"/>
       <source>Default (stdcall, EBP stack)</source>
       <translation>預設 (stdcall, EBP 堆疊)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="223"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="224"/>
       <source>thiscall</source>
       <translation>thiscall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="227"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="228"/>
       <source>fastcall</source>
       <translation>fastcall</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="232"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="233"/>
       <source>Delphi (Borland fastcall)</source>
       <translation>Delphi (Borland fastcall)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="278"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="279"/>
       <source>Locked</source>
       <translation>已鎖定</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="279"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="280"/>
       <source>Refresh is disabled.</source>
       <translation>停止自動更新</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="286"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
       <source>Calls</source>
       <translation>呼叫</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="287"/>
+      <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="288"/>
       <source>Refresh is only done when executing a CALL instruction.</source>
       <translation>只有執行 CALL 指令時重新整理</translation>
     </message>
@@ -3913,7 +3913,7 @@
       <translation>系統</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CallStackView.cpp" line="403"/>
+      <location filename="src/gui/Src/Gui/CallStackView.cpp" line="409"/>
       <source>Thread name - %1</source>
       <translation type="unfinished"/>
     </message>
@@ -6612,7 +6612,7 @@
     <message>
       <location filename="src/dbg/breakpoint.cpp" line="581"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="431"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="463"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
       <translation>設置中斷點于 %p 失敗！ (SetBPX)
@@ -6781,7 +6781,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="213"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="113"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="114"/>
       <source>File does not exist!</source>
       <translation>檔案不存在!</translation>
     </message>
@@ -7229,7 +7229,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="454"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="542"/>
-      <location filename="src/dbg/debugger.cpp" line="1232"/>
+      <location filename="src/dbg/debugger.cpp" line="1297"/>
       <source>You can only set 4 hardware breakpoints</source>
       <translation>你只能設置4個硬體中斷點</translation>
     </message>
@@ -7276,7 +7276,7 @@
     <message>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="510"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="529"/>
-      <location filename="src/dbg/debugger.cpp" line="821"/>
+      <location filename="src/dbg/debugger.cpp" line="886"/>
       <source>Delete hardware breakpoint failed: %p (DeleteHardwareBreakPoint)
 </source>
       <translation>刪除硬體中斷點失敗: %p (DeleteHardwareBreakPoint)
@@ -7838,114 +7838,114 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="39"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="40"/>
       <source>Skipped INT3!</source>
       <translation>已跳過INT3！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="91"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="92"/>
       <source>Resolved shortcut "%s" -&gt; "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="98"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="99"/>
       <source>Resolved arguments from shortcut "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="106"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="107"/>
       <source>Resolved working directory from shortcut "%s"
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="121"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="122"/>
       <location filename="src/dbg/commands/cmd-memory-operations.cpp" line="253"/>
       <source>Could not open file!</source>
       <translation>無法開啟檔案!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="125"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="126"/>
       <source>Debugging: %s
 </source>
       <translation>正在除錯：“%s”
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="140"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="141"/>
       <source>Invalid PE file!</source>
       <translation>不正確的 PE 檔案!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="146"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="147"/>
       <source>Use x32dbg to debug this file!</source>
       <translation>請用 x32dbg 來除錯此程式！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="150"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="151"/>
       <source>Use x64dbg to debug this file!</source>
       <translation>請用 x64dbg 來除錯此程式！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="222"/>
       <source>Finalizing the debugger thread took more than 10 seconds. This can happen if you are loading large symbol files or saving a large database.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="225"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="226"/>
       <source>The debuggee did not stop after 10 seconds of requesting termination. The debugger state may be corrupted. It is recommended to restart x64dbg.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="278"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="279"/>
       <source>Could not open process %X!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="285"/>
-      <location filename="src/dbg/debugger.cpp" line="3019"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
+      <location filename="src/dbg/debugger.cpp" line="3245"/>
       <source>Process is already being debugged!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="292"/>
-      <location filename="src/dbg/debugger.cpp" line="2938"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="293"/>
+      <location filename="src/dbg/debugger.cpp" line="3163"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失敗!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="298"/>
-      <location filename="src/dbg/debugger.cpp" line="2945"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="299"/>
+      <location filename="src/dbg/debugger.cpp" line="3170"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>請用 x32dbg 來除錯此程式！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="300"/>
-      <location filename="src/dbg/debugger.cpp" line="2947"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="301"/>
+      <location filename="src/dbg/debugger.cpp" line="3172"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>請用 x64dbg 來除錯此程式！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="307"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="308"/>
       <source>Could not get module filename %X!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="357"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="359"/>
       <source>DetachDebuggerEx failed...</source>
       <translation>DetachDebuggerEx 失敗了……</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="359"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="361"/>
       <source>Detached!</source>
       <translation>已脫離！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="409"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="411"/>
       <location filename="src/dbg/value.cpp" line="1770"/>
       <location filename="src/dbg/value.cpp" line="2557"/>
       <location filename="src/dbg/value.cpp" line="2600"/>
@@ -7953,29 +7953,29 @@
       <translation>未在除錯！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="414"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="416"/>
       <source>Program is not running</source>
       <translation>程式未在執行</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="424"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="456"/>
       <source>The active thread is suspended, switch to a running thread to pause the process</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="434"/>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="445"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="107"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="466"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="477"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="120"/>
       <source>Error resuming thread</source>
       <translation>恢復執行緒時發生錯誤</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="456"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="488"/>
       <source>Exception will be swallowed</source>
       <translation>例外將被忽略</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="461"/>
+      <location filename="src/dbg/commands/cmd-debug-control.cpp" line="493"/>
       <source>Exception will be thrown in the program</source>
       <translation type="unfinished"/>
     </message>
@@ -8103,12 +8103,12 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="23"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="57"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="79"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="101"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="127"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="206"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="230"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="59"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="92"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="114"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="140"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="219"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="243"/>
       <source>Invalid thread %s
 </source>
       <translation type="unfinished"/>
@@ -8118,7 +8118,7 @@
       <location filename="src/dbg/commands/cmd-gui.cpp" line="65"/>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="92"/>
       <location filename="src/dbg/commands/cmd-gui.cpp" line="114"/>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="361"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="367"/>
       <location filename="src/dbg/commands/cmd-undocumented.cpp" line="210"/>
       <source>Invalid address "%s"!
 </source>
@@ -8131,38 +8131,38 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="148"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="157"/>
       <source>Invalid address %p!
 </source>
       <translation>無效的位址：%p！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="170"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="176"/>
       <source>No graph generated...</source>
       <translation>沒有生成的圖形...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="209"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="215"/>
       <source>Stack is now frozen
 </source>
       <translation>堆疊已鎖定
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="211"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="217"/>
       <source>Stack is now unfrozen
 </source>
       <translation>堆疊已解鎖
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="219"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="225"/>
       <source>Script</source>
       <translation>腳本</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="221"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="227"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="192"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="346"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="399"/>
@@ -8178,28 +8178,28 @@
       <translation>位址</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="222"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="228"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="194"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="348"/>
       <source>Data</source>
       <translation>資料</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="320"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="326"/>
       <source>Invalid argument 1 : %s
 </source>
       <translation>參數1無效：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="325"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="331"/>
       <source>Invalid argument 2 : %s
 </source>
       <translation>參數2無效：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-gui.cpp" line="368"/>
+      <location filename="src/dbg/commands/cmd-gui.cpp" line="374"/>
       <source>Address "%s" doesn't belong to any module!
 </source>
       <translation>位址“%s”不屬於任何模組！
@@ -8875,77 +8875,77 @@
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="66"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="72"/>
       <source>Thread switched!</source>
       <translation>執行緒已切換！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="85"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="98"/>
       <source>Error suspending thread</source>
       <translation>暫停執行緒時發生錯誤</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="88"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="101"/>
       <source>Thread suspended</source>
       <translation>執行緒已暫停</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="110"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="123"/>
       <source>Thread resumed!</source>
       <translation>執行緒已恢復！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="134"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="147"/>
       <source>Thread terminated</source>
       <translation>執行緒終止</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="137"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="150"/>
       <source>Error terminating thread!</source>
       <translation>結束執行緒失敗！</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="143"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="156"/>
       <source>%d/%d thread(s) suspended
 </source>
       <translation>%d/%d個執行緒已暫停</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="151"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="164"/>
       <source>%d/%d thread(s) resumed
 </source>
       <translation>%d/%d個執行緒已恢復</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="183"/>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="200"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="196"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="213"/>
       <source>Unknown priority value, read the help!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="212"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="225"/>
       <source>Error setting thread priority</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="215"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="228"/>
       <source>Thread priority changed!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="236"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="249"/>
       <source>Failed to change the name for thread %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="253"/>
       <source>Thread name set to "%s"!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="242"/>
+      <location filename="src/dbg/commands/cmd-thread-control.cpp" line="255"/>
       <source>Thread name changed from "%s" to "%s"!
 </source>
       <translation type="unfinished"/>
@@ -9695,466 +9695,482 @@ Invalid database file (JSON)!</source>
       <translation>目標緩衝區太小</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="289"/>
+      <location filename="src/dbg/debugger.cpp" line="297"/>
       <source>Thread switched from %X to %X !
 </source>
       <translation>執行緒從 %X 切換到 %X !
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="507"/>
+      <location filename="src/dbg/debugger.cpp" line="403"/>
+      <source>Failed to create a break-in thread (DebugBreakProcess)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/debugger.cpp" line="406"/>
+      <source>Created a break-in thread to pause the debuggee</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/debugger.cpp" line="572"/>
       <source>Module: %s - </source>
       <translation>模組: %s - </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="520"/>
+      <location filename="src/dbg/debugger.cpp" line="585"/>
       <source> (switched from %s)</source>
       <translation> (切換自 %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="530"/>
+      <location filename="src/dbg/debugger.cpp" line="595"/>
       <source>%s - PID: %s - %sThread: %s%s%s</source>
       <translation>%s - PID: %s - %s執行緒: %s%s%s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="649"/>
+      <location filename="src/dbg/debugger.cpp" line="714"/>
       <source>%s breakpoint "%s" at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="651"/>
+      <location filename="src/dbg/debugger.cpp" line="716"/>
       <source>%s breakpoint at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="678"/>
+      <location filename="src/dbg/debugger.cpp" line="743"/>
       <source>execute</source>
       <translation>執行</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="682"/>
+      <location filename="src/dbg/debugger.cpp" line="747"/>
       <source>read/write</source>
       <translation>讀寫</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="685"/>
+      <location filename="src/dbg/debugger.cpp" line="750"/>
       <source>write</source>
       <translation>寫入</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="692"/>
+      <location filename="src/dbg/debugger.cpp" line="757"/>
       <source>Hardware breakpoint (%s%s) "%s" at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="694"/>
+      <location filename="src/dbg/debugger.cpp" line="759"/>
       <source>Hardware breakpoint (%s%s) at %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="704"/>
+      <location filename="src/dbg/debugger.cpp" line="769"/>
       <source> (read)</source>
       <translation> (讀取)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="707"/>
+      <location filename="src/dbg/debugger.cpp" line="772"/>
       <source> (write)</source>
       <translation> (寫入)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="710"/>
+      <location filename="src/dbg/debugger.cpp" line="775"/>
       <source> (execute)</source>
       <translation> (執行)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="713"/>
+      <location filename="src/dbg/debugger.cpp" line="778"/>
       <source> (read/write/execute)</source>
       <translation> (讀取/寫入/執行)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="721"/>
+      <location filename="src/dbg/debugger.cpp" line="786"/>
       <source>Memory breakpoint%s "%s" at %s, exception address: %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="730"/>
+      <location filename="src/dbg/debugger.cpp" line="795"/>
       <source>Memory breakpoint%s at %s, exception address: %s!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="745"/>
+      <location filename="src/dbg/debugger.cpp" line="810"/>
       <source>DLL Load</source>
       <translation>DLL 載入</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="748"/>
+      <location filename="src/dbg/debugger.cpp" line="813"/>
       <source>DLL Unload</source>
       <translation>DLL 卸載</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="751"/>
+      <location filename="src/dbg/debugger.cpp" line="816"/>
       <source>DLL Load and unload</source>
       <translation>DLL 載入和卸載</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="757"/>
+      <location filename="src/dbg/debugger.cpp" line="822"/>
       <source>DLL Breakpoint %s (%s): Module %s
 </source>
       <translation>DLL中斷點 %s(%s)：模組 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="759"/>
+      <location filename="src/dbg/debugger.cpp" line="824"/>
       <source>DLL Breakpoint (%s): Module %s
 </source>
       <translation>DLL中斷點 (%s)：模組 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="766"/>
-      <location filename="src/dbg/debugger.cpp" line="768"/>
+      <location filename="src/dbg/debugger.cpp" line="831"/>
+      <location filename="src/dbg/debugger.cpp" line="833"/>
       <source>Exception Breakpoint %s (%p) at %p!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="795"/>
+      <location filename="src/dbg/debugger.cpp" line="860"/>
+      <location filename="src/dbg/debugger.cpp" line="2241"/>
       <source>paused!</source>
       <translation>已暫停！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="897"/>
+      <location filename="src/dbg/debugger.cpp" line="962"/>
       <source>Breakpoint reached not in list!</source>
       <translation>遇到了未知中斷點！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="931"/>
-      <location filename="src/dbg/debugger.cpp" line="1398"/>
+      <location filename="src/dbg/debugger.cpp" line="996"/>
+      <location filename="src/dbg/debugger.cpp" line="1463"/>
       <source>Error when evaluating break condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="945"/>
-      <location filename="src/dbg/debugger.cpp" line="1413"/>
+      <location filename="src/dbg/debugger.cpp" line="1010"/>
+      <location filename="src/dbg/debugger.cpp" line="1478"/>
       <source>Error when evaluating log condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="958"/>
-      <location filename="src/dbg/debugger.cpp" line="1419"/>
+      <location filename="src/dbg/debugger.cpp" line="1023"/>
+      <location filename="src/dbg/debugger.cpp" line="1484"/>
       <source>Error when evaluating command condition.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1077"/>
+      <location filename="src/dbg/debugger.cpp" line="1142"/>
       <source>Failed to open breakpoint log: %s (%s)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1106"/>
+      <location filename="src/dbg/debugger.cpp" line="1171"/>
       <source>User code reached at %s</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1203"/>
+      <location filename="src/dbg/debugger.cpp" line="1268"/>
       <source>Breakpoint %p has been disabled because the bytes don't match! Expected: %02X %02X, Found: %02X %02X
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1210"/>
+      <location filename="src/dbg/debugger.cpp" line="1275"/>
       <source>Could not set breakpoint %p! (SetBPX)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1213"/>
+      <location filename="src/dbg/debugger.cpp" line="1278"/>
       <source>MemRead failed on breakpoint address %p!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1223"/>
+      <location filename="src/dbg/debugger.cpp" line="1288"/>
       <source>Could not set memory breakpoint %p! (SetMemoryBPXEx)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1239"/>
+      <location filename="src/dbg/debugger.cpp" line="1304"/>
       <source>Could not set hardware breakpoint %p! (SetHardwareBreakPoint)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1241"/>
+      <location filename="src/dbg/debugger.cpp" line="1306"/>
       <source>Set hardware breakpoint on %p!
 </source>
       <translation>在 %p 設定硬體中斷點!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1274"/>
+      <location filename="src/dbg/debugger.cpp" line="1339"/>
       <source>Could not delete breakpoint %p! (DeleteBPX)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1278"/>
+      <location filename="src/dbg/debugger.cpp" line="1343"/>
       <source>Could not delete memory breakpoint %p! (RemoveMemoryBPX)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1282"/>
+      <location filename="src/dbg/debugger.cpp" line="1347"/>
       <source>Could not delete hardware breakpoint %p! (DeleteHardwareBreakPoint)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1444"/>
+      <location filename="src/dbg/debugger.cpp" line="1509"/>
       <source>Trace finished after %llu steps!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1446"/>
+      <location filename="src/dbg/debugger.cpp" line="1511"/>
       <source>Trace finished after %u steps!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1517"/>
-      <location filename="src/dbg/debugger.cpp" line="1880"/>
+      <location filename="src/dbg/debugger.cpp" line="1582"/>
+      <location filename="src/dbg/debugger.cpp" line="1981"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNameFromHandle 失敗)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1519"/>
+      <location filename="src/dbg/debugger.cpp" line="1584"/>
       <source>Process Started: %p %s
 </source>
       <translation>處理程序已啟動: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1568"/>
+      <location filename="src/dbg/debugger.cpp" line="1633"/>
       <source>TLS Callback %d</source>
       <translation>TLS Callback %d</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1576"/>
-      <location filename="src/dbg/debugger.cpp" line="1933"/>
+      <location filename="src/dbg/debugger.cpp" line="1641"/>
+      <location filename="src/dbg/debugger.cpp" line="2034"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d 不正確的 TLS callback 位置...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1581"/>
-      <location filename="src/dbg/debugger.cpp" line="1905"/>
+      <location filename="src/dbg/debugger.cpp" line="1646"/>
+      <location filename="src/dbg/debugger.cpp" line="2006"/>
       <source>entry breakpoint</source>
       <translation>入口中斷點</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1645"/>
+      <location filename="src/dbg/debugger.cpp" line="1710"/>
       <source>Process stopped with exit code %s
 </source>
       <translation>處理程序停止，其結束代碼爲 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1685"/>
+      <location filename="src/dbg/debugger.cpp" line="1754"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1694"/>
+      <location filename="src/dbg/debugger.cpp" line="1763"/>
       <source>Thread Entry</source>
       <translation>執行緒入口</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1723"/>
+      <location filename="src/dbg/debugger.cpp" line="1792"/>
       <source>Thread %s Stack</source>
       <translation>執行緒 %s 堆疊</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1749"/>
+      <location filename="src/dbg/debugger.cpp" line="1818"/>
       <source>No threads left to switch to (bug?)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1758"/>
+      <location filename="src/dbg/debugger.cpp" line="1833"/>
       <source>Thread %s exit
 </source>
       <translation>執行緒 %s 退出
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1781"/>
+      <location filename="src/dbg/debugger.cpp" line="1856"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1786"/>
+      <location filename="src/dbg/debugger.cpp" line="1861"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1807"/>
+      <location filename="src/dbg/debugger.cpp" line="1924"/>
       <source>System breakpoint reached!</source>
       <translation>已到達系統中斷點！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1819"/>
+      <location filename="src/dbg/debugger.cpp" line="1935"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1924"/>
-      <location filename="src/dbg/debugger.cpp" line="1926"/>
+      <location filename="src/dbg/debugger.cpp" line="2025"/>
+      <location filename="src/dbg/debugger.cpp" line="2027"/>
       <source>TLS Callback</source>
       <translation>TLS Callback</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1962"/>
+      <location filename="src/dbg/debugger.cpp" line="2063"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>正等待ntdll.dll符號載入……</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1968"/>
+      <location filename="src/dbg/debugger.cpp" line="2069"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1970"/>
+      <location filename="src/dbg/debugger.cpp" line="2071"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>無法寫入 LdrpDebugFlags</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1974"/>
+      <location filename="src/dbg/debugger.cpp" line="2075"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1979"/>
+      <location filename="src/dbg/debugger.cpp" line="2080"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>找不到LdrpDebugFlags（您需要為ntdll.dll加載符號）</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1984"/>
+      <location filename="src/dbg/debugger.cpp" line="2085"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL 載入：%p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2051"/>
+      <location filename="src/dbg/debugger.cpp" line="2152"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL 卸載：%p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2094"/>
+      <location filename="src/dbg/debugger.cpp" line="2195"/>
       <source>DebugString: "%s"
 </source>
       <translation>除錯字串："%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2157"/>
+      <location filename="src/dbg/debugger.cpp" line="2285"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2178"/>
+      <location filename="src/dbg/debugger.cpp" line="2306"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2180"/>
+      <location filename="src/dbg/debugger.cpp" line="2308"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2191"/>
+      <location filename="src/dbg/debugger.cpp" line="2319"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2193"/>
+      <location filename="src/dbg/debugger.cpp" line="2321"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2256"/>
+      <location filename="src/dbg/debugger.cpp" line="2472"/>
       <source>Attached to process!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2821"/>
+      <location filename="src/dbg/debugger.cpp" line="3040"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2870"/>
+      <location filename="src/dbg/debugger.cpp" line="3095"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2904"/>
+      <location filename="src/dbg/debugger.cpp" line="3129"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2905"/>
+      <location filename="src/dbg/debugger.cpp" line="3130"/>
       <source>Elevation</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2929"/>
+      <location filename="src/dbg/debugger.cpp" line="3154"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3021"/>
+      <location filename="src/dbg/debugger.cpp" line="3247"/>
       <source>Attach to process failed: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3059"/>
+      <location filename="src/dbg/debugger.cpp" line="3290"/>
       <source>Debugging stopped!</source>
       <translation>除錯停止！</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3111"/>
+      <location filename="src/dbg/debugger.cpp" line="3342"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
 %s
 
 Do you want to continue debugging?</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/dbg/debugger.cpp" line="3368"/>
+      <source>Failed to create the debug loop thread</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -12989,69 +13005,75 @@ Do you want to continue rendering this graph?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="391"/>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="405"/>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="427"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="362"/>
+      <source>warning: pending GUI log buffer reached %1 bytes, dropping buffered messages.
+</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="413"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="435"/>
       <source>Log redirection is stopped.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="403"/>
       <source>Log is not redirected.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="409"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="417"/>
       <source>_wfopen() failed. Log will not be redirected to %1.
 </source>
       <translation>_wfopen() 失敗。日誌无法被重新導向至 %1。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="417"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="425"/>
       <source>Log will be redirected to %1.
 </source>
       <translation>日誌將被重新導向至 %1。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="439"/>
       <source>Redirect log to file</source>
       <translation>將日誌重定向新導向至檔</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="439"/>
       <source>Enter the file to which you want to redirect log messages.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="431"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="439"/>
       <source>Log files (*.txt);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="444"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="452"/>
       <source>Logging will be enabled.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="448"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="456"/>
       <source>Logging will be disabled.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="469"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="477"/>
       <source>Error, log have not been saved.
 </source>
       <translation>發生錯誤，因此日誌尚未保存。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/LogView.cpp" line="475"/>
+      <location filename="src/gui/Src/Gui/LogView.cpp" line="483"/>
       <source>Log have been saved as %1
 </source>
       <translation>日誌已保存至 %1
@@ -13472,7 +13494,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="637"/>
-      <source>Opem the Preferences dialog.</source>
+      <source>Open the Preferences dialog.</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -18030,14 +18052,14 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <name>TraceBrowser</name>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="18"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="882"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
       <source>Index</source>
       <translation>索引</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="19"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
       <source>Address</source>
       <translation>位址</translation>
     </message>
@@ -18048,7 +18070,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="21"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="859"/>
       <source>Disassembly</source>
       <translation>反組譯</translation>
     </message>
@@ -18068,292 +18090,292 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>註解</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="86"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="88"/>
       <source>Start trace recording</source>
       <translation>開始錄製跟蹤</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="87"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="89"/>
       <source>Trace recording file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="88"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="90"/>
       <source>Trace recordings (*%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
       <source>Error</source>
       <translation>錯誤</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="95"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
       <source>File name contains invalid character.</source>
       <translation>檔案名包含無效字元。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="291"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="293"/>
       <source>An error occurred when reading trace file (reason: %1).
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="849"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="851"/>
       <source>&amp;Selection</source>
       <translation>到剪貼簿(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="850"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
       <source>Selection to &amp;File</source>
       <translation>到檔案(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="851"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
       <source>Selection (&amp;No Bytes)</source>
       <translation>到剪貼簿 (不包含機器碼) (&amp;N)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
       <source>Selection to File (No Bytes)</source>
       <translation>到檔案 (不包含機器碼)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
       <source>&amp;Export Table</source>
       <translation>匯出表(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
       <source>&amp;RVA</source>
       <translation>&amp;RVA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
       <source>&amp;File Offset</source>
       <translation>檔案偏移量(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="862"/>
       <source>&amp;Copy</source>
       <translation>複製(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="862"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="864"/>
       <source>&amp;Follow in Dump</source>
       <translation>在資料視窗中跟隨(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="869"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="871"/>
       <source>&amp;Highlighting mode</source>
       <translation>語法突顯(&amp;H)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="870"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="872"/>
       <source>Help on mnemonic</source>
       <translation>指令說明</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="871"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="877"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="873"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="879"/>
       <source>Show mnemonic brief</source>
       <translation>顯示指令提示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="875"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="877"/>
       <source>Hide mnemonic brief</source>
       <translation>隱藏指令提示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="881"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="883"/>
       <source>Expression</source>
       <translation>表述式</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="883"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="885"/>
       <source>Function return</source>
       <translation>函式返回</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="886"/>
       <source>Previous</source>
       <translation>上一個</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="888"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="890"/>
       <source>Next</source>
       <translation>下一個</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="892"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="894"/>
       <source>Go to</source>
       <translation>前往</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="894"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="896"/>
       <source>xrefs...</source>
       <translation>交叉引用...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="897"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
       <source>Address/Constant</source>
       <translation>地址/常量</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="898"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
       <source>Memory Reference</source>
       <translation>記憶體引用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
       <source>&amp;Intermodular Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="902"/>
       <source>&amp;All Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="903"/>
       <source>&amp;Search</source>
       <translation>搜尋(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="931"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="933"/>
       <source>Information</source>
       <translation>訊息</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="933"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="935"/>
       <source>Sync with CPU</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="939"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="951"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="941"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="953"/>
       <source>Start recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="946"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="948"/>
       <source>Stop recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="956"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
       <source>Close recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="957"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
       <source>Close the trace file tab, and stop recording trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
       <source>Delete recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
       <source>Delete the trace file from disk, and stop recording trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="962"/>
       <source>Browse in Explorer</source>
       <translation>在檔案總管中檢視</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="963"/>
       <source>Open the trace file in Explorer.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1336"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
       <source>Open trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1337"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1339"/>
       <source>Trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1340"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1374"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1441"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1443"/>
       <source>Address not found in trace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1453"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1455"/>
       <source>The address %1 is not found in trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
       <source>Open File</source>
       <translation>開啟檔案</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1714"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
       <source>Text Files (*.txt)</source>
       <translation>文字檔案 (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1720"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
       <source>Could not open file</source>
       <translation>無法開啟檔案</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
       <source>Error!</source>
       <translation>錯誤！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1809"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
       <source>Selection not in a module...</source>
       <translation>選區不在模組中……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1834"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
       <source>Selection not in a file...</source>
       <translation>選區不在檔中……</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1933"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1935"/>
       <source>Constant</source>
       <translation>常數</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1940"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1956"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1966"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1942"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1958"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1968"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1947"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1949"/>
       <source>References</source>
       <translation>引用</translation>
     </message>
