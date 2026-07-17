@@ -466,14 +466,14 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
       <source>EIP</source>
-      <translation>拡張命令 ポインタ(EIP)</translation>
+      <translation>EIP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
       <source>RIP</source>
-      <translation>レジスタ命令ポインタ(RIP)</translation>
+      <translation>RIP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="463"/>
@@ -883,12 +883,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
       <source>ESP</source>
-      <translation>拡張スタック ポインタ(ESP)</translation>
+      <translation>ESP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
       <source>RSP</source>
-      <translation>レジスタ スタック ポインタ(RSP)</translation>
+      <translation>RSP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
@@ -9820,12 +9820,12 @@ Invalid database file (JSON)!</source>
     <message>
       <location filename="src/dbg/debugger.cpp" line="403"/>
       <source>Failed to create a break-in thread (DebugBreakProcess)</source>
-      <translation type="unfinished"/>
+      <translation>ブレークインスレッドの作成に失敗しました (DebugBreakProcess)</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="406"/>
       <source>Created a break-in thread to pause the debuggee</source>
-      <translation type="unfinished"/>
+      <translation>デバッグ対象を一時停止するためのブレークインスレッドを作成しました</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="572"/>
@@ -10325,7 +10325,7 @@ Do you want to continue debugging?</source>
     <message>
       <location filename="src/dbg/debugger.cpp" line="3368"/>
       <source>Failed to create the debug loop thread</source>
-      <translation type="unfinished"/>
+      <translation>デバッグループスレッドの作成に失敗しました</translation>
     </message>
     <message>
       <location filename="src/dbg/exception.cpp" line="30"/>
@@ -13229,7 +13229,8 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="362"/>
       <source>warning: pending GUI log buffer reached %1 bytes, dropping buffered messages.
 </source>
-      <translation type="unfinished"/>
+      <translation>警告 : 保留中のGUIログバッファが %1 バイトに達したため、バッファ内のメッセージを破棄します。
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/LogView.cpp" line="399"/>
@@ -13720,7 +13721,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="637"/>
       <source>Open the Preferences dialog.</source>
-      <translation type="unfinished"/>
+      <translation>環境設定ダイアログを開きます。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="646"/>
@@ -15925,484 +15926,484 @@ Do you want to apply these patches anyway?</source>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2752"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2762"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation>AVX-512 はこのコンピューターではサポートされていません。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="990"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1000"/>
       <source>Registers</source>
       <translation>レジスタ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1410"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1420"/>
       <source>Copy value</source>
       <translation>値をコピー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1411"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1421"/>
       <source>Copy floating point value</source>
       <translation>浮動小数点値をコピー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1412"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
       <source>Copy Symbol Value</source>
       <translation>シンボルの値をコピー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1413"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1423"/>
       <source>Copy all registers</source>
       <translation>すべてのレジスタをコピー</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1414"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
       <source>Change view</source>
       <translation>表示の変更</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1415"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
       <source>Change SIMD Register Display Mode</source>
       <translation>SIMD レジスタ表示モードの変更</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1417"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
       <source>Display ST(x)</source>
       <translation>ST(x) を表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1418"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
       <source>Display x87rX</source>
       <translation>x87rX を表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1419"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
       <source>Display MMX</source>
       <translation>MMX を表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
       <source>Hexadecimal</source>
       <translation>Hexadecimal</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1423"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
       <source>Signed Word</source>
       <translation>Signed Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1426"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
       <source>Signed Dword</source>
       <translation>Signed Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1437"/>
       <source>Signed Qword</source>
       <translation>Signed Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1438"/>
       <source>Unsigned Word</source>
       <translation>Unsigned Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
       <source>Unsigned Dword</source>
       <translation>Unsigned Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
       <source>Unsigned Qword</source>
       <translation>Unsigned Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1441"/>
       <source>Hexadecimal Word</source>
       <translation>Hexadecimal Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1442"/>
       <source>Hexadecimal Dword</source>
       <translation>Hexadecimal Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1443"/>
       <source>Hexadecimal Qword</source>
       <translation>Hexadecimal Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1465"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1475"/>
       <source>Always show maximum vector length</source>
       <translation>常に最大ベクトル長を表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1466"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1476"/>
       <source>Always show all AVX-512 registers</source>
       <translation>常にすべての AVX-512 レジスタを表示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>CF (Carry flag)</source>
       <translation>CF (キャリーフラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>PF (Parity flag)</source>
       <translation>PF (パリティフラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation>AF (補助キャリー フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>ZF (Zero flag)</source>
       <translation>ZF (ゼロ フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>SF (Sign flag)</source>
       <translation>SF (サインフラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>TF (Trap flag)</source>
       <translation>TF (トラップ フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
       <source>IF (Interrupt enable flag)</source>
       <translation>IF (割り込み有効 フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
       <source>DF (Direction flag)</source>
       <translation>DF (方向 フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
       <source>OF (Overflow flag)</source>
       <translation>OF (オーバーフロー フラグ)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>Bit #</source>
       <translation>Bit #</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>Mask</source>
       <translation>マスク</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>Flag</source>
       <translation>フラグ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1691"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation>CF (bit 0) : Carry flag - 算術演算がキャリーを生成したり、結果の最も重要なビットを借りたりするかを設定する。 それ以外は消去された
 このフラグは符号なし整数算術のオーバーフロー条件を示します。これは多重精度算術でも使用されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (bit 2) : Parity フラグ - 結果の最も重要なバイト数が偶数1ビットを含む場合に設定する。それ以外の場合はクリアする。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (bit 4) : 補助キャリーフラグ - 算術演算によってキャリーまたはビット
 3から借用が生成されるかどうかを設定します。 それ以外は消去された このフラグはバイナリコードの小数(BCD)算術で使用されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1699"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1709"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (bit 6) : Zero flag - 結果がゼロの場合に設定します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (bit 7) : Sign フラグ - 結果の最も重要なビットに等しく設定する これは符号付き整数の符号ビットです。
  (0 は正の値、1 は負の値を示します。)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
       <translation>OF (bit 11) : オーバーフロー フラグ - 整数結果が大きすぎる正数、または小さすぎる負数 (符号ビットを除く) で宛先オペランドに収まらない場合にセットされ、それ以外の場合はクリアされます。このフラグは、符号付き整数 (2 の補数) 演算のオーバーフロー状態を示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
       <translation>DF (bit 10): 方向フラグは文字列命令 (MOVS、CMPS、SCAS、LODS、および STOS) を制御します。DF フラグを設定すると、文字列命令は自動的にデクリメントされます (文字列を高アドレスから低アドレスに処理します)。DF フラグをクリアすると、文字列命令は自動的にインクリメントされます (文字列を低アドレスから高アドレスに処理します)。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1722"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (bit 8) : Trap フラグ - デバッグ時にシングルステップモードを有効にするための設定。シングルステップモードを無効にするための設定。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1724"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (bit 9) : Interrupt enable flag - マスク可能な割込み要求に対するプロセッサの応答を制御します。 マスク可能な割込みに応答するように設定します。マスク可能な割込みを抑制するためにクリアします。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1726"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>16ビットのx87 FPU制御ワードは、x87 FPUの精度と使用される丸め方を制御します。 また、x87 FPU 浮動小数点例外マスクビットも含まれています。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1728"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>16ビットのx87 FPUステータスレジスタは、x87 FPUの現在の状態を示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1720"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1730"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>16ビットタグワードは、x87 FPUデータレジスタスタック(レジスタあたり1つの2ビットタグ)の各8つのレジスタの内容を示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1733"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>精度制御(PC)フィールド(x87 FPU 制御ワードのビット8および9)が精度(64)を決定します。 x87 FPU で行われた浮動小数点計算の 53, または 24 ビット)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1735"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>x87 FPU 制御レジスタの丸め制御(RC)フィールド(ビット10および11)は、x87 FPU 浮動小数点命令の結果がどのように丸められるかを制御します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1727"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1737"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>インテル 287 数値コプロセッサとの互換性のため、無限大制御制御フラグ (x87 FPU 制御ワードのビット 12) が用意されています。
 後のバージョンのx87 FPUコプロセッサまたはIA-32プロセッサでは意味がありません。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1730"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>無効な動作例外マスク (ビット 0) です。マスクビットが設定されている場合、対応する例外が生成されることはありません。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>非正規化オペランド例外マスク (ビット 2) マスクビットが設定されると、それに対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1734"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1744"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>浮動小数点除算ゼロ例外マスク (ビット 3) マスクビットを設定すると、その例外はブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1736"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>浮動小数点数値オーバーフロー例外マスク (ビット 4) マスクビットが設定されると、対応する例外が生成されなくなります。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1738"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>潜在的な浮動小数点数値アンダーフロー条件マスク (ビット 5) マスクビットが設定されると、その例外はブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1750"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>不正確な結果/精度例外マスク (ビット 6) マスクビットが設定されると、対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1743"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation>ビジーフラグ(ビット 15)は、命令を実行しているときにFPUがビジー(B=1)であるか、アイドル(B=0)であるかを示します。
 Bビット(ビット 15)は8087互換のみ含まれており、ESフラグの内容を反映しています。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1750"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1752"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1756"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1758"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1762"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation>C%1 条件コードフラグ (ビット %2) は、浮動小数点比較と算術演算の結果を示すために使用されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1754"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1764"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation>エラー/例外サマリ状態フラグ (ビット 7) は、マスクされていない例外フラグが設定されている場合に設定されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1756"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1766"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>スタックフォルトフラグ(x87 FPU ステータスワードのビット6)は、x87 FPU データレジスタスタック内のデータ
 でスタックオーバーフローまたはスタックアンダーフローが発生したことを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1758"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1768"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>x87 FPUレジスタスタックの上部にあるx87 FPUデータレジスタへのポインタは、x87 FPUステータスワードのビット11~13
 に含まれています。 このポインタは一般的に TOP (トップオブスタック) と呼ばれますが、0 から 7 のバイナリ値です。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1761"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation>プロセッサは、無効な演算オペランドに応答して無効な演算例外 (ビット 0) を報告します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1773"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation>プロセッサは、非正規化オペランド例外(ビット 2)を報告します。これは、算術命令が非正規化オペランドを扱おうとしたときに発生します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1775"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation>プロセッサは、命令が有限でないオペランドを 0 で分割しようとするたびに、浮動小数点除算例外(ビット 3) を報告します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1777"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation>プロセッサは、浮動小数点数のオーバーフロー例外(ビット 4)を報告します。これは、命令の丸め後の結果が、宛先オペランドに収まる最大の有限値を超えた場合に発生します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1769"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1779"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation>プロセッサは、潜在的な浮動小数点アンダーフロー条件(ビット 5)を検出します。これは、無制限指数で丸めた結果がゼロではなく非常に小さい場合に発生します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1781"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation>演算の結果がデスティネーションフォーマットで正確に表現できない場合、不正確な結果/精度例外(ビット 6) が発生します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1774"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>32 ビットの MXCSR レジスタには、SIMD 浮動小数点演算の制御およびステータス情報が格納されています。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1776"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 0 (IE) : 不正な操作フラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 1 (DE) : 非正規化フラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1790"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 2 (ZE) : ゼロフラグの分割; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1792"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 3 (OE) : オーバーフローフラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1794"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 4 (UE) : アンダーフローフラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1796"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 5 (PE) : 精度フラグ; SIMD 浮動小数点例外が検出されたかどうかを示します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1798"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 7 (IM) : 無効なオペレーションマスク. マスクビットが設定されている場合, その対応する例外が生成されることはありません.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1790"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1800"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 8 (DM) : 非正規化マスク。マスクビットが設定されている場合、対応する例外の発生がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1792"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1802"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 9 (ZM) : ゼロ除算マスク。マスクビットが設定されている場合、対応する例外の発生がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1794"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1804"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 10 (OM) : オーバーフローマスク。マスクビットを設定すると、それに対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1796"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1806"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 11 (UM) : アンダーフローマスク。マスクビットが設定されると、それに対応する例外がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1798"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1808"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 12 (PM) : 精度マスク。マスクビットが設定されている場合、対応する例外の発生がブロックされます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1800"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1810"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>MXCSR レジスタのビット 15 (FZ) は、SIMD 浮動小数点アンダーフロー状態に対するマスクされた応答を制御するゼロフラッシュ モードを有効にします。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1802"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1812"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>MXCSR レジスタのビット 6 (DAZ) は、SIMD 浮動小数点の非正規化オペランド条件に対するプロセッサの応答を制御する非正規化数ゼロ モードを有効にします。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>MXCSRレジスタ(丸め制御 [RC] フィールド)のビット13および14は、SIMD浮動小数点命令の結果がどのように丸められるかを制御します。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>GetLastError() の値。この値は TEB に格納されます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1835"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation>TEB の LastStatusValue フィールドにある NTSTATUS。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1830"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1840"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>現在のスレッドのTEBには、セグメントレジスタGS (x64) のオフセットとしてアクセスできます。
 TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの情報を取得するために使用できます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1833"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1843"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>現在のスレッドのTEBには、セグメントレジスタFS (x86) のオフセットとしてアクセスできます。
 TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの情報を取得するために使用できます。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2226"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2266"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2314"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2356"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2398"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2236"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2276"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2324"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2366"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2408"/>
       <source>Unknown</source>
       <translation>不明</translation>
     </message>
@@ -16411,81 +16412,81 @@ TEBは、Win32APIを呼び出すことなく、プロセスに関する多くの
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="392"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2367"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2377"/>
       <source>Nonzero</source>
       <translation>Nonzero</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="394"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2368"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2378"/>
       <source>Zero</source>
       <translation>Zero</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="396"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2369"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2379"/>
       <source>Special</source>
       <translation>Special</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2370"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2380"/>
       <source>Empty</source>
       <translation>空</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2206"/>
       <source>Toward Zero</source>
       <translation>ゼロ方向丸め</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2197"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2207"/>
       <source>Toward Positive</source>
       <translation>正方向丸め</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2198"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2208"/>
       <source>Toward Negative</source>
       <translation>負方向丸め</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2199"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2239"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2209"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2249"/>
       <source>Round Near</source>
       <translation>最近接丸め</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2236"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2246"/>
       <source>Truncate</source>
       <translation>切り捨て</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2237"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2247"/>
       <source>Round Up</source>
       <translation>切り上げ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2238"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2248"/>
       <source>Round Down</source>
       <translation>切り下げ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2325"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2335"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2326"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2336"/>
       <source>Not Used</source>
       <translation>未使用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2327"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2337"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2328"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2338"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>

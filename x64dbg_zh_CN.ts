@@ -15899,224 +15899,224 @@ Do you want to apply these patches anyway?</source>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2752"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2762"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation>这台电脑不支持AVX-512。
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="990"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1000"/>
       <source>Registers</source>
       <translation>寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1410"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1420"/>
       <source>Copy value</source>
       <translation>复制值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1411"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1421"/>
       <source>Copy floating point value</source>
       <translation>复制浮点数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1412"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
       <source>Copy Symbol Value</source>
       <translation>复制符号</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1413"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1423"/>
       <source>Copy all registers</source>
       <translation>复制所有寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1414"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
       <source>Change view</source>
       <translation>切换视图</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1415"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
       <source>Change SIMD Register Display Mode</source>
       <translation>更改 SIMD 寄存器显示模式</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1417"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
       <source>Display ST(x)</source>
       <translation>显示 ST(x)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1418"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
       <source>Display x87rX</source>
       <translation>显示 x87rX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1419"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
       <source>Display MMX</source>
       <translation>显示 MMX</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
       <source>Hexadecimal</source>
       <translation>十六进制</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1423"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
       <source>Float</source>
       <translation>单精度浮点数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
       <source>Double</source>
       <translation>双精度浮点数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
       <source>Signed Word</source>
       <translation>有符号Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1426"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
       <source>Signed Dword</source>
       <translation>有符号Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1437"/>
       <source>Signed Qword</source>
       <translation>有符号Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1438"/>
       <source>Unsigned Word</source>
       <translation>无符号Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
       <source>Unsigned Dword</source>
       <translation>无符号Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
       <source>Unsigned Qword</source>
       <translation>无符号Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1441"/>
       <source>Hexadecimal Word</source>
       <translation>十六进制Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1442"/>
       <source>Hexadecimal Dword</source>
       <translation>十六进制Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1443"/>
       <source>Hexadecimal Qword</source>
       <translation>十六进制Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1465"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1475"/>
       <source>Always show maximum vector length</source>
       <translation>总是显示寄存器最大向量长度</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1466"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1476"/>
       <source>Always show all AVX-512 registers</source>
       <translation>总是显示所有AVX-512寄存器</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>CF (Carry flag)</source>
       <translation>CF (进位标志)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>PF (Parity flag)</source>
       <translation>PF (奇偶标志)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1666"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation>AF (辅助进位标志)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>ZF (Zero flag)</source>
       <translation>ZF (零标志)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>SF (Sign flag)</source>
       <translation>SF (符号标志)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1667"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
       <source>TF (Trap flag)</source>
       <translation>TF (陷阱标志)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
       <source>IF (Interrupt enable flag)</source>
       <translation>IF (中断启用标志)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
       <source>DF (Direction flag)</source>
       <translation>DF (方向标志)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1668"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
       <source>OF (Overflow flag)</source>
       <translation>OF (溢出标志)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>Bit #</source>
       <translation>位 #</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>Mask</source>
       <translation>掩码</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
       <source>Flag</source>
       <translation>标志位</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1691"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation>CF (第0位) : 进位标志 - 当算数运算在最高位产生了进位或借位时设置，否则清除。
 该标志也表示无符号整数运算发生了溢出。该标志也用于高精度算术。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (第2位) : 奇偶标志位 - 当结果的最低字节中1的个数为偶数时设置，否则清除。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1696"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (第4位) : 辅助进位标志位 - 当算术运算在第3位产生了进位或者借位时设置，否则清除。
 该标志位主要用于二进制编码的十进制(BCD码)算术。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1699"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1709"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (第6位) : 零标志位 - 当结果是零时设置，否则清除。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (第7位) : 符号标志位 - 设置成结果的最高位，也就是带符号数中的符号位。（0表示正数，1表示负数）</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
@@ -16124,7 +16124,7 @@ condition for signed-integer (two’s complement) arithmetic.</source>
 该标志位表示了有符号数算术（补码算术）发生了溢出情况。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
@@ -16132,248 +16132,248 @@ to auto-decrement (to process strings from high addresses to low addresses). Cle
 清除DF标志位将使得串操作指令自动递增（从低地址向高地址处理串）。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1712"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1722"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (第8位) : 跟踪标志位 - 设置可启用单步运行模式来调试程序，清除则禁用单步运行模式。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1724"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (第9位) : 中断允许标志 - 控制处理器对于可屏蔽中断的处理。
 置位可使处理器响应可屏蔽中断；清除则禁止响应可屏蔽中断。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1726"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>16位的x87控制字控制了x87 FPU的精度以及采用的舍入方法。它还包括了x87 FPU浮点运算异常掩码位。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1728"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>16位的x87 FPU状态寄存器表明了x87 FPU的当前状态。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1720"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1730"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>16位的标志字表明了8个x87浮点寄存器各自的内容。(每个浮点寄存器占两位)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1723"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1733"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>精度控制(PC)位(x87 FPU控制字的第8和9位)决定了x87 FPU浮点数计算采用的精度(64, 53 或 24位)。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1735"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>x87 FPU控制字的舍入控制(RC)位(第10和11位)控制了x87 FPU浮点运算的结果如何舍入。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1727"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1737"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>无穷控制标志 (FPU控制字的第12位) 是为了兼容英特尔 287 数学协处理器而提供的；它在后来版本的x87 FPU协处理器和IA-32处理器中没有意义。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1730"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>无效操作异常掩码(第0位)。当这个掩码位设置，它对应的异常就被屏蔽而不会发生。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1732"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>操作数不正常掩码(第2位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1734"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1744"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>浮点数被零除异常掩码(第3位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1736"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>浮点数溢出掩码(第4位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1738"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>浮点数可能发生下溢掩码(第5位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1750"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>结果不精确掩码(第6位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1743"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation>忙碌标志(第15位) 表明了FPU当前正在运行指令(B=1) 还是空闲(B=0)。B标志(第15位) 仅仅是为了兼容8087而保留的。它反映了ES标志的内容。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1750"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1752"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1756"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1758"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1762"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation>C%1状态码标志 (第%2位) 用来指示浮点数比较或运算的结果。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1754"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1764"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation>错误/异常汇总状态位(第7位)应在任何未屏蔽的异常位被设置时设置。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1756"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1766"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>堆栈错误标志(x87 FPU状态字的第6位)表明x87 FPU浮点寄存器栈发生了溢出。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1758"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1768"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>这个指针指向当前x87浮点处理器寄存器栈的栈顶，被保存于x87浮点处理器状态字的第11位至第13位。这个被称为TOP(top-of-stack)的指针是一个0到7的二进制数。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1761"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation>处理器会在存在一个或多个无效的算术操作数时报告无效操作异常(第0位)。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1773"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation>处理器会在运算一个不正常的算术操作数时报告操作数不正常异常(第2位)。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1775"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation>处理器会在把有限且非零的数除以零时报告浮点数被零除异常(第3位)。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1777"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation>处理器会在舍入结果超出目标寄存器的最大表示范围时报告浮点数溢出异常(第4位)。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1769"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1779"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation>处理器会在舍入结果中指数位非零但很小时报告可能存在浮点数下溢异常(第5位)。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1781"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation>结果不准确异常(第6位)会在结果无法在目标格式中被准确表示时发生。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1774"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>32位的MXCSR寄存器保存了SIMD浮点运算的控制位与状态信息</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1776"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>第0位 (IE) : 无效操作标志；表示一个SIMD浮点异常是否曾发生过。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>第1位 (DE) : 不正常标志；表示一个SIMD浮点异常是否曾发生过。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1790"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>第2位 (ZE) : 被零除标志；表示一个SIMD浮点异常是否曾发生过。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1792"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>第3位 (OE) : 溢出标志；表示一个SIMD浮点异常是否曾发生过。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1794"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>第4位 (UE)：溢出标志；表示一个SIMD浮点异常是否曾发生过。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1796"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>第5位 (PE)：精度低标志；表示一个SIMD浮点异常是否曾发生过。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1798"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>第7位 (IM) : 无效操作掩码。当这个掩码位设置，它对应的异常就不会触发。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1790"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1800"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>第8位 (DM) : 数值不正常掩码。当这个掩码位设置，它对应的异常就不会触发。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1792"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1802"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>第9位 (ZM) : 被零除掩码。当这个掩码位设置，它对应的异常就不会触发。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1794"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1804"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>第10位 (OM) : 堆栈上溢掩码。当这个掩码位设置，它对应的异常就不会触发。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1796"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1806"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>第11位 (UM) : 堆栈下溢掩码。当这个掩码位设置，它对应的异常就不会触发。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1798"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1808"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>第12位 (PM) : 结果不精确掩码。当这个掩码位设置，它对应的异常就不会触发。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1800"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1810"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>MXCSR寄存器的第15位 (FZ) 可启用“清除为零”模式，来控制对被屏蔽的SIMD浮点数计算下溢情况的处理。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1802"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1812"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>第6位 (DAZ) MXCSR寄存器可以启用“非正常数为零”模式，来控制处理器对于
 非正常数字作为操作数时SIMD浮点运算的处理。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>舍入控制位域[RC]位于MXCSR寄存器的第13和14位，它控制了SIMD浮点运算的结果如何舍入。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>GetLastError() 的值。该值保存于TEB。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1835"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation>保存在TEB中LastStatusValue域的NTSTATUS值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1830"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1840"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>当前线程的 TEB 可以以 GS (x64) 段寄存器的偏移地址访问。TEB 可以无需调用 Win32 API 就得到大量的有关进程的信息。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1833"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1843"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>当前线程的 TEB 可以以 FS (x86) 段寄存器的偏移地址访问。TEB 可以无需调用 Win32 API 就得到大量的有关进程的信息。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2226"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2266"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2314"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2356"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2398"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2236"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2276"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2324"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2366"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2408"/>
       <source>Unknown</source>
       <translation>未知</translation>
     </message>
@@ -16382,81 +16382,81 @@ The TEB can be used to get a lot of information on the process without calling W
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="392"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2367"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2377"/>
       <source>Nonzero</source>
       <translation>非零</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="394"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2368"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2378"/>
       <source>Zero</source>
       <translation>零</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="396"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2369"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2379"/>
       <source>Special</source>
       <translation>特殊</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2370"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2380"/>
       <source>Empty</source>
       <translation>空</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2196"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2206"/>
       <source>Toward Zero</source>
       <translation>向零</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2197"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2207"/>
       <source>Toward Positive</source>
       <translation>向上</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2198"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2208"/>
       <source>Toward Negative</source>
       <translation>向下</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2199"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2239"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2209"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2249"/>
       <source>Round Near</source>
       <translation>向最近偶数</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2236"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2246"/>
       <source>Truncate</source>
       <translation>截断</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2237"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2247"/>
       <source>Round Up</source>
       <translation>向上舍入</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2238"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2248"/>
       <source>Round Down</source>
       <translation>向下舍入</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2325"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2335"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2326"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2336"/>
       <source>Not Used</source>
       <translation>未使用</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2327"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2337"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2328"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2338"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
