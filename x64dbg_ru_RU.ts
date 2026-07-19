@@ -10984,17 +10984,17 @@ Do you want to continue debugging?</source>
       <translation>Загрузка отладочных символов %s завершена за %.03f с.</translation>
     </message>
     <message>
-      <location filename="src/dbg/testing.cpp" line="123"/>
+      <location filename="src/dbg/testing.cpp" line="132"/>
       <source>[x64dbg-test] testassert requires -testing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/testing.cpp" line="147"/>
+      <location filename="src/dbg/testing.cpp" line="156"/>
       <source>[x64dbg-test] testfinalize requires -testing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/testing.cpp" line="193"/>
+      <location filename="src/dbg/testing.cpp" line="203"/>
       <source>Usage: settingset section, key[, value]</source>
       <translation type="unfinished"/>
     </message>
@@ -18266,14 +18266,14 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <name>TraceBrowser</name>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="18"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="861"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="885"/>
       <source>Index</source>
       <translation>Индекс</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="19"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
       <source>Address</source>
       <translation>Адрес</translation>
     </message>
@@ -18284,7 +18284,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="21"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="859"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
       <source>Disassembly</source>
       <translation>Дизассемблированный код</translation>
     </message>
@@ -18304,293 +18304,293 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>Комментарии</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="88"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="89"/>
       <source>Start trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="89"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="90"/>
       <source>Trace recording file</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="90"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="91"/>
       <source>Trace recordings (*%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="98"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1723"/>
       <source>Error</source>
       <translation>Ошибка</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="98"/>
       <source>File name contains invalid character.</source>
       <translation>Имя файла содержит недопустимый символ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="293"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="294"/>
       <source>An error occurred when reading trace file (reason: %1).
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="851"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
       <source>&amp;Selection</source>
       <translation>&amp;Выделение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
       <source>Selection to &amp;File</source>
       <translation>Выбранное в &amp;Файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
       <source>Selection (&amp;No Bytes)</source>
       <translation>Выделение (&amp;без байт)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
       <source>Selection to File (No Bytes)</source>
       <translation>Выделение в файл (нет байт)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
       <source>&amp;Export Table</source>
       <translation>&amp;Экспортировать таблицу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
       <source>&amp;RVA</source>
       <translation>&amp;RVA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="859"/>
       <source>&amp;File Offset</source>
       <translation>&amp;Смещение файла</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="862"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="863"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копировать</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="864"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="865"/>
       <source>&amp;Follow in Dump</source>
       <translation>&amp;Перейти к дампу</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="871"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="872"/>
       <source>&amp;Highlighting mode</source>
       <translation>Режим &amp;подсветки</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="872"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="873"/>
       <source>Help on mnemonic</source>
       <translation>Справка по мнемонике</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="873"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="879"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="874"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="880"/>
       <source>Show mnemonic brief</source>
       <translation>Показать краткое описание мнемоники</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="877"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="878"/>
       <source>Hide mnemonic brief</source>
       <translation>Скрыть краткое описание мнемоники</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="883"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
       <source>Expression</source>
       <translation>Выражение</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="885"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="886"/>
       <source>Function return</source>
       <translation>Возврат функции</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="886"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="887"/>
       <source>Previous</source>
       <translation>Предыдущий шаг</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="890"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="891"/>
       <source>Next</source>
       <translation>Следующий шаг</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="894"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="895"/>
       <source>Go to</source>
       <translation>Перейти</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="896"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="897"/>
       <source>xrefs...</source>
       <translation>Перекрестные ссылки...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
       <source>Address/Constant</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
       <source>Memory Reference</source>
       <translation>Ссылки на память</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="902"/>
       <source>&amp;Intermodular Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="902"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="903"/>
       <source>&amp;All Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="903"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="904"/>
       <source>&amp;Search</source>
       <translation>&amp;Поиск</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="933"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="934"/>
       <source>Information</source>
       <translation>Информация</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="935"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="936"/>
       <source>Sync with CPU</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="941"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="953"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="942"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="954"/>
       <source>Start recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="948"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="949"/>
       <source>Stop recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
       <source>Close recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
       <source>Close the trace file tab, and stop recording trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1377"/>
       <source>Delete recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="962"/>
       <source>Delete the trace file from disk, and stop recording trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="962"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="963"/>
       <source>Browse in Explorer</source>
       <translation>Показать в Проводнике</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="963"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="964"/>
       <source>Open the trace file in Explorer.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1339"/>
       <source>Open trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1339"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1340"/>
       <source>Trace recording</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1340"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1341"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1377"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1443"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
       <source>Address not found in trace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1455"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1447"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1456"/>
       <source>The address %1 is not found in trace.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1447"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1717"/>
       <source>Open File</source>
       <translation>Открыть файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1717"/>
       <source>Text Files (*.txt)</source>
       <translation>Текстовые файлы (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1723"/>
       <source>Could not open file</source>
       <translation>Невозможно открыть файл</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1812"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1837"/>
       <source>Error!</source>
       <translation>Ошибка!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1812"/>
       <source>Selection not in a module...</source>
       <translation>Выделенное не в модуле...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1837"/>
       <source>Selection not in a file...</source>
       <translation>Выделение вне файла...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1935"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1936"/>
       <source>Constant</source>
       <translation>Константа</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1942"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1968"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1943"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1959"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1969"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation>%1 результат(-ов) в %2ms
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1949"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1950"/>
       <source>References</source>
       <translation>Ссылки</translation>
     </message>

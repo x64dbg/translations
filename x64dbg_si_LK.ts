@@ -11012,17 +11012,17 @@ Do you want to continue debugging?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/testing.cpp" line="123"/>
+      <location filename="src/dbg/testing.cpp" line="132"/>
       <source>[x64dbg-test] testassert requires -testing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/testing.cpp" line="147"/>
+      <location filename="src/dbg/testing.cpp" line="156"/>
       <source>[x64dbg-test] testfinalize requires -testing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/testing.cpp" line="193"/>
+      <location filename="src/dbg/testing.cpp" line="203"/>
       <source>Usage: settingset section, key[, value]</source>
       <translation type="unfinished"/>
     </message>
@@ -18282,14 +18282,14 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <name>TraceBrowser</name>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="18"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="861"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="885"/>
       <source>Index</source>
       <translation>දර්ශකය</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="19"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
       <source>Address</source>
       <translation>ලිපිනය</translation>
     </message>
@@ -18300,7 +18300,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="21"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="859"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="860"/>
       <source>Disassembly</source>
       <translation>විසුරුවීම</translation>
     </message>
@@ -18320,294 +18320,294 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>අදහස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="88"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="89"/>
       <source>Start trace recording</source>
       <translation>හෝඩුවාවන් පටිගත කිරීම ආරම්භ කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="89"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="90"/>
       <source>Trace recording file</source>
       <translation>පටිගත කිරීමේ ගොනුව හඹා යන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="90"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="91"/>
       <source>Trace recordings (*%1);;All files (*.*)</source>
       <translation>පටිගත කිරීම් අනුරේඛනය කරන්න (*%1);;සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="98"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1723"/>
       <source>Error</source>
       <translation>දෝෂය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="97"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="98"/>
       <source>File name contains invalid character.</source>
       <translation>ගොනු නාමයට වලංගු නොවන අක්ෂර අඩංගු වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="293"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="294"/>
       <source>An error occurred when reading trace file (reason: %1).
 </source>
       <translation>හෝඩුවාවන් ගොනුව කියවීමේදී දෝෂයක් ඇති විය (හේතුව: %1).
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="851"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
       <source>&amp;Selection</source>
       <translation>සහ තේරීම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="852"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
       <source>Selection to &amp;File</source>
       <translation>&amp;ගොනුවට තෝරා ගැනීම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="853"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
       <source>Selection (&amp;No Bytes)</source>
       <translation>තේරීම (&amp;බයිට් නැත)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="854"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
       <source>Selection to File (No Bytes)</source>
       <translation>ගොනුවට තෝරා ගැනීම (බයිට් නැත)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="855"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="856"/>
       <source>&amp;Export Table</source>
       <translation>සහ අපනයන වගුව</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="857"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
       <source>&amp;RVA</source>
       <translation>&amp;ආර්වීඒ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="858"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="859"/>
       <source>&amp;File Offset</source>
       <translation>&amp; ඕෆ්සෙට් ගොනුව</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="862"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="863"/>
       <source>&amp;Copy</source>
       <translation>&amp;පිටපත්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="864"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="865"/>
       <source>&amp;Follow in Dump</source>
       <translation>&amp; ඩම්ප් තුළ අනුගමනය කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="871"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="872"/>
       <source>&amp;Highlighting mode</source>
       <translation>සහ ඉස්මතු මාදිලිය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="872"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="873"/>
       <source>Help on mnemonic</source>
       <translation>mnemonic මත උදව්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="873"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="879"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="874"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="880"/>
       <source>Show mnemonic brief</source>
       <translation>සංක්ෂිප්ත පෙන්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="877"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="878"/>
       <source>Hide mnemonic brief</source>
       <translation>mnemonic කෙටි සඟවන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="883"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="884"/>
       <source>Expression</source>
       <translation>ප්‍රකාශ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="885"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="886"/>
       <source>Function return</source>
       <translation>කාර්යය ආපසු</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="886"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="887"/>
       <source>Previous</source>
       <translation>පෙර</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="890"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="891"/>
       <source>Next</source>
       <translation>ඊළඟ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="894"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="895"/>
       <source>Go to</source>
       <translation>වෙත යන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="896"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="897"/>
       <source>xrefs...</source>
       <translation>xrefs...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="899"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
       <source>Address/Constant</source>
       <translation>ලිපිනය/නිරන්තර</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="900"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
       <source>Memory Reference</source>
       <translation>මතක විමර්ශන</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="901"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="902"/>
       <source>&amp;Intermodular Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="902"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="903"/>
       <source>&amp;All Calls</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="903"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="904"/>
       <source>&amp;Search</source>
       <translation>&amp;සොයන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="933"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="934"/>
       <source>Information</source>
       <translation>තොරතුරු</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="935"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="936"/>
       <source>Sync with CPU</source>
       <translation>CPU සමඟ සමමුහුර්ත කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="941"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="953"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="942"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="954"/>
       <source>Start recording</source>
       <translation>පටිගත කිරීම ආරම්භ කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="948"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="949"/>
       <source>Stop recording</source>
       <translation>පටිගත කිරීම නවත්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="958"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
       <source>Close recording</source>
       <translation>පටිගත කිරීම වසන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="959"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
       <source>Close the trace file tab, and stop recording trace.</source>
       <translation>හෝඩුවාවක් ගොනු ටැබය වසා, හෝඩුවාවක් පටිගත කිරීම නවත්වන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="960"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1377"/>
       <source>Delete recording</source>
       <translation>පටිගත කිරීම මකන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="961"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="962"/>
       <source>Delete the trace file from disk, and stop recording trace.</source>
       <translation>තැටියෙන් හෝඩුවාවක් ගොනුව මකා දමා, හෝඩුවාවක් පටිගත කිරීම නවත්වන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="962"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="963"/>
       <source>Browse in Explorer</source>
       <translation>එක්ස්ප්ලෝරර් තුළ පිරික්සන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="963"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="964"/>
       <source>Open the trace file in Explorer.</source>
       <translation>එක්ස්ප්ලෝරර් හි හෝඩුවාවන් ගොනුව විවෘත කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1338"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1339"/>
       <source>Open trace recording</source>
       <translation>හෝඩුවාවන් පටිගත කිරීම විවෘත කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1339"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1340"/>
       <source>Trace recording</source>
       <translation>හෝඩුවාවන් පටිගත කිරීම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1340"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1341"/>
       <source>Trace recordings (*.%1);;All files (*.*)</source>
       <translation>පටිගත කිරීම් අනුරේඛනය කරන්න (*.%1);;සියලුම ගොනු (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1376"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1377"/>
       <source>Are you sure you want to delete this recording?</source>
       <translation>ඔබට මෙම පටිගත කිරීම මැකීමට අවශ්‍ය බව ඔබට විශ්වාසද?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1443"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1444"/>
       <source>Address not found in trace</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1455"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1447"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1456"/>
       <source>The address %1 is not found in trace.</source>
       <translation>%1 ලිපිනය හෝඩුවාවේ දක්නට නොලැබේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1446"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1447"/>
       <source>Do you want to follow in CPU instead?</source>
       <translation>ඒ වෙනුවට ඔබට CPU අනුගමනය කිරීමට අවශ්‍යද?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1717"/>
       <source>Open File</source>
       <translation>ගොනුව විවෘත කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1716"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1717"/>
       <source>Text Files (*.txt)</source>
       <translation>පෙළ ගොනු (*.txt)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1722"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1723"/>
       <source>Could not open file</source>
       <translation>ගොනුව විවෘත කළ නොහැක</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1812"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1837"/>
       <source>Error!</source>
       <translation>දෝෂය!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1811"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1812"/>
       <source>Selection not in a module...</source>
       <translation>මොඩියුලයක් තුළ තෝරා ගැනීම...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1836"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1837"/>
       <source>Selection not in a file...</source>
       <translation>ගොනුවක නොතේරීම...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1935"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1936"/>
       <source>Constant</source>
       <translation>නිරන්තර</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1942"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1958"/>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1968"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1943"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1959"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1969"/>
       <source>%1 result(s) in %2ms
 </source>
       <translation>%1 ප්රතිඵලය (s) %2ms
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1949"/>
+      <location filename="src/gui/Src/Tracer/TraceBrowser.cpp" line="1950"/>
       <source>References</source>
       <translation>යොමු කිරීම්</translation>
     </message>
