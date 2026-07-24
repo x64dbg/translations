@@ -100,7 +100,7 @@
   <context>
     <name>AbstractTableView</name>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="181"/>
+      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="184"/>
       <source>Edit columns</source>
       <translation>Editar columnas</translation>
     </message>
@@ -11358,6 +11358,14 @@ Do you want me to fix this?</source>
     </message>
   </context>
   <context>
+    <name>DataTable</name>
+    <message>
+      <location filename="src/cross/hex_viewer/DataTable.cpp" line="9"/>
+      <source>Data Inspector</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
     <name>DbgAdapter</name>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="238"/>
@@ -11378,22 +11386,22 @@ Do you want me to fix this?</source>
   <context>
     <name>DebugStatusLabel</name>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="8"/>
       <source>Initialized</source>
       <translation>Inicializado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
       <source>Paused</source>
       <translation>Pausado</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
       <source>Running</source>
       <translation>Ejecutando</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="12"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
       <source>Terminated</source>
       <translation>Terminado</translation>
     </message>
@@ -13562,7 +13570,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="145"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>Hilos</translation>
@@ -13691,7 +13699,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>Pila de llamadas</translation>
@@ -14401,65 +14409,84 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="131"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="130"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="132"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
       <source>Log</source>
       <translation>Log</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <source>Breakpoints view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
       <source>Breakpoints</source>
       <translation>Breakpoints</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <source>Memory map view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
       <translation>Mapa de memoria</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <source>Call stack view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="145"/>
       <source>Threads view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="168"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="154"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1977"/>
+      <source>Disassembly</source>
+      <translation>Desensamblar</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="156"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1980"/>
+      <source>Dump</source>
+      <translation>Volcado</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="158"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1983"/>
+      <source>Stack</source>
+      <translation>Pila</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="172"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="176"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="180"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="221"/>
       <source>Open ELF Binary</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="221"/>
       <source>All Files (*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="251"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="255"/>
       <source>Running</source>
       <translation>Ejecutando</translation>
     </message>
@@ -14609,21 +14636,6 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1354"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>Ejecutables (*.exe *.dll);;Todos los archivos (*. *)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1977"/>
-      <source>Disassembly</source>
-      <translation>Desensamblar</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1980"/>
-      <source>Dump</source>
-      <translation>Volcado</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1983"/>
-      <source>Stack</source>
-      <translation>Pila</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2096"/>
@@ -15165,59 +15177,82 @@ Rellena tanta información como te sea posible.</translation>
     </message>
   </context>
   <context>
+    <name>MiniDisassembly</name>
+    <message>
+      <location filename="src/cross/minidump/MiniDisassembly.cpp" line="11"/>
+      <source>Disassembly</source>
+      <translation>Desensamblar</translation>
+    </message>
+  </context>
+  <context>
     <name>MiniHexDump</name>
     <message>
-      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="35"/>
-      <location filename="src/cross/minidump/MiniHexDump.cpp" line="33"/>
+      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="9"/>
+      <source>Hex Dump</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="36"/>
+      <location filename="src/cross/minidump/MiniHexDump.cpp" line="34"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="43"/>
-      <location filename="src/cross/minidump/MiniHexDump.cpp" line="41"/>
+      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="44"/>
+      <location filename="src/cross/minidump/MiniHexDump.cpp" line="42"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniHexDump.cpp" line="9"/>
+      <source>Dump</source>
+      <translation>Volcado</translation>
     </message>
   </context>
   <context>
     <name>MiniMemoryMap</name>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="14"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="13"/>
+      <source>Memory Map</source>
+      <translation>Mapa de memoria</translation>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="16"/>
       <source>Allocation</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="15"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="17"/>
       <source>Base</source>
       <translation>Base</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="16"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="18"/>
       <source>Size</source>
       <translation>Tamaño</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="17"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="19"/>
       <source>Type</source>
       <translation>Tipo</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="18"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="20"/>
       <source>Protect</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="19"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="21"/>
       <source>Initial</source>
       <translation>Inicial</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="20"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="22"/>
       <source>State</source>
       <translation>Estado</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="21"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="23"/>
       <source>Info</source>
       <translation>Información</translation>
     </message>
@@ -15225,17 +15260,23 @@ Rellena tanta información como te sea posible.</translation>
   <context>
     <name>MiniThreads</name>
     <message>
-      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="10"/>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="14"/>
+      <source>Threads</source>
+      <translation>Hilos</translation>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="16"/>
       <source>Thread ID</source>
       <translation>ID de la Trama</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="16"/>
       <source>TEB</source>
       <translation>TEB</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="16"/>
       <source>CIP</source>
       <translation type="unfinished"/>
     </message>
@@ -15786,474 +15827,474 @@ Do you want to apply these patches anyway?</source>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2762"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2769"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1000"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1007"/>
       <source>Registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1420"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
       <source>Copy value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1421"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
       <source>Copy floating point value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
       <source>Copy Symbol Value</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1423"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
       <source>Copy all registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
       <source>Change view</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
       <source>Change SIMD Register Display Mode</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
       <source>Display ST(x)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
       <source>Display x87rX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
       <source>Display MMX</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
       <source>Hexadecimal</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1441"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1442"/>
       <source>Signed Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1443"/>
       <source>Signed Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1437"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1444"/>
       <source>Signed Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1438"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1445"/>
       <source>Unsigned Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1446"/>
       <source>Unsigned Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1447"/>
       <source>Unsigned Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1441"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1448"/>
       <source>Hexadecimal Word</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1442"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1449"/>
       <source>Hexadecimal Dword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1443"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1450"/>
       <source>Hexadecimal Qword</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1475"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1482"/>
       <source>Always show maximum vector length</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1476"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1483"/>
       <source>Always show all AVX-512 registers</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
       <source>CF (Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
       <source>PF (Parity flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>ZF (Zero flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>SF (Sign flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>TF (Trap flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
       <source>IF (Interrupt enable flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
       <source>DF (Direction flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
       <source>OF (Overflow flag)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>Bit #</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>Mask</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>Flag</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (bit 2): la paridad de la bandera - establece si el byte menos significativo del resultado contiene un número par de bits 1; de lo contrario se borra/vacía.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>AF (bit 4) : Bandera de Acarreo auxiliar - Establece que si una operación aritmética genera un acarreo o acarreo a cabo del bit 3 del resultado; de lo contrario se limpia/borra. Esta bandera es usado en binario-creados en aritmética decimal (BCD).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1709"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (bit 6): cero bandera - Set si el resultado es cero; de lo contrario es vaciado/borrado. Los bits del 0 al 6 son flags que son manejados por la FPU cuando detecta una excepción.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (bit 7): bandera de signo - establece igualdad al bit más significativo del resultado, que es el bit de signo de un entero con signo. (el 0 indica un valor positivo y 1 indica un valor negativo)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1721"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
       <translation>OF (bit 11): bandera del desbordamiento - establece si el resultado entero (integer) es un número positivo demasiado grande o demasiado pequeño a un número negativo (excepto el bit de signo) en el operando de destino; de lo contrario lo borra. Esta bandera indica una condición de desbordamiento para aritmética de enteros con signos(el complemento de dos).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
       <translation>DF (bit 10): la bandera de dirección controla las instrucciones de la cadena (MOVS, CMPS, SCAS, LODS y STOS). Establecer la bandera DF hace que las instrucciones de cadena (string) automáticamente disminuyan (las cadenas(string) de proceso de direcciones alta a/hacia direcciones bajas). Borrar la bandera DF hace que las instrucciones de cadena automáticamente incrementen (el proceso de las cadenas de direcciones bajas a direcciones altas).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1722"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1729"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>TF (bit 8): bandera de trampa - Se establece para habilitar el modo de un solo paso para la depuración; borrar para desactivar el modo de un solo paso.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1724"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1731"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IF (bit 9): interrupción habilitar bandera - controla la respuesta del procesador a las peticiones de interrupción Enmascarables. Conjunto para responder a interrupciones Enmascarables; vacío/borrado para inhibir interrupciones Enmascarables. Nota: son flags condicionales que se usan por ejemplo para comprobar el resultado de una comparación.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1726"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1733"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>Los 16 bits de x87 FPU controla la precisión de la x87 FPU y redondeo el método utilizan. También contiene la x87 FPU bits de máscara de excepción de punto flotante. Nota: la forma más sencilla de entender la pila de la x87 FPU es pensar en el cañón del revólver. Los registros ST0-ST7 serían los huecos donde se alojan las balas y las balas serían el contenido de los registros.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1728"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1735"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>Los 16 bits del registro x87 FPU indica el estado actual de la x87 FPU.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1730"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1737"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>La palabra de etiqueta de 16 bits indica el contenido de cada uno los 8 registros en el x87 FPU apilado en registro de datos (una etiqueta de 2 bits por registro).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1733"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>El campo de control de la precisión (PC) (8 bits y 9 del control de la x87 FPU) determina la precisión de (64, 53 o 24 bits) de coma flotante en cálculos realizados por el x87 FPU</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1735"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>El campo de redondeo-control (RC) de la x87 FPU controla los registros de (bits 10 y 11) como los resultados de la x87 instrucciones de punto flotante FPU donde son redondeados.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1737"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1744"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>La bandera de control infinito (bit 12 de la x87 palabra de control FPU) se proporciona por compatibilidad con el coprocesador matemático Intel 287; no es significativa para más adelante coprocesadores FPU de versión x87 o procesadores IA-32.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1747"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1744"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1751"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1750"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1756"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1758"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1762"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1769"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1764"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1766"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1773"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>La bandera de falla de la pila/stack (bit 6 de la x87 palabra de estado FPU) indica que ha ocurrido la pila desbordamiento o subdesbordamiento de pila/stack con datos en la x87 FPU de información del registro de pila/stack.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1768"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1775"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>Un puntero a la x87 FPU en el registro de datos que está actualmente en la parte superior de la x87 FPU, registro pila está contenido en bits 11 al 13. Este puntero, que se conoce comúnmente como TOP (para la parte superior de la pila), es un valor binario de 0 a 7.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1773"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1775"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1777"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1779"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1781"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>El registro MXCSR 32 bits contiene información de control y estado para operaciones de punto flotante SIMD.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1793"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 0 (IE): Bandera que indica operación no válida; indica si se ha detectado una excepción de punto flotante SIMD. Los bits del 0 al 6 son flags que son manejados por la FPU cuando detecta una excepción.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1795"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 1 (DE): Denormal bandera; indicar si se ha detectado una excepción de punto flotante SIMD. también es llamado Denormalized Exception Flag y se pone a 1 cuando se intenta operar en un "denormalized number" o el resultado de una operación es un "denormalized number". Los bits del 0 al 6 son flags que son manejados por la FPU cuando detecta una excepción.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1790"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1797"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 2 (ZE): Bandera también es llamado Zero Divide Exception Flag ; indica si se ha detectado una excepción de punto flotante SIMD. y se pone a 1 cuando se intenta dividir por 0. Los bits del 0 al 6 son flags que son manejados por la FPU cuando detecta una excepción.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1792"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1799"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 3 (OE): Desbordamiento de bandera; indicar si se ha detectado una excepción de punto flotante SIMD. El campo OE corresponde al bit 3, también es llamado Overflow Exception Flag y se pone a 1 cuando un valor es demasiado grande para poder ser representado.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1794"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1801"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 4 (UE): Bandera de desbordamiento de capacidad inferior; indicar si se ha detectado una excepción de punto flotante SIMD. también es llamado Underflow Exception Flag y se pone a 1 cuando un valor es demasiado pequeño para poder ser representado. Los bits del 0 al 6 son flags que son manejados por la FPU cuando detecta una excepción.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1796"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1803"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 5 (PE): Bandera de precisión; indicar si se ha detectado una excepción de punto flotante SIMD. también es llamado Precision Exception Flag y se pone a 1 cuando la precisión se ha perdido en alguna instrucción aritmética. Los bits del 0 al 6 son flags que son manejados por la FPU cuando detecta una excepción.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1798"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1800"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1807"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1802"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1809"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1804"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1811"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1806"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1813"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1808"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1810"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1817"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>Bit 15 (FZ) del registro MXCSR permite el modo de descarga a cero, que controla la respuesta de máscara a una condición de subdesbordamiento de punto flotante SIMD. El campo FZ también llamado Flush to Zero activa el modo en el que todas las operaciones donde ocurra un underflow valdrán 0. Esto hace que el tiempo de procesado sea más rápido pero se pierde precisión.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1812"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1819"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>Bit 6 (DAZ) del registro MXCSR también es llamado Denormals Are Zeros. controla la respuesta del procesador a una coma flotante SIMD. Al igual que el modo Flush To Zero (FZ) el modo DAZ es más rápido pero también pierde precisión. Si el bit 6 está activado el modo DAZ es soportado y por lo que se llama la condicion del operando DAZ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1822"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>Bits 13 y 14 del registro MXCSR (el campo de redondeo del campo de control [RC]) controlan de cómo se redondean los resultados de las instrucciones de punto flotante SIMD.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1832"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>El valor de GetLastError(). Este valor se almacena en TEB.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1835"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1842"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1840"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1847"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1843"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1850"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2236"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2276"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2324"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2366"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2408"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2243"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2283"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2331"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2373"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2415"/>
       <source>Unknown</source>
       <translation>Desconocido</translation>
     </message>
@@ -16261,82 +16302,82 @@ The TEB can be used to get a lot of information on the process without calling W
   <context>
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="392"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2377"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="393"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2384"/>
       <source>Nonzero</source>
       <translation>Distinto de cero</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="394"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2378"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2385"/>
       <source>Zero</source>
       <translation>Cero</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="396"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2379"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="397"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2386"/>
       <source>Special</source>
       <translation>Especial</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2380"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2387"/>
       <source>Empty</source>
       <translation>Vacío</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2206"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2213"/>
       <source>Toward Zero</source>
       <translation>Hacia cero</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2207"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2214"/>
       <source>Toward Positive</source>
       <translation>Hacia positivo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2208"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2215"/>
       <source>Toward Negative</source>
       <translation>Hacia el negativo</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2209"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2249"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2256"/>
       <source>Round Near</source>
       <translation>Redondear al más cercano</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2246"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2253"/>
       <source>Truncate</source>
       <translation>Truncar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2247"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2254"/>
       <source>Round Up</source>
       <translation>Redondear al alza</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2248"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2255"/>
       <source>Round Down</source>
       <translation>Redondear a la baja</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2335"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2342"/>
       <source>Real4</source>
       <translation>Real4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2336"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2343"/>
       <source>Not Used</source>
       <translation>Sin usar</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2337"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2344"/>
       <source>Real8</source>
       <translation>Real8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2338"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2345"/>
       <source>Real10</source>
       <translation>Real10</translation>
     </message>
@@ -16357,12 +16398,17 @@ The TEB can be used to get a lot of information on the process without calling W
   <context>
     <name>RemoteTable</name>
     <message>
-      <location filename="src/cross/remote_table/RemoteTable.cpp" line="19"/>
+      <location filename="src/cross/remote_table/RemoteTable.cpp" line="18"/>
+      <source>Remote Table</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/remote_table/RemoteTable.cpp" line="21"/>
       <source>Address</source>
       <translation>Dirección</translation>
     </message>
     <message>
-      <location filename="src/cross/remote_table/RemoteTable.cpp" line="20"/>
+      <location filename="src/cross/remote_table/RemoteTable.cpp" line="22"/>
       <source>Data</source>
       <translation>Datos</translation>
     </message>

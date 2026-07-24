@@ -100,7 +100,7 @@
   <context>
     <name>AbstractTableView</name>
     <message>
-      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="181"/>
+      <location filename="src/gui/Src/BasicView/AbstractTableView.cpp" line="184"/>
       <source>Edit columns</source>
       <translation>තීරු සංස්කරණය කරන්න</translation>
     </message>
@@ -11470,6 +11470,14 @@ Do you want me to fix this?</source>
     </message>
   </context>
   <context>
+    <name>DataTable</name>
+    <message>
+      <location filename="src/cross/hex_viewer/DataTable.cpp" line="9"/>
+      <source>Data Inspector</source>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+  <context>
     <name>DbgAdapter</name>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="238"/>
@@ -11490,22 +11498,22 @@ Do you want me to fix this?</source>
   <context>
     <name>DebugStatusLabel</name>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="8"/>
       <source>Initialized</source>
       <translation>ආරම්භ කරන ලද</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="9"/>
       <source>Paused</source>
       <translation>විරාම</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="10"/>
       <source>Running</source>
       <translation>ධාවනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="12"/>
+      <location filename="src/gui/Src/Gui/DebugStatusLabel.cpp" line="11"/>
       <source>Terminated</source>
       <translation>අවසන් කරන ලද</translation>
     </message>
@@ -13678,7 +13686,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="145"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>නූල්</translation>
@@ -13807,7 +13815,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>ඇමතුම් Stack</translation>
@@ -14517,65 +14525,84 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="131"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="130"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="132"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
       <source>Log</source>
       <translation>ලොග්</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <source>Breakpoints view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
       <source>Breakpoints</source>
       <translation>බිඳවැටීම්</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <source>Memory map view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
       <translation>මතක සිතියම</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <source>Call stack view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="145"/>
       <source>Threads view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="168"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="154"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1977"/>
+      <source>Disassembly</source>
+      <translation>විසුරුවීම</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="156"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1980"/>
+      <source>Dump</source>
+      <translation>ඩම්ප්</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="158"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1983"/>
+      <source>Stack</source>
+      <translation>ගොඩගසන්න</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="172"/>
       <source>Hex</source>
       <translation>හෙක්ස්</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="176"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="180"/>
       <source>ASCII</source>
       <translation>ඇසි</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="221"/>
       <source>Open ELF Binary</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="221"/>
       <source>All Files (*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="251"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="255"/>
       <source>Running</source>
       <translation>ධාවනය</translation>
     </message>
@@ -14725,21 +14752,6 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1354"/>
       <source>Executables (*.exe *.dll);;All files (*.*)</source>
       <translation>ක්රියාත්මක කිරීම් (*.exe *.dll); සියලුම ගොනු (*.*)</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1977"/>
-      <source>Disassembly</source>
-      <translation>විසුරුවීම</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1980"/>
-      <source>Dump</source>
-      <translation>ඩම්ප්</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1983"/>
-      <source>Stack</source>
-      <translation>ගොඩගසන්න</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2096"/>
@@ -15282,59 +15294,82 @@ Make sure to fill in as much information as possible.</source>
     </message>
   </context>
   <context>
+    <name>MiniDisassembly</name>
+    <message>
+      <location filename="src/cross/minidump/MiniDisassembly.cpp" line="11"/>
+      <source>Disassembly</source>
+      <translation>විසුරුවීම</translation>
+    </message>
+  </context>
+  <context>
     <name>MiniHexDump</name>
     <message>
-      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="35"/>
-      <location filename="src/cross/minidump/MiniHexDump.cpp" line="33"/>
+      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="9"/>
+      <source>Hex Dump</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="36"/>
+      <location filename="src/cross/minidump/MiniHexDump.cpp" line="34"/>
       <source>Hex</source>
       <translation>හෙක්ස්</translation>
     </message>
     <message>
-      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="43"/>
-      <location filename="src/cross/minidump/MiniHexDump.cpp" line="41"/>
+      <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="44"/>
+      <location filename="src/cross/minidump/MiniHexDump.cpp" line="42"/>
       <source>ASCII</source>
       <translation>ඇසි</translation>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniHexDump.cpp" line="9"/>
+      <source>Dump</source>
+      <translation>ඩම්ප්</translation>
     </message>
   </context>
   <context>
     <name>MiniMemoryMap</name>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="14"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="13"/>
+      <source>Memory Map</source>
+      <translation>මතක සිතියම</translation>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="16"/>
       <source>Allocation</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="15"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="17"/>
       <source>Base</source>
       <translation>මූලික</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="16"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="18"/>
       <source>Size</source>
       <translation>ප්රමාණය</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="17"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="19"/>
       <source>Type</source>
       <translation>වර්ගය</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="18"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="20"/>
       <source>Protect</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="19"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="21"/>
       <source>Initial</source>
       <translation>ආරම්භක</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="20"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="22"/>
       <source>State</source>
       <translation>රාජ්ය</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="21"/>
+      <location filename="src/cross/minidump/MiniMemoryMap.cpp" line="23"/>
       <source>Info</source>
       <translation>තොරතුරු</translation>
     </message>
@@ -15342,17 +15377,23 @@ Make sure to fill in as much information as possible.</source>
   <context>
     <name>MiniThreads</name>
     <message>
-      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="10"/>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="14"/>
+      <source>Threads</source>
+      <translation>නූල්</translation>
+    </message>
+    <message>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="16"/>
       <source>Thread ID</source>
       <translation>නූල් හැඳුනුම්පත</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="16"/>
       <source>TEB</source>
       <translation>ටීබ්</translation>
     </message>
     <message>
-      <location filename="src/cross/minidump/MiniThreads.cpp" line="13"/>
+      <location filename="src/cross/minidump/MiniThreads.cpp" line="16"/>
       <source>CIP</source>
       <translation type="unfinished"/>
     </message>
@@ -15907,225 +15948,225 @@ Do you want to apply these patches anyway?</source>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2762"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2769"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation>මෙම පරිගණකයේ AVX-512 සඳහා සහය නොදක්වයි.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1000"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1007"/>
       <source>Registers</source>
       <translation>ලේඛණ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1420"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
       <source>Copy value</source>
       <translation>පිටපත් අගය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1421"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
       <source>Copy floating point value</source>
       <translation>පාවෙන ලක්ෂ්ය අගය පිටපත්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1422"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
       <source>Copy Symbol Value</source>
       <translation>පිටපත් සංකේත අගය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1423"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1430"/>
       <source>Copy all registers</source>
       <translation>සියලුම ලේඛන පිටපත් කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1424"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1431"/>
       <source>Change view</source>
       <translation>දැක්ම වෙනස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1425"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
       <source>Change SIMD Register Display Mode</source>
       <translation>SIMD ලියාපදිංචි පෙන්වන්න ප්රකාරය වෙනස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1427"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
       <source>Display ST(x)</source>
       <translation>ටී. සංදර්ශකය (x)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1428"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
       <source>Display x87rX</source>
       <translation>X87RX සංදර්ශකය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1429"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
       <source>Display MMX</source>
       <translation>MMX සංදර්ශකය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1432"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
       <source>Hexadecimal</source>
       <translation>හෙක්සාඩෙසිමල්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1433"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
       <source>Float</source>
       <translation>පාවෙන</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1434"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1441"/>
       <source>Double</source>
       <translation>ද්විත්ව</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1435"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1442"/>
       <source>Signed Word</source>
       <translation>අත්සන් කළ වචනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1436"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1443"/>
       <source>Signed Dword</source>
       <translation>අත්සන් කළ ඩ්වර්ඩ්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1437"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1444"/>
       <source>Signed Qword</source>
       <translation>අත්සන් කළ Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1438"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1445"/>
       <source>Unsigned Word</source>
       <translation>අත්සන් නොකළ වචනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1439"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1446"/>
       <source>Unsigned Dword</source>
       <translation>අත්සන් නොකළ ඩ්වර්ඩ්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1440"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1447"/>
       <source>Unsigned Qword</source>
       <translation>අත්සන් නොකළ Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1441"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1448"/>
       <source>Hexadecimal Word</source>
       <translation>හෙක්සාඩෙසිමල් වචනය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1442"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1449"/>
       <source>Hexadecimal Dword</source>
       <translation>හෙක්සාඩෙසිමල් ඩ්වර්ඩ්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1443"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1450"/>
       <source>Hexadecimal Qword</source>
       <translation>හෙක්සාඩෙසිමල් Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1475"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1482"/>
       <source>Always show maximum vector length</source>
       <translation>සෑම විටම උපරිම දෛශික දිග පෙන්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1476"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1483"/>
       <source>Always show all AVX-512 registers</source>
       <translation>සෑම විටම සියලුම AVX-512 රෙජිස්ටර් පෙන්වන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
       <source>CF (Carry flag)</source>
       <translation>CF (රැගෙන යන ධජය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
       <source>PF (Parity flag)</source>
       <translation>PF (සමාන්තර ධජය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1676"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1683"/>
       <source>AF (Auxiliary Carry flag)</source>
       <translation>AF (සහායක රැගෙන යාමේ ධජය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>ZF (Zero flag)</source>
       <translation>ZF (ශුන්‍ය ධජය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>SF (Sign flag)</source>
       <translation>SF (සංඥා කොඩිය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1677"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1684"/>
       <source>TF (Trap flag)</source>
       <translation>TF (උගුල් කොඩිය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
       <source>IF (Interrupt enable flag)</source>
       <translation>IF (බාධා කිරීම් සක්‍රීය ධජය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
       <source>DF (Direction flag)</source>
       <translation>DF (දිශා ධජය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1678"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1685"/>
       <source>OF (Overflow flag)</source>
       <translation>OF (පිටාර ගැලීමේ ධජය)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>Bit #</source>
       <translation>බිට් #</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>Mask</source>
       <translation>මාස්ක්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1694"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
       <source>Flag</source>
       <translation>කොඩිය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1701"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1708"/>
       <source>CF (bit 0) : Carry flag - Set if an arithmetic operation generates a carry or a borrow out of the most-significant bit of the result; cleared otherwise.
 This flag indicates an overflow condition for unsigned-integer arithmetic. It is also used in multiple-precision arithmetic.</source>
       <translation>CF (bit 0) : Carry flag - අංක ගණිතමය මෙහෙයුමක් මඟින් ප්‍රතිඵලයේ වඩාත්ම වැදගත් bit එකෙන් carry එකක් හෝ loan එකක් ජනනය කරන්නේ නම් සකසන්න; එසේ නොමැතිනම් හිස් කරන්න.
 මෙම flag එක අත්සන් නොකළ-පූර්ණ සංඛ්‍යාංක අංක ගණිතය සඳහා පිටාර ගැලීමේ තත්වයක් දක්වයි. එය බහු-නිරවද්‍යතා අංක ගණිතයේ ද භාවිතා වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1704"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
       <source>PF (bit 2) : Parity flag - Set if the least-significant byte of the result contains an even number of 1 bits; cleared otherwise.</source>
       <translation>PF (bit 2): Parity කොඩිය - ප්රතිඵලයේ අවසාන වැදගත් බයිට බිටු 1 ක සංඛ්යාවක් අඩංගු වේ නම් සකසන්න; වෙනත් ආකාරයකින් ඉවත් කර ඇත.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1706"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1713"/>
       <source>AF (bit 4) : Auxiliary Carry flag - Set if an arithmetic operation generates a carry or a borrow out of bit
 3 of the result; cleared otherwise. This flag is used in binary-coded decimal (BCD) arithmetic.</source>
       <translation>ගුවන් හමුදා (bit 4): සහායක කැරී ධජය - අංක ගණිතමය මෙහෙයුම ප්රතිඵලයක් බිට්
 3 පිටතට ගෙන හෝ ණයට ජනනය නම් සකසන්න; වෙනත් ආකාරයකින් ඉවත් කර ඇත. මෙම ධජය ද්වි-කේතනය දශම (බීසීඩී) අංක ගණිතයෙහි භාවිතා වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1709"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1716"/>
       <source>ZF (bit 6) : Zero flag - Set if the result is zero; cleared otherwise.</source>
       <translation>ZF (bit 6): ශුන්ය ධජය - ප්රතිඵලය ශුන්ය නම් සකසන්න; වෙනත් ආකාරයකින් ඉවත් කර ඇත.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1711"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
       <source>SF (bit 7) : Sign flag - Set equal to the most-significant bit of the result, which is the sign bit of a signed
 integer. (0 indicates a positive value and 1 indicates a negative value.)</source>
       <translation>SF (bit 7): සංඥා ධජය - අත්සන් කරන ලද
 නිඛිලනයක සං sign ා බිට් වන ප්රතිඵලයේ වඩාත්ම වැදගත් බිට් එකට සමාන සකසන්න. (0 ධනාත්මක අගයක් පෙන්නුම් කරන අතර 1 ඍණ අගයක් දක්වයි.)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1714"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1721"/>
       <source>OF (bit 11) : Overflow flag - Set if the integer result is too large a positive number or too small a negative
 number (excluding the sign-bit) to fit in the destination operand; cleared otherwise. This flag indicates an overflow
 condition for signed-integer (two’s complement) arithmetic.</source>
@@ -16134,7 +16175,7 @@ condition for signed-integer (two’s complement) arithmetic.</source>
 කොන්දේසියක් දක්වයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1718"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1725"/>
       <source>DF (bit 10) : The direction flag controls string instructions (MOVS, CMPS, SCAS, LODS, and STOS). Setting the DF flag causes the string instructions
 to auto-decrement (to process strings from high addresses to low addresses). Clearing the DF flag causes the string instructions to auto-increment
 (process strings from low addresses to high addresses).</source>
@@ -16143,253 +16184,253 @@ to auto-decrement (to process strings from high addresses to low addresses). Cle
 (අඩු ලිපින සිට ඉහළ ලිපින දක්වා ක්රියාවලිය නූල්).</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1722"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1729"/>
       <source>TF (bit 8) : Trap flag - Set to enable single-step mode for debugging; clear to disable single-step mode.</source>
       <translation>කාර්ය සාධක බලකාය (bit 8): උගුල ධජය - නිදොස්කරණය සඳහා තනි පියවර මාදිලිය සක්රීය කිරීමට සකසන්න; තනි-පියවර මාදිලිය අක්රිය කිරීමට පැහැදිලි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1724"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1731"/>
       <source>IF (bit 9) : Interrupt enable flag - Controls the response of the processor to maskable interrupt requests. Set to respond to maskable interrupts; cleared to inhibit maskable interrupts.</source>
       <translation>IR (bit 9): බාධා කරන්න ධජය සක්රීය කරන්න - වෙස් ගැන්විය හැකි බාධා ඉල්ලීම් සඳහා ප්රොසෙසරයේ ප්රතිචාරය පාලනය කරයි. maskable බාධා ප්රතිචාර කිරීමට සකසන්න; maskable බාධා තහංචි ඉවත් කර ඇත.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1726"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1733"/>
       <source>The 16-bit x87 FPU control word controls the precision of the x87 FPU and rounding method used. It also contains the x87 FPU floating-point exception mask bits.</source>
       <translation>16-bit x87 FPU පාලන වචනය භාවිතා කරන x87 FPU සහ වටකුරු ක්රමය නිරවද්යතාව පාලනය කරයි. එහි x87 FPU පාවෙන ලක්ෂ්ය ව්යතිරේක වෙස් බිටු ද අඩංගු වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1728"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1735"/>
       <source>The 16-bit x87 FPU status register indicates the current state of the x87 FPU.</source>
       <translation>16-bit x87 FPU තත්ව ලේඛනය x87 FPU හි වර්තමාන තත්වය පෙන්නුම් කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1730"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1737"/>
       <source>The 16-bit tag word indicates the contents of each the 8 registers in the x87 FPU data-register stack (one 2-bit tag per register).</source>
       <translation>16-bit ටැගය වචනය x87 FPU දත්ත-ලියාපදිංචි අඩුක්කුව (එක් එක් 2-bit ටැගය එක් එක් 2 බිට් ටැගය) එක් එක් 8 ලියාපදිංචි අන්තර්ගතය පෙන්නුම් කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1733"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
       <source>The precision-control (PC) field (bits 8 and 9 of the x87 FPU control word) determines the precision (64, 53, or 24 bits) of floating-point calculations made by the x87 FPU</source>
       <translation>නියත-පාලන (PC) ක්ෂේත්රය (x87 FPU පාලන වචනයේ 8 සහ 9 බිටු) x87 FPU විසින් කරන ලද පාවෙන ලක්ෂ්ය ගණනය කිරීම්වල නිරවද්යතාවය (64, 53, හෝ 24 බිටු) තීරණය කරයි</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1735"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
       <source>The rounding-control (RC) field of the x87 FPU control register (bits 10 and 11) controls how the results of x87 FPU floating-point instructions are rounded.</source>
       <translation>x87 FPU පාලන ලේඛනයේ වට-පාලන (RC) ක්ෂේත්රය (බිටු 10 සහ 11) x87 FPU පාවෙන ලක්ෂ්ය උපදෙස් වල ප්රති results ල වටකුරු වන ආකාරය පාලනය කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1737"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1744"/>
       <source>The infinity control flag (bit 12 of the x87 FPU control word) is provided for compatibility with the Intel 287 Math Coprocessor;
 it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.</source>
       <translation>ඉන්ටෙල් 287 ගණිත කෝප්රොසෙසරය සමඟ ගැළපුම සඳහා අනන්තය පාලන ධජය (x87 FPU පාලන වචනයේ බිට් 12) සපයනු ලැබේ;
 පසුකාලීන අනුවාදය x87 FPU කෝප්රොසෙසර හෝ IA-32 ප්රොසෙසර සඳහා එය අර්ථවත් නොවේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1740"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1747"/>
       <source>The invalid operation exception mask (bit 0). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>අවලංගු මෙහෙයුම ව්යතිරේක වෙස් (ටිකක් 0). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1742"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
       <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>ඩෙනෝමල්-ක්රියාකරු ව්යතිරේක ආවරණ (බිට් 2). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1744"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1751"/>
       <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>පාවෙන ලක්ෂ්ය බෙදීම-විසින්-ශුන්ය ව්යතිරේක ආවරණ (බිට් 3). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1746"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
       <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>පාවෙන ලක්ෂ්යය සංඛ්යාත්මක පිටාර ගැලීමේ ව්යතිරේක ආවරණ (බිට් 4). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1748"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
       <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>විභව පාවෙන ලක්ෂ්යය සංඛ්යාත්මක යට ගැලීමේ තත්ත්වය ආවරණ (බිට් 5). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1750"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
       <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>මෙම inexact-ප්රතිඵල/නිරවද්යතාවයකින් ව්යතිරේක වෙස් (බිට් 6). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
       <source>The busy flag (bit 15) indicates if the FPU is busy (B=1) while executing an instruction, or is idle (B=0).
 The B-bit (bit 15) is included for 8087 compatibility only. It reflects the contents of the ES flag.</source>
       <translation>කාර්යබහුල ධජය (බිට් 15) පෙන්නුම් කරන්නේ FPU කාර්යබහුල නම් (බී = 1) උපදෙස් ක්රියාත්මක කරන අතරතුර හෝ නිෂ්ක්රීය (බී = 0) වේ.
 B-bit (බිට් 15) 8087 ගැළපුම සඳහා පමණක් ඇතුළත් කර ඇත. එය එස් ධජයේ අන්තර්ගතය පිළිබිඹු කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1756"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1758"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1762"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1763"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1765"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1767"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1769"/>
       <source>The C%1 condition code flag (bit %2) is used to indicate the results of floating-point comparison and arithmetic operations.</source>
       <translation>C%1 තත්ව කේත ධජය (බිට් %2) පාවෙන ලක්ෂ්ය සංසන්දනය සහ අංක ගණිතමය මෙහෙයුම් ප්රතිඵල දැක්වීමට භාවිතා කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1764"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
       <source>The error/exception summary status flag (bit 7) is set when any of the unmasked exception flags are set.</source>
       <translation>දෝෂ දර්ශනය/ව්යතිරේක සාරාංශය තත්ව ධජය (බිට් 7) සකසා ඇත්තේ ඕනෑම ව්යතිරේක ධජ එකක් සකසා ඇති විට ය.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1766"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1773"/>
       <source>The stack fault flag (bit 6 of the x87 FPU status word) indicates that stack overflow or stack underflow has occurred with data
 in the x87 FPU data register stack.</source>
       <translation>මෙම අඩුක්කුව වරදක් ධජය (මෙම x87 FPU තත්ත්වය වචනය බිට් 6) මෙම x87 FPU දත්ත ලියාපදිංචි අඩුක්කුව දත්ත
 සමග අඩුක්කුව පිටාර ගැලීම හෝ අඩුක්කුව යට ගලා සිදු වී ඇති බවයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1768"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1775"/>
       <source>A pointer to the x87 FPU data register that is currently at the top of the x87 FPU register stack is contained in bits 11 through 13
 of the x87 FPU status word. This pointer, which is commonly referred to as TOP (for top-of-stack), is a binary value from 0 to 7.</source>
       <translation>දැනට x87 FPU රෙජිස්ටර් ස්ටොක් එකේ ඉහළින්ම ඇති x87 FPU දත්ත ලේඛනයට පොයින්ටර් එකක් x87 FPU තත්ව වචනයේ 13
 හරහා බිටු 11 තුල අඩංගු වේ. පොදුවේ ටොප් (ඉහළ-of-අඩුක්කුව සඳහා) ලෙස සඳහන් කරන මෙම පහිටුම් දක්වනය, 0 සිට 7 දක්වා ද්විමය අගය වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1771"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1778"/>
       <source>The processor reports an invalid operation exception (bit 0) in response to one or more invalid arithmetic operands.</source>
       <translation>ප්රොසෙසරය අවලංගු අංක ගණිතමය ක්රියාකරුවන් එකක් හෝ වැඩි ගණනකට ප්රතිචාර වශයෙන් අවලංගු මෙහෙයුම් ව්යතිරේකයක් (බිට් 0) වාර්තා කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1773"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
       <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
       <translation>අංක ගණිතමය උපදෙස් denormal operand මත ක්රියාත්මක කිරීමට උත්සාහ කරන්නේ නම් ප්රොසෙසරය denormal-operand ව්යතිරේකය (bit 2) වාර්තා කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1775"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
       <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
       <translation>පරිමිත ශුන්ය නොවන ක්රියාකරුවෙකු 0 කින් බෙදීමට උපදෙස් දෙන සෑම අවස්ථාවකම ප්රොසෙසරය පාවෙන ලක්ෂ්ය බෙදීම-විසින්-ශුන්ය ව්යතිරේකය (bit 3) වාර්තා කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1777"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
       <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
       <translation>ප්රොසෙසරය පාවෙන ලක්ෂ්ය සංඛ්යාත්මක පිටාර ගැලීම් ව්යතිරේකයක් (බිට් 4) වාර්තා කරයි උපදෙස් වල වටකුරු ප්රති result ලය ගමනාන්ත ඔපෙරැන්ඩ් වලට ගැලපෙන විශාලතම අවසර ලත් පරිමිත අගය ඉක්මවා යන සෑම අවස්ථාවකම.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1779"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
       <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
       <translation>ප්රොසෙසරය විභව පාවෙන ලක්ෂ්ය සංඛ්යාත්මක ඌන ගැලීම් තත්වයක් (බිට් 5) හඳුනා ගනී.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1781"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
       <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
       <translation>මෙහෙයුමක ප්රති result ලය ගමනාන්ත ආකෘතියේ හරියටම ප්රතිවර්තනය කළ නොහැකි නම්, අඩු ප්රතිඵල/නිරවද්යතා ව්යතිරේකය (බිට් 6) සිදු වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
       <source>The 32-bit MXCSR register contains control and status information for SIMD floating-point operations.</source>
       <translation>32-bit MXCSR ලේඛනයේ SIMD පාවෙන ලක්ෂ්ය මෙහෙයුම් සඳහා පාලනය සහ තත්ව තොරතුරු අඩංගු වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1793"/>
       <source>Bit 0 (IE) : Invalid Operation Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 0 (IE): වලංගු නොවන මෙහෙයුම් ධජය; SIMD පාවෙන ලක්ෂ්ය ව්යතිරේකයක් අනාවරණය වී තිබේද යන්න පෙන්නුම් කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1795"/>
       <source>Bit 1 (DE) : Denormal Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 1 (DE): ඩෙනෝමල් කොඩිය; SIMD පාවෙන ලක්ෂ්ය ව්යතිරේකයක් අනාවරණය වී තිබේද යන්න පෙන්නුම් කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1790"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1797"/>
       <source>Bit 2 (ZE) : Divide-by-Zero Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 2 (ZE): බෙදීම-විසින්-ශුන්ය ධජය; SIMD පාවෙන ලක්ෂ්ය ව්යතිරේකයක් අනාවරණය වී තිබේද යන්න පෙන්නුම් කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1792"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1799"/>
       <source>Bit 3 (OE) : Overflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 3 (OE): පිටාර ගැලීමේ ධජය; SIMD පාවෙන ලක්ෂ්ය ව්යතිරේකයක් අනාවරණය වී තිබේද යන්න පෙන්නුම් කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1794"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1801"/>
       <source>Bit 4 (UE) : Underflow Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 4 (UE): යටින් ගලා යන ධජය; SIMD පාවෙන ලක්ෂ්ය ව්යතිරේකයක් අනාවරණය වී තිබේද යන්න පෙන්නුම් කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1796"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1803"/>
       <source>Bit 5 (PE) : Precision Flag; indicate whether a SIMD floating-point exception has been detected.</source>
       <translation>Bit 5 (PE): නිරවද්ය ධජය; SIMD පාවෙන ලක්ෂ්ය ව්යතිරේකයක් අනාවරණය වී තිබේද යන්න පෙන්නුම් කරන්න.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1798"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1805"/>
       <source>Bit 7 (IM) : Invalid Operation Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 7 (IM): වලංගු නොවන මෙහෙයුම් Mask. වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1800"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1807"/>
       <source>Bit 8 (DM) : Denormal Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 8 (DM): Denormal Mask. වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1802"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1809"/>
       <source>Bit 9 (ZM) : Divide-by-Zero Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>බිට් 9 (ZM): බෙදීම-විසින්-ශුන්ය මාස්ක්. වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1804"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1811"/>
       <source>Bit 10 (OM) : Overflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 10 (OM): පිටාර ගැලීම Mask. වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1806"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1813"/>
       <source>Bit 11 (UM) : Underflow Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 11 (UM): යට ගැලීමක් Mask. වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1808"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
       <source>Bit 12 (PM) : Precision Mask. When the mask bit is set, its corresponding exception is blocked from being generated.</source>
       <translation>Bit 12 (අගමැති): නිරවද්යතාව Mask. වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1810"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1817"/>
       <source>Bit 15 (FZ) of the MXCSR register enables the flush-to-zero mode, which controls the masked response to a SIMD floating-point underflow condition.</source>
       <translation>MXCSR ලේඛනයේ Bit 15 (FZ) මෙම flush-to-ශුන්ය මාදිලිය හැකියාව, එය SIMD පාවෙන ලක්ෂ්ය යට ගලා තත්ත්වය වෙත වෙස් ප්රතිචාර පාලනය කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1812"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1819"/>
       <source>Bit 6 (DAZ) of the MXCSR register enables the denormals-are-zeros mode, which controls the processor’s response to a SIMD floating-point
 denormal operand condition.</source>
       <translation>මෙම MXCSR ලේඛනයේ Bit 6 (DAZ) මෙම denormals-are-zeros මාදිලිය හැකියාව, එය SIMD පාවෙන අවස්ථාවක ප්රොසෙසරය ප්රතිචාරය පාලනය කරන
 denormal operand තත්ත්වය.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1815"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1822"/>
       <source>Bits 13 and 14 of the MXCSR register (the rounding control [RC] field) control how the results of SIMD floating-point instructions are rounded.</source>
       <translation>MXCSR ලේඛනයේ බිටු 13 සහ 14 (වටකුරු පාලනය [RC] ක්ෂේත්රය) SIMD පාවෙන ලක්ෂ්ය උපදෙස් වල ප්රතිඵල වටා ඇති ආකාරය පාලනය කරයි.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1825"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1832"/>
       <source>The value of GetLastError(). This value is stored in the TEB.</source>
       <translation>GetLasterror හි වටිනාකම (). මෙම අගය TEB තුළ ගබඩා කර ඇත.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1835"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1842"/>
       <source>The NTSTATUS in the LastStatusValue field of the TEB.</source>
       <translation>TEB හි LastStusඅගය ක්ෂේත්රයේ NTstatus.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1840"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1847"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register GS (x64).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>වත්මන් නූල් TEB කාණ්ඩයේ ලියාපදිංචි GS (x64) ඕෆ්සෙට් එකක් ලෙස ප්රවේශ විය හැකිය.
 Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය පිළිබඳ බොහෝ තොරතුරු ලබා ගැනීමට TEB භාවිතා කළ හැකිය.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1843"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1850"/>
       <source>The TEB of the current thread can be accessed as an offset of segment register FS (x86).
 The TEB can be used to get a lot of information on the process without calling Win32 API.</source>
       <translation>වත්මන් නූල් TEB කොටස් ලියාපදිංචි FS (x86) ක ඕෆ්සෙට් ලෙස ප්රවේශ විය හැක.
 Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය පිළිබඳ බොහෝ තොරතුරු ලබා ගැනීමට TEB භාවිතා කළ හැකිය.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2236"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2276"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2324"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2366"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2408"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2243"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2283"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2331"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2373"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2415"/>
       <source>Unknown</source>
       <translation>නොදන්නා</translation>
     </message>
@@ -16397,82 +16438,82 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
   <context>
     <name>RegistersView_ConstantsOfRegisters</name>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="392"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2377"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="393"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2384"/>
       <source>Nonzero</source>
       <translation>නොශුන්ය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="394"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2378"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="395"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2385"/>
       <source>Zero</source>
       <translation>ශුන්ය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="396"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2379"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="397"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2386"/>
       <source>Special</source>
       <translation>විශේෂ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="398"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2380"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2387"/>
       <source>Empty</source>
       <translation>හිස්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2206"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2213"/>
       <source>Toward Zero</source>
       <translation>ශුන්ය දෙසට</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2207"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2214"/>
       <source>Toward Positive</source>
       <translation>ධනාත්මක දෙසට</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2208"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2215"/>
       <source>Toward Negative</source>
       <translation>සෘණ දෙසට</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2209"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2249"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2216"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2256"/>
       <source>Round Near</source>
       <translation>වටයේ අසල</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2246"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2253"/>
       <source>Truncate</source>
       <translation>ටන්කේට්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2247"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2254"/>
       <source>Round Up</source>
       <translation>වටය දක්වා</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2248"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2255"/>
       <source>Round Down</source>
       <translation>වටයේ ඩවුන්</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2335"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2342"/>
       <source>Real4</source>
       <translation>රියල්4</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2336"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2343"/>
       <source>Not Used</source>
       <translation>භාවිතා නොවේ</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2337"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2344"/>
       <source>Real8</source>
       <translation>රියල් 8</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2338"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2345"/>
       <source>Real10</source>
       <translation>රියල්10</translation>
     </message>
@@ -16493,12 +16534,17 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
   <context>
     <name>RemoteTable</name>
     <message>
-      <location filename="src/cross/remote_table/RemoteTable.cpp" line="19"/>
+      <location filename="src/cross/remote_table/RemoteTable.cpp" line="18"/>
+      <source>Remote Table</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/remote_table/RemoteTable.cpp" line="21"/>
       <source>Address</source>
       <translation>ලිපිනය</translation>
     </message>
     <message>
-      <location filename="src/cross/remote_table/RemoteTable.cpp" line="20"/>
+      <location filename="src/cross/remote_table/RemoteTable.cpp" line="22"/>
       <source>Data</source>
       <translation>දත්ත</translation>
     </message>
