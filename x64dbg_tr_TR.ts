@@ -13261,7 +13261,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
       <location filename="src/cross/minidump/MainWindow.ui" line="38"/>
       <location filename="src/cross/remote_table/MainWindow.ui" line="38"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="34"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="42"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="41"/>
       <source>&amp;File</source>
       <translation>&amp;Dosya</translation>
     </message>
@@ -13307,7 +13307,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="109"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="47"/>
       <source>&amp;Debug</source>
       <translation>&amp;Debug</translation>
     </message>
@@ -13377,7 +13377,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="334"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="46"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="45"/>
       <source>E&amp;xit</source>
       <translation>Çı&amp;kış</translation>
     </message>
@@ -13388,7 +13388,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="346"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="49"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
       <source>&amp;Run</source>
       <translation>&amp;Çalıştır</translation>
     </message>
@@ -13580,7 +13580,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="574"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="127"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="126"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="204"/>
       <source>CPU</source>
       <translation>CPU</translation>
@@ -13628,7 +13628,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="145"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>İş Parçacıkları</translation>
@@ -13757,7 +13757,7 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>Yığın Çağrıları</translation>
@@ -14411,145 +14411,145 @@ Bu grafiği oluşturmaya devam etmek istiyormusunuz?</translation>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="43"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="42"/>
       <source>&amp;Open...</source>
       <translation>&amp;Aç...</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="53"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="52"/>
       <source>Toggle &amp;Breakpoint</source>
       <translation>&amp;Kesme Noktası Değiştir</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="56"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="55"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="477"/>
       <source>Ready</source>
       <translation>Hazır</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="85"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="84"/>
       <source>Main Toolbar</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="92"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="91"/>
       <source>Open (Ctrl+O)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="95"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="94"/>
       <source>Restart</source>
       <translation>Yeniden Başlat</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="99"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="98"/>
       <source>Close</source>
       <translation>Kapat</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="105"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="104"/>
       <source>Run (F9)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="108"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="107"/>
       <source>Pause</source>
       <translation>Durdur</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="113"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="112"/>
       <source>Step Into (F7)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="117"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="116"/>
       <source>Step Over (F8)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="130"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="132"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="129"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="131"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
       <source>Log</source>
       <translation>Günlük</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
       <source>Breakpoints view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
       <source>Breakpoints</source>
       <translation>Kesme Noktaları</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <source>Memory map view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
       <translation>Hafıza</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
       <source>Call stack view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="145"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
       <source>Threads view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="154"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="153"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1977"/>
       <source>Disassembly</source>
       <translation>Disassembly</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="156"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="155"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1980"/>
       <source>Dump</source>
       <translation>Döküm</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="158"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="157"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1983"/>
       <source>Stack</source>
       <translation>Yığın</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="172"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="171"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="180"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="179"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="221"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="220"/>
       <source>Open ELF Binary</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="221"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="220"/>
       <source>All Files (*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="255"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="254"/>
       <source>Running</source>
       <translation>Çalışıyor</translation>
     </message>
     <message>
-      <location filename="src/cross/hex_viewer/MainWindow.cpp" line="52"/>
+      <location filename="src/cross/hex_viewer/MainWindow.cpp" line="46"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1237"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1298"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1315"/>
@@ -15889,7 +15889,7 @@ Bu yamaları yine de uygulamak istiyor musunuz?</translation>
     <name>RegistersView</name>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="315"/>
-      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2769"/>
+      <location filename="src/gui/Src/Gui/RegistersView.cpp" line="2756"/>
       <source>AVX-512 isn't supported on this computer.
 </source>
       <translation type="unfinished"/>
