@@ -11491,7 +11491,7 @@ Do you want me to fix this?</source>
     <message>
       <location filename="src/cross/hex_viewer/DataTable.cpp" line="9"/>
       <source>Data Inspector</source>
-      <translation type="unfinished"/>
+      <translation>データインスペクター</translation>
     </message>
   </context>
   <context>
@@ -15325,7 +15325,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="9"/>
       <source>Hex Dump</source>
-      <translation type="unfinished"/>
+      <translation>16進ダンプ</translation>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MiniHexDump.cpp" line="36"/>
