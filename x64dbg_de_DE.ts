@@ -6499,34 +6499,34 @@
   <context>
     <name>DBG</name>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="419"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="420"/>
       <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.
 </source>
       <translation>Die Trace-Aufnahme wurde unerwartet gestoppt, weil WriteFile() fehlgeschlagen ist. GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="554"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="563"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="555"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="564"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation>Die Trace-Aufnahme konnte nicht gestartet werden, da der Datei-Header nicht geschrieben werden kann.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="574"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
       <source>Started trace recording to file: %s
 </source>
       <translation>Track-Aufnahme in Datei gestartet: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="592"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="593"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>Die Trace-Aufzeichnungsdatei kann nicht erstellt werden. GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="603"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="604"/>
       <source>Trace recording stopped.</source>
       <translation>Trace-Aufnahme gestoppt.</translation>
     </message>

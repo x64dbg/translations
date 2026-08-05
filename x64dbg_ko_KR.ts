@@ -6496,31 +6496,31 @@
   <context>
     <name>DBG</name>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="419"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="420"/>
       <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.
 </source>
       <translation>WriteFile()이 실패하여 추적 기록이 중지되었습니다.  GetLastError() = %s.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="554"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="563"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="555"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="564"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation>파일 헤더를 쓸 수 없어 추적 기록을 시작할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="574"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
       <source>Started trace recording to file: %s
 </source>
       <translation>추적 기록을 시작한 파일: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="592"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="593"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>추적 기록 파일을 생성할 수 없습니다. GetLastError() = %s.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="603"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="604"/>
       <source>Trace recording stopped.</source>
       <translation>추적 기록이 중지되었습니다.</translation>
     </message>

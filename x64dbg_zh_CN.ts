@@ -6496,34 +6496,34 @@
   <context>
     <name>DBG</name>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="419"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="420"/>
       <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.
 </source>
       <translation>由于WriteFile() 失败，运行跟踪意外停止了。GetLastError() = %s。
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="554"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="563"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="555"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="564"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation>运行跟踪启动失败，因为无法写入文件头。</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="574"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
       <source>Started trace recording to file: %s
 </source>
       <translation>开始记录运行跟踪到文件：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="592"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="593"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>无法新建运行跟踪文件。GetLastError() = %s。
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="603"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="604"/>
       <source>Trace recording stopped.</source>
       <translation>运行跟踪已停止。</translation>
     </message>

@@ -6499,33 +6499,33 @@
   <context>
     <name>DBG</name>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="419"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="420"/>
       <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.
 </source>
       <translation>WriteFile() අසාර්ථක වූ නිසා හෝඩුවාවන් පටිගත කිරීම අනපේක්ෂිත ලෙස නතර වී ඇත. GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="554"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="563"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="555"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="564"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation>ගොනු ශීර්ෂය ලිවිය නොහැකි නිසා හෝඩුවාවන් පටිගත කිරීම ආරම්භ කිරීමට නොහැකි විය.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="574"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
       <source>Started trace recording to file: %s
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="592"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="593"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>හෝඩුවාවන් පටිගත කිරීමේ ගොනුව සෑදිය නොහැක. GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="603"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="604"/>
       <source>Trace recording stopped.</source>
       <translation>හෝඩුවාවන් පටිගත කිරීම නතර විය.</translation>
     </message>

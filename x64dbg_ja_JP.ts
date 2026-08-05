@@ -6499,34 +6499,34 @@
   <context>
     <name>DBG</name>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="419"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="420"/>
       <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.
 </source>
       <translation>WriteFile() が失敗したため、トレースの記録が予期せず停止しました。GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="554"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="563"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="555"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="564"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation>ファイル ヘッダーを書き込めないため、トレース記録を開始できませんでした。</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="574"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
       <source>Started trace recording to file: %s
 </source>
       <translation>ファイルへのトレース記録を開始 : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="592"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="593"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>トレース記録ファイルを作成できません。GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="603"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="604"/>
       <source>Trace recording stopped.</source>
       <translation>トレース記録を停止しました。</translation>
     </message>
