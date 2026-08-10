@@ -10489,68 +10489,68 @@ Do you want to continue debugging?</source>
       <translation>指令无效</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="487"/>
+      <location filename="src/dbg/module.cpp" line="488"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>模块 %s%s 的重定向块是错误的！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="503"/>
+      <location filename="src/dbg/module.cpp" line="504"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>模块 %s%s 的重定向项是错误的！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="525"/>
+      <location filename="src/dbg/module.cpp" line="526"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>重定向类型0x%02X（在模块%s%s中）是无效的！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="604"/>
+      <location filename="src/dbg/module.cpp" line="605"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>未知的CodeView签名 %08X 出现于模块 %s%s 中……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="666"/>
+      <location filename="src/dbg/module.cpp" line="667"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>跳过了不支持的调试类型 %s （在模块%s%s中）……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="673"/>
+      <location filename="src/dbg/module.cpp" line="674"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>在模块 %s%s 中没有找到任何支持的调试类型！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="816"/>
+      <location filename="src/dbg/module.cpp" line="817"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>获取模块信息（%s）时出现异常，请反馈...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="881"/>
+      <location filename="src/dbg/module.cpp" line="882"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>模块 %s%s：无效的PE文件！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1043"/>
+      <location filename="src/dbg/module.cpp" line="1044"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1096"/>
+      <location filename="src/dbg/module.cpp" line="1097"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation>从进程内存中加载模块 %s%s (无法访问)

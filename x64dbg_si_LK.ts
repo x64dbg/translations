@@ -10496,69 +10496,69 @@ Do you want to continue debugging?</source>
       <translation>වලංගු නොවන උපදෙස්</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="487"/>
+      <location filename="src/dbg/module.cpp" line="488"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>මොඩියුලය සඳහා වලංගු නොවන නැවත ස්ථානගත කිරීමේ බ්ලොක් %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="503"/>
+      <location filename="src/dbg/module.cpp" line="504"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>මොඩියුලය සඳහා වලංගු නොවන නැවත ස්ථානගත කිරීමේ ප්රවේශය %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="525"/>
+      <location filename="src/dbg/module.cpp" line="526"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>වර්ගය 0x%02Xමොඩියුලය %s%sසඳහා නීති විරෝධී නැවත ස්ථානගත කිරීමේ  !
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="604"/>
+      <location filename="src/dbg/module.cpp" line="605"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>නොදන්නා කේතවීව් අත්සන %08X මොඩියුලය සඳහා %s%s...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="666"/>
+      <location filename="src/dbg/module.cpp" line="667"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>මොඩියුලය %s%sසහාය නොදක්වන නිදොස්කරණය වර්ගය %s මඟ හැරීම...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="673"/>
+      <location filename="src/dbg/module.cpp" line="674"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>මොඩියුලයේ සහාය දක්වන නිදොස් කිරීමේ වර්ග සොයා ගත්තේ නැත %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="816"/>
+      <location filename="src/dbg/module.cpp" line="817"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>මොඩියුලය තොරතුරු ලබා ගැනීමේදී ව්යතිරේකයක් (%s), කරුණාකර වාර්තා කරන්න...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="881"/>
+      <location filename="src/dbg/module.cpp" line="882"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>මොඩියුලය %s%s: වලංගු නොවන PE ගොනුව!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1043"/>
+      <location filename="src/dbg/module.cpp" line="1044"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1096"/>
+      <location filename="src/dbg/module.cpp" line="1097"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>

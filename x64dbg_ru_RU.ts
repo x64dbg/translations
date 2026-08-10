@@ -10471,69 +10471,69 @@ Do you want to continue debugging?</source>
       <translation>неверная инструкция</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="487"/>
+      <location filename="src/dbg/module.cpp" line="488"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>Недопустимый блок перемещений для модуля %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="503"/>
+      <location filename="src/dbg/module.cpp" line="504"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>Недопустимая запись перемещений для модуля %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="525"/>
+      <location filename="src/dbg/module.cpp" line="526"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>Недопустимый тип перемещения 0x%02X для модуля %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="604"/>
+      <location filename="src/dbg/module.cpp" line="605"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>Неизвестная сигнатура CodeView %08X для модуля %s%s...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="666"/>
+      <location filename="src/dbg/module.cpp" line="667"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>Пропуск неподдерживаемого отладочного типа %s в модуле %s%s...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="673"/>
+      <location filename="src/dbg/module.cpp" line="674"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>Не найдены какие-либо поддерживаемые отладочные типы в модуле %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="816"/>
+      <location filename="src/dbg/module.cpp" line="817"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>Исключение при получении информации о модуле (%s), пожалуйста, сообщите...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="881"/>
+      <location filename="src/dbg/module.cpp" line="882"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>Модуль %s%s: некорректный PE-файл!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1043"/>
+      <location filename="src/dbg/module.cpp" line="1044"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1096"/>
+      <location filename="src/dbg/module.cpp" line="1097"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>

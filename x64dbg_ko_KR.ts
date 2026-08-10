@@ -10452,61 +10452,61 @@ Do you want to continue debugging?</source>
       <translation>잘못 된 명령어</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="487"/>
+      <location filename="src/dbg/module.cpp" line="488"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>%s%s 모듈에 대한 유효하지 않은 재배치 블록!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="503"/>
+      <location filename="src/dbg/module.cpp" line="504"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>%s%s 모듈에 대한 유효하지 않은 재배치 진입점!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="525"/>
+      <location filename="src/dbg/module.cpp" line="526"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>재배치 유형 0x%02X은 %s%s 모듈에 대해 잘못된 유형 !</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="604"/>
+      <location filename="src/dbg/module.cpp" line="605"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>%08X은 %s%s 모듈에 대해 알수없는 CodeView 서명...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="666"/>
+      <location filename="src/dbg/module.cpp" line="667"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>디버그 유형 %s은 %s%s 모듈에 지원되지 않는 유형으로 스킵...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="673"/>
+      <location filename="src/dbg/module.cpp" line="674"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>%s%s 모듈을 지원하는 디버그 유형을 찾지 못하였습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="816"/>
+      <location filename="src/dbg/module.cpp" line="817"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>모듈 정보 (%s)를 가져오는데 예외가 발생하였습니다. 문제를 보고해주세요...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="881"/>
+      <location filename="src/dbg/module.cpp" line="882"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>%s%s 모듈: 유효하지 않은 PE 파일!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1043"/>
+      <location filename="src/dbg/module.cpp" line="1044"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1096"/>
+      <location filename="src/dbg/module.cpp" line="1097"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
