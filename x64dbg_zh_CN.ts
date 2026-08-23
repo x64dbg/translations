@@ -6558,28 +6558,28 @@
       <translation>指令</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="63"/>
       <source>%u functions
 </source>
       <translation>%u 个函数
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="107"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>间接指针︰ 0x%p 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="36"/>
       <source>%u functions discovered!
 </source>
       <translation>发现了%u个函数！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="38"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>这种分析不能用在32位程序……
@@ -10489,68 +10489,68 @@ Do you want to continue debugging?</source>
       <translation>指令无效</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="488"/>
+      <location filename="src/dbg/module.cpp" line="489"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>模块 %s%s 的重定向块是错误的！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="504"/>
+      <location filename="src/dbg/module.cpp" line="505"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>模块 %s%s 的重定向项是错误的！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="526"/>
+      <location filename="src/dbg/module.cpp" line="527"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>重定向类型0x%02X（在模块%s%s中）是无效的！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="605"/>
+      <location filename="src/dbg/module.cpp" line="606"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>未知的CodeView签名 %08X 出现于模块 %s%s 中……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="667"/>
+      <location filename="src/dbg/module.cpp" line="668"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>跳过了不支持的调试类型 %s （在模块%s%s中）……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="674"/>
+      <location filename="src/dbg/module.cpp" line="675"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>在模块 %s%s 中没有找到任何支持的调试类型！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="817"/>
+      <location filename="src/dbg/module.cpp" line="818"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>获取模块信息（%s）时出现异常，请反馈...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="882"/>
+      <location filename="src/dbg/module.cpp" line="889"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>模块 %s%s：无效的PE文件！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1044"/>
+      <location filename="src/dbg/module.cpp" line="1051"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1097"/>
+      <location filename="src/dbg/module.cpp" line="1104"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation>从进程内存中加载模块 %s%s (无法访问)
@@ -10657,120 +10657,120 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="444"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="445"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
       <translation>[PLUGIN] GuiMenuAdd(%d) 失败于插件：%s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="564"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="565"/>
       <source>[PLUGIN] %s unloaded
 </source>
       <translation>[插件] %s 已经卸载
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="567"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="568"/>
       <source>[PLUGIN] %s not found
 </source>
       <translation>[插件] 找不到 %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="634"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="635"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
       <translation>[插件]已忽略顶层的插件而使用目录'plugins\%s'</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="863"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="864"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[插件]插件句柄%d无效……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="887"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="888"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[插件,%s]命令“%s”注册失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="893"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="894"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[插件,%s] 命令 "%s" 已经注册！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="920"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="921"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[插件,%s] 命令 "%s" 已经删除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="925"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="926"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[插件,%s] 命令 "%s" 删除失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1340"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1366"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1341"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1367"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[插件,%s] 表达式函数“%s”注册失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1346"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1372"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1347"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1373"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[插件,%s] 表达式函数“%s”已经注册！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1392"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1393"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[插件,%s] 表达式函数“%s”已经删除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1397"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1398"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[插件,%s] 表达式函数“%s”删除失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1411"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1412"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[插件,%s]格式函数“%s”删除失败……
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1417"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1418"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[插件,%s]格式函数“%s”已经注册！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1436"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1437"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[插件,%s] 格式函数“%s”已经删除！
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1441"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1442"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[插件,%s]格式函数“%s”删除失败……

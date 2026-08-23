@@ -6560,28 +6560,28 @@
       <translation>සීඑම්ඩී</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="63"/>
       <source>%u functions
 </source>
       <translation>%u කාර්යයන්
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="107"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>වක්ර පහිටුම් දක්වනය: 0x%p 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="36"/>
       <source>%u functions discovered!
 </source>
       <translation>%u කාර්යයන් සොයාගත්!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="38"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>විශ්ලේෂණය මේ ආකාරයේ x32 executables මත ක්රියා නොකරයි...
@@ -10496,69 +10496,69 @@ Do you want to continue debugging?</source>
       <translation>වලංගු නොවන උපදෙස්</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="488"/>
+      <location filename="src/dbg/module.cpp" line="489"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>මොඩියුලය සඳහා වලංගු නොවන නැවත ස්ථානගත කිරීමේ බ්ලොක් %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="504"/>
+      <location filename="src/dbg/module.cpp" line="505"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>මොඩියුලය සඳහා වලංගු නොවන නැවත ස්ථානගත කිරීමේ ප්රවේශය %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="526"/>
+      <location filename="src/dbg/module.cpp" line="527"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>වර්ගය 0x%02Xමොඩියුලය %s%sසඳහා නීති විරෝධී නැවත ස්ථානගත කිරීමේ  !
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="605"/>
+      <location filename="src/dbg/module.cpp" line="606"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>නොදන්නා කේතවීව් අත්සන %08X මොඩියුලය සඳහා %s%s...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="667"/>
+      <location filename="src/dbg/module.cpp" line="668"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>මොඩියුලය %s%sසහාය නොදක්වන නිදොස්කරණය වර්ගය %s මඟ හැරීම...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="674"/>
+      <location filename="src/dbg/module.cpp" line="675"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>මොඩියුලයේ සහාය දක්වන නිදොස් කිරීමේ වර්ග සොයා ගත්තේ නැත %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="817"/>
+      <location filename="src/dbg/module.cpp" line="818"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>මොඩියුලය තොරතුරු ලබා ගැනීමේදී ව්යතිරේකයක් (%s), කරුණාකර වාර්තා කරන්න...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="882"/>
+      <location filename="src/dbg/module.cpp" line="889"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>මොඩියුලය %s%s: වලංගු නොවන PE ගොනුව!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1044"/>
+      <location filename="src/dbg/module.cpp" line="1051"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1097"/>
+      <location filename="src/dbg/module.cpp" line="1104"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
@@ -10664,121 +10664,121 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="444"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="445"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
       <translation>[PLUGIN] GuimenuAdd (%d) ප්ලගිනය සඳහා අසමත් විය: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="564"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="565"/>
       <source>[PLUGIN] %s unloaded
 </source>
       <translation>[PLUGIN] %s බෑම
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="567"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="568"/>
       <source>[PLUGIN] %s not found
 </source>
       <translation>[PLUGIN] %s සොයා ගත්තේ නැත
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="634"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="635"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
       <translation>[PLUGIN] 'plugins\%s'
 නාමාවලිය වෙනුවට ඉහළ මට්ටමේ plugin නොසලකා හරිමින්</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="863"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="864"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[PLUGIN] වලංගු නොවන ප්ලගිනය හසුරුව %d...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="887"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="888"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[ප්ලගිනය, %s] විධානය "%s" ලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="893"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="894"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[ප්ලගිනය, %s] විධානය "%s" ලියාපදිංචි!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="920"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="921"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[ප්ලගිනය, %s] විධානය "%s" ලියාපදිංචි නොකළ!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="925"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="926"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[ප්ලගිනය, %s] විධානය "%s" අලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1340"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1366"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1341"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1367"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[ප්ලගිනය, %s] එක්ස්ප්රස් ශ්රිතය "%s" ලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1346"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1372"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1347"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1373"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[ප්ලගිනය, %s] ප්රකාශනය කාර්යය "%s" ලියාපදිංචි!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1392"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1393"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[ප්ලගිනය, %s] ප්රකාශ කිරීමේ කාර්යය "%s" ලියාපදිංචි නොකළ!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1397"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1398"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] එක්ස්ප්රස් ශ්රිතය "%s" ලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1411"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1412"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[ප්ලගිනය, %s] ආකෘතිය ශ්රිතය "%s" ලියාපදිංචි කිරීමට අසමත් විය...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1417"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1418"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[ප්ලගිනය, %s] ආකෘතිය ශ්රිතය "%s" ලියාපදිංචි!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1436"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1437"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[ප්ලගිනය, %s] ආකෘතිය ශ්රිතය "%s" ලියාපදිංචි නොකළ!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1441"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1442"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[ප්ලගිනය, %s] ආකෘතිය ශ්රිතය "%s" අලියාපදිංචි කිරීමට අසමත් විය...

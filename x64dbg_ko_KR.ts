@@ -6555,28 +6555,28 @@
       <translation>cmd</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="63"/>
       <source>%u functions
 </source>
       <translation>%u 함수
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="107"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>간접 포인터: 0x%p 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="36"/>
       <source>%u functions discovered!
 </source>
       <translation>%u 함수가 발견되었습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="38"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>이러한 종류의 분석은 x32실행 파일에서 작동하지 않습니다...
@@ -10452,61 +10452,61 @@ Do you want to continue debugging?</source>
       <translation>잘못 된 명령어</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="488"/>
+      <location filename="src/dbg/module.cpp" line="489"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>%s%s 모듈에 대한 유효하지 않은 재배치 블록!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="504"/>
+      <location filename="src/dbg/module.cpp" line="505"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>%s%s 모듈에 대한 유효하지 않은 재배치 진입점!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="526"/>
+      <location filename="src/dbg/module.cpp" line="527"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>재배치 유형 0x%02X은 %s%s 모듈에 대해 잘못된 유형 !</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="605"/>
+      <location filename="src/dbg/module.cpp" line="606"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>%08X은 %s%s 모듈에 대해 알수없는 CodeView 서명...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="667"/>
+      <location filename="src/dbg/module.cpp" line="668"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>디버그 유형 %s은 %s%s 모듈에 지원되지 않는 유형으로 스킵...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="674"/>
+      <location filename="src/dbg/module.cpp" line="675"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>%s%s 모듈을 지원하는 디버그 유형을 찾지 못하였습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="817"/>
+      <location filename="src/dbg/module.cpp" line="818"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>모듈 정보 (%s)를 가져오는데 예외가 발생하였습니다. 문제를 보고해주세요...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="882"/>
+      <location filename="src/dbg/module.cpp" line="889"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>%s%s 모듈: 유효하지 않은 PE 파일!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1044"/>
+      <location filename="src/dbg/module.cpp" line="1051"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1097"/>
+      <location filename="src/dbg/module.cpp" line="1104"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
@@ -10612,107 +10612,107 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="444"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="445"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
       <translation>[PLUGIN] 플러그인에 대한 GuiMenuAdd(%d) 실패: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="564"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="565"/>
       <source>[PLUGIN] %s unloaded
 </source>
       <translation>[PLUGIN] %s 언로드
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="567"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="568"/>
       <source>[PLUGIN] %s not found
 </source>
       <translation>[PLUGIN] %s 을 찾을 수 없습니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="634"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="635"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
       <translation>[PLUGIN] 최상위 플러그인을 무시하고 'plugins\%s' 디렉터리를 우선합니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="863"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="864"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[PLUGIN] 유효하지 않은 플러그인 핸들 %d...</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="887"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="888"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] 명령어 "%s" 레지스터 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="893"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="894"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[PLUGIN, %s] 명령어 "%s" 레지스터됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="920"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="921"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] 명령어 "%s" 레지스터 해제됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="925"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="926"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] 명령어 "%s" 레지스터 해제 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1340"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1366"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1341"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1367"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] 표현식 함수 "%s" 레지스터 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1346"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1372"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1347"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1373"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[PLUGIN, %s] 표현식 함수 "%s" 레지스터됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1392"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1393"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] 표현식 함수 "%s" 레지스터 해제됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1397"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1398"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] 표현식 함수 "%s" 레지스터 해제 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1411"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1412"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] 포맷 함수 "%s" 레지스터 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1417"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1418"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[PLUGIN, %s] 포맷 함수 "%s" 레지스터됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1436"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1437"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] 포맷 함수 "%s" 레지스터 해제됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1441"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1442"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] 포맷 함수 "%s" 레지스터 해제 실패...</translation>

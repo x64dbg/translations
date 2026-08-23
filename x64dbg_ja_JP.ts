@@ -6561,28 +6561,28 @@
       <translation>cmd</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="63"/>
       <source>%u functions
 </source>
       <translation>%u 関数
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="107"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>間接ポインタ : 0x%p 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="36"/>
       <source>%u functions discovered!
 </source>
       <translation>%u 個の関数が見つかりました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="38"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>この種の分析は x32 実行可能ファイルでは機能しません...
@@ -10505,70 +10505,70 @@ Do you want to continue debugging?</source>
       <translation>無効な命令です</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="488"/>
+      <location filename="src/dbg/module.cpp" line="489"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>モジュール %s%s の無効な再配置ブロックです!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="504"/>
+      <location filename="src/dbg/module.cpp" line="505"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>モジュール %s%s の無効な再配置エントリです!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="526"/>
+      <location filename="src/dbg/module.cpp" line="527"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>不正な再配置タイプ 0x%02X (モジュール %s%s )!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="605"/>
+      <location filename="src/dbg/module.cpp" line="606"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>CodeView 署名 %08X が不明です (モジュール %s%s )...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="667"/>
+      <location filename="src/dbg/module.cpp" line="668"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>サポートされていないデバッグ タイプ %s をスキップしています(モジュール  %s%s )...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="674"/>
+      <location filename="src/dbg/module.cpp" line="675"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>モジュール %s%s でサポートされているデバッグ タイプが見つかりませんでした!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="817"/>
+      <location filename="src/dbg/module.cpp" line="818"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>モジュール情報を取得中に例外 (%s）、報告してください...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="882"/>
+      <location filename="src/dbg/module.cpp" line="889"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>モジュール %s%s : 無効な PE ファイル!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1044"/>
+      <location filename="src/dbg/module.cpp" line="1051"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation>モジュール %s%s はディスクパスからロードされました
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1097"/>
+      <location filename="src/dbg/module.cpp" line="1104"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation>モジュール %s%s はプロセスメモリから読み込まれました (ファイルにアクセスできません)
@@ -10676,121 +10676,121 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="444"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="445"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
       <translation>[PLUGIN] GuiMenuAdd(%d) が失敗しました (プラグイン : %s )
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="564"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="565"/>
       <source>[PLUGIN] %s unloaded
 </source>
       <translation>[PLUGIN] %s がアンロードされました
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="567"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="568"/>
       <source>[PLUGIN] %s not found
 </source>
       <translation>[PLUGIN] %s が見つかりません
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="634"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="635"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
       <translation>[PLUGIN] 最上位のプラグインを無視してディレクトリ 'plugins\%s' を使用します
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="863"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="864"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[PLUGIN] 無効なプラグイン ハンドル %d...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="887"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="888"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] コマンド "%s" の登録に失敗しました...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="893"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="894"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[PLUGIN, %s] コマンド "%s" が登録されました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="920"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="921"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] コマンド "%s" の登録を解除しました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="925"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="926"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] コマンド "%s" の登録解除に失敗しました...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1340"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1366"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1341"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1367"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] 式関数 "%s" の登録に失敗しました...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1346"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1372"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1347"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1373"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[PLUGIN, %s] 式関数 "%s" が登録されました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1392"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1393"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] 式関数 "%s" が登録されていません!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1397"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1398"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] 式関数 "%s" の登録解除に失敗しました...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1411"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1412"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] フォーマット関数 "%s" の登録に失敗しました...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1417"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1418"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[PLUGIN, %s] フォーマット関数 "%s" が登録されました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1436"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1437"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] フォーマット関数 "%s" の登録を解除しました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1441"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1442"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] フォーマット関数 "%s" の登録解除に失敗しました...

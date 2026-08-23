@@ -6558,28 +6558,28 @@
       <translation>cmd</translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="60"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="63"/>
       <source>%u functions
 </source>
       <translation>%u функций
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/FunctionPass.cpp" line="104"/>
+      <location filename="src/dbg/analysis/FunctionPass.cpp" line="107"/>
       <source>Indirect pointer: 0x%p 0x%p
 </source>
       <translation>Косвенный указатель: 0x%p 0x%p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="35"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="36"/>
       <source>%u functions discovered!
 </source>
       <translation>Обнаружено %u функций!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="37"/>
+      <location filename="src/dbg/analysis/exceptiondirectoryanalysis.cpp" line="38"/>
       <source>This kind of analysis doesn't work on x32 executables...
 </source>
       <translation>Такой тип анализа не работает для исполняемых файлов с архитектурой x32...
@@ -10471,69 +10471,69 @@ Do you want to continue debugging?</source>
       <translation>неверная инструкция</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="488"/>
+      <location filename="src/dbg/module.cpp" line="489"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>Недопустимый блок перемещений для модуля %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="504"/>
+      <location filename="src/dbg/module.cpp" line="505"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>Недопустимая запись перемещений для модуля %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="526"/>
+      <location filename="src/dbg/module.cpp" line="527"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>Недопустимый тип перемещения 0x%02X для модуля %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="605"/>
+      <location filename="src/dbg/module.cpp" line="606"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>Неизвестная сигнатура CodeView %08X для модуля %s%s...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="667"/>
+      <location filename="src/dbg/module.cpp" line="668"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>Пропуск неподдерживаемого отладочного типа %s в модуле %s%s...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="674"/>
+      <location filename="src/dbg/module.cpp" line="675"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>Не найдены какие-либо поддерживаемые отладочные типы в модуле %s%s!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="817"/>
+      <location filename="src/dbg/module.cpp" line="818"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>Исключение при получении информации о модуле (%s), пожалуйста, сообщите...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="882"/>
+      <location filename="src/dbg/module.cpp" line="889"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>Модуль %s%s: некорректный PE-файл!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1044"/>
+      <location filename="src/dbg/module.cpp" line="1051"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1097"/>
+      <location filename="src/dbg/module.cpp" line="1104"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
@@ -10639,120 +10639,120 @@ Do you want to continue debugging?</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="444"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="445"/>
       <source>[PLUGIN] GuiMenuAdd(%d) failed for plugin: %s
 </source>
       <translation>[PLUGIN] Ошибка GuiMenuAdd(%d) для плагина: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="564"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="565"/>
       <source>[PLUGIN] %s unloaded
 </source>
       <translation>[PLUGIN] %s выгружен
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="567"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="568"/>
       <source>[PLUGIN] %s not found
 </source>
       <translation>[PLUGIN] %s не найден
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="634"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="635"/>
       <source>[PLUGIN] Ignoring top-level plugin in favor of the directory 'plugins\%s'
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="863"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="864"/>
       <source>[PLUGIN] Invalid plugin handle %d...
 </source>
       <translation>[PLUGIN] Неверный обработчик плагина %d...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="887"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="888"/>
       <source>[PLUGIN, %s] Command "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] Ошибка регистрации команды "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="893"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="894"/>
       <source>[PLUGIN, %s] Command "%s" registered!
 </source>
       <translation>[PLUGIN, %s] Команда "%s" зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="920"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="921"/>
       <source>[PLUGIN, %s] Command "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] Команда "%s" не зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="925"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="926"/>
       <source>[PLUGIN, %s] Command "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] Ошибка при отмене регистрации команды "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1340"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1366"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1341"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1367"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] Ошибка регистрации функции выражения "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1346"/>
-      <location filename="src/dbg/plugin_loader.cpp" line="1372"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1347"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1373"/>
       <source>[PLUGIN, %s] Expression function "%s" registered!
 </source>
       <translation>[PLUGIN, %s] Функция выражения "%s" зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1392"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1393"/>
       <source>[PLUGIN, %s] Expression function "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] Функция выражения "%s" не зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1397"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1398"/>
       <source>[PLUGIN, %s] Expression function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] Ошибка при отмене регистрации функции выражения "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1411"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1412"/>
       <source>[PLUGIN, %s] Format function "%s" failed to register...
 </source>
       <translation>[PLUGIN, %s] Ошибка регистрации функции форматирования "%s"...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1417"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1418"/>
       <source>[PLUGIN, %s] Format function "%s" registered!
 </source>
       <translation>[PLUGIN, %s] Функция форматирования "%s" зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1436"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1437"/>
       <source>[PLUGIN, %s] Format function "%s" unregistered!
 </source>
       <translation>[PLUGIN, %s] Функция форматирования "%s" не зарегистрирована!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/plugin_loader.cpp" line="1441"/>
+      <location filename="src/dbg/plugin_loader.cpp" line="1442"/>
       <source>[PLUGIN, %s] Format function "%s" failed to unregister...
 </source>
       <translation>[PLUGIN, %s] Ошибка при отмене регистрации функции форматирования "%s"...
