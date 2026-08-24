@@ -354,31 +354,31 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="926"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="551"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="550"/>
       <source>HexDump:</source>
       <translation>Hex덤프:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1065"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="571"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="570"/>
       <source>Stack:</source>
       <translation>스택:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1204"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="502"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="501"/>
       <source>Registers:</source>
       <translation>레지스터:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1343"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="586"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="585"/>
       <source>HexEdit:</source>
       <translation>Hex편집:</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="1482"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="606"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="605"/>
       <source>Log:</source>
       <translation>로그:</translation>
     </message>
@@ -422,22 +422,22 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="452"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="460"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="485"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="503"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="552"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="587"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="484"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="502"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="551"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="571"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="586"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="593"/>
       <source>Background</source>
       <translation>배경화면</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="453"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="461"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="504"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="553"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="581"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="588"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="503"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="552"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="580"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="587"/>
       <source>Selection</source>
       <translation>선택</translation>
     </message>
@@ -448,11 +448,11 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="455"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="507"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="541"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="556"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="579"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="589"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="555"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="578"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="588"/>
       <source>Text</source>
       <translation>텍스트</translation>
     </message>
@@ -463,29 +463,29 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>EIP</source>
       <translation>EIP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="462"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="594"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>RIP</source>
       <translation>RIP</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="463"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="528"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="554"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="574"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="527"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="553"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
       <source>Addresses</source>
       <translation>주소</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="464"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="575"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="574"/>
       <source>Selected Addresses</source>
       <translation>선택된 주소</translation>
     </message>
@@ -501,8 +501,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="467"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="555"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="554"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="575"/>
       <source>Labels</source>
       <translation>레이블</translation>
     </message>
@@ -513,13 +513,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="469"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="557"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="556"/>
       <source>Modified Bytes</source>
       <translation>수정된 바이트</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="470"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="558"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="557"/>
       <source>Restored Bytes</source>
       <translation>복원된 바이트</translation>
     </message>
@@ -550,13 +550,13 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="476"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="487"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="486"/>
       <source>Conditional Jump Lines (jump)</source>
       <translation>조건부 점프 라인 (점프)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="477"/>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="489"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="488"/>
       <source>Conditional Jump Lines (no jump)</source>
       <translation>조건부 점프 라인 (점프 없음)</translation>
     </message>
@@ -581,532 +581,537 @@
       <translation>루프 라인</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="484"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="483"/>
       <source>SideBar:</source>
       <translation>사이드바:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="486"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="485"/>
       <source>Register Labels</source>
       <translation>레지스터 레이블</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="488"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="487"/>
       <source>Conditional Jump Backwards Lines (jump)</source>
       <translation>조건부 뒤로 라인 점프 (점프)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="489"/>
       <source>Conditional Jump Backwards Lines (no jump)</source>
       <translation>조건부 뒤로 라인 점프 (점프 없이)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="491"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="490"/>
       <source>Unconditional Jump Lines (jump)</source>
       <translation>무조건 점프 라인 (점프)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="492"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="491"/>
       <source>Unconditional Jump Backwards Lines (jump)</source>
       <translation>무조건 뒤로 라인 점프 (점프)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="493"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="492"/>
       <source>Unconditional Jump Lines (no jump)</source>
       <translation>무조건 점프 라인 (점프 없음)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="494"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="493"/>
       <source>Unconditional Jump Backwards Lines (no jump)</source>
       <translation>무조건 뒤로 라인 점프 (점프 없이)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="495"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="494"/>
       <source>Code Folding Checkbox Color</source>
       <translation>코드 접기 확인란 색상</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="496"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="495"/>
       <source>Bullets</source>
       <translation>불릿</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="497"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="496"/>
       <source>Breakpoint bullets</source>
       <translation>중단점 불릿</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="498"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="497"/>
       <source>Disabled Breakpoint bullets</source>
       <translation>비활성화된 중단점 불릿</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="499"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="498"/>
       <source>Bookmark bullets</source>
       <translation>책갈피 불릿</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="505"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="504"/>
       <source>Register Names</source>
       <translation>레지스터 이름</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="506"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="505"/>
       <source>Argument Register Names</source>
       <translation>인자 레지스터 이름</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="508"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="507"/>
       <source>Modified Registers</source>
       <translation>수정 된 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="509"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="508"/>
       <source>Highlight Read</source>
       <translation>읽기 강조하기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="510"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="509"/>
       <source>Highlight Write</source>
       <translation>쓰기 강조하기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="511"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="510"/>
       <source>Highlight Read+Write</source>
       <translation>읽기+쓰기 강조하기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="512"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="511"/>
       <source>Extra Information</source>
       <translation>추가 정보</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="515"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="514"/>
       <source>Instructions:</source>
       <translation>명령어:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="516"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="515"/>
       <source>Mnemonics</source>
       <translation>연상기호</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="517"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="516"/>
       <source>Push/Pops</source>
       <translation>푸시/팝</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="518"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="517"/>
       <source>Calls</source>
       <translation>호출</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="519"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="518"/>
       <source>Returns</source>
       <translation>반환</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="520"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="519"/>
       <source>Conditional Jumps</source>
       <translation>조건부 점프</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="521"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="520"/>
       <source>Unconditional Jumps</source>
       <translation>무조건 점프</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="522"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="521"/>
       <source>NOPs</source>
       <translation>NOP</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="523"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="522"/>
       <source>FAR</source>
       <translation>FAR</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="524"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="523"/>
       <source>INT3s</source>
       <translation>INT3</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="524"/>
       <source>Unusual Instructions</source>
       <translation>일반적이지 않은 명령어</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="527"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="526"/>
       <source>Prefixes</source>
       <translation>접두부</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="529"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="528"/>
       <source>Values</source>
       <translation>값</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="530"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="529"/>
       <source>Commas</source>
       <translation>쉼표</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="531"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="530"/>
       <source>New Values (Trace View)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="532"/>
       <source>General Registers</source>
       <translation>일반 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="534"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="533"/>
       <source>FPU Registers</source>
       <translation>FPU 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="535"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="534"/>
       <source>MMX Registers</source>
       <translation>MMX 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="535"/>
       <source>XMM Registers</source>
       <translation>XMM 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="537"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="536"/>
       <source>YMM Registers</source>
       <translation>YMM 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="538"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="537"/>
       <source>ZMM Registers</source>
       <translation>ZMM 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="539"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="538"/>
       <source>Memory Sizes</source>
       <translation>메모리 크기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="540"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="539"/>
       <source>Memory Segments</source>
       <translation>메모리 세그먼트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="542"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="541"/>
       <source>Memory Brackets</source>
       <translation>메모리 브래킷</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="543"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="542"/>
       <source>Memory Stack Brackets</source>
       <translation>메모리 스택 브래킷</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="544"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="543"/>
       <source>Memory Base Registers</source>
       <translation>메모리 기준 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="544"/>
       <source>Memory Index Registers</source>
       <translation>메모리 인덱스 레지스터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="546"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="545"/>
       <source>Memory Scales</source>
       <translation>메모리 규모</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="547"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="546"/>
       <source>Memory Operators (+/-/*)</source>
       <translation>메모리 연산자 (+/-/*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="548"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="547"/>
       <source>Highlighting</source>
       <translation>강조</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="559"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="558"/>
       <source>0x00 Bytes</source>
       <translation>0x00 바이트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="560"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="559"/>
       <source>0x7F Bytes</source>
       <translation>0x7F 바이트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="561"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="560"/>
       <source>0xFF Bytes</source>
       <translation>0xFF 바이트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="562"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="561"/>
       <source>IsPrint Bytes</source>
       <translation>IsPrint 바이트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="563"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="562"/>
       <source>User Code Pointer Highlight Color</source>
       <translation>사용자 코드 포인터 강조색</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="564"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="563"/>
       <source>User Data Pointer Highlight Color</source>
       <translation>사용자 데이터 포인터 강조색</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="565"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="564"/>
       <source>System Code Pointer Highlight Color</source>
       <translation>시스템 코드 포인터 강조색</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="566"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="565"/>
       <source>System Data Pointer Highlight Color</source>
       <translation>시스템 데이터 포인터 강조색</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="567"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="566"/>
       <source>Unknown Code Pointer Highlight Color</source>
       <translation>알 수 없는 코드 포인터 강조색</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="568"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="567"/>
       <source>Unknown Data Pointer Highlight Color</source>
       <translation>알 수 없는 데이터 포인터 강조색</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
       <source>ESP</source>
       <translation>ESP</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="573"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="572"/>
       <source>RSP</source>
       <translation>RSP</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="576"/>
       <source>User Stack Frame Line</source>
       <translation>사용자 스택 프레임 라인</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="578"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="577"/>
       <source>System Stack Frame Line</source>
       <translation>시스템 스택 프레임 라인</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="580"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="579"/>
       <source>Inactive Text</source>
       <translation>비활성 텍스트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="582"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="581"/>
       <source>Return To Comment</source>
       <translation>주석으로 반환</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="583"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="582"/>
       <source>SEH Chain Comment</source>
       <translation>SEH 연쇄 주석</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="590"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="589"/>
       <source>Wildcards</source>
       <translation>와일드 카드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="593"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="592"/>
       <source>Graph:</source>
       <translation>그래프:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="596"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="595"/>
       <source>Breakpoint</source>
       <translation>중단점</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="597"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="596"/>
       <source>Disabled Breakpoint</source>
       <translation>중단점 해제</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="598"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="597"/>
       <source>Node</source>
       <translation>노드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="599"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="598"/>
       <source>Current node shadow</source>
       <translation>현재 노드 그림자</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="600"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="599"/>
       <source>Terminal node shadow</source>
       <translation>터미널 노드 그림자</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="601"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="600"/>
       <source>Indirect call shadow</source>
       <translation>간접 호출 그림자</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="601"/>
       <source>Unconditional branch line</source>
       <translation>무조건 분기선</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="603"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="602"/>
       <source>True branch line</source>
       <translation>참 분기선</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="604"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="603"/>
       <source>False branch line</source>
       <translation>거짓 분기선</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="607"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="606"/>
       <source>Log</source>
       <translation>로그</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="608"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="607"/>
       <source>Log Link Color</source>
       <translation>로그 링크 색상</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="610"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="609"/>
       <source>Other:</source>
       <translation>기타:</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="611"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="610"/>
       <source>Background Flicker Color</source>
       <translation>배경 깜빡임 색상</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="612"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="611"/>
       <source>Search Highlight Color</source>
       <translation>검색 강조 색</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="613"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="612"/>
       <source>Patch located in relocation region</source>
       <translation>재배치 영역에 위치한 패치</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="614"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="613"/>
       <source>Current Thread</source>
       <translation>현재 스레드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="614"/>
       <source>Call Stack Highlight</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
       <source>Watch (When Watchdog is Triggered)</source>
       <translation>주시 (감시자가 활성화되었을때)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
       <source>Memory Map Breakpoint</source>
       <translation>메모리 맵 중단점</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="617"/>
       <source>Memory Map %1</source>
       <translation>메모리 맵 %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="619"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="618"/>
       <source>Memory Map Section Text</source>
       <translation>메모리 맵 섹션 텍스트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="620"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="619"/>
       <source>Struct text</source>
       <translation>구조체 텍스트</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="621"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="620"/>
       <source>Struct primary background</source>
       <translation>구조체 주요 배경</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="622"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="621"/>
       <source>Struct secondary background</source>
       <translation>구조체 보조 배경</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="623"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="622"/>
       <source>Breakpoint Summary Parentheses</source>
       <translation>중단점 요약 괄호</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="624"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="623"/>
       <source>Breakpoint Summary Keywords</source>
       <translation>중단점 요약 키워드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="624"/>
       <source>Breakpoint Summary Strings</source>
       <translation>중단점 요약 문자열</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="626"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="625"/>
       <source>Symbol User Module Text</source>
       <translation>심볼 사용자 모듈 문자</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="626"/>
       <source>Symbol System Module Text</source>
       <translation>심볼 시스템 모듈 문자</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="628"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="627"/>
       <source>Symbol Unloaded Text</source>
       <translation>심볼 로드되지 않은 문자</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="629"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="628"/>
       <source>Symbol Loading Text</source>
       <translation>심볼 로드 중인 문자</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="630"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="629"/>
       <source>Symbol Loaded Text</source>
       <translation>심볼 로드된 문자</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="631"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="630"/>
       <source>Link color</source>
       <translation>링크 색상</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="654"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="637"/>
+      <source>Address Color %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="662"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>설정에서 찾을 수 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="658"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="666"/>
       <source>&amp;Default Value</source>
       <translation>기본값(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="661"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="669"/>
       <source>&amp;Current Setting</source>
       <translation>현재 설정(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="716"/>
+      <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="724"/>
       <source>Select Color</source>
       <translation>색상 선택</translation>
     </message>
@@ -1901,7 +1906,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="305"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1359"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1374"/>
       <source>Disassembly</source>
       <translation>디스어셈블리</translation>
     </message>
@@ -1957,484 +1962,494 @@
       <translation>열 편집...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="374"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="385"/>
+      <source>Clear</source>
+      <translation>지우기</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="386"/>
+      <source>Color</source>
+      <translation>색상</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="389"/>
       <source>Label Current Address</source>
       <translation>현재 주소 레이블</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="375"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="392"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="396"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="390"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="407"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="411"/>
       <source>Label</source>
       <translation>레이블</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="399"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="414"/>
       <source>Disable</source>
       <translation>비활성화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="415"/>
       <source>Mark covered (yes/no)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="400"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="415"/>
       <source>Enable trace coverage with 1 bit (whether an instruction was executed or not)</source>
       <translation>1비트 추적 커버리지를 활성화합니다 (명령이 실행되는 것과는 상관없이)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="416"/>
       <source>Count hits (up to 63)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="401"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="416"/>
       <source>Enable trace coverage with 1 byte per byte of code to record how many times an instruction has been executed, enable hit count up to 63 and accurate run trace assisted disassembly.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="417"/>
       <source>Count hits (up to 16383)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="402"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="417"/>
       <source>Enable trace coverage with 2 bytes per byte of code to record how many times an instruction has been executed, enable hit count up to 16383 and accurate run trace assisted disassembly.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="403"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="418"/>
       <source>Reset trace coverage</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="404"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="426"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="419"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="441"/>
       <source>Start trace recording</source>
       <translation>추적 기록 시작</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="405"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="420"/>
       <source>Trace coverage</source>
       <translation>추적 커버리지</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="421"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="436"/>
       <source>Stop trace recording</source>
       <translation>추적 기록 중지</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="436"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="451"/>
       <source>Function</source>
       <translation>함수</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="437"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="452"/>
       <source>Analyze module</source>
       <translation>모듈 분석</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="441"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="456"/>
       <source>Add function</source>
       <translation>함수 추가</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="443"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="458"/>
       <source>Delete function</source>
       <translation>함수 삭제</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="446"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="461"/>
       <source>Argument</source>
       <translation>인자</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="450"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="465"/>
       <source>Add argument</source>
       <translation>인자 추가</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="452"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="467"/>
       <source>Delete argument</source>
       <translation>인자 삭제</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="455"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="470"/>
       <source>Add loop</source>
       <translation>루프 추가</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="456"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="471"/>
       <source>Delete loop</source>
       <translation>루프 삭제</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="460"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="475"/>
       <source>Analyze single function</source>
       <translation>단일 함수 분석</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="463"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="478"/>
       <source>Remove type analysis from module</source>
       <translation>모듈에서 유형 분석 제거</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="464"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="479"/>
       <source>Remove type analysis from selection</source>
       <translation>선택에서 유형 분석 제거</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="467"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="482"/>
       <source>Treat selection &amp;head as</source>
       <translation>헤드를 다음으로 다루기 (&amp;H)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="468"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="483"/>
       <source>Treat from &amp;selection as</source>
       <translation>선택을 다음으로 다루기 (&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="527"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="542"/>
       <source>Analysis</source>
       <translation>분석</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="528"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="543"/>
       <source>Download Symbols for This Module</source>
       <translation>이 모듈에 대한 심볼 다운로드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="535"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="550"/>
       <source>Assemble</source>
       <translation>어셈블</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="536"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="551"/>
       <source>Patches</source>
       <translation>패치</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="542"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="557"/>
       <source>Previous</source>
       <translation>이전</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="546"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="561"/>
       <source>Next</source>
       <translation>다음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="550"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="565"/>
       <source>Expression</source>
       <translation>표현식</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="551"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="566"/>
       <source>File Offset</source>
       <translation>파일 오프셋</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="571"/>
       <source>Start of Page</source>
       <translation>페이지의 시작</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="557"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="572"/>
       <source>End of Page</source>
       <translation>페이지의 끝</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="558"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="573"/>
       <source>Start of Function</source>
       <translation>함수의 시작</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="562"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="577"/>
       <source>End of Function</source>
       <translation>함수의 끝</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="566"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="581"/>
       <source>Previous Reference</source>
       <translation>이전 참조</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="570"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="585"/>
       <source>Next Reference</source>
       <translation>다음 참조</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="575"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="590"/>
       <source>Go to</source>
       <translation>이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="577"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="592"/>
       <source>xrefs...</source>
       <translation>외부참조...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="598"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="612"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="628"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="642"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="656"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="670"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="613"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="627"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="643"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="657"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="671"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="685"/>
       <source>C&amp;ommand</source>
       <translation>명령(&amp;O)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="599"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="613"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="629"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="643"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="657"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="671"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="614"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="628"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="644"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="658"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="672"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="686"/>
       <source>&amp;Constant</source>
       <translation>상수(&amp;C)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="600"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="614"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="630"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="644"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="658"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="672"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="615"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="629"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="645"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="659"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="673"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="687"/>
       <source>&amp;String references</source>
       <translation>문자열 참조(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="601"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="615"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="631"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="645"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="659"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="673"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="616"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="630"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="646"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="660"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="674"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="688"/>
       <source>&amp;Intermodular calls</source>
       <translation>모듈간 호출(&amp;I)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="602"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="616"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="632"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="646"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="660"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="674"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="617"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="631"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="647"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="661"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="675"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="689"/>
       <source>&amp;Pattern</source>
       <translation>패턴(&amp;P)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="603"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="617"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="633"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="647"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="661"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="675"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="618"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="632"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="648"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="662"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="676"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="690"/>
       <source>&amp;GUID</source>
       <translation>&amp;GUID</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="618"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="633"/>
       <source>&amp;Names</source>
       <translation>이름(&amp;N):</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="683"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="698"/>
       <source>Current Region</source>
       <translation>현재 구역</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="684"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="699"/>
       <source>Current Module</source>
       <translation>현재 모듈</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="685"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="700"/>
       <source>Current Function</source>
       <translation>현재 함수</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="687"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="702"/>
       <source>All User Modules</source>
       <translation>모든 유저 모듈</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="688"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="703"/>
       <source>All System Modules</source>
       <translation>모든 시스템 모듈</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="689"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="704"/>
       <source>All Modules</source>
       <translation>모든 모듈</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="690"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="705"/>
       <source>&amp;Search for</source>
       <translation>다음을 찾기(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="692"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="707"/>
       <source>&amp;Selected Address(es)</source>
       <translation>선택한 주소(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="694"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="709"/>
       <source>Find &amp;references to</source>
       <translation>참조 찾기(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="721"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="736"/>
       <source>Copy token &amp;text</source>
       <translation>토큰 텍스트 복사(&amp;T)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="722"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="737"/>
       <source>Copy token &amp;value</source>
       <translation>토큰 값 복사(&amp;V)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="751"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="797"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="766"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="812"/>
       <source>Add label at </source>
       <translation>다음에 레이블 추가: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="758"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="804"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="773"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="819"/>
       <source>The label may be in use</source>
       <translation>해당 레이블이 사용 중인 것 같습니다</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="759"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="805"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="774"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="820"/>
       <source>The label "%1" may be an existing label or a valid expression. Using such label might have undesired effects. Do you still want to continue?</source>
       <translation>해당 레이블 "%1"가 존재하는 레이블이거나 유효한 표현식입니다. 이러한 레이블을 사용하면 바람직하지 않은 영향을 낳을 수 있습니다. 그래도 계속하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="768"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="814"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="948"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1002"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1696"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1717"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1741"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1836"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="783"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="829"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="963"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1017"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1734"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1755"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1779"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1874"/>
       <source>Error!</source>
       <translation>오류발생!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="768"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="814"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="783"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="829"/>
       <source>DbgSetLabelAt failed!</source>
       <translation>DbgSetLabelAt 실패!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="927"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="942"/>
       <source>Assemble at %1</source>
       <translation>%1 어셈블</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="948"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="963"/>
       <source>Failed to assemble instruction " %1 " (%2)</source>
       <translation>명령어 "%1" (%2) 를 어셈블하지 못했습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1002"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1017"/>
       <source>Not inside a module...</source>
       <translation>모듈 내부가 아닙니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1009"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1024"/>
       <source>Goto File Offset in </source>
       <translation>다음에서 파일 오프셋으로 이동: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1150"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1165"/>
       <source>Enter Constant</source>
       <translation>상수 입력</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1241"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1256"/>
       <source>Find Pattern...</source>
       <translation>패턴 찾기...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1385"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1400"/>
       <source>Edit code at %1</source>
       <translation>%1 에 코드 편집</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1402"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1417"/>
       <source>Fill code at %1</source>
       <translation>%1 에 코드 채우기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1423"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2051"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2072"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1438"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2089"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2110"/>
       <source>Size</source>
       <translation>크기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1536"/>
       <source>Open File</source>
       <translation>파일 열기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1521"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1536"/>
       <source>Text Files (*.txt)</source>
       <translation>텍스트 파일 (*.txt);;</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1527"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1542"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1527"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1542"/>
       <source>Could not open file</source>
       <translation>파일을 열 수 없습니다</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1696"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1741"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1734"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1779"/>
       <source>Selection not in a module...</source>
       <translation>선택이 모듈안에 존재하지 않습니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1717"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1755"/>
       <source>Selection not in a file...</source>
       <translation>선택 항목이 파일에 없습니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1820"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1858"/>
       <source>Start from &amp;Selection</source>
       <translation>선택에서 시작(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1836"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1874"/>
       <source>Failed to assemble instruction "</source>
       <translation>어셈블 실패: 명령어 "</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1947"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1964"/>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1981"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="1985"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2002"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2019"/>
       <source>Failed to enable trace coverage for page %1.
 </source>
       <translation>%1 페이지에 대한 추적 커버리지를 활성화하는데 실패했습니다.
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2001"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2039"/>
       <source>Failed to reset trace coverage for page %1.
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2017"/>
+      <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2055"/>
       <source>Failed to disable trace coverage for page %1.
 </source>
       <translation>%1 페이지에 대한 추적 커버리지를 비활성화하는데 실패했습니다.</translation>
@@ -2494,552 +2509,562 @@
       <translation>값 수정(&amp;M)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="118"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="124"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="105"/>
+      <source>Clear</source>
+      <translation>지우기</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="106"/>
+      <source>Color</source>
+      <translation>색상</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="133"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="139"/>
       <source>&amp;Byte</source>
       <translation>&amp;Byte</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="119"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="125"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="134"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="140"/>
       <source>&amp;Word</source>
       <translation>&amp;Word</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="120"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="126"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="135"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="141"/>
       <source>&amp;Dword</source>
       <translation>&amp;Dword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="122"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="128"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="137"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="143"/>
       <source>&amp;Qword</source>
       <translation>&amp;Qword</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="130"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="145"/>
       <source>Hardware, &amp;Access</source>
       <translation>하드웨어, 액세스(&amp;A)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="131"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="146"/>
       <source>Hardware, &amp;Write</source>
       <translation>하드웨어, 쓰기(&amp;W)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="132"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="147"/>
       <source>Hardware, &amp;Execute</source>
       <translation>하드웨어, 실행(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="136"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="151"/>
       <source>Remove &amp;Hardware</source>
       <translation>하드웨어 제거(&amp;H)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="141"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="143"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="145"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="147"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="156"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="158"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="160"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="162"/>
       <source>&amp;Singleshoot</source>
       <translation>일회성(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="142"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="144"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="146"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="148"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="157"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="159"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="161"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="163"/>
       <source>&amp;Restore on hit</source>
       <translation>설정유지(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="149"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="164"/>
       <source>Memory, Access</source>
       <translation>메모리, 액세스</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="150"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="165"/>
       <source>Memory, Read</source>
       <translation>메모리, 읽기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="151"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="166"/>
       <source>Memory, Write</source>
       <translation>메모리, 쓰기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="152"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="167"/>
       <source>Memory, Execute</source>
       <translation>메모리, 실행</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="153"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="168"/>
       <source>Remove &amp;Memory</source>
       <translation>메모리 중단점 제거(&amp;M)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="157"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="172"/>
       <source>&amp;Breakpoint</source>
       <translation>중단점(&amp;B)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="159"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="174"/>
       <source>&amp;Find Pattern...</source>
       <translation>패턴 찾기(&amp;F)...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="160"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="175"/>
       <source>Find &amp;References</source>
       <translation>참조 찾기(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="162"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="177"/>
       <source>&amp;Sync with expression</source>
       <translation>표현식과 동기화(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="163"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="178"/>
       <source>Allocate Memory</source>
       <translation>메모리 할당</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="166"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="181"/>
       <source>&amp;Expression</source>
       <translation>표현식(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="167"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="182"/>
       <source>File Offset</source>
       <translation>파일 오프셋</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="168"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="183"/>
       <source>Start of Page</source>
       <translation>페이지의 시작</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="172"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="187"/>
       <source>End of Page</source>
       <translation>페이지의 끝</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="173"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="188"/>
       <source>Previous</source>
       <translation>이전</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="177"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="192"/>
       <source>Next</source>
       <translation>다음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="181"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="196"/>
       <source>Previous Reference</source>
       <translation>이전 참조</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="185"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="200"/>
       <source>Next Reference</source>
       <translation>다음 참조</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="189"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="204"/>
       <source>&amp;Go to</source>
       <translation>이동(&amp;G)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="193"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="209"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="208"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="224"/>
       <source>&amp;ASCII</source>
       <translation>&amp;ASCII</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="194"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="210"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="209"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
       <source>&amp;Extended ASCII</source>
       <translation>확장 ASCII(&amp;E)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="205"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="221"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="220"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="236"/>
       <source>&amp;Codepage...</source>
       <translation>코드 페이지(&amp;C)...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="206"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="221"/>
       <source>&amp;Hex</source>
       <translation>&amp;Hex</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="222"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="237"/>
       <source>&amp;Text</source>
       <translation>텍스트(&amp;T)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="225"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="884"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="899"/>
       <source>Signed byte (8-bit)</source>
       <translation>Signed 바이트 (8비트)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="226"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="909"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="241"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="924"/>
       <source>Signed short (16-bit)</source>
       <translation>Signed short (16-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="227"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="934"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="949"/>
       <source>Signed long (32-bit)</source>
       <translation>Signed long (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="228"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="959"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="974"/>
       <source>Signed long long (64-bit)</source>
       <translation>Signed long long (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="229"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="984"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="244"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="999"/>
       <source>Unsigned byte (8-bit)</source>
       <translation>Unsigned byte (8-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="230"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1009"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="245"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1024"/>
       <source>Unsigned short (16-bit)</source>
       <translation>Unsigned short (16-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="231"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1034"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1049"/>
       <source>Unsigned long (32-bit)</source>
       <translation>Unsigned long (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="232"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1059"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="247"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1074"/>
       <source>Unsigned long long (64-bit)</source>
       <translation>Unsigned long long (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="233"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="248"/>
       <source>Hex byte (8-bit)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="234"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1109"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="249"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1124"/>
       <source>Hex short (16-bit)</source>
       <translation>Hex short (16-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="235"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1134"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="250"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1149"/>
       <source>Hex long (32-bit)</source>
       <translation>Hex long (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="236"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1159"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="251"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1174"/>
       <source>Hex long long (64-bit)</source>
       <translation>Hex long long (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="237"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="252"/>
       <source>&amp;Integer</source>
       <translation>정수(&amp;I)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="240"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="255"/>
       <source>&amp;Float (32-bit)</source>
       <translation>&amp;Float (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="241"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="256"/>
       <source>&amp;Double (64-bit)</source>
       <translation>&amp;Double (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="242"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="257"/>
       <source>&amp;Long double (80-bit)</source>
       <translation>&amp;Long double (80-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="243"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="258"/>
       <source>&amp;Half float (16-bit)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="244"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="259"/>
       <source>&amp;Float</source>
       <translation>&amp;Float</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="246"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="261"/>
       <source>&amp;Address</source>
       <translation>주소(&amp;A)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="247"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="262"/>
       <source>&amp;Disassembly</source>
       <translation>디스어셈블리(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="258"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="273"/>
       <source>Cycle Hex View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="259"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="274"/>
       <source>Cycle Text View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="260"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="275"/>
       <source>Cycle Integer View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="261"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="276"/>
       <source>Cycle Float View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="262"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="277"/>
       <source>Cycle Address View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="440"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="452"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="455"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="467"/>
       <source>System Code</source>
       <translation>시스템 코드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="440"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="455"/>
       <source>System Data</source>
       <translation>시스템 데이터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="442"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="454"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="457"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="469"/>
       <source>User Code</source>
       <translation>사용자 코드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="442"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="457"/>
       <source>User Data</source>
       <translation>사용자 데이터</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="457"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="472"/>
       <source> (Real4)</source>
       <translation> (Real4)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="462"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="477"/>
       <source> (Real8)</source>
       <translation> (Real8)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="465"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="480"/>
       <source> (BYTE)</source>
       <translation> (BYTE)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="468"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="483"/>
       <source> (WORD)</source>
       <translation> (WORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="471"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="486"/>
       <source> (DWORD)</source>
       <translation> (DWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="475"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="480"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="495"/>
       <source> (QWORD)</source>
       <translation> (QWORD)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="487"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="502"/>
       <source> (String)</source>
       <translation> (문자열)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="489"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="504"/>
       <source>(Unknown String)</source>
       <translation>(알 수 없는 문자열)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="523"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="539"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="556"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="538"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="554"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="571"/>
       <source>Modify value</source>
       <translation>값 수정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="530"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="546"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1600"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1611"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="561"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1615"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1626"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="530"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="546"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="545"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="561"/>
       <source>The input text is not a number!</source>
       <translation>입력된 값이 숫자가 아닙니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="571"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="586"/>
       <source>Enter expression to follow in Dump...</source>
       <translation>덤프에서 따라갈 표현식 입력...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="587"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="602"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1564"/>
       <source>Error!</source>
       <translation>오류발생!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="602"/>
       <source>Not inside a module...</source>
       <translation>모듈 내부가 아닙니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="594"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="609"/>
       <source>Goto File Offset in %1</source>
       <translation>%1 에서 파일 오프셋으로 이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="655"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="689"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="728"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="760"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1084"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="670"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="704"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="743"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="775"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1099"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="663"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="810"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1306"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="678"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="825"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1321"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="697"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="836"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1353"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="712"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="851"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1368"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1184"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1199"/>
       <source>Float (32-bit)</source>
       <translation>Float (32-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1209"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1224"/>
       <source>Double (64-bit)</source>
       <translation>Double (64-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1234"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1249"/>
       <source>Long double (80-bit)</source>
       <translation>Long double (80-bit)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1259"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1274"/>
       <source>Half float (16-bit)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1285"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1332"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1300"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1347"/>
       <source>Address (QWORD)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1289"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1336"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1304"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1351"/>
       <source>Address (DWORD)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1314"/>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1361"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1329"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1376"/>
       <source>Comments</source>
       <translation>주석</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1416"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1431"/>
       <source>Edit data at %1</source>
       <translation>%1 에 데이터 편집</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1433"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1448"/>
       <source>Fill data at %1</source>
       <translation>%1 에 데이터 채우기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1499"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1514"/>
       <source>Save to file</source>
       <translation>파일로 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1499"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1514"/>
       <source>All files (*.*)</source>
       <translation>모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1527"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1542"/>
       <source>Find Pattern...</source>
       <translation>패턴 찾기...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1549"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1564"/>
       <source>Selection not in a file...</source>
       <translation>선택 항목이 파일에 없습니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1566"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1581"/>
       <source>Dump</source>
       <translation>덤프</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1578"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1593"/>
       <source>Enter expression to sync with...</source>
       <translation>동기화할 표현식을 입력...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1589"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1604"/>
       <source>Size</source>
       <translation>크기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1610"/>
       <source>Warning</source>
       <translation>경고</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1595"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1610"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation>지금 크기가 0인 버퍼를 할당 시도했습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1600"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1615"/>
       <source>The size of buffer you're trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
       <translation>할당하려는 버퍼의 크기가 1GB를 초과합니다. 표현식이 잘못되지 않도록 점검해주세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1611"/>
+      <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1626"/>
       <source>Memory allocation failed!</source>
       <translation>메모리 할당 실패!</translation>
     </message>
@@ -3388,7 +3413,7 @@
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="76"/>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="228"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="98"/>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="909"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="925"/>
       <source>Modify</source>
       <translation>수정</translation>
     </message>
@@ -3610,7 +3635,7 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="252"/>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="307"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="323"/>
       <source>Freeze the stack</source>
       <translation>스택 동결</translation>
     </message>
@@ -3635,32 +3660,42 @@
       <translation>디스어셈블러에서 QWORD 따라가기(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="286"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="299"/>
+      <source>Clear</source>
+      <translation>지우기</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="300"/>
+      <source>Color</source>
+      <translation>색상</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="302"/>
       <source>Edit columns...</source>
       <translation>열 편집...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="305"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="321"/>
       <source>Unfreeze the stack</source>
       <translation>스택 동결해제</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="697"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="713"/>
       <source>Enter expression to follow in Stack...</source>
       <translation>스택에서 따라갈 표현식 입력...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="786"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="802"/>
       <source>Edit data at %1</source>
       <translation>%1 에 데이터 편집</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="803"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="819"/>
       <source>Fill data at %1</source>
       <translation>%1 에 데이터 채우기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="868"/>
+      <location filename="src/gui/Src/Gui/CPUStack.cpp" line="884"/>
       <source>Find Pattern...</source>
       <translation>패턴 찾기...</translation>
     </message>
@@ -4316,109 +4351,98 @@
   <context>
     <name>Configuration</name>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
       <source>File</source>
       <translation>파일</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="446"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="378"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
       <source>Open</source>
       <translation>열기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="447"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="379"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <source>Attach</source>
       <translation>부착</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="448"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="380"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <source>Detach</source>
       <translation>분리</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="449"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="381"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
       <source>Save database</source>
       <translation>데이터베이스 저장</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="450"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="382"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
       <source>Restore backup database</source>
       <translation>백업 데이터베이스 복원</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="451"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="383"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
       <source>Reload database</source>
       <translation>데이터베이스 다시 불러오기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="452"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="384"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
       <source>Clear database</source>
       <translation>데이터베이스 초기화</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="453"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="385"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
       <source>Import database</source>
       <translation>데이터베이스 가져오기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="454"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="386"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
       <source>Export database</source>
       <translation>데이터베이스 내보내기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="455"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="387"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
       <source>Restart as Admin</source>
       <translation>관리자로 다시 시작</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="456"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="388"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
       <source>Exit</source>
       <translation>종료</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
@@ -4434,208 +4458,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
-      <source>View</source>
-      <translation>보기</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
-      <source>CPU</source>
-      <translation>CPU</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
-      <source>Log</source>
-      <translation>로그</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
-      <source>Breakpoints</source>
-      <translation>중단점</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
-      <source>Memory Map</source>
-      <translation>메모리 맵</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
-      <source>Call Stack</source>
-      <translation>호출 스택</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
-      <source>Notes</source>
-      <translation>메모</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
-      <source>SEH</source>
-      <translation>SEH</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
-      <source>Script</source>
-      <translation>스크립트</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
-      <source>Symbol Info</source>
-      <translation>기호 정보</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
-      <source>Modules</source>
-      <translation>모듈</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="400"/>
-      <source>Source</source>
-      <translation>소스</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
-      <source>References</source>
-      <translation>참조</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
-      <source>Threads</source>
-      <translation>스레드</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
-      <source>Patches</source>
-      <translation>패치</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
-      <source>Comments</source>
-      <translation>주석</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
-      <source>Labels</source>
-      <translation>레이블</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
-      <source>Bookmarks</source>
-      <translation>책갈피</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
-      <source>Functions</source>
-      <translation>함수</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
-      <source>Variables</source>
-      <translation>변수</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
-      <source>Handles</source>
-      <translation>핸들</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
-      <source>Graph</source>
-      <translation>그래프</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
-      <source>Previous Tab</source>
-      <translation>이전 탭</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
-      <source>Next Tab</source>
-      <translation>다음 탭</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
-      <source>Previous View</source>
-      <translation>이전 보기</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
-      <source>Next View</source>
-      <translation>다음 보기</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
-      <source>Hide Tab</source>
-      <translation>탭 숨기기</translation>
-    </message>
-    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
@@ -4646,7 +4469,208 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
+      <source>View</source>
+      <translation>보기</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
+      <source>CPU</source>
+      <translation>CPU</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
+      <source>Log</source>
+      <translation>로그</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
+      <source>Breakpoints</source>
+      <translation>중단점</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
+      <source>Memory Map</source>
+      <translation>메모리 맵</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
+      <source>Call Stack</source>
+      <translation>호출 스택</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
+      <source>Notes</source>
+      <translation>메모</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
+      <source>SEH</source>
+      <translation>SEH</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
+      <source>Script</source>
+      <translation>스크립트</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
+      <source>Symbol Info</source>
+      <translation>기호 정보</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
+      <source>Modules</source>
+      <translation>모듈</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
+      <source>Source</source>
+      <translation>소스</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
+      <source>References</source>
+      <translation>참조</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
+      <source>Threads</source>
+      <translation>스레드</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
+      <source>Patches</source>
+      <translation>패치</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
+      <source>Comments</source>
+      <translation>주석</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
+      <source>Labels</source>
+      <translation>레이블</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
+      <source>Bookmarks</source>
+      <translation>책갈피</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
+      <source>Functions</source>
+      <translation>함수</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
+      <source>Variables</source>
+      <translation>변수</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
+      <source>Handles</source>
+      <translation>핸들</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <source>Graph</source>
+      <translation>그래프</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
+      <source>Previous Tab</source>
+      <translation>이전 탭</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
+      <source>Next Tab</source>
+      <translation>다음 탭</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
+      <source>Previous View</source>
+      <translation>이전 보기</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
+      <source>Next View</source>
+      <translation>다음 보기</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
+      <source>Hide Tab</source>
+      <translation>탭 숨기기</translation>
+    </message>
+    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
@@ -4669,17 +4693,17 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
@@ -4701,347 +4725,295 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Debug</source>
       <translation>디버그</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <source>Run</source>
       <translation>실행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <source>Run (pass exception)</source>
       <translation>실행 (예외 넘어가기)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
       <source>Run (swallow exception)</source>
       <translation>실행 (예외 통과)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
       <source>Run until selection</source>
       <translation>선택까지 실행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
       <source>Run until expression</source>
       <translation>표현식까지 실행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <source>Pause</source>
       <translation>일시 정지</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
       <source>Restart</source>
       <translation>재시작</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Close</source>
       <translation>닫기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Step into</source>
       <translation>안으로 단계 진행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Step into (pass exception)</source>
       <translation>안으로 단계 진행 (예외 모두 통과)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="427"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Step into (swallow exception)</source>
       <translation>안으로 단계진행 (예외 통과)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Step into (source)</source>
       <translation>안으로 단계진행 (소스)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Step over</source>
       <translation>건너서 단계진행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step over (pass exception)</source>
       <translation>건너사 단계 진행 (예외 모두 통과)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Step over (swallow exception)</source>
       <translation>건너서 단계진행 (예외 통과)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
       <source>Step over (source)</source>
       <translation>건너서 단계진행 (소스)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Execute till return</source>
       <translation>리턴 시점까지 실행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Execute till return (pass exception)</source>
       <translation>리턴 시점까지 실행 (예외 모두 통과)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
       <source>Run to user code</source>
       <translation>사용자 코드로 실행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Skip next instruction</source>
       <translation>다음 명령어 건너뛰기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
       <source>Command</source>
       <translation>명령</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Trace into...</source>
       <translation>안으로 추적...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
       <source>Trace over...</source>
       <translation>건너서 추적...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <source>Trace coverage</source>
       <translation>추적 커버리지</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Bit</source>
       <translation>Bit</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
       <source>None</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <source>Undo instruction</source>
       <translation>명령 실행 취소</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Animate into</source>
       <translation>안으로 자동진행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
       <source>Animate over</source>
       <translation>건너서 자동진행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Animate command</source>
       <translation>자동진행 명령</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <source>Step into until reaching uncovered code</source>
       <translation>커버되지 않은 코드까지 단계별로 진행
 </translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <source>Step over until reaching uncovered code</source>
       <translation>커버되지 않은 코드까지 건너뛰기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <source>Step into until reaching covered code</source>
       <translation>커버된 코드까지 단계별로 진행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Step over until reaching covered code</source>
       <translation>커버된 코드까지 건너뛰기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Plugins</source>
       <translation>플러그인</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Scylla</source>
       <translation>Scylla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <source>Favourites</source>
       <translation>즐겨찾기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <source>Manage Favourite Tools</source>
       <translation>즐겨찾는 도구 관리</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <source>Options</source>
       <translation>옵션</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <source>Preferences</source>
       <translation>환경설정</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <source>Appearance</source>
       <translation>모양새</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
       <source>Hotkeys</source>
       <translation>단축키</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <source>Topmost</source>
       <translation>항상위</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <source>Reload style.css</source>
       <translation>style.css 다시 불러오기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
-      <source>Help</source>
-      <translation>도움말</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="461"/>
-      <source>About</source>
-      <translation>정보</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
-      <source>Blog</source>
-      <translation>블로그</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="463"/>
-      <source>Donate</source>
-      <translation>기부</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
-      <source>Calculator</source>
-      <translation>계산기</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="465"/>
-      <source>Report Bug</source>
-      <translation>버그 보고</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
-      <source>Manual</source>
-      <translation>메뉴얼</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
-      <source>Generate Crash Dump</source>
-      <translation>충돌 덤프 생성하기</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
@@ -5049,8 +5021,61 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
+      <source>Help</source>
+      <translation>도움말</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
+      <source>About</source>
+      <translation>정보</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
+      <source>Blog</source>
+      <translation>블로그</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <source>Donate</source>
+      <translation>기부</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
+      <source>Calculator</source>
+      <translation>계산기</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
+      <source>Report Bug</source>
+      <translation>버그 보고</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
+      <source>Manual</source>
+      <translation>메뉴얼</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
+      <source>Generate Crash Dump</source>
+      <translation>충돌 덤프 생성하기</translation>
+    </message>
+    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
@@ -5061,7 +5086,6 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
@@ -5186,38 +5210,38 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="688"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="689"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="690"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="691"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="692"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="693"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="694"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="695"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="697"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="698"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="699"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="700"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="701"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="702"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
@@ -5343,1034 +5367,1045 @@
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="625"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="626"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="632"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="633"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="634"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="635"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="636"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="638"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="639"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="640"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="641"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="642"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="643"/>
       <source>Actions</source>
       <translation>액션</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
       <source>Find Strings</source>
       <translation>문자열 찾기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
       <source>Find Strings in Current Module</source>
       <translation>현재 모듈에서 문자열 검색</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="471"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <source>Find Intermodular Calls</source>
       <translation>모듈간 호출 찾기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
       <source>Toggle Breakpoint</source>
       <translation>중단점 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <source>Set Conditional Breakpoint</source>
       <translation>조건부 중단점 설정</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
       <source>Toggle Bookmark</source>
       <translation>책갈피 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
       <source>Delete Breakpoint</source>
       <translation>중단점 제거</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
       <source>Enable/Disable Breakpoint</source>
       <translation>중단점 활성화/비활성화</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
       <source>Reset breakpoint hit count</source>
       <translation>중단점 히트 횟수 초기화</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <source>Enable all breakpoints</source>
       <translation>모든 중단점 활성화</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="479"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <source>Disable all breakpoints</source>
       <translation>모든 중단점 비활성화</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <source>Remove all breakpoints</source>
       <translation>모든 중단점 제거</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
       <source>Binary Edit</source>
       <translation>바이너리 편집</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
       <source>Binary Fill</source>
       <translation>바이너리 채우기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
       <source>Binary Fill NOPs</source>
       <translation>바이너리 NOP으로 채우기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <source>Binary Copy</source>
       <translation>바이너리 복사</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <source>Binary Paste</source>
       <translation>바이너리 붙여넣기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="492"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
       <source>Binary Paste (Ignore Size)</source>
       <translation>바이너리 붙여넣기 (크기 무시)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
       <source>Binary Save</source>
       <translation>바이너리 저장</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
       <source>Undo Selection</source>
       <translation>선택 취소</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
       <source>Set Label</source>
       <translation>레이블 설정</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
       <source>Set Label for the Operand</source>
       <translation>피연산자에 레이블설정</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
       <source>Set Comment</source>
       <translation>주석 설정</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
       <source>Toggle Function</source>
       <translation>함수 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
       <source>Add Loop</source>
       <translation>루프 추가</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
       <source>Delete Loop</source>
       <translation>루프 삭제</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
       <source>Toggle Argument</source>
       <translation>인자 활성화/비활성화</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
       <source>Assemble</source>
       <translation>어셈블</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
       <source>Set EIP/RIP Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
       <source>Goto Origin</source>
       <translation>시작점으로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
       <source>Goto EBP/RBP</source>
       <translation>EBP/RBP로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
       <source>Goto Previous</source>
       <translation>이전으로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
       <source>Goto Next</source>
       <translation>다음으로 가기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
       <source>Goto Expression</source>
       <translation>표현식으로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
       <source>Goto Start of Page</source>
       <translation>첫 페이지로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
       <source>Goto End of Page</source>
       <translation>끝 페이지로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
       <source>Goto Start of Function</source>
       <translation>함수 시작으로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
       <source>Goto End of Function</source>
       <translation>힘수 끝으로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
       <source>Goto File Offset</source>
       <translation>파일 오프셋으로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
       <source>Find References to Selected Address</source>
       <translation>선택된 영역의 참조 검색</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
       <source>Find Pattern</source>
       <translation>패턴 검색</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
       <source>Find Pattern in Current Module</source>
       <translation>현재 모듈에서 패턴 검색</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
       <source>Find Names in Current Module</source>
       <translation>현재 모듈에서 이름 검색</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
       <source>Find References</source>
       <translation>참조 검색</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <source>xrefs...</source>
       <translation>외부참조...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
       <source>Analyze Single Function</source>
       <translation>단일 함수 분석</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
       <source>Analyze Module</source>
       <translation>모듈 분석</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
       <source>Help on Mnemonic</source>
       <translation>연상기호 도움말</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
       <source>Toggle Mnemonic Brief</source>
       <translation>연상기호 간략 표시 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
       <source>Highlighting Mode</source>
       <translation>강조 모드</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
       <source>Enable/Disable Branch Destination Preview</source>
       <translation>분기 미리보기 켜기/끄기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
       <source>Find</source>
       <translation>검색</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
       <source>Find in Current Module</source>
       <translation>현재 모듈에서 검색</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
       <source>Enable/Disable Logging</source>
       <translation>로깅 켜기/끄기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
       <source>Allocate Memory</source>
       <translation>메모리 할당</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
       <source>Free Memory</source>
       <translation>가용 메모리</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
       <source>Sync With Expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
       <source>Copy All Registers</source>
       <translation>모든 레지스터 복사</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <source>Mark As User Module</source>
       <translation>사용자 모듈로 표시</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
       <source>Mark As System Module</source>
       <translation>시스템 모듈로 표시</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
       <source>Mark As Party</source>
       <translation>파티(사용자 or 시스템) 모듈로 표시</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <source>Set Hardware Breakpoint (Execute)</source>
       <translation>하드웨어 Breakpoint 설정 (실행)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <source>Remove Hardware Breakpoint</source>
       <translation>하드웨어 중단점 제거</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <source>Remove Type Analysis From Module</source>
       <translation>모듈에서 유형 분석 제거</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
       <source>Remove Type Analysis From Selection</source>
       <translation>선택항목에서 유형 분석 제거</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
       <source>Treat Selection As</source>
       <translation>선택한 항목을 다음으로 처리</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
-      <source>Code</source>
-      <translation>코드</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
-      <source>Byte</source>
-      <translation>Byte</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
-      <source>Word</source>
-      <translation>Word</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
-      <source>Dword</source>
-      <translation>Dword</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
-      <source>Fword</source>
-      <translation>Fword</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
-      <source>Qword</source>
-      <translation>Qword</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
-      <source>Tbyte</source>
-      <translation>Tbyte</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
-      <source>Oword</source>
-      <translation>Oword</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
-      <source>Float</source>
-      <translation>Float</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
-      <source>Double</source>
-      <translation>Double</translation>
-    </message>
-    <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
-      <source>LongDouble</source>
-      <translation>LongDouble</translation>
-    </message>
-    <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
-      <source>ASCII</source>
-      <translation>ASCII</translation>
+      <source>Code</source>
+      <translation>코드</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
-      <source>UNICODE</source>
-      <translation>UNICODE</translation>
+      <source>Byte</source>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
-      <source>MMWord</source>
-      <translation>MMWord</translation>
+      <source>Word</source>
+      <translation>Word</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
-      <source>XMMWord</source>
-      <translation>XMMWord</translation>
+      <source>Dword</source>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
+      <source>Fword</source>
+      <translation>Fword</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
+      <source>Qword</source>
+      <translation>Qword</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
+      <source>Tbyte</source>
+      <translation>Tbyte</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
+      <source>Oword</source>
+      <translation>Oword</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <source>Float</source>
+      <translation>Float</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
+      <source>Double</source>
+      <translation>Double</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
+      <source>LongDouble</source>
+      <translation>LongDouble</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
+      <source>ASCII</source>
+      <translation>ASCII</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
+      <source>UNICODE</source>
+      <translation>UNICODE</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
+      <source>MMWord</source>
+      <translation>MMWord</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
+      <source>XMMWord</source>
+      <translation>XMMWord</translation>
+    </message>
+    <message>
+      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
       <source>YMMWord</source>
       <translation>YMMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>Treat Selection Head As</source>
       <translation>선택한 항목의 헤드를 다음으로 처리</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Toggle Register Value</source>
       <translation>레지스터 값 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Clear</source>
       <translation>지우기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Copy</source>
       <translation>복사</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Copy Address</source>
       <translation>주소 복사</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Copy RVA</source>
       <translation>RVA 복사</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Copy Symbol</source>
       <translation>심볼 복사</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Copy Line</source>
       <translation>라인 복사</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Copy Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <source>Load Script</source>
       <translation>스크립트 로드</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Reload Script</source>
       <translation>스크립트 리로드</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Unload Script</source>
       <translation>스크립트 언로드</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Edit Script</source>
       <translation>스크립트 편집</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Run Script</source>
       <translation>스크립트 실행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Toggle Script Breakpoint</source>
       <translation>스크립트 중단점 토글</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Run Script to Cursor</source>
       <translation>스크립트 커서까지 실행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Step Script</source>
       <translation>스크립트 건너뛰기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Abort Script</source>
       <translation>스크립트 정지</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Execute Script Command</source>
       <translation>스크립트 명령어 실행</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Refresh</source>
       <translation>새로고침</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Zoom to cursor</source>
       <translation>커서로 확대</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Fit To Window</source>
       <translation>창 크기에 맞추기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Follow in disassembler</source>
       <translation>디스어셈블러에서 따라가기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Save as image</source>
       <translation>이미지로 저장</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Toggle overview</source>
       <translation>개요 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Toggle summary</source>
       <translation>요약 설정/해제</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
       <source>Toggle sync with EIP/RIP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Increment x87 Stack</source>
       <translation>x87 스택 증가</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Decrement x87 Stack</source>
       <translation>x87 스택 감소</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Redirect Log</source>
       <translation>로그 리디렉션</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Browse in Explorer</source>
       <translation>탐색기에서 열기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Download Symbols for This Module</source>
       <translation>이 모듈에 대한 심볼 다운로드</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Download Symbols for All Modules</source>
       <translation>모든 모듈에 대한 심볼 다운로드</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Create New Thread Here</source>
       <translation>여기에 새 스레드를 만들기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
       <source>Open Source File</source>
       <translation>오픈소스 파일</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
       <source>Follow in Memory Map</source>
       <translation>메모리 맵에서 따라가기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Follow in Stack</source>
       <translation>스택에서 따라가기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
       <source>Follow in Disassembler</source>
       <translation>디스어셈블러에서 따라가기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation>디스어셈블러에서 DWORD/QWORD 따라가기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="625"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation>덤프에서 DWORD/QWORD 따라가기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
       <source>Freeze the stack</source>
       <translation>스택 동결</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
       <source>Go to Base of Stack Frame</source>
       <translation>스택 프레임 기준으로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="688"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
       <source>Go to Previous Stack Frame</source>
       <translation>이전 스택 프레임으로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="689"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
       <source>Go to Next Stack Frame</source>
       <translation>다음 스택 프레임으로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="690"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
       <source>Go to Previous Reference</source>
       <translation>이전 참조로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="691"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="632"/>
       <source>Go to Next Reference</source>
       <translation>다음 참조로 이동</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="692"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="633"/>
       <source>Modify value</source>
       <translation>값 수정</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="693"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="634"/>
       <source>Watch DWORD/QWORD</source>
       <translation>DWORD/QWORD 보기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="694"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="635"/>
       <source>Copy File Offset</source>
       <translation>File Offset 복사하기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="625"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="695"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="636"/>
       <source>Start/Stop trace recording</source>
       <translation>추적 기록 시작/중지</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="697"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="638"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>복사 -&gt; 부분 테이블</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="698"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="639"/>
       <source>Copy -&gt; Table</source>
       <translation>복사 -&gt; 전체 테이블</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="688"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="699"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="640"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>복사 -&gt; 줄을 로그로</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="689"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="700"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="641"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>복사 -&gt; 부분 테이블을 로그로</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="690"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="701"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="642"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>복사 -&gt; 전체 테이블을 로그로</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="691"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="632"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="702"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="643"/>
       <source>Copy -&gt; Export Table</source>
       <translation>복사 -&gt; 테이블 내보내기</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="876"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="892"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="901"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="920"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="929"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="944"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="953"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="972"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="981"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="995"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1009"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1027"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="808"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="824"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="833"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="852"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="861"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="876"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="885"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="904"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="913"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="929"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="943"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="961"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="887"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="903"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="912"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="931"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="940"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="955"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="964"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="983"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="992"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1006"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1020"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1038"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="819"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="835"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="844"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="863"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="872"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="887"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="896"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="915"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="924"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="940"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="954"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="972"/>
       <source>NOT FOUND IN CONFIG!</source>
       <translation>설정에서 찾을 수 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <source>Tracing</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <source>Disable</source>
       <translation>비활성화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
       <source>Dump</source>
       <translation>덤프</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="496"/>
       <source>Cycle Hex View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="497"/>
       <source>Cycle Text View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="498"/>
       <source>Cycle Integer View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="499"/>
       <source>Cycle Float View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="500"/>
       <source>Cycle Address View</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="514"/>
       <source>Set %1 Here</source>
       <translation>여기에 %1 설정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="542"/>
       <source>Sync</source>
       <translation>동기화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="567"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="584"/>
       <source>ZMMWord</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="588"/>
       <source>Copy Reference Address</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="609"/>
       <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
+      <location filename="src/gui/Src/Utils/Configuration.cpp" line="626"/>
       <source>Display type</source>
       <translation type="unfinished"/>
     </message>
@@ -6525,32 +6560,32 @@
       <translation>추적 기록이 중지되었습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="464"/>
+      <location filename="src/dbg/_exports.cpp" line="465"/>
       <source>breakif</source>
       <translation>breakif</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="474"/>
+      <location filename="src/dbg/_exports.cpp" line="475"/>
       <source>fastresume()</source>
       <translation>fastresume()</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="482"/>
+      <location filename="src/dbg/_exports.cpp" line="483"/>
       <source>logif</source>
       <translation>logif</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="489"/>
+      <location filename="src/dbg/_exports.cpp" line="490"/>
       <source>log</source>
       <translation>log</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="501"/>
+      <location filename="src/dbg/_exports.cpp" line="502"/>
       <source>cmdif</source>
       <translation>cmdif</translation>
     </message>
     <message>
-      <location filename="src/dbg/_exports.cpp" line="508"/>
+      <location filename="src/dbg/_exports.cpp" line="509"/>
       <source>cmd</source>
       <translation>cmd</translation>
     </message>
@@ -6731,6 +6766,12 @@
       <location filename="src/dbg/commandline.cpp" line="67"/>
       <source> (Address: %p)</source>
       <translation> (주소: %p)</translation>
+    </message>
+    <message>
+      <location filename="src/dbg/commands/cmd-addresscolor.cpp" line="16"/>
+      <source>Invalid color preset '%s' (expected: 1-%u)
+</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="131"/>
@@ -9642,83 +9683,83 @@
       <translation>SetWatchName를 위한 인자가 불충분합니다</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="52"/>
+      <location filename="src/dbg/database.cpp" line="53"/>
       <source>Saving database to %s </source>
       <translation>%s 에 데이터베이스 저장 중 : </translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="143"/>
+      <location filename="src/dbg/database.cpp" line="145"/>
       <source>
 Failed to write database file !(GetLastError() = %s)
 </source>
       <translation>데이터베이스 파일에 쓰기를 실패하였습니다! (GetLastError() = %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="157"/>
-      <location filename="src/dbg/database.cpp" line="324"/>
+      <location filename="src/dbg/database.cpp" line="159"/>
+      <location filename="src/dbg/database.cpp" line="327"/>
       <source>%ums
 </source>
       <translation>%ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="180"/>
+      <location filename="src/dbg/database.cpp" line="182"/>
       <source>Loading commandline...</source>
       <translation>명령줄 불러오는 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="189"/>
+      <location filename="src/dbg/database.cpp" line="191"/>
       <source>Loading database from %s </source>
       <translation>%s 로부터 데이터베이스 불러오는 중</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="214"/>
+      <location filename="src/dbg/database.cpp" line="216"/>
       <source>(migrating breakpoints) </source>
       <translation>(중단점 이동중)</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="232"/>
+      <location filename="src/dbg/database.cpp" line="234"/>
       <source>
 Invalid database file!</source>
       <translation>
 잘못 된 데이터베이스 파일!</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="242"/>
+      <location filename="src/dbg/database.cpp" line="244"/>
       <source>
 Failed to read database file !(GetLastError() = %s)
 </source>
       <translation>데이터베이스 파일을 읽는데 실패했습니다! (GetLastError() = %s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="258"/>
+      <location filename="src/dbg/database.cpp" line="260"/>
       <source>
 Invalid database file (JSON)!</source>
       <translation>
 잘못 된 데이터베이스 파일 (JSON)!</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="374"/>
+      <location filename="src/dbg/database.cpp" line="378"/>
       <source>Warning: Failed to create database folder '%s'. GetLastError() = %s
 </source>
       <translation>경고: 데이터베이스 폴더 '%s'를 생성하는데 실패했습니다. GetLastError() = %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="419"/>
+      <location filename="src/dbg/database.cpp" line="423"/>
       <source>Cannot write to the program directory (GetLastError() = %s), try running x64dbg as admin...
 </source>
       <translation>프로그램 위치에 쓸 수 없습니다. (GetLastError() = %s) 
 x64dbg를 관리자권한으로 실행해주세요.</translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="438"/>
+      <location filename="src/dbg/database.cpp" line="442"/>
       <source>Database file: %s
 </source>
       <translation>데이터베이스 파일: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/database.cpp" line="449"/>
+      <location filename="src/dbg/database.cpp" line="453"/>
       <source>WARNING: The database has a checksum that is different from the module you are debugging. It is possible that your debuggee has been modified since last session. The content of this database may be incorrect.</source>
       <translation>경고: 데이터베이스의 체크섬이 디버깅 중인 모듈과 다릅니다. 마지막 세션 이후 디버그 대상이 수정되었을 수 있습니다. 이 데이터베이스의 내용이 정확하지 않을 수 있습니다.</translation>
     </message>
@@ -11061,194 +11102,194 @@ Do you want to continue debugging?</source>
       <translation>%u 주시</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="526"/>
+      <location filename="src/dbg/x64dbg.cpp" line="531"/>
       <source>command cut at ~%d characters
 </source>
       <translation>명령이 ~%d 의 문자에서 잘라졌습니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="572"/>
+      <location filename="src/dbg/x64dbg.cpp" line="577"/>
       <source>[Script DLL] Calling export "AsyncStart"...
 </source>
       <translation>[Script DLL] 내보내기 "AsyncStart" 호출중...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="574"/>
+      <location filename="src/dbg/x64dbg.cpp" line="579"/>
       <source>[Script DLL] "AsyncStart" returned!
 </source>
       <translation>[Script DLL] "AsyncStart" 반환되었습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="576"/>
-      <location filename="src/dbg/x64dbg.cpp" line="622"/>
+      <location filename="src/dbg/x64dbg.cpp" line="581"/>
+      <location filename="src/dbg/x64dbg.cpp" line="627"/>
       <source>[Script DLL] Calling FreeLibrary...</source>
       <translation>[Script DLL] FreeLibrary 호출 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="578"/>
-      <location filename="src/dbg/x64dbg.cpp" line="624"/>
+      <location filename="src/dbg/x64dbg.cpp" line="583"/>
+      <location filename="src/dbg/x64dbg.cpp" line="629"/>
       <source>success!
 </source>
       <translation>성공!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="582"/>
-      <location filename="src/dbg/x64dbg.cpp" line="628"/>
+      <location filename="src/dbg/x64dbg.cpp" line="587"/>
+      <location filename="src/dbg/x64dbg.cpp" line="633"/>
       <source>failure (%s)...
 </source>
       <translation>실패 (%s)...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="594"/>
+      <location filename="src/dbg/x64dbg.cpp" line="599"/>
       <source>[Script DLL] Loading Script DLL "%s"...
 </source>
       <translation>[Script DLL] 스크립트 DLL "%s" 불러오는 중...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="599"/>
+      <location filename="src/dbg/x64dbg.cpp" line="604"/>
       <source>[Script DLL] DLL loaded on 0x%p!
 </source>
       <translation>[Script DLL] DLL가 0x%p에 로드되었습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="604"/>
+      <location filename="src/dbg/x64dbg.cpp" line="609"/>
       <source>[Script DLL] Creating thread to call the export "AsyncStart"...
 </source>
       <translation>[Script DLL] 내보내기 "AsyncStart" 호출을 위해서 스레드 생성 중...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="612"/>
+      <location filename="src/dbg/x64dbg.cpp" line="617"/>
       <source>[Script DLL] Calling export "Start"...
 </source>
       <translation>[Script DLL] 내보내기 "Start" 호출 중...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="614"/>
+      <location filename="src/dbg/x64dbg.cpp" line="619"/>
       <source>[Script DLL] "Start" returned!
 </source>
       <translation>[Script DLL] "Start" 반환되었습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="619"/>
+      <location filename="src/dbg/x64dbg.cpp" line="624"/>
       <source>[Script DLL] Failed to find the exports "AsyncStart" or "Start" (%s)!
 </source>
       <translation>[Script DLL] 내보내기 "AsyncStart" 또는 "Start" 를 찾지 못했습니다 (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="635"/>
+      <location filename="src/dbg/x64dbg.cpp" line="640"/>
       <source>[Script DLL] LoadLibary failed (%s)!
 </source>
       <translation>[Script DLL] LoadLibary 실패 (%s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="651"/>
+      <location filename="src/dbg/x64dbg.cpp" line="656"/>
       <source>Retrieving syscall indices...</source>
       <translation>Syscall 인덱스 검색 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="653"/>
+      <location filename="src/dbg/x64dbg.cpp" line="658"/>
       <source>Syscall indices loaded!</source>
       <translation>Syscall 인덱스 로드됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="655"/>
+      <location filename="src/dbg/x64dbg.cpp" line="660"/>
       <source>Failed to load syscall indices...</source>
       <translation>Syscall 인덱스 로드 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="660"/>
+      <location filename="src/dbg/x64dbg.cpp" line="665"/>
       <source>Error codes database loaded!</source>
       <translation>오류 코드 데이터베이스 불러옴!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="662"/>
+      <location filename="src/dbg/x64dbg.cpp" line="667"/>
       <source>Failed to load error codes...</source>
       <translation>오류 코드 불러오기 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="666"/>
+      <location filename="src/dbg/x64dbg.cpp" line="671"/>
       <source>Exception codes database loaded!</source>
       <translation>예외 코드 데이터베이스 불러옴!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="668"/>
+      <location filename="src/dbg/x64dbg.cpp" line="673"/>
       <source>Failed to load exception codes...</source>
       <translation>예외 코드 불러오기 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="672"/>
+      <location filename="src/dbg/x64dbg.cpp" line="677"/>
       <source>NTSTATUS codes database loaded!</source>
       <translation>NTSTATUS 코드 데이터베이스 불러옴!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="674"/>
+      <location filename="src/dbg/x64dbg.cpp" line="679"/>
       <source>Failed to load NTSTATUS codes...</source>
       <translation>NTSTATUS 코드 불러오기 실패......</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="678"/>
+      <location filename="src/dbg/x64dbg.cpp" line="683"/>
       <source>Windows constant database loaded!</source>
       <translation>윈도우즈 상수 데이터베이스가 로드되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="680"/>
+      <location filename="src/dbg/x64dbg.cpp" line="685"/>
       <source>Failed to load Windows constants...</source>
       <translation>윈도우즈 상수를 로드하는데 실패했습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="683"/>
+      <location filename="src/dbg/x64dbg.cpp" line="688"/>
       <source>Reading notes file...</source>
       <translation>메모 파일 읽는중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="689"/>
+      <location filename="src/dbg/x64dbg.cpp" line="694"/>
       <source>Reading notes failed...</source>
       <translation>메모 파일 읽기 실패...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="691"/>
+      <location filename="src/dbg/x64dbg.cpp" line="696"/>
       <source>File read thread finished!</source>
       <translation>파일 읽기 스레드 완료!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="850"/>
+      <location filename="src/dbg/x64dbg.cpp" line="855"/>
       <source>Initializing wait objects...</source>
       <translation>대기 개체들 초기화중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="853"/>
+      <location filename="src/dbg/x64dbg.cpp" line="858"/>
       <source>Initializing debugger...</source>
       <translation>디버거 초기화 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="855"/>
+      <location filename="src/dbg/x64dbg.cpp" line="860"/>
       <source>Initializing debugger functions...</source>
       <translation>디버거 함수 초기화 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="858"/>
+      <location filename="src/dbg/x64dbg.cpp" line="863"/>
       <source>Setting JSON memory management functions...</source>
       <translation>JSON 메모리 관리 기능 설정 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="861"/>
+      <location filename="src/dbg/x64dbg.cpp" line="866"/>
       <source>Getting directory information...</source>
       <translation>디렉터리 정보 가져오는 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="895"/>
+      <location filename="src/dbg/x64dbg.cpp" line="900"/>
       <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
@@ -11257,129 +11298,129 @@ Do you want me to fix this?</source>
 이 문제를 해결하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="902"/>
+      <location filename="src/dbg/x64dbg.cpp" line="907"/>
       <source>Symbol Path: %s
 </source>
       <translation>기호 경로: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="904"/>
+      <location filename="src/dbg/x64dbg.cpp" line="909"/>
       <source>Start file read thread...</source>
       <translation>파일 읽기 스레드 시작...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="916"/>
+      <location filename="src/dbg/x64dbg.cpp" line="921"/>
       <source>Allocating message stack...</source>
       <translation>메시지 스택 할당 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="920"/>
+      <location filename="src/dbg/x64dbg.cpp" line="925"/>
       <source>Initializing global script variables...</source>
       <translation>글로벌 스크립트 변수 초기화 중……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="922"/>
+      <location filename="src/dbg/x64dbg.cpp" line="927"/>
       <source>Registering debugger commands...</source>
       <translation>디버거 명령 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="930"/>
+      <location filename="src/dbg/x64dbg.cpp" line="935"/>
       <source>Registering GUI command handler...</source>
       <translation>GUI 명령 핸들러 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="932"/>
+      <location filename="src/dbg/x64dbg.cpp" line="937"/>
       <source>Registering expression functions...</source>
       <translation>표현식 함수 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="934"/>
+      <location filename="src/dbg/x64dbg.cpp" line="939"/>
       <source>Registering format functions...</source>
       <translation>포맷 함수 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="936"/>
+      <location filename="src/dbg/x64dbg.cpp" line="941"/>
       <source>Default</source>
       <translation>기본값</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="945"/>
+      <location filename="src/dbg/x64dbg.cpp" line="950"/>
       <source>Registering Script DLL command handler...</source>
       <translation>스크립트 DLL 명령 핸들러 등록 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="946"/>
+      <location filename="src/dbg/x64dbg.cpp" line="951"/>
       <source>Script DLL</source>
       <translation>스크립트 DLL</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="949"/>
+      <location filename="src/dbg/x64dbg.cpp" line="954"/>
       <source>Starting command loop...</source>
       <translation>명령 루프 시작 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="957"/>
+      <location filename="src/dbg/x64dbg.cpp" line="962"/>
       <source>Initialization successful!</source>
       <translation>초기화 성공!</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="960"/>
+      <location filename="src/dbg/x64dbg.cpp" line="965"/>
       <source>Testing mode enabled, skipping default plugin autoload...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="963"/>
+      <location filename="src/dbg/x64dbg.cpp" line="968"/>
       <source>Loading plugins...</source>
       <translation>플러그인 로딩 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="967"/>
+      <location filename="src/dbg/x64dbg.cpp" line="972"/>
       <source>Handling command line...</source>
       <translation>명령줄 핸들링...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="977"/>
+      <location filename="src/dbg/x64dbg.cpp" line="982"/>
       <source>Stopping command thread...</source>
       <translation>명령 스레드 중지 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="981"/>
+      <location filename="src/dbg/x64dbg.cpp" line="986"/>
       <source>Stopping running debuggee...</source>
       <translation>디버기 실행 중지중……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="983"/>
+      <location filename="src/dbg/x64dbg.cpp" line="988"/>
       <source>Aborting scripts...</source>
       <translation>스크립트 중단……</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="985"/>
+      <location filename="src/dbg/x64dbg.cpp" line="990"/>
       <source>Unloading plugins...</source>
       <translation>플러그인 언로드 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="988"/>
+      <location filename="src/dbg/x64dbg.cpp" line="993"/>
       <source>Cleaning up allocated data...</source>
       <translation>할당 된 데이터를 정리 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="991"/>
+      <location filename="src/dbg/x64dbg.cpp" line="996"/>
       <source>Cleaning up wait objects...</source>
       <translation>대기 개체를 정리 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="994"/>
+      <location filename="src/dbg/x64dbg.cpp" line="999"/>
       <source>Cleaning up debugger threads...</source>
       <translation>디버거 스레드 정리 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="996"/>
+      <location filename="src/dbg/x64dbg.cpp" line="1001"/>
       <source>Saving notes...</source>
       <translation>메모 저장 중...</translation>
     </message>
     <message>
-      <location filename="src/dbg/x64dbg.cpp" line="1006"/>
+      <location filename="src/dbg/x64dbg.cpp" line="1011"/>
       <source>Exit signal processed successfully!</source>
       <translation>종료 신호가 성공적으로 프로세스됨!</translation>
     </message>
@@ -11442,17 +11483,17 @@ Do you want me to fix this?</source>
   <context>
     <name>DisassemblerGraphView</name>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="831"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="857"/>
       <source>Use Graph command or menu action to draw control flow graph here...</source>
       <translation>그래프 명령어나 메뉴 작업을 사용하여 여기에 제어 흐름 그래프 그리기...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2143"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2169"/>
       <source>Large number of nodes</source>
       <translation>많은 수의 노드</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2144"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2170"/>
       <source>The graph you are trying to render has a large number of nodes (%1). This can cause x64dbg to hang or crash. It is recommended to save your data before you continue.
 
 Do you want to continue rendering this graph?</source>
@@ -11461,162 +11502,162 @@ Do you want to continue rendering this graph?</source>
 이 그래프의 렌더링을 계속하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2228"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2254"/>
       <source>Follow in &amp;Disassembler</source>
       <translation>디스어셈블러에서 따라가기(&amp;D)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2234"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2260"/>
       <source>Xrefs...</source>
       <translation>외부참조...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2237"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2263"/>
       <source>Expression</source>
       <translation>표현식</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2239"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2265"/>
       <source>Previous</source>
       <translation>이전</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2243"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2269"/>
       <source>Next</source>
       <translation>다음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2288"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2314"/>
       <source>&amp;Address: </source>
       <translation>주소(&amp;A): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2289"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2315"/>
       <source>&amp;Constant: </source>
       <translation>상수(&amp;C): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2290"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2316"/>
       <source>&amp;Value: </source>
       <translation>값(&amp;V): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2305"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2331"/>
       <source>Block incoming: %1</source>
       <translation>Block incoming: %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2310"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2336"/>
       <source>Block exit %1</source>
       <translation>Block exit %1</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2318"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2344"/>
       <source>Go to</source>
       <translation>이동</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2319"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2345"/>
       <source>Help on mnemonic</source>
       <translation>연상기호에 대한 도움말</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2320"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2346"/>
       <source>&amp;Highlighting mode</source>
       <translation>강조 모드(&amp;H)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2327"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2353"/>
       <source>&amp;Zoom 100%</source>
       <translation>확대 100%(&amp;Z)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2328"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2354"/>
       <source>&amp;Fit to window</source>
       <translation>창에 크기에 맞추기(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2329"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2355"/>
       <source>&amp;Overview</source>
       <translation>간략하게(&amp;O)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2331"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2357"/>
       <source>S&amp;ummary</source>
       <translation>요약(&amp;U)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2333"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2359"/>
       <source>&amp;Sync with %1</source>
       <translation>%1과 동기화</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2334"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2360"/>
       <source>&amp;Refresh</source>
       <translation>새로고침(&amp;R)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2335"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2361"/>
       <source>Copy image</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2336"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2362"/>
       <source>&amp;Save as image</source>
       <translation>이미지로 저장(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2340"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
       <source>Narrow</source>
       <translation>좁게</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2368"/>
       <source>Medium</source>
       <translation>보통</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2343"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2369"/>
       <source>Wide</source>
       <translation>넓게</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2350"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2376"/>
       <source>Layout</source>
       <translation>표시방법</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2354"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2380"/>
       <source>Detach</source>
       <translation>분리</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2366"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2392"/>
       <source>Copy token &amp;text</source>
       <translation>토큰 텍스트 복사(&amp;T)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2367"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2393"/>
       <source>Copy token &amp;value</source>
       <translation>토큰 값 복사(&amp;V)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2595"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2634"/>
       <source>Save as image</source>
       <translation>이미지로 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2595"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2634"/>
       <source>PNG file (*.png);;WebP lossless file (*.webp);;BMP file (*.bmp);;TIFF file (*.tif);;PDF file (*.pdf)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2619"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2658"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2619"/>
+      <location filename="src/gui/Src/Gui/DisassemblerGraphView.cpp" line="2658"/>
       <source>Image saving failed!</source>
       <translation type="unfinished"/>
     </message>
@@ -12108,41 +12149,41 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="274"/>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="301"/>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="313"/>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="316"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="318"/>
       <source>CSV export error
 </source>
       <translation>CSV 내보내기 에러</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="319"/>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="310"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="312"/>
       <source>Saved CSV data at %1
 </source>
       <translation>CSV 데이터 %1에 저장완료</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="234"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="236"/>
       <source>Export data in CSV/TSV format</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="235"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="237"/>
       <source>Enter the CSV/TSV file name to export</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="236"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="238"/>
       <source>CSV files (*.csv);;TSV files (*.tsv);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="310"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="312"/>
       <source>Saved TSV data at %1
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="316"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="318"/>
       <source>TSV export error
 </source>
       <translation type="unfinished"/>
@@ -12613,27 +12654,27 @@ Do you want to continue rendering this graph?</source>
   <context>
     <name>HexDump</name>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="384"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="398"/>
       <source>&amp;Selected lines</source>
       <translation>선택된 라인(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="390"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="404"/>
       <source>&amp;Address</source>
       <translation>주소(&amp;A)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="418"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="432"/>
       <source>Error!</source>
       <translation>오류발생!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="418"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="432"/>
       <source>Selection not in a module...</source>
       <translation>선택이 모듈안에 존재하지 않습니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1712"/>
+      <location filename="src/gui/Src/BasicView/HexDump.cpp" line="1743"/>
       <source>Address</source>
       <translation>주소</translation>
     </message>
@@ -15530,88 +15571,88 @@ Make sure to fill in as much information as possible.</source>
       <translation>파일 패치(&amp;P)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="270"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="273"/>
       <source>Byte is located in relocation region</source>
       <translation>바이트가 재배치 구역에 위치</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="451"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="454"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="493"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="579"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="693"/>
       <source>Information</source>
       <translation>정보</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="451"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="454"/>
       <source>Nothing to patch!</source>
       <translation>패치할 내용이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="461"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="487"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="464"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="529"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="552"/>
       <source>Error!</source>
       <translation>오류발생!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="461"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="464"/>
       <source>Failed to get module filename...</source>
       <translation>모듈 파일이름 가져오기 실패...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="473"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="476"/>
       <source>Save file</source>
       <translation>파일 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="487"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
       <source>Failed to save patched file (%1)</source>
       <translation>패치된 파일 저장하기 실패함 (%1)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="490"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="630"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="493"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="633"/>
       <source>%1/%2 patch(es) applied!</source>
       <translation>%1/%2 패치 적용됨!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="495"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="498"/>
       <source>Open patch</source>
       <translation>패치 열기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="495"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="498"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="644"/>
       <source>Patch files (*.1337)</source>
       <translation>패치 파일 (*.1337)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="526"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="529"/>
       <source>The patch file is empty...</source>
       <translation>패치 파일이 비어있음...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="549"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="552"/>
       <source>Patch file format is incorrect...</source>
       <translation>패치 파일 포맷이 올바르지 않습니다...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="576"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="579"/>
       <source>No patches to apply in the current process.</source>
       <translation>현재 프로세스에서 적용할 패치가 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="587"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="598"/>
       <source>Question</source>
       <translation>질문</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="584"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="587"/>
       <source>Some patches are already applied.
 
 Do you want to remove these patches?</source>
@@ -15620,7 +15661,7 @@ Do you want to remove these patches?</source>
 이 패치를 제거하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="595"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="598"/>
       <source>Some bytes do not match the original in the patch file.
 
 Do you want to apply these patches anyway?</source>
@@ -15629,27 +15670,27 @@ Do you want to apply these patches anyway?</source>
 이 패치를 적용하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="641"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="644"/>
       <source>Save patch</source>
       <translation>패치 저장</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="679"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="682"/>
       <source>No patches to export.</source>
       <translation>내보내기할 패치가 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="690"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="693"/>
       <source>%1 patch(es) exported!</source>
       <translation>%1 개의 패치를 내보냈습니다!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="720"/>
       <source>Patches overlap with relocation regions</source>
       <translation>패치가 재배치 구역과 겹침</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="717"/>
+      <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="720"/>
       <source>Your patches overlap with relocation regions. This can cause your code to become corrupted when you load the patched executable. Do you want to continue?</source>
       <translation>패치가 재배치 구역과 겹칩니다. 이는 패치된 실행 파일을 로드할 때 코드가 손상될 수 있습니다. 계속하시겠습니까?</translation>
     </message>
@@ -15686,7 +15727,7 @@ Do you want to apply these patches anyway?</source>
     <name>QObject</name>
     <message>
       <location filename="src/cross/widgets/MiscUtil.cpp" line="104"/>
-      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="99"/>
+      <location filename="src/gui/Src/Utils/MiscUtil.cpp" line="101"/>
       <source>Do not show again</source>
       <translation type="unfinished"/>
     </message>
