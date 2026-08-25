@@ -1093,7 +1093,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="637"/>
       <source>Address Color %1</source>
-      <translation type="unfinished"/>
+      <translation>アドレスの色 %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="662"/>
@@ -6778,7 +6778,8 @@
       <location filename="src/dbg/commands/cmd-addresscolor.cpp" line="16"/>
       <source>Invalid color preset '%s' (expected: 1-%u)
 </source>
-      <translation type="unfinished"/>
+      <translation>無効なカラープリセット '%s' (期待値: 1-%u)
+</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-analysis.cpp" line="131"/>
