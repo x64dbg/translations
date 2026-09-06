@@ -13539,7 +13539,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="688"/>
       <source>Patch file...</source>
-      <translation>Fichier patch...</translation>
+      <translation>Patcher le fichier...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="691"/>
@@ -15382,7 +15382,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.ui" line="135"/>
       <source>&amp;Patch File</source>
-      <translation>Fichier de &amp;Patch</translation>
+      <translation>&amp;Patcher le fichier</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/PatchDialog.cpp" line="273"/>
