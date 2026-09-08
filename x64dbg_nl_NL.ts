@@ -11414,17 +11414,17 @@ Wilt u dat dit automatisch opgelost wordt?</translation>
   <context>
     <name>DbgAdapter</name>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="238"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="243"/>
       <source>System breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="251"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="256"/>
       <source>Step</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="257"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="262"/>
       <source>Paused</source>
       <translation>Gepauseerd</translation>
     </message>
