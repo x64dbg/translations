@@ -11197,17 +11197,17 @@ Do you want me to fix this?</source>
   <context>
     <name>DbgAdapter</name>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="243"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="272"/>
       <source>System breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="256"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="285"/>
       <source>Step</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="262"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="291"/>
       <source>Paused</source>
       <translation type="unfinished"/>
     </message>
