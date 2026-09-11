@@ -13812,7 +13812,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="688"/>
       <source>Patch file...</source>
-      <translation>ファイルのパッチ...</translation>
+      <translation>パッチファイル…</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="691"/>
