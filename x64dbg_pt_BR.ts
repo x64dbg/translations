@@ -1093,7 +1093,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="637"/>
       <source>Address Color %1</source>
-      <translation type="unfinished"/>
+      <translation>Cor do Endereço %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="662"/>
@@ -1306,17 +1306,17 @@
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="164"/>
       <source>You are already debugging this process.</source>
-      <translation type="unfinished"/>
+      <translation>Você já está depurando este processo.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="172"/>
       <source>Remember my choice</source>
-      <translation type="unfinished"/>
+      <translation>Lembrar minha escolha</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="174"/>
       <source>You are already debugging a process. What would you like to do with the current process?</source>
-      <translation type="unfinished"/>
+      <translation>Você já está depurando um processo. O que gostaria de fazer com o processo atual?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="175"/>
@@ -1553,7 +1553,7 @@
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="492"/>
       <source>breakif</source>
-      <translation type="unfinished"/>
+      <translation>breakif</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="502"/>
@@ -1563,7 +1563,7 @@
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="511"/>
       <source>logif</source>
-      <translation type="unfinished"/>
+      <translation>logif</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="519"/>
@@ -1573,7 +1573,7 @@
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="539"/>
       <source>cmdif</source>
-      <translation type="unfinished"/>
+      <translation>cmdif</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/BreakpointsView.cpp" line="547"/>
@@ -1733,7 +1733,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="165"/>
       <source>Copy Value</source>
-      <translation type="unfinished"/>
+      <translation>Copiar Valor</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUArgumentWidget.cpp" line="211"/>
@@ -1959,7 +1959,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="371"/>
       <source>Edit columns...</source>
-      <translation type="unfinished"/>
+      <translation>Editar colunas...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="385"/>
@@ -2001,7 +2001,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="416"/>
       <source>Count hits (up to 63)</source>
-      <translation type="unfinished"/>
+      <translation>Contar ocorrências (até 63)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="416"/>
@@ -2011,7 +2011,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="417"/>
       <source>Count hits (up to 16383)</source>
-      <translation type="unfinished"/>
+      <translation>Contar ocorrências (até 16383)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="417"/>
@@ -2446,7 +2446,8 @@
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2039"/>
       <source>Failed to reset trace coverage for page %1.
 </source>
-      <translation type="unfinished"/>
+      <translation>Falhou ao reiniciar cobertura de rastreamento para página %1.
+</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="2055"/>
@@ -2753,7 +2754,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="248"/>
       <source>Hex byte (8-bit)</source>
-      <translation type="unfinished"/>
+      <translation>Hex byte (8-bit)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="249"/>
@@ -2990,13 +2991,13 @@
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1300"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1347"/>
       <source>Address (QWORD)</source>
-      <translation type="unfinished"/>
+      <translation>Endereço (QWORD)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1304"/>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1351"/>
       <source>Address (DWORD)</source>
-      <translation type="unfinished"/>
+      <translation>Endereço (DWORD)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDump.cpp" line="1329"/>
@@ -3302,7 +3303,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="323"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="502"/>
       <source>Edit %1</source>
-      <translation type="unfinished"/>
+      <translation>Editar %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="328"/>
@@ -3317,7 +3318,7 @@
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="343"/>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="346"/>
       <source>Edit %1 register</source>
-      <translation type="unfinished"/>
+      <translation>Editar registrador %1</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="353"/>
@@ -3374,12 +3375,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="485"/>
       <source>Click to fold, right click to delete.</source>
-      <translation type="unfinished"/>
+      <translation>Clique para recolher, botão direito para excluir.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="487"/>
       <source>Click to fold.</source>
-      <translation type="unfinished"/>
+      <translation>Clique para recolher.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUSideBar.cpp" line="502"/>
@@ -3422,12 +3423,12 @@
     <message>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="80"/>
       <source>Go to RSP</source>
-      <translation type="unfinished"/>
+      <translation>Ir para RSP</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="81"/>
       <source>Go to RBP</source>
-      <translation type="unfinished"/>
+      <translation>Ir para RBP</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="85"/>
@@ -3674,7 +3675,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="302"/>
       <source>Edit columns...</source>
-      <translation type="unfinished"/>
+      <translation>Editar colunas...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="321"/>
@@ -6564,7 +6565,7 @@
     <message>
       <location filename="src/dbg/_exports.cpp" line="465"/>
       <source>breakif</source>
-      <translation type="unfinished"/>
+      <translation>breakif</translation>
     </message>
     <message>
       <location filename="src/dbg/_exports.cpp" line="475"/>
@@ -6574,7 +6575,7 @@
     <message>
       <location filename="src/dbg/_exports.cpp" line="483"/>
       <source>logif</source>
-      <translation type="unfinished"/>
+      <translation>logif</translation>
     </message>
     <message>
       <location filename="src/dbg/_exports.cpp" line="490"/>
@@ -6584,7 +6585,7 @@
     <message>
       <location filename="src/dbg/_exports.cpp" line="502"/>
       <source>cmdif</source>
-      <translation type="unfinished"/>
+      <translation>cmdif</translation>
     </message>
     <message>
       <location filename="src/dbg/_exports.cpp" line="509"/>
@@ -13912,7 +13913,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1051"/>
       <source>Count hits (up to 63)</source>
-      <translation type="unfinished"/>
+      <translation>Contar ocorrências (até 63)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1054"/>
@@ -13922,7 +13923,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1063"/>
       <source>Count hits (up to 16383)</source>
-      <translation type="unfinished"/>
+      <translation>Contar ocorrências (até 16383)</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1066"/>
@@ -14518,7 +14519,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
       <source>Remember my choice</source>
-      <translation type="unfinished"/>
+      <translation>Lembrar minha escolha</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
@@ -19125,7 +19126,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="177"/>
       <source>Edit columns...</source>
-      <translation type="unfinished"/>
+      <translation>Editar colunas...</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Tracer/TraceStack.cpp" line="546"/>
