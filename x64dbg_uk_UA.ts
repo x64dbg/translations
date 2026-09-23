@@ -1214,6 +1214,7 @@
     <name>AttachDialog</name>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="14"/>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="19"/>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="18"/>
       <source>Attach</source>
       <translation>Приєднати</translation>
@@ -1225,6 +1226,8 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="93"/>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="23"/>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="40"/>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="23"/>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="25"/>
       <source>Refresh</source>
@@ -1237,39 +1240,80 @@
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="116"/>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="43"/>
       <source>&amp;Attach</source>
       <translation>&amp;Приєднати</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.ui" line="135"/>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="47"/>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="187"/>
       <source>&amp;Cancel</source>
       <translation>&amp;Скасувати</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="32"/>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="37"/>
       <source>PID</source>
       <translation>PID</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="33"/>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="38"/>
       <source>Name</source>
       <translation>Ім'я</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="39"/>
-      <source>Title</source>
-      <translation>Заголовок</translation>
-    </message>
-    <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="34"/>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="40"/>
       <source>Path</source>
       <translation>Шлях</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="35"/>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="41"/>
       <source>Command Line Arguments</source>
       <translation>Аргументи командного рядка</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="97"/>
+      <source>%1 (32-bit)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="99"/>
+      <source>%1 (unknown architecture)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="101"/>
+      <source>%1 (being debugged)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="137"/>
+      <source>This is a 32-bit process, and only 64-bit processes can be debugged.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="139"/>
+      <source>The architecture of this process could not be determined.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="141"/>
+      <source>This process is already being debugged.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="142"/>
+      <source>Cannot attach</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="39"/>
+      <source>Title</source>
+      <translation>Заголовок</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="96"/>
@@ -3402,77 +3446,77 @@
   <context>
     <name>CPUStack</name>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="68"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="66"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="42"/>
       <source>Comments</source>
       <translation>Коментарі</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="75"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="73"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="92"/>
       <source>Align Stack Pointer</source>
       <translation>Вирівняти вказівник стеку</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="76"/>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="228"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="74"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="226"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="98"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="925"/>
       <source>Modify</source>
       <translation>Редагувати</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="80"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="78"/>
       <source>Go to RSP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="81"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="79"/>
       <source>Go to RBP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="85"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="83"/>
       <source>Follow in Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="87"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="85"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="112"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="137"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="88"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="86"/>
       <source>&amp;Selection</source>
       <translation>&amp;Виділення</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="89"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="87"/>
       <source>&amp;Address</source>
       <translation>&amp;Адреса</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="90"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="88"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;QWORD</source>
       <translation>&amp;QWORD</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="90"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="88"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;DWORD</source>
       <translation>&amp;DWORD</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="92"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="90"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="135"/>
       <source>&amp;Comments</source>
       <translation>&amp;Коментарі</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="96"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="94"/>
       <source>Freeze Stack</source>
       <translation type="unfinished"/>
     </message>
@@ -4356,7 +4400,6 @@
   <context>
     <name>Configuration</name>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
@@ -4367,6 +4410,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
@@ -4382,73 +4426,72 @@
       <translation>Файл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="457"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="389"/>
       <source>Open</source>
       <translation>Відкрити</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="458"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="390"/>
       <source>Attach</source>
       <translation>Приєднати</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="459"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="391"/>
       <source>Detach</source>
       <translation>Від’єднати</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="460"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
       <source>Save database</source>
       <translation>Зберегти базу даних</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
       <source>Restore backup database</source>
       <translation>Відновити базу даних з резервної копії</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
       <source>Reload database</source>
       <translation>Перезавантажити базу даних</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
       <source>Clear database</source>
       <translation>Очистити базу даних</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="396"/>
       <source>Import database</source>
       <translation>Імпортувати бази даних</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="397"/>
       <source>Export database</source>
       <translation>Експортувати базу даних</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="466"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="398"/>
       <source>Restart as Admin</source>
       <translation>Перезапустити від імені адміністратора</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="467"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="468"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="399"/>
       <source>Exit</source>
       <translation>Вийти</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
@@ -4474,6 +4517,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
@@ -4504,128 +4548,127 @@
       <translation>Вигляд</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="469"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="401"/>
       <source>CPU</source>
       <translation>CPU</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="470"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="402"/>
       <source>Log</source>
       <translation>Журнал</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="471"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="403"/>
       <source>Breakpoints</source>
       <translation>Точки зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="472"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="404"/>
       <source>Memory Map</source>
       <translation>Мапа пам'яті</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="473"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="405"/>
       <source>Call Stack</source>
       <translation>Стек викликів</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="474"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="406"/>
       <source>Notes</source>
       <translation>Нотатки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="475"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="407"/>
       <source>SEH</source>
       <translation>SEH</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="476"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="408"/>
       <source>Script</source>
       <translation>Скрипт</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="477"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="409"/>
       <source>Symbol Info</source>
       <translation>Інформація про символи</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="478"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
       <source>Modules</source>
       <translation>Модулі</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="411"/>
       <source>Source</source>
       <translation>Початковий код</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="412"/>
       <source>References</source>
       <translation>Посилання</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="481"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="413"/>
       <source>Threads</source>
       <translation>Потоки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="482"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="414"/>
       <source>Patches</source>
       <translation>Патчі</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="483"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="415"/>
       <source>Comments</source>
       <translation>Коментарі</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="484"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="416"/>
       <source>Labels</source>
       <translation>Мітки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="485"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="417"/>
       <source>Bookmarks</source>
       <translation>Закладки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="486"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="418"/>
       <source>Functions</source>
       <translation>Функції</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="487"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="419"/>
       <source>Variables</source>
       <translation>Змінні</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="488"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="420"/>
       <source>Handles</source>
       <translation>Дескриптори</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="489"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
@@ -4633,6 +4676,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="421"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="605"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
@@ -4646,37 +4690,36 @@
       <translation>Граф</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="490"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="422"/>
       <source>Previous Tab</source>
       <translation>Попередня вкладка</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="491"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="423"/>
       <source>Next Tab</source>
       <translation>Наступна вкладка</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="492"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="424"/>
       <source>Previous View</source>
       <translation>Попередній вид</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="493"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="425"/>
       <source>Next View</source>
       <translation>Наступний вид</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="494"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="495"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="426"/>
       <source>Hide Tab</source>
       <translation>Приховати вкладку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
@@ -4709,6 +4752,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
@@ -4745,240 +4789,240 @@
       <translation>Відлагодження</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="496"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="428"/>
       <source>Run</source>
       <translation>Виконати</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="497"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="429"/>
       <source>Run (pass exception)</source>
       <translation>Виконати (пропустити винятки)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="498"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="430"/>
       <source>Run (swallow exception)</source>
       <translation>Виконати (приглушити виняток)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="499"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="431"/>
       <source>Run until selection</source>
       <translation>Виконати до виділеного</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="500"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="432"/>
       <source>Run until expression</source>
       <translation>Виконати до виразу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="501"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="433"/>
       <source>Pause</source>
       <translation>Призупинити</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="502"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="434"/>
       <source>Restart</source>
       <translation>Перезапустити</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="503"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="435"/>
       <source>Close</source>
       <translation>&amp;Закрити</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="504"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="436"/>
       <source>Step into</source>
       <translation>Крок всередину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="505"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="437"/>
       <source>Step into (pass exception)</source>
       <translation>Крок всередину (пропустити виняток)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="506"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="438"/>
       <source>Step into (swallow exception)</source>
       <translation>Крок всередину (приглушити виняток)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="507"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="439"/>
       <source>Step into (source)</source>
       <translation>Крок всередину (початковий код)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="508"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="440"/>
       <source>Step over</source>
       <translation>Крок через</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="509"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="441"/>
       <source>Step over (pass exception)</source>
       <translation>Крок через (пропустити виняток)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="510"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="442"/>
       <source>Step over (swallow exception)</source>
       <translation>Крок через (приглушити виняток)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="511"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="443"/>
       <source>Step over (source)</source>
       <translation>Крок через (початковий код)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="512"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="444"/>
       <source>Execute till return</source>
       <translation>Виконати до повернення</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="513"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="445"/>
       <source>Execute till return (pass exception)</source>
       <translation>Виконати до повернення (пропустити виняток)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="514"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="446"/>
       <source>Run to user code</source>
       <translation>Виконати до коду користувача</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="515"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="447"/>
       <source>Skip next instruction</source>
       <translation>Пропустити наступну інструкцію</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="516"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="448"/>
       <source>Command</source>
       <translation>Команда</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="517"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="449"/>
       <source>Trace into...</source>
       <translation>Трасування всередину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="518"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="450"/>
       <source>Trace over...</source>
       <translation>Трасування через</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="460"/>
       <source>Trace coverage</source>
       <translation>Покриття трасування</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="519"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="451"/>
       <source>Bit</source>
       <translation>Bit</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="520"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
       <source>None</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="521"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="452"/>
       <source>Undo instruction</source>
       <translation>Скасувати інструкцію</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="522"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="453"/>
       <source>Animate into</source>
       <translation>Анімація всередину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="523"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="454"/>
       <source>Animate over</source>
       <translation>Анімація через</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="524"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="455"/>
       <source>Animate command</source>
       <translation>Анімація команди</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="525"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="456"/>
       <source>Step into until reaching uncovered code</source>
       <translation>Крок всередину до досягнення непокритого коду</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="526"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="457"/>
       <source>Step over until reaching uncovered code</source>
       <translation>Крок через до досягнення непокритого коду</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="527"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="458"/>
       <source>Step into until reaching covered code</source>
       <translation>Крок всередину до досягнення покритого коду</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="528"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="529"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="459"/>
       <source>Step over until reaching covered code</source>
       <translation>Крок через до досягнення покритого коду</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Plugins</source>
       <translation>Плагіни</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="530"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="531"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="462"/>
       <source>Scylla</source>
       <translation>Scylla</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <source>Favourites</source>
       <translation>Обране</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="532"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="533"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="464"/>
       <source>Manage Favourite Tools</source>
       <translation>Керування обраними інструментами</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
@@ -4988,43 +5032,43 @@
       <translation>Параметри</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="534"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="466"/>
       <source>Preferences</source>
       <translation>Налаштування</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="535"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="467"/>
       <source>Appearance</source>
       <translation>Зовнішній вигляд</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="536"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="468"/>
       <source>Hotkeys</source>
       <translation>Гарячі клавіші</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="537"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="469"/>
       <source>Topmost</source>
       <translation>Поверх усіх вікон</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="538"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="539"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="470"/>
       <source>Reload style.css</source>
       <translation>Перезавантажити style.css</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
@@ -5036,49 +5080,48 @@
       <translation>Довідка</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="540"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="472"/>
       <source>About</source>
       <translation>Про програму</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="541"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="473"/>
       <source>Blog</source>
       <translation>Блог</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="542"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="474"/>
       <source>Donate</source>
       <translation>Пожертвувати</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="543"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="475"/>
       <source>Calculator</source>
       <translation>Калькулятор</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="544"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="476"/>
       <source>Report Bug</source>
       <translation>Повідомити про помилку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="545"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="477"/>
       <source>Manual</source>
       <translation>Посібник</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="546"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="547"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="478"/>
       <source>Generate Crash Dump</source>
       <translation>Генерувати дамп збою</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
@@ -5090,7 +5133,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
@@ -5225,12 +5268,13 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="693"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="694"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="695"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="697"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="696"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="698"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="699"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="700"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="701"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="702"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="703"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
@@ -5392,395 +5436,394 @@
       <translation>Дії</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="548"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="480"/>
       <source>Find Strings</source>
       <translation>Пошук рядків</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="549"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="481"/>
       <source>Find Strings in Current Module</source>
       <translation>Знайти рядки в поточному модулі</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="550"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="482"/>
       <source>Find Intermodular Calls</source>
       <translation>Знайти міжмодульні виклики</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="551"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="483"/>
       <source>Toggle Breakpoint</source>
       <translation>Переключити стан точки зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="552"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="484"/>
       <source>Set Conditional Breakpoint</source>
       <translation>Встановити умовну точку зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="553"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="485"/>
       <source>Toggle Bookmark</source>
       <translation>Поставити/Прибрати закладку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="554"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="486"/>
       <source>Delete Breakpoint</source>
       <translation>Видалити точку зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="555"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="487"/>
       <source>Enable/Disable Breakpoint</source>
       <translation>Увімкнути/вимкнути точку зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="556"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="488"/>
       <source>Reset breakpoint hit count</source>
       <translation>Скинути лічильник точок зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="557"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="489"/>
       <source>Enable all breakpoints</source>
       <translation>Увімкнути всі точки зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="558"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="490"/>
       <source>Disable all breakpoints</source>
       <translation>Вимкнути всі точки зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="559"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="560"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="491"/>
       <source>Remove all breakpoints</source>
       <translation>Видалити всі точки зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="561"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="493"/>
       <source>Binary Edit</source>
       <translation>Редагувати двійкові дані</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="562"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="494"/>
       <source>Binary Fill</source>
       <translation>Заповнити двійкові дані</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="563"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="495"/>
       <source>Binary Fill NOPs</source>
       <translation>Заповнити двійкові дані інструкціям NOP</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="564"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="501"/>
       <source>Binary Copy</source>
       <translation>Копіювати двійкові дані</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="565"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="502"/>
       <source>Binary Paste</source>
       <translation>Вставити двійкові дані</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="566"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="503"/>
       <source>Binary Paste (Ignore Size)</source>
       <translation>Вставити двійкові дані (ігнорувати розмір)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="567"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="504"/>
       <source>Binary Save</source>
       <translation>Зберегти двійкові дані</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="568"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="505"/>
       <source>Undo Selection</source>
       <translation>Скасувати виділення</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="569"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="506"/>
       <source>Set Label</source>
       <translation>Встановити мітку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="570"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="507"/>
       <source>Set Label for the Operand</source>
       <translation>Встановити мітку для операнду</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="571"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="508"/>
       <source>Set Comment</source>
       <translation>Залишити коментар</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="572"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="509"/>
       <source>Toggle Function</source>
       <translation>Переключити функцію</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="573"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="510"/>
       <source>Add Loop</source>
       <translation>Додати цикл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="574"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="511"/>
       <source>Delete Loop</source>
       <translation>Видалити цикл</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="575"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="512"/>
       <source>Toggle Argument</source>
       <translation>Переключити аргумент</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="576"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="513"/>
       <source>Assemble</source>
       <translation>Асемблювати</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="577"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
       <source>Set EIP/RIP Here</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="578"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="515"/>
       <source>Goto Origin</source>
       <translation>Перейти до початку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="579"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="516"/>
       <source>Goto EBP/RBP</source>
       <translation>Перейти до EBP/RBP</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="580"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="517"/>
       <source>Goto Previous</source>
       <translation>Перейти до попереднього</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="581"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="518"/>
       <source>Goto Next</source>
       <translation>Перейти до наступного</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="582"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="519"/>
       <source>Goto Expression</source>
       <translation>Перейти до виразу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="583"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="520"/>
       <source>Goto Start of Page</source>
       <translation>Перейти до початку сторінки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="584"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="521"/>
       <source>Goto End of Page</source>
       <translation>Перейти до кінця сторінки</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="585"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="522"/>
       <source>Goto Start of Function</source>
       <translation>Перейти до початку функції</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="586"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="523"/>
       <source>Goto End of Function</source>
       <translation>Перейти до кінця функції</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="587"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="524"/>
       <source>Goto File Offset</source>
       <translation>Перейти до зміщення файлу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="588"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="525"/>
       <source>Find References to Selected Address</source>
       <translation>Знайти посилання на вибрані адреси</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="589"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="526"/>
       <source>Find Pattern</source>
       <translation>Знайти шаблон</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="590"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="527"/>
       <source>Find Pattern in Current Module</source>
       <translation>Знайти шаблон в поточному модулі</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="591"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="528"/>
       <source>Find Names in Current Module</source>
       <translation>Знайти імена в поточному модулі</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="592"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="529"/>
       <source>Find References</source>
       <translation>Знайти посилання</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="593"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="530"/>
       <source>xrefs...</source>
       <translation>перехресні посилання...</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="594"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="531"/>
       <source>Analyze Single Function</source>
       <translation>Аналіз одної функції</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="595"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="532"/>
       <source>Analyze Module</source>
       <translation>Аналіз модуля</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="596"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="533"/>
       <source>Help on Mnemonic</source>
       <translation>Довідка по мнемоніці</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="597"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="534"/>
       <source>Toggle Mnemonic Brief</source>
       <translation>Перемкнути коротку мнемоніку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="598"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="535"/>
       <source>Highlighting Mode</source>
       <translation>Режим підсвічування</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="599"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="536"/>
       <source>Enable/Disable Branch Destination Preview</source>
       <translation>Увімкнути/вимкнути попередній перегляд гілки призначення</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="600"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="537"/>
       <source>Find</source>
       <translation>Знайти</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="601"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="538"/>
       <source>Find in Current Module</source>
       <translation>Знайти в поточному модулі</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="602"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="539"/>
       <source>Enable/Disable Logging</source>
       <translation>Увімкнути/Вимкнути ведення журналу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="603"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="540"/>
       <source>Allocate Memory</source>
       <translation>Виділити пам'ять</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="604"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="541"/>
       <source>Free Memory</source>
       <translation>Вільна пам'ять</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="605"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
       <source>Sync With Expression</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="606"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="543"/>
       <source>Copy All Registers</source>
       <translation>Копіювати всі регістри</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="607"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="544"/>
       <source>Mark As User Module</source>
       <translation>Позначити як модуль користувача</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="608"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="545"/>
       <source>Mark As System Module</source>
       <translation>Позначити як системний модуль</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="609"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="546"/>
       <source>Mark As Party</source>
       <translation>Позначити як групу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="610"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="547"/>
       <source>Set Hardware Breakpoint (Execute)</source>
       <translation>Встановити апаратну точку зупину (Виконання)</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="611"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="548"/>
       <source>Remove Hardware Breakpoint</source>
       <translation>Видалити апаратну точку зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="612"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="549"/>
       <source>Remove Type Analysis From Module</source>
       <translation>Видалити аналіз типів з модуля</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="613"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="550"/>
       <source>Remove Type Analysis From Selection</source>
       <translation>Видалити аналіз типів з виділеного</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
@@ -5796,6 +5839,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
@@ -5817,135 +5861,134 @@
       <translation>Розглядати позначене як</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="614"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="551"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
       <source>Code</source>
       <translation>Код</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="615"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="552"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <source>Byte</source>
       <translation>Byte</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="616"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="553"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
       <source>Word</source>
       <translation>Word</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="617"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="554"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="571"/>
       <source>Dword</source>
       <translation>Dword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="618"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="634"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="555"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="572"/>
       <source>Fword</source>
       <translation>Fword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="619"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="635"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="556"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="573"/>
       <source>Qword</source>
       <translation>Qword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="620"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="636"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="557"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="574"/>
       <source>Tbyte</source>
       <translation>Tbyte</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="621"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="637"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="558"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="575"/>
       <source>Oword</source>
       <translation>Oword</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="622"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="638"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="559"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="576"/>
       <source>Float</source>
       <translation>Float</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="623"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="639"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="560"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="577"/>
       <source>Double</source>
       <translation>Double</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="624"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="640"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="561"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="578"/>
       <source>LongDouble</source>
       <translation>LongDouble</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="625"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="641"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="562"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="579"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="626"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="642"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="563"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="580"/>
       <source>UNICODE</source>
       <translation>UNICODE</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="627"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="564"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="581"/>
       <source>MMWord</source>
       <translation>MMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="628"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="565"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="582"/>
       <source>XMMWord</source>
       <translation>XMMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="629"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="566"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="583"/>
       <source>YMMWord</source>
       <translation>YMMWord</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="630"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="631"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="632"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="633"/>
@@ -5961,6 +6004,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="643"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="644"/>
       <location filename="src/cross/widgets/Configuration.cpp" line="645"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="568"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="569"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="570"/>
@@ -5982,347 +6026,347 @@
       <translation>Вважати &amp;початок виділення як</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="646"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="585"/>
       <source>Toggle Register Value</source>
       <translation>Переключити значення регістру</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="647"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="586"/>
       <source>Clear</source>
       <translation>Очистити</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="648"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="587"/>
       <source>Copy</source>
       <translation>Копіювати</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="649"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="589"/>
       <source>Copy Address</source>
       <translation>Копіювати адресу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="650"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="590"/>
       <source>Copy RVA</source>
       <translation>Копіювати RVA</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="651"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="591"/>
       <source>Copy Symbol</source>
       <translation>Копіювати символ</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="652"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="592"/>
       <source>Copy Line</source>
       <translation>Копіювати рядок</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="653"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="593"/>
       <source>Copy Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="654"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="594"/>
       <source>Load Script</source>
       <translation>Завантажити скрипт</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="655"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="595"/>
       <source>Reload Script</source>
       <translation>Перезавантажити скрипт</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="656"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="596"/>
       <source>Unload Script</source>
       <translation>Вивантажити скрипт</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="657"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="597"/>
       <source>Edit Script</source>
       <translation>Редагувати скрипт</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="658"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="598"/>
       <source>Run Script</source>
       <translation>Запустити скрипт</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="659"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="599"/>
       <source>Toggle Script Breakpoint</source>
       <translation>Переключити точку зупину скрипту</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="660"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="600"/>
       <source>Run Script to Cursor</source>
       <translation>Виконати скрипт до курсора</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="661"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="601"/>
       <source>Step Script</source>
       <translation>Покрокове виконання скрипту</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="662"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="602"/>
       <source>Abort Script</source>
       <translation>Призупинити виконання скрипту</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="663"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="603"/>
       <source>Execute Script Command</source>
       <translation>Виконати команду сценарію</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="664"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="665"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="604"/>
       <source>Refresh</source>
       <translation>Оновити</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="666"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="606"/>
       <source>Zoom to cursor</source>
       <translation>Збільшити до курсора</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="667"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="607"/>
       <source>Fit To Window</source>
       <translation>За розміром вікна</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="668"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="608"/>
       <source>Follow in disassembler</source>
       <translation>Перейти до дизасембльованого коду</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="669"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="610"/>
       <source>Save as image</source>
       <translation>Зберегти як зображення</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="670"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="611"/>
       <source>Toggle overview</source>
       <translation>Переключити огляд</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="671"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="612"/>
       <source>Toggle summary</source>
       <translation>Переключити короткий огляд</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="672"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
       <source>Toggle sync with EIP/RIP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="673"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="613"/>
       <source>Increment x87 Stack</source>
       <translation>Збільшити стек x87</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="674"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="614"/>
       <source>Decrement x87 Stack</source>
       <translation>Зменшити стек x87</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="675"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="615"/>
       <source>Redirect Log</source>
       <translation>Журнал перенаправлення</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="676"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="616"/>
       <source>Browse in Explorer</source>
       <translation>Переглянути в провіднику</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="677"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="617"/>
       <source>Download Symbols for This Module</source>
       <translation>Завантажити символи для цього модуля</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="678"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="618"/>
       <source>Download Symbols for All Modules</source>
       <translation>Завантажити символи для всіх модулів</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="679"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="619"/>
       <source>Create New Thread Here</source>
       <translation>Створити новий потік тут</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="680"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="620"/>
       <source>Open Source File</source>
       <translation>Відкрити файл із початковим кодом</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="681"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="621"/>
       <source>Follow in Memory Map</source>
       <translation>Перейти до мапи пам'яті</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="682"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="622"/>
       <source>Follow in Stack</source>
       <translation>Перейти до стека</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="683"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="623"/>
       <source>Follow in Disassembler</source>
       <translation>Перейти до дизасембльованого коду</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="684"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="624"/>
       <source>Follow DWORD/QWORD in Disassembler</source>
       <translation>Перейти по DWORD/QWORD в дизасембльований код</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="685"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="625"/>
       <source>Follow DWORD/QWORD in Dump</source>
       <translation>Перейти по DWORD/QWORD в дамп</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="686"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="627"/>
       <source>Freeze the stack</source>
       <translation>Заморозити стек</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="687"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="688"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="628"/>
       <source>Go to Base of Stack Frame</source>
       <translation>Перейти до бази кадру стеку</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="688"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="689"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="629"/>
       <source>Go to Previous Stack Frame</source>
       <translation>Перейти до попереднього кадру стека</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="689"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="690"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="630"/>
       <source>Go to Next Stack Frame</source>
       <translation>Перейти до наступного кадру стека</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="690"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="691"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="631"/>
       <source>Go to Previous Reference</source>
       <translation>Перейти до попереднього посилання</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="691"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="692"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="632"/>
       <source>Go to Next Reference</source>
       <translation>Перейти до наступного посилання</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="692"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="693"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="633"/>
       <source>Modify value</source>
       <translation>Змінити значення</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="693"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="694"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="634"/>
       <source>Watch DWORD/QWORD</source>
       <translation>Перегляд DWORD/QWORD</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="694"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="695"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="635"/>
       <source>Copy File Offset</source>
       <translation>Копіювати зміщення в файлі</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="695"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="696"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="636"/>
       <source>Start/Stop trace recording</source>
       <translation>Розпочати/Зупинити запис трасування</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="697"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="698"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="638"/>
       <source>Copy -&gt; Cropped Table</source>
       <translation>Копіювати -&gt; Обрізана таблиця</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="698"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="699"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="639"/>
       <source>Copy -&gt; Table</source>
       <translation>Копіювати -&gt; Таблиця</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="699"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="700"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="640"/>
       <source>Copy -&gt; Line, To Log</source>
       <translation>Копіювати -&gt; Рядок до журналу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="700"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="701"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="641"/>
       <source>Copy -&gt; Cropped Table, To Log</source>
       <translation>Копіювати -&gt; Обрізана таблиця до журналу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="701"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="702"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="642"/>
       <source>Copy -&gt; Table, To Log</source>
       <translation>Копіювати -&gt; Таблиця до журналу</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="702"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="703"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="643"/>
       <source>Copy -&gt; Export Table</source>
       <translation>Копіювати -&gt; Експортувати таблицю</translation>
     </message>
     <message>
-      <location filename="src/cross/widgets/Configuration.cpp" line="887"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="903"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="912"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="931"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="940"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="955"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="964"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="983"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="992"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1006"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1020"/>
-      <location filename="src/cross/widgets/Configuration.cpp" line="1038"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="888"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="904"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="913"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="932"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="941"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="956"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="965"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="984"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="993"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1007"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1021"/>
+      <location filename="src/cross/widgets/Configuration.cpp" line="1039"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="819"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="835"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="844"/>
@@ -11442,44 +11486,64 @@ Do you want me to fix this?</source>
   <context>
     <name>DbgAdapter</name>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="262"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="318"/>
       <source>Thread switched</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="284"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="340"/>
       <source>suspend</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="284"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="340"/>
       <source>resume</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="287"/>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="302"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="343"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="358"/>
       <source>suspended</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="287"/>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="302"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="343"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="358"/>
       <source>resumed</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="388"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="447"/>
       <source>System breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="402"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="453"/>
+      <source>Attached to process!</source>
+      <translation>Приєднатися до процесу!</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="457"/>
+      <source>Attached</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="463"/>
+      <source>The debuggee replaced its image with execve</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="474"/>
+      <source>Detached!</source>
+      <translation>Від’єднано!</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="489"/>
       <source>Step</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="408"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="495"/>
       <source>Paused</source>
       <translation>Призупинено</translation>
     </message>
@@ -13306,7 +13370,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/cross/minidump/MainWindow.ui" line="38"/>
       <location filename="src/cross/remote_table/MainWindow.ui" line="38"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="34"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="44"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="61"/>
       <source>&amp;File</source>
       <translation>&amp;Файл</translation>
     </message>
@@ -13347,13 +13411,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="75"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="50"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="71"/>
       <source>&amp;View</source>
       <translation>&amp;Вигляд</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="109"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="67"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="88"/>
       <source>&amp;Debug</source>
       <translation>&amp;Відлагодження</translation>
     </message>
@@ -13423,7 +13487,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="334"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="69"/>
       <source>E&amp;xit</source>
       <translation>&amp;Вихід</translation>
     </message>
@@ -13434,7 +13498,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="346"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="68"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="89"/>
       <source>&amp;Run</source>
       <translation>&amp;Виконати</translation>
     </message>
@@ -13621,13 +13685,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="571"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="51"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="72"/>
       <source>&amp;CPU</source>
       <translation>&amp;CPU</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="574"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="146"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="285"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="204"/>
       <source>CPU</source>
       <translation>CPU</translation>
@@ -13670,14 +13734,14 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="616"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="61"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="82"/>
       <source>&amp;Threads</source>
       <translation>&amp;Потоки</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="165"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="166"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="304"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="305"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>Потоки</translation>
@@ -13806,7 +13870,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="163"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="302"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>Стек викликів</translation>
@@ -14461,142 +14525,204 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="45"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="62"/>
       <source>&amp;Open...</source>
       <translation>&amp;Відкрити...</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="56"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="64"/>
+      <source>&amp;Attach...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="66"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="149"/>
+      <source>&amp;Detach</source>
+      <translation>&amp;Від’єднати</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="77"/>
       <source>&amp;Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="72"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="93"/>
       <source>Toggle &amp;Breakpoint</source>
       <translation>Перемкнути точку зупинки</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="75"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="96"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="477"/>
       <source>Ready</source>
       <translation>Готовий</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="104"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="124"/>
+      <source>[x64dbg] Still releasing the previous debuggee, try again in a moment</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
+      <source>Remember my choice</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="145"/>
+      <source>Already debugging</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="146"/>
+      <source>You are already debugging a process. What would you like to do with the current process?</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="148"/>
+      <source>&amp;Terminate</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="150"/>
+      <source>&amp;Cancel</source>
+      <translation>&amp;Скасувати</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
+      <source>[x64dbg] The debug thread is still releasing the debuggee</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="243"/>
       <source>Main Toolbar</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="111"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="250"/>
       <source>Open (Ctrl+O)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="114"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="253"/>
       <source>Restart</source>
       <translation>Перезапустити</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="118"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="257"/>
       <source>Close</source>
       <translation>&amp;Закрити</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="124"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="263"/>
       <source>Run (F9)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="127"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="266"/>
       <source>Pause</source>
       <translation>Призупинити</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="132"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="271"/>
       <source>Step Into (F7)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="136"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="275"/>
       <source>Step Over (F8)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="149"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="151"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="288"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="290"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
       <source>Log</source>
       <translation>Журнал</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="161"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="300"/>
       <source>Breakpoints view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="161"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="300"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
       <source>Breakpoints</source>
       <translation>Точки зупину</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="162"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="301"/>
       <source>Memory map view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="162"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="301"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
       <translation>Мапа пам'яті</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="163"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="302"/>
       <source>Call stack view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="175"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="314"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1977"/>
       <source>Disassembly</source>
       <translation>Дизасембльований код</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="177"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="316"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1980"/>
       <source>Dump</source>
       <translation>Дамп</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="179"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="318"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1983"/>
       <source>Stack</source>
       <translation>Стек</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="193"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="332"/>
       <source>Hex</source>
       <translation>Шістнадцятковий</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="201"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="340"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="242"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="380"/>
       <source>Open ELF Binary</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="242"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="380"/>
       <source>All Files (*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="285"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="463"/>
+      <source>Not debugging anything</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="475"/>
       <source>Running</source>
       <translation>Виконується</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="498"/>
+      <source>Detached</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="522"/>
+      <source>Cannot start debugging</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="46"/>
@@ -14651,11 +14777,6 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="734"/>
       <source>Dark</source>
       <translation>Темна</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
-      <source>Remember my choice</source>
-      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="803"/>
@@ -18101,7 +18222,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
   <context>
     <name>ThreadView</name>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="38"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="39"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="45"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="52"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="243"/>
@@ -18109,17 +18230,17 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>Середній</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="38"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="39"/>
       <source>Nice %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="40"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="41"/>
       <source>Batch</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="42"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="43"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="40"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="58"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="228"/>
@@ -18127,141 +18248,141 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>Бездіяльність</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="44"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="45"/>
       <source>FIFO %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="46"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="47"/>
       <source>RR %1</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="48"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="49"/>
       <source>Deadline</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="50"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="51"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="249"/>
       <source>Unknown</source>
       <translation>Невідомо</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="60"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="62"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="152"/>
       <source>Number</source>
       <translation>Номер</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="61"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="63"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="153"/>
       <source>ID</source>
       <translation>Ідентифікатор</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="62"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="64"/>
       <source>FS Base</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="63"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="65"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="156"/>
       <source>RIP</source>
       <translation>RIP</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="64"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="66"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="157"/>
       <source>Suspend Count</source>
       <translation>Кількість призупинень</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="65"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="67"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="158"/>
       <source>Priority</source>
       <translation>Пріоритет</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="66"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="68"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="159"/>
       <source>Wait Reason</source>
       <translation>Причина очікування</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="67"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="69"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="161"/>
       <source>User Time</source>
       <translation>Час користувача</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="68"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="70"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="162"/>
       <source>Kernel Time</source>
       <translation>Час ядра</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="69"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="71"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="163"/>
       <source>Creation Time</source>
       <translation>Час створення</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="70"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="72"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="165"/>
       <source>Name</source>
       <translation>Ім'я</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="84"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="86"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="28"/>
       <source>Switch Thread</source>
       <translation>Перемкнути потік</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="85"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="87"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="29"/>
       <source>Suspend Thread</source>
       <translation>Призупинити потік</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="86"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="88"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="30"/>
       <source>Resume Thread</source>
       <translation>Відновити потік</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="87"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="89"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="31"/>
       <source>Suspend All Threads</source>
       <translation>Призупинити всі потоки</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="88"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="90"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="32"/>
       <source>Resume All Threads</source>
       <translation>Відновити всі потоки</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="90"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="92"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="37"/>
       <source>Set Name</source>
       <translation>Встановити ім'я</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="92"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="94"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="108"/>
       <source>&amp;Copy</source>
       <translation>&amp;Копіювати</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="117"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="119"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="215"/>
       <source>Main</source>
       <translation>Основний</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="159"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="161"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="417"/>
       <source>Thread name - %1</source>
       <translation>Назва потоку - %1</translation>
