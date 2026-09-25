@@ -1277,37 +1277,37 @@
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="97"/>
       <source>%1 (32-bit)</source>
-      <translation type="unfinished"/>
+      <translation>%1 (32-bit)</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="99"/>
       <source>%1 (unknown architecture)</source>
-      <translation type="unfinished"/>
+      <translation>%1 (不明なアーキテクチャ)</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="101"/>
       <source>%1 (being debugged)</source>
-      <translation type="unfinished"/>
+      <translation>%1 (デバッグ中)</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="137"/>
       <source>This is a 32-bit process, and only 64-bit processes can be debugged.</source>
-      <translation type="unfinished"/>
+      <translation>これは32ビットのプロセスで、64ビットのプロセスのみデバッグできます。</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="139"/>
       <source>The architecture of this process could not be determined.</source>
-      <translation type="unfinished"/>
+      <translation>このプロセスのアーキテクチャを特定できませんでした。</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="141"/>
       <source>This process is already being debugged.</source>
-      <translation type="unfinished"/>
+      <translation>このプロセスは既にデバッグ中です。</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="142"/>
       <source>Cannot attach</source>
-      <translation type="unfinished"/>
+      <translation>アタッチできません</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="39"/>
@@ -11622,12 +11622,12 @@ Do you want me to fix this?</source>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="457"/>
       <source>Attached</source>
-      <translation type="unfinished"/>
+      <translation>アタッチ済み</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="463"/>
       <source>The debuggee replaced its image with execve</source>
-      <translation type="unfinished"/>
+      <translation>デバッグ対象がイメージを execve に置き換えました</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="474"/>
@@ -14633,7 +14633,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="64"/>
       <source>&amp;Attach...</source>
-      <translation type="unfinished"/>
+      <translation>アタッチ(&amp;A)…</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="66"/>
@@ -14660,7 +14660,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="124"/>
       <source>[x64dbg] Still releasing the previous debuggee, try again in a moment</source>
-      <translation type="unfinished"/>
+      <translation>[x64dbg] まだ以前のデバッグ対象をリリース中です。しばらくしてからもう一度試してください</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
@@ -14691,7 +14691,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
       <source>[x64dbg] The debug thread is still releasing the debuggee</source>
-      <translation type="unfinished"/>
+      <translation>[x64dbg] デバッグスレッドはまだデバッグ対象をリリース中です</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="243"/>
@@ -14808,7 +14808,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="463"/>
       <source>Not debugging anything</source>
-      <translation type="unfinished"/>
+      <translation>何もデバッグしていません</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="475"/>
@@ -14818,12 +14818,12 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="498"/>
       <source>Detached</source>
-      <translation type="unfinished"/>
+      <translation>デタッチ済み</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="522"/>
       <source>Cannot start debugging</source>
-      <translation type="unfinished"/>
+      <translation>デバッグを開始できません</translation>
     </message>
     <message>
       <location filename="src/cross/hex_viewer/MainWindow.cpp" line="46"/>
