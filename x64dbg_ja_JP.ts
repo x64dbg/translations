@@ -6578,34 +6578,34 @@
   <context>
     <name>DBG</name>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="420"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="425"/>
       <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.
 </source>
       <translation>WriteFile() が失敗したため、トレースの記録が予期せず停止しました。GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="555"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="564"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="560"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="569"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation>ファイル ヘッダーを書き込めないため、トレース記録を開始できませんでした。</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="580"/>
       <source>Started trace recording to file: %s
 </source>
       <translation>ファイルへのトレース記録を開始 : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="593"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="598"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>トレース記録ファイルを作成できません。GetLastError() = %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="604"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="609"/>
       <source>Trace recording stopped.</source>
       <translation>トレース記録を停止しました。</translation>
     </message>
@@ -8029,25 +8029,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
-      <location filename="src/dbg/debugger.cpp" line="3245"/>
+      <location filename="src/dbg/debugger.cpp" line="3247"/>
       <source>Process is already being debugged!</source>
       <translation>プロセスは既にデバッグされています!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="293"/>
-      <location filename="src/dbg/debugger.cpp" line="3163"/>
+      <location filename="src/dbg/debugger.cpp" line="3165"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 失敗!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="299"/>
-      <location filename="src/dbg/debugger.cpp" line="3170"/>
+      <location filename="src/dbg/debugger.cpp" line="3172"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>x32dbg を使用してこのプロセスをデバッグ!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="301"/>
-      <location filename="src/dbg/debugger.cpp" line="3172"/>
+      <location filename="src/dbg/debugger.cpp" line="3174"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>x64dbg を使用してこのプロセスをデバッグ!</translation>
     </message>
@@ -9897,24 +9897,24 @@ Invalid database file (JSON)!</source>
       <translation>Dest バッファが小さすぎます</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="297"/>
+      <location filename="src/dbg/debugger.cpp" line="298"/>
       <source>Thread switched from %X to %X !
 </source>
       <translation>スレッドが %X から %X に切り替わりました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="403"/>
+      <location filename="src/dbg/debugger.cpp" line="404"/>
       <source>Failed to create a break-in thread (DebugBreakProcess)</source>
       <translation>ブレークインスレッドの作成に失敗しました (DebugBreakProcess)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="406"/>
+      <location filename="src/dbg/debugger.cpp" line="407"/>
       <source>Created a break-in thread to pause the debuggee</source>
       <translation>デバッグ対象を一時停止するためのブレークインスレッドを作成しました</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="572"/>
+      <location filename="src/dbg/debugger.cpp" line="573"/>
       <source>Module: %s - </source>
       <translation>モジュール : %s - </translation>
     </message>
@@ -10044,7 +10044,7 @@ Invalid database file (JSON)!</source>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="860"/>
-      <location filename="src/dbg/debugger.cpp" line="2241"/>
+      <location filename="src/dbg/debugger.cpp" line="2243"/>
       <source>paused!</source>
       <translation>一時停止!</translation>
     </message>
@@ -10161,240 +10161,240 @@ Invalid database file (JSON)!</source>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1582"/>
-      <location filename="src/dbg/debugger.cpp" line="1981"/>
+      <location filename="src/dbg/debugger.cpp" line="1584"/>
+      <location filename="src/dbg/debugger.cpp" line="1983"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNameFromHandle 失敗)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1584"/>
+      <location filename="src/dbg/debugger.cpp" line="1586"/>
       <source>Process Started: %p %s
 </source>
       <translation>プロセスを開始しました : %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1633"/>
+      <location filename="src/dbg/debugger.cpp" line="1635"/>
       <source>TLS Callback %d</source>
       <translation>TLS コールバック %d</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1641"/>
-      <location filename="src/dbg/debugger.cpp" line="2034"/>
+      <location filename="src/dbg/debugger.cpp" line="1643"/>
+      <location filename="src/dbg/debugger.cpp" line="2036"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d 無効な TLS コールバック アドレス...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1646"/>
-      <location filename="src/dbg/debugger.cpp" line="2006"/>
+      <location filename="src/dbg/debugger.cpp" line="1648"/>
+      <location filename="src/dbg/debugger.cpp" line="2008"/>
       <source>entry breakpoint</source>
       <translation>エントリ ブレークポイント</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1710"/>
+      <location filename="src/dbg/debugger.cpp" line="1712"/>
       <source>Process stopped with exit code %s
 </source>
       <translation>プロセスは終了コード %s で停止しました
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1754"/>
+      <location filename="src/dbg/debugger.cpp" line="1756"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation>スレッド %s が作成されました。エントリ: %s、パラメータ: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1763"/>
+      <location filename="src/dbg/debugger.cpp" line="1765"/>
       <source>Thread Entry</source>
       <translation>スレッドのエントリーポイント</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1792"/>
+      <location filename="src/dbg/debugger.cpp" line="1794"/>
       <source>Thread %s Stack</source>
       <translation>スレッド %s スタック</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1818"/>
+      <location filename="src/dbg/debugger.cpp" line="1820"/>
       <source>No threads left to switch to (bug?)</source>
       <translation>切り替え可能なスレッドが残っていません (バグ?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1833"/>
+      <location filename="src/dbg/debugger.cpp" line="1835"/>
       <source>Thread %s exit
 </source>
       <translation>スレッド %s 終了
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1856"/>
+      <location filename="src/dbg/debugger.cpp" line="1858"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation>エラー : グローバル初期化スクリプトを読み込めません。</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1861"/>
+      <location filename="src/dbg/debugger.cpp" line="1863"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation>エラー : デバッグ対象の初期化スクリプトを読み込めません。</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1924"/>
+      <location filename="src/dbg/debugger.cpp" line="1926"/>
       <source>System breakpoint reached!</source>
       <translation>システム ブレークポイントに到達しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1935"/>
+      <location filename="src/dbg/debugger.cpp" line="1937"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation>デバッグ対象のエントリ ポイントが実行可能ファイルの MZ ヘッダーにあることが検出されました。これにより異常な動作が発生するため、設定に関係なくシステム ブレークポイントが有効になっています。注意してください!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2025"/>
       <location filename="src/dbg/debugger.cpp" line="2027"/>
+      <location filename="src/dbg/debugger.cpp" line="2029"/>
       <source>TLS Callback</source>
       <translation>TLS コールバック</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2063"/>
+      <location filename="src/dbg/debugger.cpp" line="2065"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>ntdll.dll シンボルが読み込まれるまで待機しています...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2069"/>
+      <location filename="src/dbg/debugger.cpp" line="2071"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>LdrpDebugFlags を 0x%08X に設定しました!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2071"/>
+      <location filename="src/dbg/debugger.cpp" line="2073"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>LdrpDebugFlags への書き込みに失敗
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2075"/>
+      <location filename="src/dbg/debugger.cpp" line="2077"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>シンボル 'LdrpDebugFlags' が見つかりません!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2080"/>
+      <location filename="src/dbg/debugger.cpp" line="2082"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>LdrpDebugFlags が見つかりませんでした (ntdll.dllのシンボルをロードする必要があります)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2085"/>
+      <location filename="src/dbg/debugger.cpp" line="2087"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL 読み込み : %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2152"/>
+      <location filename="src/dbg/debugger.cpp" line="2154"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL アンロード : %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2195"/>
+      <location filename="src/dbg/debugger.cpp" line="2197"/>
       <source>DebugString: "%s"
 </source>
       <translation>デバッグ文字列 : "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2285"/>
+      <location filename="src/dbg/debugger.cpp" line="2287"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>%p (%X, "%s") で SetThreadName 例外
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2306"/>
+      <location filename="src/dbg/debugger.cpp" line="2308"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s) で ファーストチャンス 例外!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2308"/>
+      <location filename="src/dbg/debugger.cpp" line="2310"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X) で ファーストチャンス 例外!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2319"/>
+      <location filename="src/dbg/debugger.cpp" line="2321"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s) で ラストチャンス 例外!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2321"/>
+      <location filename="src/dbg/debugger.cpp" line="2323"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X) で ラストチャンス 例外!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2472"/>
+      <location filename="src/dbg/debugger.cpp" line="2474"/>
       <source>Attached to process!</source>
       <translation>プロセスをアタッチしました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3040"/>
+      <location filename="src/dbg/debugger.cpp" line="3042"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>DLL のデバッグ エラー (ローダーのコピーに失敗しました)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3095"/>
+      <location filename="src/dbg/debugger.cpp" line="3097"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>DLL のデバッグ エラー (loaddll.exe が見つかりません)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3129"/>
+      <location filename="src/dbg/debugger.cpp" line="3131"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>デバッグしようとしている実行可能ファイルには昇格が必要です。管理者として再起動しますか?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3130"/>
+      <location filename="src/dbg/debugger.cpp" line="3132"/>
       <source>Elevation</source>
       <translation>昇格</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3154"/>
+      <location filename="src/dbg/debugger.cpp" line="3156"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>プロセス開始時にエラーが発生しました (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3247"/>
+      <location filename="src/dbg/debugger.cpp" line="3249"/>
       <source>Attach to process failed: %s
 </source>
       <translation>プロセスのアタッチに失敗しました : %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3290"/>
+      <location filename="src/dbg/debugger.cpp" line="3292"/>
       <source>Debugging stopped!</source>
       <translation>デバッグが停止しました!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3342"/>
+      <location filename="src/dbg/debugger.cpp" line="3344"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10409,7 +10409,7 @@ Do you want to continue debugging?</source>
 デバッグを続行しますか?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3368"/>
+      <location filename="src/dbg/debugger.cpp" line="3370"/>
       <source>Failed to create the debug loop thread</source>
       <translation>デバッグループスレッドの作成に失敗しました</translation>
     </message>
@@ -10545,17 +10545,17 @@ Do you want to continue debugging?</source>
       <translation>予約済</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="461"/>
+      <location filename="src/dbg/memory.cpp" line="459"/>
       <source>TEB (%s)</source>
       <translation>スレッド環境ブロック(TEB) (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="468"/>
+      <location filename="src/dbg/memory.cpp" line="466"/>
       <source>WoW64 TEB (%s)</source>
       <translation>WoW64 スレッド環境ブロック(TEB) (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="477"/>
+      <location filename="src/dbg/memory.cpp" line="475"/>
       <source>Stack (%s)</source>
       <translation>スタック (%s)</translation>
     </message>
@@ -10591,70 +10591,70 @@ Do you want to continue debugging?</source>
       <translation>無効な命令です</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="489"/>
+      <location filename="src/dbg/module.cpp" line="507"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>モジュール %s%s の無効な再配置ブロックです!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="505"/>
+      <location filename="src/dbg/module.cpp" line="523"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>モジュール %s%s の無効な再配置エントリです!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="527"/>
+      <location filename="src/dbg/module.cpp" line="545"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>不正な再配置タイプ 0x%02X (モジュール %s%s )!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="606"/>
+      <location filename="src/dbg/module.cpp" line="624"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>CodeView 署名 %08X が不明です (モジュール %s%s )...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="668"/>
+      <location filename="src/dbg/module.cpp" line="686"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>サポートされていないデバッグ タイプ %s をスキップしています(モジュール  %s%s )...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="675"/>
+      <location filename="src/dbg/module.cpp" line="693"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>モジュール %s%s でサポートされているデバッグ タイプが見つかりませんでした!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="818"/>
+      <location filename="src/dbg/module.cpp" line="836"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>モジュール情報を取得中に例外 (%s）、報告してください...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="889"/>
+      <location filename="src/dbg/module.cpp" line="907"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>モジュール %s%s : 無効な PE ファイル!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1051"/>
+      <location filename="src/dbg/module.cpp" line="1069"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation>モジュール %s%s はディスクパスからロードされました
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1104"/>
+      <location filename="src/dbg/module.cpp" line="1122"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation>モジュール %s%s はプロセスメモリから読み込まれました (ファイルにアクセスできません)

@@ -6575,31 +6575,31 @@
   <context>
     <name>DBG</name>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="420"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="425"/>
       <source>Trace recording has stopped unexpectedly because WriteFile() failed. GetLastError() = %s.
 </source>
       <translation>WriteFile()이 실패하여 추적 기록이 중지되었습니다.  GetLastError() = %s.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="555"/>
-      <location filename="src/dbg/TraceRecord.cpp" line="564"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="560"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="569"/>
       <source>Trace recording failed to start because the file header cannot be written.</source>
       <translation>파일 헤더를 쓸 수 없어 추적 기록을 시작할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="575"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="580"/>
       <source>Started trace recording to file: %s
 </source>
       <translation>추적 기록을 시작한 파일: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="593"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="598"/>
       <source>Cannot create trace recording file. GetLastError() = %s.
 </source>
       <translation>추적 기록 파일을 생성할 수 없습니다. GetLastError() = %s.</translation>
     </message>
     <message>
-      <location filename="src/dbg/TraceRecord.cpp" line="604"/>
+      <location filename="src/dbg/TraceRecord.cpp" line="609"/>
       <source>Trace recording stopped.</source>
       <translation>추적 기록이 중지되었습니다.</translation>
     </message>
@@ -8011,25 +8011,25 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="286"/>
-      <location filename="src/dbg/debugger.cpp" line="3245"/>
+      <location filename="src/dbg/debugger.cpp" line="3247"/>
       <source>Process is already being debugged!</source>
       <translation>프로세스가 이미 디버그되었습니다!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="293"/>
-      <location filename="src/dbg/debugger.cpp" line="3163"/>
+      <location filename="src/dbg/debugger.cpp" line="3165"/>
       <source>IsWow64Process failed!</source>
       <translation>IsWow64Process 실패!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="299"/>
-      <location filename="src/dbg/debugger.cpp" line="3170"/>
+      <location filename="src/dbg/debugger.cpp" line="3172"/>
       <source>Use x32dbg to debug this process!</source>
       <translation>이 프로세스를 디버깅하기 위해서 x32dbg를 사용합니다!</translation>
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="301"/>
-      <location filename="src/dbg/debugger.cpp" line="3172"/>
+      <location filename="src/dbg/debugger.cpp" line="3174"/>
       <source>Use x64dbg to debug this process!</source>
       <translation>이 프로세스를 디버깅하기 위해서 x64dbg를 사용합니다!</translation>
     </message>
@@ -9863,24 +9863,24 @@ x64dbg를 관리자권한으로 실행해주세요.</translation>
       <translation>Dest 버퍼가 너무 작습니다</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="297"/>
+      <location filename="src/dbg/debugger.cpp" line="298"/>
       <source>Thread switched from %X to %X !
 </source>
       <translation>스레드가 %X에서 %X로 전환되었습니다 !
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="403"/>
+      <location filename="src/dbg/debugger.cpp" line="404"/>
       <source>Failed to create a break-in thread (DebugBreakProcess)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="406"/>
+      <location filename="src/dbg/debugger.cpp" line="407"/>
       <source>Created a break-in thread to pause the debuggee</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="572"/>
+      <location filename="src/dbg/debugger.cpp" line="573"/>
       <source>Module: %s - </source>
       <translation>모듈: %s - </translation>
     </message>
@@ -10006,7 +10006,7 @@ x64dbg를 관리자권한으로 실행해주세요.</translation>
     </message>
     <message>
       <location filename="src/dbg/debugger.cpp" line="860"/>
-      <location filename="src/dbg/debugger.cpp" line="2241"/>
+      <location filename="src/dbg/debugger.cpp" line="2243"/>
       <source>paused!</source>
       <translation>일시 중지됨!</translation>
     </message>
@@ -10124,229 +10124,229 @@ x64dbg를 관리자권한으로 실행해주세요.</translation>
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1582"/>
-      <location filename="src/dbg/debugger.cpp" line="1981"/>
+      <location filename="src/dbg/debugger.cpp" line="1584"/>
+      <location filename="src/dbg/debugger.cpp" line="1983"/>
       <source>??? (GetFileNameFromHandle failed)</source>
       <translation>??? (GetFileNameFromHandle 실패)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1584"/>
+      <location filename="src/dbg/debugger.cpp" line="1586"/>
       <source>Process Started: %p %s
 </source>
       <translation>프로세스 시작함: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1633"/>
+      <location filename="src/dbg/debugger.cpp" line="1635"/>
       <source>TLS Callback %d</source>
       <translation>TLS 콜백 %d</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1641"/>
-      <location filename="src/dbg/debugger.cpp" line="2034"/>
+      <location filename="src/dbg/debugger.cpp" line="1643"/>
+      <location filename="src/dbg/debugger.cpp" line="2036"/>
       <source>%d invalid TLS callback addresses...
 </source>
       <translation>%d 잘못 된 TLS 콜백 주소...
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1646"/>
-      <location filename="src/dbg/debugger.cpp" line="2006"/>
+      <location filename="src/dbg/debugger.cpp" line="1648"/>
+      <location filename="src/dbg/debugger.cpp" line="2008"/>
       <source>entry breakpoint</source>
       <translation>진입점 중단점</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1710"/>
+      <location filename="src/dbg/debugger.cpp" line="1712"/>
       <source>Process stopped with exit code %s
 </source>
       <translation>종료 코드 %s로 프로세스가 중단되었습니다</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1754"/>
+      <location filename="src/dbg/debugger.cpp" line="1756"/>
       <source>Thread %s created, Entry: %s, Parameter: %s
 </source>
       <translation>스레드 %s가 생성되었습니다. 진입점: %s, 매개변수: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1763"/>
+      <location filename="src/dbg/debugger.cpp" line="1765"/>
       <source>Thread Entry</source>
       <translation>스레드 진입점</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1792"/>
+      <location filename="src/dbg/debugger.cpp" line="1794"/>
       <source>Thread %s Stack</source>
       <translation>스레드 %s 스택</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1818"/>
+      <location filename="src/dbg/debugger.cpp" line="1820"/>
       <source>No threads left to switch to (bug?)</source>
       <translation>전환할 스레드가 남아있지 않습니다 (버그?)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1833"/>
+      <location filename="src/dbg/debugger.cpp" line="1835"/>
       <source>Thread %s exit
 </source>
       <translation>스레드 %s 종료</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1856"/>
+      <location filename="src/dbg/debugger.cpp" line="1858"/>
       <source>Error: Cannot load global initialization script.</source>
       <translation>오류: 글로벌 초기화 스크립트를 로드할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1861"/>
+      <location filename="src/dbg/debugger.cpp" line="1863"/>
       <source>Error: Cannot load debuggee initialization script.</source>
       <translation>오류: 디버기 초기화 스크립트를 로드할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1924"/>
+      <location filename="src/dbg/debugger.cpp" line="1926"/>
       <source>System breakpoint reached!</source>
       <translation>시스템 중단점에 도달함!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="1935"/>
+      <location filename="src/dbg/debugger.cpp" line="1937"/>
       <source>It has been detected that the debuggee entry point is in the MZ header of the executable. This will cause strange behavior, so the system breakpoint has been enabled regardless of your setting. Be careful!</source>
       <translation>디버그 대상의 진입점이 실행 파일의 MZ 헤더에 있습니다. 이는 예기치 못한 동작이 발생할 수 있으므로 시스템 중단점이 설정되었습니다. 주의하세요! </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2025"/>
       <location filename="src/dbg/debugger.cpp" line="2027"/>
+      <location filename="src/dbg/debugger.cpp" line="2029"/>
       <source>TLS Callback</source>
       <translation>TLS 콜백</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2063"/>
+      <location filename="src/dbg/debugger.cpp" line="2065"/>
       <source>Waiting until ntdll.dll symbols are loaded...
 </source>
       <translation>ntdll.dll 심볼이 로드될 때까지 기다리세요...</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2069"/>
+      <location filename="src/dbg/debugger.cpp" line="2071"/>
       <source>Set LdrpDebugFlags to 0x%08X successfully!
 </source>
       <translation>LdrpDebugFlags를 0x%08X로 설정하는 것을 성공했습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2071"/>
+      <location filename="src/dbg/debugger.cpp" line="2073"/>
       <source>Failed to write to LdrpDebugFlags
 </source>
       <translation>LdrpDebugFlags를 쓰는데 실패했습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2075"/>
+      <location filename="src/dbg/debugger.cpp" line="2077"/>
       <source>Symbol 'LdrpDebugFlags' not found!
 </source>
       <translation>심볼 'LdrpDebugFlags'이 존재하지 않습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2080"/>
+      <location filename="src/dbg/debugger.cpp" line="2082"/>
       <source>Failed to find LdrpDebugFlags (you need to load symbols for ntdll.dll)
 </source>
       <translation>LdrpDebugFlags를 찾는 것을 실패했습니다 (ntdll.dll 심볼을 로드해야 합니다)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2085"/>
+      <location filename="src/dbg/debugger.cpp" line="2087"/>
       <source>DLL Loaded: %p %s
 </source>
       <translation>DLL 로드: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2152"/>
+      <location filename="src/dbg/debugger.cpp" line="2154"/>
       <source>DLL Unloaded: %p %s
 </source>
       <translation>DLL 언로드: %p %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2195"/>
+      <location filename="src/dbg/debugger.cpp" line="2197"/>
       <source>DebugString: "%s"
 </source>
       <translation>디버그 문자열: "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2285"/>
+      <location filename="src/dbg/debugger.cpp" line="2287"/>
       <source>SetThreadName exception on %p (%X, "%s")
 </source>
       <translation>%p (%X, "%s")에서 SetThreadName 예외가 발생했습니다</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2306"/>
+      <location filename="src/dbg/debugger.cpp" line="2308"/>
       <source>First chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s)에서 첫번째 예외발생!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2308"/>
+      <location filename="src/dbg/debugger.cpp" line="2310"/>
       <source>First chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X)에서 첫번째 예외발생!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2319"/>
+      <location filename="src/dbg/debugger.cpp" line="2321"/>
       <source>Last chance exception on %p (%.8X, %s)!
 </source>
       <translation>%p (%.8X, %s)에서 마지막 예외발생!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2321"/>
+      <location filename="src/dbg/debugger.cpp" line="2323"/>
       <source>Last chance exception on %p (%.8X)!
 </source>
       <translation>%p (%.8X)에서 마지막 예외발생!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="2472"/>
+      <location filename="src/dbg/debugger.cpp" line="2474"/>
       <source>Attached to process!</source>
       <translation>프로세스에 연결되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3040"/>
+      <location filename="src/dbg/debugger.cpp" line="3042"/>
       <source>Error debugging DLL (failed to copy loader)
 </source>
       <translation>디버깅 DLL 에러 (로더를 복사하는데 실패)</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3095"/>
+      <location filename="src/dbg/debugger.cpp" line="3097"/>
       <source>Error debugging DLL (loaddll.exe not found)
 </source>
       <translation>디버깅 DLL 에러 (loaddll.exe가 발견되지 않음)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3129"/>
+      <location filename="src/dbg/debugger.cpp" line="3131"/>
       <source>The executable you are trying to debug requires elevation. Restart as admin?</source>
       <translation>디버깅하려는 실행 프로그램에 권한상승이 필요합니다. 관리자로 다시 시작하겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3130"/>
+      <location filename="src/dbg/debugger.cpp" line="3132"/>
       <source>Elevation</source>
       <translation>권한 상승</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3154"/>
+      <location filename="src/dbg/debugger.cpp" line="3156"/>
       <source>Error starting process (CreateProcess, %s)!
 </source>
       <translation>프로세스 시작 오류 (CreateProcess, %s)!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3247"/>
+      <location filename="src/dbg/debugger.cpp" line="3249"/>
       <source>Attach to process failed: %s
 </source>
       <translation>프로세스에 연결하는데 실패했습니다: %s</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3290"/>
+      <location filename="src/dbg/debugger.cpp" line="3292"/>
       <source>Debugging stopped!</source>
       <translation>디버깅 중지됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3342"/>
+      <location filename="src/dbg/debugger.cpp" line="3344"/>
       <source>Drivers known to interfere with x64dbg's operation have been detected.
 
 List of drivers:
@@ -10361,7 +10361,7 @@ Do you want to continue debugging?</source>
 디버깅을 계속하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/dbg/debugger.cpp" line="3368"/>
+      <location filename="src/dbg/debugger.cpp" line="3370"/>
       <source>Failed to create the debug loop thread</source>
       <translation type="unfinished"/>
     </message>
@@ -10491,17 +10491,17 @@ Do you want to continue debugging?</source>
       <translation>예약됨</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="461"/>
+      <location filename="src/dbg/memory.cpp" line="459"/>
       <source>TEB (%s)</source>
       <translation>TEB (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="468"/>
+      <location filename="src/dbg/memory.cpp" line="466"/>
       <source>WoW64 TEB (%s)</source>
       <translation>WoW64 TEB (%s)</translation>
     </message>
     <message>
-      <location filename="src/dbg/memory.cpp" line="477"/>
+      <location filename="src/dbg/memory.cpp" line="475"/>
       <source>Stack (%s)</source>
       <translation>스택 (%s)</translation>
     </message>
@@ -10537,61 +10537,61 @@ Do you want to continue debugging?</source>
       <translation>잘못 된 명령어</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="489"/>
+      <location filename="src/dbg/module.cpp" line="507"/>
       <source>Invalid relocation block for module %s%s!
 </source>
       <translation>%s%s 모듈에 대한 유효하지 않은 재배치 블록!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="505"/>
+      <location filename="src/dbg/module.cpp" line="523"/>
       <source>Invalid relocation entry for module %s%s!
 </source>
       <translation>%s%s 모듈에 대한 유효하지 않은 재배치 진입점!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="527"/>
+      <location filename="src/dbg/module.cpp" line="545"/>
       <source>Illegal relocation type 0x%02X for module %s%s!
 </source>
       <translation>재배치 유형 0x%02X은 %s%s 모듈에 대해 잘못된 유형 !</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="606"/>
+      <location filename="src/dbg/module.cpp" line="624"/>
       <source>Unknown CodeView signature %08X for module %s%s...
 </source>
       <translation>%08X은 %s%s 모듈에 대해 알수없는 CodeView 서명...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="668"/>
+      <location filename="src/dbg/module.cpp" line="686"/>
       <source>Skipping unsupported debug type %s in module %s%s...
 </source>
       <translation>디버그 유형 %s은 %s%s 모듈에 지원되지 않는 유형으로 스킵...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="675"/>
+      <location filename="src/dbg/module.cpp" line="693"/>
       <source>Did not find any supported debug types in module %s%s!
 </source>
       <translation>%s%s 모듈을 지원하는 디버그 유형을 찾지 못하였습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="818"/>
+      <location filename="src/dbg/module.cpp" line="836"/>
       <source>Exception while getting module info (%s), please report...
 </source>
       <translation>모듈 정보 (%s)를 가져오는데 예외가 발생하였습니다. 문제를 보고해주세요...</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="889"/>
+      <location filename="src/dbg/module.cpp" line="907"/>
       <source>Module %s%s: invalid PE file!
 </source>
       <translation>%s%s 모듈: 유효하지 않은 PE 파일!</translation>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1051"/>
+      <location filename="src/dbg/module.cpp" line="1069"/>
       <source>Module %s%s loaded from disk path
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/module.cpp" line="1104"/>
+      <location filename="src/dbg/module.cpp" line="1122"/>
       <source>Module %s%s loaded from process memory (file inaccessible)
 </source>
       <translation type="unfinished"/>
