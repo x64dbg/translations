@@ -11504,64 +11504,64 @@ Korjataanko tämä?</translation>
   <context>
     <name>DbgAdapter</name>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="318"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="322"/>
       <source>Thread switched</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="340"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="344"/>
       <source>suspend</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="340"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="344"/>
       <source>resume</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="343"/>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="358"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="347"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="362"/>
       <source>suspended</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="343"/>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="358"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="347"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="362"/>
       <source>resumed</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="447"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="470"/>
       <source>System breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="453"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="476"/>
       <source>Attached to process!</source>
       <translation>Kytketty prosessiin!</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="457"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="480"/>
       <source>Attached</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="463"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="486"/>
       <source>The debuggee replaced its image with execve</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="474"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="497"/>
       <source>Detached!</source>
       <translation>Virheenjäljitin irrotettu!</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="489"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="513"/>
       <source>Step</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="495"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="519"/>
       <source>Paused</source>
       <translation>Keskeytetty</translation>
     </message>
@@ -18392,13 +18392,13 @@ Se voi aiheuttaa odottamatonta toimintaa virheenjäljitysistunnossa...</translat
       <translation>&amp;Kopioi</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="119"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="131"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="215"/>
       <source>Main</source>
       <translation>Ensisijainen</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="161"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="173"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="417"/>
       <source>Thread name - %1</source>
       <translation type="unfinished"/>
