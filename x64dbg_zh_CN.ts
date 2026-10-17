@@ -16414,28 +16414,28 @@ it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
-      <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>操作数不正常掩码(第2位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
+      <source>The denormal-operand exception mask (bit 1). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1751"/>
-      <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>浮点数被零除异常掩码(第3位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
+      <source>The floating-point divide-by-zero exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
-      <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>浮点数溢出掩码(第4位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
+      <source>The floating-point numeric overflow exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
-      <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>浮点数可能发生下溢掩码(第5位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
+      <source>The potential floating-point numeric underflow condition mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
-      <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>结果不精确掩码(第6位)。当这个掩码位设置，它对应的异常就不会发生。</translation>
+      <source>The inexact-result/precision exception mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
@@ -16475,28 +16475,28 @@ of the x87 FPU status word. This pointer, which is commonly referred to as TOP (
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
-      <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
-      <translation>处理器会在运算一个不正常的算术操作数时报告操作数不正常异常(第2位)。</translation>
+      <source>The processor reports the denormal-operand exception (bit 1) if an arithmetic instruction attempts to operate on a denormal operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
-      <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
-      <translation>处理器会在把有限且非零的数除以零时报告浮点数被零除异常(第3位)。</translation>
+      <source>The processor reports the floating-point divide-by-zero exception (bit 2) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
-      <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
-      <translation>处理器会在舍入结果超出目标寄存器的最大表示范围时报告浮点数溢出异常(第4位)。</translation>
+      <source>The processor reports a floating-point numeric overflow exception (bit 3) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
-      <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
-      <translation>处理器会在舍入结果中指数位非零但很小时报告可能存在浮点数下溢异常(第5位)。</translation>
+      <source>The processor detects a potential floating-point numeric underflow condition (bit 4) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
-      <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
-      <translation>结果不准确异常(第6位)会在结果无法在目标格式中被准确表示时发生。</translation>
+      <source>The inexact-result/precision exception (bit 5) occurs if the result of an operation is not exactly representable in the destination format.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
@@ -17597,14 +17597,14 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>没有找到以前保存的旧的即时调试器，请使用SETJIT命令设置</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
       <source>Question</source>
       <translation>提示</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
-      <source>Are you sure you want to add %.8X?</source>
-      <translation>您确定要添加 %.8X 吗？</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
+      <source>Are you sure you want to add %1?</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>

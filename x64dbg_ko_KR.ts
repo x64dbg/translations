@@ -16357,29 +16357,28 @@ it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
-      <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>비정규 피연산자 예외 마스크(비트 2). 마스크 비트가 설정되면 해당 예외가 생성되는 것이 차단됩니다.</translation>
+      <source>The denormal-operand exception mask (bit 1). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1751"/>
-      <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>부동 소수점 0으로 나눔 예외 마스크(비트 3). 마스크 비트가 설정되면 해당 예외가 생성되는 것이 차단됩니다.
-</translation>
+      <source>The floating-point divide-by-zero exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
-      <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>부동 소수점 오버플로우 예외 마스크(비트 4). 마스크 비트가 설정되면 해당 예외가 생성되는 것이 차단됩니다.</translation>
+      <source>The floating-point numeric overflow exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
-      <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>잠재적 부동소수점 언더플로우 조건 마스크(비트 5). 마스크 비트가 설정되면 해당 예외가 생성되는 것이 차단됩니다.</translation>
+      <source>The potential floating-point numeric underflow condition mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
-      <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>부정확한 결과/정밀도 예외 마스크(비트 6). 마스크 비트가 설정되면 해당 예외가 생성되는 것이 차단됩니다.</translation>
+      <source>The inexact-result/precision exception mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
@@ -16420,28 +16419,28 @@ of the x87 FPU status word. This pointer, which is commonly referred to as TOP (
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
-      <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
-      <translation>프로세서는 산술 명령이 비정규 피연산자에 작용하려고 시도할 때 비정규 피연산자 예외(비트 2)를 보고합니다.</translation>
+      <source>The processor reports the denormal-operand exception (bit 1) if an arithmetic instruction attempts to operate on a denormal operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
-      <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
-      <translation>프로세서는 명령이 유한한 0이 아닌 피연산자를 0으로 나누려고 시도할 때마다 부동 소수점 0으로 나누기 예외(비트 3)를 보고합니다.</translation>
+      <source>The processor reports the floating-point divide-by-zero exception (bit 2) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
-      <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
-      <translation>프로세서는 명령의 반올림 결과가 대상 피연산자에 들어갈 수 있는 최대 허용 유한 값을 초과할 때마다 부동 소수점 오버플로우 예외(비트 4)를 보고합니다.</translation>
+      <source>The processor reports a floating-point numeric overflow exception (bit 3) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
-      <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
-      <translation>프로세서는 반올림한 결과가 0이 아니며 아주 작을 때마다 부동 소수점 수치 언더플로우 조건(비트 5)을 감지합니다.</translation>
+      <source>The processor detects a potential floating-point numeric underflow condition (bit 4) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
-      <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
-      <translation>연산 결과가 대상 형식으로 정확하게 표현할 수 없는 경우에는 부정확한 결과/정밀도 예외(비트 6)가 발생합니다.</translation>
+      <source>The inexact-result/precision exception (bit 5) occurs if the result of an operation is not exactly representable in the destination format.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
@@ -17547,14 +17546,14 @@ The TEB can be used to get a lot of information on the process without calling W
       <translation>저장된 이전 JIT 진입점을 찾을 수 없습니다, SETJIT 명령을 사용해주세요</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
       <source>Question</source>
       <translation>질문</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
-      <source>Are you sure you want to add %.8X?</source>
-      <translation>정말로 %.8X를 추가하시겠습니까?</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
+      <source>Are you sure you want to add %1?</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>

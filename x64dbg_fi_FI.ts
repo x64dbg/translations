@@ -16355,30 +16355,28 @@ luominen estyy.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
-      <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Epänormaalin luvun poikkeusmaskibitti (bitti 0). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen
-luominen estyy.</translation>
+      <source>The denormal-operand exception mask (bit 1). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1751"/>
-      <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Nollalla jakamisen poikkeusmaskibitti (bitti 3). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen luominen estyy.</translation>
+      <source>The floating-point divide-by-zero exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
-      <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Laskualueen ylityksen poikkeusmaskibitti (bitti 4). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen luominen estyy.</translation>
+      <source>The floating-point numeric overflow exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
-      <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Mahdollisen laskualueen alituksen poikkeusmaskibitti (bitti 5). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen luominen estyy.</translation>
+      <source>The potential floating-point numeric underflow condition mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
-      <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Epätarkan tuloksen poikkeusmaskibitti (bitti 6). Kun maskibitti on asetettu, sitä vastaavan poikkeuksen
-luominen estyy.</translation>
+      <source>The inexact-result/precision exception mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
@@ -16419,28 +16417,28 @@ of the x87 FPU status word. This pointer, which is commonly referred to as TOP (
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
-      <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
-      <translation>Prosessori ilmoittaa epänormaalin luvun poikkeuksen (bitti 2), jos aritmeettisessa laskutoimituksessa yritetään käyttää epänormaalia lukua.</translation>
+      <source>The processor reports the denormal-operand exception (bit 1) if an arithmetic instruction attempts to operate on a denormal operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
-      <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
-      <translation>Prosessori ilmoittaa nollalla jakamisen poikkeuksen (bitti 3), kun käsky yrittää jakaa äärellistä, nollasta poikkeavaa lukua nollalla.</translation>
+      <source>The processor reports the floating-point divide-by-zero exception (bit 2) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
-      <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
-      <translation>Prosessori ilmoittaa liukuluvun laskualueen ylityksen poikkeuksen (bitti 4), kun käskyn tulos pyöristettynä ylittää suurimman mahdollisen äärellisen arvon, joka mahtuu annettuun kohdeoperandiin.</translation>
+      <source>The processor reports a floating-point numeric overflow exception (bit 3) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
-      <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
-      <translation>Prosessori havaitsee mahdollisen liukulukujen laskualueen alituksen (bitti 5), kun pyöristyksen tulos ilman eksponentin rajoituksia eroaa nollasta, mutta on hyvin pieni.</translation>
+      <source>The processor detects a potential floating-point numeric underflow condition (bit 4) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
-      <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
-      <translation>Epätarkan tuloksen poikkeus (bitti 6) luodaan, kun käskyn tulosta ei voi esittää tarkasti kohteen vaatimassa muodossa.</translation>
+      <source>The inexact-result/precision exception (bit 5) occurs if the result of an operation is not exactly representable in the destination format.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
@@ -17548,14 +17546,14 @@ TEB:n avulla voi kerätä paljon tietoa prosessista kutsumatta Win32-rajapinnan 
       <translation>VANHAA JIT-TIETOA EI LÖYTYNYT, KÄYTÄ SETJIT-KOMENTOA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
       <source>Question</source>
       <translation>Kysymys</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
-      <source>Are you sure you want to add %.8X?</source>
-      <translation>Oletko varma, että haluat lisätä %.8X:n?</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
+      <source>Are you sure you want to add %1?</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>

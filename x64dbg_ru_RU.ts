@@ -16400,33 +16400,28 @@ it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
-      <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Маска исключения денормализованного операнда (бит 2). Когда бит маски установлен,
-соответствующее исключение блокируется с момента создания.</translation>
+      <source>The denormal-operand exception mask (bit 1). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1751"/>
-      <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Маска исключения деления на ноль чисел с плавающей запятой (бит 3). Когда бит маски установлен,
-соответствующее исключение блокируется с момента создания.</translation>
+      <source>The floating-point divide-by-zero exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
-      <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Маска исключения переполнения чисел с плавающей запятой (бит 4). Когда бит маски установлен,
-соответствующее исключение блокируется с момента создания.</translation>
+      <source>The floating-point numeric overflow exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
-      <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Маска условия потенциального антипереполнения чисел с плавающей запятой (бит 5).
-Когда бит маски установлен, соответствующее исключение блокируется с момента создания.</translation>
+      <source>The potential floating-point numeric underflow condition mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
-      <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>Маска исключения неточного результата (бит 6). Когда бит маски установлен,
-соответствующее исключение блокируется с момента создания.</translation>
+      <source>The inexact-result/precision exception mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
@@ -16469,30 +16464,28 @@ of the x87 FPU status word. This pointer, which is commonly referred to as TOP (
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
-      <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
-      <translation>Процессор сообщает об исключении денормализованного операнда (бит 2) в случае попытки обработать денормализованный операнд.</translation>
+      <source>The processor reports the denormal-operand exception (bit 1) if an arithmetic instruction attempts to operate on a denormal operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
-      <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
-      <translation>Процессор сообщает об исключении деления на ноль чисел с плавающей запятой (бит 3) всякий раз, когда инструкция пытается разделить конечный ненулевой операнд на 0.</translation>
+      <source>The processor reports the floating-point divide-by-zero exception (bit 2) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
-      <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
-      <translation>Процессор сообщает об исключении переполнения чисел с плавающей запятой (бит 4) всякий раз, когда округленный результат инструкции
-превышает максимально допустимое конечное значение, которое может поместиться в операнд-приемник.</translation>
+      <source>The processor reports a floating-point numeric overflow exception (bit 3) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
-      <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
-      <translation>Процессор определяет потенциальное условие антипереполнения чисел с плавающей запятой (бит 5) всякий раз,
-когда результат округления с неограниченной экспонентой не нулевой и очень маленький.</translation>
+      <source>The processor detects a potential floating-point numeric underflow condition (bit 4) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
-      <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
-      <translation>Исключение неточного результата (бит 6) возникает, если результат операции нельзя точно представить в выходном формате.</translation>
+      <source>The inexact-result/precision exception (bit 5) occurs if the result of an operation is not exactly representable in the destination format.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
@@ -17597,14 +17590,14 @@ TEB может использоваться для получения инфор
       <translation>НЕ НАЙДЕНА СТАРАЯ СОХРАНЕННАЯ ЗАПИСЬ JIT, ИСПОЛЬЗУЙТЕ КОМАНДУ SETJIT</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
       <source>Question</source>
       <translation>Вопрос</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
-      <source>Are you sure you want to add %.8X?</source>
-      <translation>Вы уверены, что хотите добавить %.8X?</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
+      <source>Are you sure you want to add %1?</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>

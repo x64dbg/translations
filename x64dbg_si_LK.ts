@@ -16425,28 +16425,28 @@ it is not meaningful for later version x87 FPU coprocessors or IA-32 processors.
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1749"/>
-      <source>The denormal-operand exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>ඩෙනෝමල්-ක්රියාකරු ව්යතිරේක ආවරණ (බිට් 2). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
+      <source>The denormal-operand exception mask (bit 1). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1751"/>
-      <source>The floating-point divide-by-zero exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>පාවෙන ලක්ෂ්ය බෙදීම-විසින්-ශුන්ය ව්යතිරේක ආවරණ (බිට් 3). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
+      <source>The floating-point divide-by-zero exception mask (bit 2). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1753"/>
-      <source>The floating-point numeric overflow exception mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>පාවෙන ලක්ෂ්යය සංඛ්යාත්මක පිටාර ගැලීමේ ව්යතිරේක ආවරණ (බිට් 4). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
+      <source>The floating-point numeric overflow exception mask (bit 3). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1755"/>
-      <source>The potential floating-point numeric underflow condition mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>විභව පාවෙන ලක්ෂ්යය සංඛ්යාත්මක යට ගැලීමේ තත්ත්වය ආවරණ (බිට් 5). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
+      <source>The potential floating-point numeric underflow condition mask (bit 4). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1757"/>
-      <source>The inexact-result/precision exception mask (bit 6). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
-      <translation>මෙම inexact-ප්රතිඵල/නිරවද්යතාවයකින් ව්යතිරේක වෙස් (බිට් 6). වෙස් බිට් සකසා ඇති විට, එහි අනුරූප ව්යතිරේකය ජනනය වීමෙන් අවහිර වේ.</translation>
+      <source>The inexact-result/precision exception mask (bit 5). When the mask bit is set, its corresponding exception is blocked from being generated.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1760"/>
@@ -16489,28 +16489,28 @@ of the x87 FPU status word. This pointer, which is commonly referred to as TOP (
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1780"/>
-      <source>The processor reports the denormal-operand exception (bit 2) if an arithmetic instruction attempts to operate on a denormal operand.</source>
-      <translation>අංක ගණිතමය උපදෙස් denormal operand මත ක්රියාත්මක කිරීමට උත්සාහ කරන්නේ නම් ප්රොසෙසරය denormal-operand ව්යතිරේකය (bit 2) වාර්තා කරයි.</translation>
+      <source>The processor reports the denormal-operand exception (bit 1) if an arithmetic instruction attempts to operate on a denormal operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1782"/>
-      <source>The processor reports the floating-point divide-by-zero exception (bit 3) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
-      <translation>පරිමිත ශුන්ය නොවන ක්රියාකරුවෙකු 0 කින් බෙදීමට උපදෙස් දෙන සෑම අවස්ථාවකම ප්රොසෙසරය පාවෙන ලක්ෂ්ය බෙදීම-විසින්-ශුන්ය ව්යතිරේකය (bit 3) වාර්තා කරයි.</translation>
+      <source>The processor reports the floating-point divide-by-zero exception (bit 2) whenever an instruction attempts to divide a finite non-zero operand by 0.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1784"/>
-      <source>The processor reports a floating-point numeric overflow exception (bit 4) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
-      <translation>ප්රොසෙසරය පාවෙන ලක්ෂ්ය සංඛ්යාත්මක පිටාර ගැලීම් ව්යතිරේකයක් (බිට් 4) වාර්තා කරයි උපදෙස් වල වටකුරු ප්රති result ලය ගමනාන්ත ඔපෙරැන්ඩ් වලට ගැලපෙන විශාලතම අවසර ලත් පරිමිත අගය ඉක්මවා යන සෑම අවස්ථාවකම.</translation>
+      <source>The processor reports a floating-point numeric overflow exception (bit 3) whenever the rounded result of an instruction exceeds the largest allowable finite value that will fit into the destination operand.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1786"/>
-      <source>The processor detects a potential floating-point numeric underflow condition (bit 5) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
-      <translation>ප්රොසෙසරය විභව පාවෙන ලක්ෂ්ය සංඛ්යාත්මක ඌන ගැලීම් තත්වයක් (බිට් 5) හඳුනා ගනී.</translation>
+      <source>The processor detects a potential floating-point numeric underflow condition (bit 4) whenever the result of rounding with unbounded exponent is non-zero and tiny.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1788"/>
-      <source>The inexact-result/precision exception (bit 6) occurs if the result of an operation is not exactly representable in the destination format.</source>
-      <translation>මෙහෙයුමක ප්රති result ලය ගමනාන්ත ආකෘතියේ හරියටම ප්රතිවර්තනය කළ නොහැකි නම්, අඩු ප්රතිඵල/නිරවද්යතා ව්යතිරේකය (බිට් 6) සිදු වේ.</translation>
+      <source>The inexact-result/precision exception (bit 5) occurs if the result of an operation is not exactly representable in the destination format.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/RegistersView.cpp" line="1791"/>
@@ -17613,14 +17613,14 @@ Win32 API ඇමතීමෙන් තොරව ක්රියාවලිය �
       <translation>පැරණි ජිට් ඇතුළත් කිරීම ගබඩා කර නැත, SETJIT විධානය භාවිතා කරන්න</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
       <source>Question</source>
       <translation>ප්රශ්නය</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="875"/>
-      <source>Are you sure you want to add %.8X?</source>
-      <translation>ඔබට %.8Xඑකතු කිරීමට අවශ්ය බව ඔබට විශ්වාසද?</translation>
+      <location filename="src/gui/Src/Gui/SettingsDialog.cpp" line="879"/>
+      <source>Are you sure you want to add %1?</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
