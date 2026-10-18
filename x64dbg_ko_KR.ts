@@ -6682,18 +6682,18 @@
       <translation>프로세스 메모리를 쓰는 동안 오류가 발생했습니다</translation>
     </message>
     <message>
-      <location filename="src/dbg/breakpoint.cpp" line="579"/>
+      <location filename="src/dbg/breakpoint.cpp" line="590"/>
       <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="20"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="178"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="200"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="176"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="198"/>
       <source>Delete breakpoint failed (DeleteBPX): %p
 </source>
       <translation>중단점 제거 실패 (DeleteBPX): %p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/breakpoint.cpp" line="581"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
+      <location filename="src/dbg/breakpoint.cpp" line="592"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="132"/>
       <location filename="src/dbg/commands/cmd-debug-control.cpp" line="463"/>
       <source>Error setting breakpoint at %p! (SetBPX)
 </source>
@@ -6701,17 +6701,17 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/breakpoint.cpp" line="588"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="647"/>
+      <location filename="src/dbg/breakpoint.cpp" line="599"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="645"/>
       <source>Delete memory breakpoint failed (RemoveMemoryBPX): %p
 </source>
       <translation>메모리 중단점 제거 실패 (RemoveMemoryBPX): %p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/breakpoint.cpp" line="590"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="667"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="913"/>
+      <location filename="src/dbg/breakpoint.cpp" line="601"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="665"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="911"/>
       <source>Could not enable memory breakpoint %p (SetMemoryBPXEx)
 </source>
       <translation>메모리 중단점 %p (SetMemoryBPXEx) 를 활성화할 수 없음
@@ -7082,116 +7082,116 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="35"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="228"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="253"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="33"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="226"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="251"/>
       <source>Could not enable breakpoint %p (SetBPX)
 </source>
       <translation>중단점 %p (SetBPX) 를 활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="40"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="233"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="258"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="38"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="231"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="256"/>
       <source>Could not enable breakpoint %p (BpEnable)
 </source>
       <translation>중단점 %p (BpEnable) 를 활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="53"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="286"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="313"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="51"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="284"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="311"/>
       <source>Could not disable breakpoint %p (BpEnable)
 </source>
       <translation>중단점 %p (BpEnable) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="58"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="294"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="321"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="56"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="292"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="319"/>
       <source>Could not disable breakpoint %p (DeleteBPX)
 </source>
       <translation>중단점 %p (DeleteBPX) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="87"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="85"/>
       <source>Invalid addr: "%s"
 </source>
       <translation>잘못 된 주소: "%s"
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="114"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="112"/>
       <source>Breakpoint already set!</source>
       <translation>중단점이 이미 설정되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="119"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="117"/>
       <source>Error setting breakpoint at %p! (IsBPXEnabled)
 </source>
       <translation>%p에 중단점 설정 오류! (IsBPXEnabled)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="124"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="122"/>
       <source>Error setting breakpoint at %p! (memread)
 </source>
       <translation>%p에 중단점 설정 오류! (memread)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="129"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="127"/>
       <source>Error setting breakpoint at %p! (bpnew)
 </source>
       <translation>%p에 중단점 설정 오류! (bpnew)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="136"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="134"/>
       <source>Error handling invalid breakpoint at %p! (bpdel)
 </source>
       <translation>%p 에서 잘못된 중단점을 처리하는 중 오류가 발생하였습니다! (bpdel)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="141"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="139"/>
       <source>Breakpoint at %p (%s) set!
 </source>
       <translation>%p (%s)에 대한 중단점이 설정되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="143"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="141"/>
       <source>Breakpoint at %p set!
 </source>
       <translation>%p에 중단점을 설정하였습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="153"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="151"/>
       <source>No breakpoints to delete!</source>
       <translation>제거할 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="161"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="159"/>
       <source>All breakpoints deleted!</source>
       <translation>모든 중단점이 제거되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="170"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="192"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="168"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="190"/>
       <source>Delete breakpoint failed (bpdel): %p
 </source>
       <translation>중단점 제거 실패 (bpdel): %p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="187"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="242"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="303"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="185"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="240"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="301"/>
       <location filename="src/dbg/commands/cmd-conditional-breakpoint-control.cpp" line="20"/>
       <location filename="src/dbg/commands/cmd-conditional-breakpoint-control.cpp" line="82"/>
       <location filename="src/dbg/commands/cmd-conditional-breakpoint-control.cpp" line="109"/>
@@ -7204,168 +7204,168 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="203"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="201"/>
       <source>Breakpoint deleted!</source>
       <translation>중단점이 제거되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="214"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="212"/>
       <source>No breakpoints to enable!</source>
       <translation>활성화 할 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="219"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="217"/>
       <source>All breakpoints enabled!</source>
       <translation>모든 중단점이 활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="247"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="245"/>
       <source>Breakpoint already enabled!</source>
       <translation>중단점이 이미 활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="262"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="260"/>
       <source>Breakpoint enabled!</source>
       <translation>중단점이 활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="272"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="270"/>
       <source>No breakpoints to disable!</source>
       <translation>비활성화 할 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="277"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="275"/>
       <source>All breakpoints disabled!</source>
       <translation>모든 중단점이 비활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="308"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="306"/>
       <source>Breakpoint already disabled!</source>
       <translation>중단점이 이미 비활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="324"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="322"/>
       <source>Breakpoint disabled!</source>
       <translation>중단점이 비활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="336"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="334"/>
       <source>Delete hardware breakpoint failed (BpDelete): %p
 </source>
       <translation>하드웨어 중단점 제거 실패 (BpDelete): %p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="341"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="339"/>
       <source>Delete hardware breakpoint failed (DeleteHardwareBreakPoint): %p
 </source>
       <translation>하드웨어 중단점 제거 실패 (DeleteHardwareBreakPoint): %p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="354"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="352"/>
       <source>Did not enable hardware breakpoint %p (all slots full)
 </source>
       <translation>하드웨어 중단점 %p을 활성화하지 않았습니다 (모든 슬롯 가득참)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="362"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="580"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="360"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="578"/>
       <source>Could not enable hardware breakpoint %p (BpEnable)
 </source>
       <translation>하드웨어 중단점 %p (BpEnable) 를 활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="367"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="365"/>
       <source>Could not enable hardware breakpoint %p (SetHardwareBreakPoint)
 </source>
       <translation>하드웨어 중단점 %p (SetHardwareBreakPoint) 를 활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="379"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="617"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="377"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="615"/>
       <source>Could not disable hardware breakpoint %p (BpEnable)
 </source>
       <translation>하드웨어 중단점 %p (BpEnable) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="384"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="382"/>
       <source>Could not disable hardware breakpoint %p (DeleteHardwareBreakPoint)
 </source>
       <translation>하드웨어 중단점 %p (DeleteHardwareBreakPoint) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="414"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="412"/>
       <source>Invalid type, assuming 'x'</source>
       <translation>잘못된 유형, 'x' 로 추측됨</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="442"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="440"/>
       <source>Invalid size, using 1</source>
       <translation>잘못된 크기, 1 사용함</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="447"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="445"/>
       <source>Address not aligned to %d
 </source>
       <translation>주소가 %d에 정렬되지 않음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="454"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="542"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="452"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="540"/>
       <location filename="src/dbg/debugger.cpp" line="1297"/>
       <source>You can only set 4 hardware breakpoints</source>
       <translation>4개의 하드웨어 중단점만 설정하실 수 있습니다</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="467"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="465"/>
       <source>Hardware breakpoint already set!</source>
       <translation>하드웨어 중단점이 이미 설정되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="472"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="470"/>
       <source>Error setting hardware breakpoint (bpnew)!</source>
       <translation>하드웨어 중단점 설정 오류(bpnew)!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="477"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="475"/>
       <source>Error setting hardware breakpoint (TitanEngine)!</source>
       <translation>하드웨어 중단점 설정 오류(TitanEngine)!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="480"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="478"/>
       <source>Hardware breakpoint at %p set!
 </source>
       <translation>%p에 하드웨어 중단점을 설정하였습니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="491"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="489"/>
       <source>No hardware breakpoints to delete!</source>
       <translation>제거 할 하드웨어 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="496"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="494"/>
       <source>All hardware breakpoints deleted!</source>
       <translation>모든 하드웨어 중단점이 제거되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="505"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="524"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="503"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="522"/>
       <source>Delete hardware breakpoint failed: %p (BpDelete)
 </source>
       <translation>하드웨어 중단점 제거 실패: %p (BpDelete)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="510"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="529"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="508"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="527"/>
       <location filename="src/dbg/debugger.cpp" line="886"/>
       <source>Delete hardware breakpoint failed: %p (DeleteHardwareBreakPoint)
 </source>
@@ -7374,498 +7374,498 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="519"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="562"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="607"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="517"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="560"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="605"/>
       <source>No such hardware breakpoint "%s"
 </source>
       <translation>하드웨어 중단점 "%s" 이 존재하지 않음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="532"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="530"/>
       <source>Hardware breakpoint deleted!</source>
       <translation>하드웨어 중단점이 제거되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="549"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="547"/>
       <source>No hardware breakpoints to enable!</source>
       <translation>활성화 할 하드웨어 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="554"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="552"/>
       <source>All hardware breakpoints enabled!</source>
       <translation>모든 하드웨어 중단점이 활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="567"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="565"/>
       <source>Hardware breakpoint already enabled!</source>
       <translation>하드웨어 중단점이 이미 활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="575"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="573"/>
       <source>Could not enable hardware breakpoint %p (SetHardwareBreakpoint)
 </source>
       <translation>하드웨어 중단점 %p (SetHardwareBreakpoint) 를 활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="583"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="581"/>
       <source>Hardware breakpoint enabled!</source>
       <translation>하드웨어 중단점이 활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="594"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="592"/>
       <source>No hardware breakpoints to disable!</source>
       <translation>비활성화 할 하드웨어 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="599"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="597"/>
       <source>All hardware breakpoints disabled!</source>
       <translation>모든 하드웨어 중단점이 비활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="612"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="610"/>
       <source>Hardware breakpoint already disabled!</source>
       <translation>하드웨어 중단점이 이미 비활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="622"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="620"/>
       <source>Could not disable hardware breakpoint %p (DeleteHardwareBreakpoint)
 </source>
       <translation>하드웨어 중단점 %p (DeleteHardwareBreakpoint) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="627"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="625"/>
       <source>Hardware breakpoint disabled!</source>
       <translation>하드웨어 중단점이 비활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="642"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="640"/>
       <source>Delete memory breakpoint failed (BpDelete): %p
 </source>
       <translation>메모리 중단점 제거 실패 (BpDelete): %p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="662"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="918"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="660"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="916"/>
       <source>Could not enable memory breakpoint %p (BpEnable)
 </source>
       <translation>메모리 중단점 %p (BpEnable) 를 활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="679"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="963"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="677"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="961"/>
       <source>Could not disable memory breakpoint %p (BpEnable)
 </source>
       <translation>메모리 중단점 %p (BpEnable) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="684"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="958"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="682"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="956"/>
       <source>Could not disable memory breakpoint %p (RemoveMemoryBPX)
 </source>
       <translation>메모리 중단점 %p (RemoveMemoryBPX) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="728"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="726"/>
       <source>Invalid type (argument ignored)</source>
       <translation>잘못 된 형식 (인자 무시됨)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="743"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="804"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="741"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="802"/>
       <source>Memory breakpoint already set!</source>
       <translation>메모리 중단점이 이미 설정되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="748"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="809"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="746"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="807"/>
       <source>Error setting memory breakpoint! (BpNew)</source>
       <translation>메모리 중단점 설정 오류(BpNew)!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="753"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="814"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="751"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="812"/>
       <source>Error setting memory breakpoint! (SetMemoryBPXEx)</source>
       <translation>메모리 중단점 설정 오류(SetMemoryBPXEx)!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="756"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="817"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="754"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="815"/>
       <source>Memory breakpoint at %p[%p] set!
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="793"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1527"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="791"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1525"/>
       <source>Invalid type specified!</source>
       <translation>잘못 된 형식 지정!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="828"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="826"/>
       <source>No memory breakpoints to delete!</source>
       <translation>제거 할 메모리 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="833"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="831"/>
       <source>All memory breakpoints deleted!</source>
       <translation>모든 메모리 중단점이 제거되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="845"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="867"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="843"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="865"/>
       <source>Delete memory breakpoint failed: %p (BpDelete)
 </source>
       <translation>메모리 중단점 제거 실패: %p (BpDelete)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="850"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="872"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="848"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="870"/>
       <source>Delete memory breakpoint failed: %p (RemoveMemoryBPX)
 </source>
       <translation>메모리 중단점 제거 실패: %p (RemoveMemoryBPX)
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="859"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="899"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="945"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="857"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="897"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="943"/>
       <source>No such memory breakpoint "%s"
 </source>
       <translation>메모리 중단점 "%s" 이 존재하지 않음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="875"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="873"/>
       <source>Memory breakpoint deleted!</source>
       <translation>메모리 중단점이 제거되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="886"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="884"/>
       <source>No memory breakpoints to enable!</source>
       <translation>활성화 할 메모리 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="891"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="889"/>
       <source>All memory breakpoints enabled!</source>
       <translation>모든 메모리 중단점이 활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="904"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="902"/>
       <source>Memory breakpoint already enabled!</source>
       <translation>메모리 중단점이 이미 활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="921"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="919"/>
       <source>Memory breakpoint enabled!</source>
       <translation>메모리 중단점이 활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="932"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="930"/>
       <source>No memory breakpoints to disable!</source>
       <translation>비활성화 할 메모리 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="937"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="935"/>
       <source>All memory breakpoints disabled!</source>
       <translation>모든 메모리 중단점이 비활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="950"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="948"/>
       <source>Memory breakpoint already disabled!</source>
       <translation>메모리 중단점이 이미 비활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="966"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="964"/>
       <source>Memory breakpoint disabled!</source>
       <translation>메모리 중단점이 비활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="978"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="976"/>
       <source>Could not delete DLL breakpoint %s (BpDelete)
 </source>
       <translation>DLL 중단점 %s (BpDelete) 를 제거할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="983"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="981"/>
       <source>Could not delete DLL breakpoint %s (LibrarianRemoveBreakPoint)
 </source>
       <translation>DLL 중단점 %s (LibrarianRemoveBreakPoint) 를 제거할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="996"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1139"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="994"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1137"/>
       <source>Could not enable DLL breakpoint %s (BpEnable)
 </source>
       <translation>DLL 중단점 %s (BpEnable) 를 활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1001"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1144"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="999"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1142"/>
       <source>Could not enable DLL breakpoint %s (LibrarianSetBreakPoint)
 </source>
       <translation>DLL 중단점 %s (LibrarianSetBreakPoint) 를 활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1014"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1181"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1012"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1179"/>
       <source>Could not disable DLL breakpoint %s (BpEnable)
 </source>
       <translation>DLL 중단점 %s (BpEnable) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1019"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1186"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1017"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1184"/>
       <source>Could not disable DLL breakpoint %s (LibrarianRemoveBreakPoint)
 </source>
       <translation>DLL 중단점 %s (LibrarianRemoveBreakPoint) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1058"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1056"/>
       <source>Error creating Dll breakpoint! (BpNewDll)</source>
       <translation>DLL 중단점을 생성하는데 오류발생! (BpNewDll)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1063"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1061"/>
       <source>Error creating Dll breakpoint! (LibrarianSetBreakPoint)</source>
       <translation>DLL 중단점을 생성하는데 오류발생! (LibrarianSetBreakPoint)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1066"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1064"/>
       <source>Dll breakpoint set on "%s"!
 </source>
       <translation>"%s"에 DLL 중단점 설정!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1078"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1076"/>
       <source>No DLL breakpoints to delete!</source>
       <translation>제거할 DLL 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1083"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1081"/>
       <source>All DLL breakpoints deleted!</source>
       <translation>모든 DLL 중단점이 제거되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1091"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1089"/>
       <source>Failed to find DLL breakpoint '%s'...
 </source>
       <translation>DLL 중단점 '%s'를 찾는데 실패했습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1096"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1094"/>
       <source>Failed to remove DLL breakpoint (BpDelete)...</source>
       <translation>DLL 중단점(BpDelete)을 삭제하는데 실패했습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1102"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1100"/>
       <source>Failed to remove DLL breakpoint (dbgdeletedllbreakpoint)...</source>
       <translation>DLL 중단점(dbgdeletedllbreakpoint)를 삭제하는데 실패했습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1105"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1103"/>
       <source>DLL breakpoint removed!</source>
       <translation>DLL 중단점이 제거되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1115"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1113"/>
       <source>No DLL breakpoints to enable!</source>
       <translation>활성화 할 DLL 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1120"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1118"/>
       <source>All DLL breakpoints enabled!</source>
       <translation>모든 DLL 중단점이 활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1129"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1171"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1127"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1169"/>
       <source>No such DLL breakpoint "%s"
 </source>
       <translation>DLL 중단점 "%s" 이 존재하지 않습니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1134"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1132"/>
       <source>DLL breakpoint already enabled!</source>
       <translation>DLL 중단점이 이미 활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1146"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1144"/>
       <source>DLL breakpoint enable!</source>
       <translation>DLL 중단점이 활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1157"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1155"/>
       <source>No DLL breakpoints to disable!</source>
       <translation>비활성화 할 DLL 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1162"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1160"/>
       <source>All DLL breakpoints disabled!</source>
       <translation>모든 DLL 중단점이 비활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1176"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1174"/>
       <source>DLL breakpoint already disabled!</source>
       <translation>DLL 중단점이 이미 비활성화되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1188"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1186"/>
       <source>DLL breakpoint disabled!</source>
       <translation>DLL 중단점이 비활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1201"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1199"/>
       <source>Could not delete exception breakpoint %p (BpEnable)
 </source>
       <translation>예외 중단점 %p (BpEnable) 를 제거할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1214"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1359"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1379"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1212"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1357"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1377"/>
       <source>Could not enable exception breakpoint %p (BpEnable)
 </source>
       <translation>예외 중단점 %p (BpEnable) 를 활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1227"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1407"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1426"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1225"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1405"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1424"/>
       <source>Could not disable exception breakpoint %p (BpEnable)
 </source>
       <translation>예외 중단점 %p (BpEnable) 를 비활성화할 수 없음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1243"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1241"/>
       <source>Invalid exception code: %s.
 </source>
       <translation>잘못 된 예외 코드: %s.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1250"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1248"/>
       <source>Exception breakpoint %X (%s) already exists!
 </source>
       <translation>예외 중단점 %X (%s) 이 이미 존재합니다!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1277"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1283"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1275"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1281"/>
       <source>Invalid exception type!</source>
       <translation>유효하지 않은 예외 유형!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1289"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1287"/>
       <source>Failed to set exception breakpoint! (BpNew)</source>
       <translation>예외 중단점을 설정하지 못했습니다! (BpNew)</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1303"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1301"/>
       <source>No exception breakpoints to delete!</source>
       <translation>제거 할 예외 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1308"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1306"/>
       <source>All exception breakpoints deleted!</source>
       <translation>모든 예외 중단점이 제거되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1317"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1331"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1315"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1329"/>
       <source>Delete exception breakpoint failed (bpdel): %p
 </source>
       <translation>예외 중단점 제거 실패 (bpdel): %p
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1326"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1368"/>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1416"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1324"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1366"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1414"/>
       <source>No such exception breakpoint "%s"
 </source>
       <translation>예외 중단점 "%s" 이 존재하지 않음
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1334"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1332"/>
       <source>Exception breakpoint deleted!</source>
       <translation>예외 중단점 제거 됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1345"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1343"/>
       <source>No exception breakpoints to enable!</source>
       <translation>활성화 할 예외 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1350"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1348"/>
       <source>All exception breakpoints enabled!</source>
       <translation>모든 예외 중단점이 활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1373"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1371"/>
       <source>Exception breakpoint already enabled!</source>
       <translation>예외 중단점이 이미 활성화 됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1383"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1381"/>
       <source>Exception breakpoint enabled!</source>
       <translation>예외 중단점 활성화 됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1393"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1391"/>
       <source>No exception breakpoints to disable!</source>
       <translation>비활성화 할 예외 중단점이 없습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1398"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1396"/>
       <source>All exception breakpoints disabled!</source>
       <translation>모든 예외 중단점이 비활성화 되었습니다!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1421"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1419"/>
       <source>Exception breakpoint already disabled!</source>
       <translation>예외 중단점이 이미 비활성화 됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1429"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1427"/>
       <source>Exception breakpoint disabled!</source>
       <translation>예외 중단점 비활성화 됨!</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1438"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1436"/>
       <source>argument count mismatch!
 </source>
       <translation>인자 개수 불일치!
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1494"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1492"/>
       <source>Something went wrong...</source>
       <translation>알 수 없는 오류가 발생하였습니다...</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1532"/>
+      <location filename="src/dbg/commands/cmd-breakpoint-control.cpp" line="1530"/>
       <source>Default breakpoint type set to: %s
 </source>
       <translation>기본값 중단점 유형을 설정 : %s
