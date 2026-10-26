@@ -8490,7 +8490,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-misc.cpp" line="577"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="1044"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="1043"/>
       <source>Invalid expression: "%s"!
 </source>
       <translation>Ongeldige expressie: "%s"!
@@ -8511,207 +8511,207 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="626"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="625"/>
       <source>Error run the debugger as Admin to setjit
 </source>
       <translation>Fout: Voer de debugger uit als Admin om setjitauto te gebruiken
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="636"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="653"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="673"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="694"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="704"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="738"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="635"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="652"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="672"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="693"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="703"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="737"/>
       <source>Error setting JIT %s
 </source>
       <translation>Fout bij instellen JIT %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="647"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="688"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="774"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="646"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="687"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="773"/>
       <source>Error there is no old JIT entry stored.</source>
       <translation>Fout er is geen oude JIT item opgeslagen.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="717"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="716"/>
       <source>New OLD JIT stored: %s
 </source>
       <translation>Nieuwe OLD JIT opgeslagen: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="728"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="789"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="727"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="788"/>
       <source>Unknown JIT entry type. Use OLD, x64 or x32 as parameter.</source>
       <translation>Onbekende JIT item type. Gebruik OLD, x64 of x32 als parameter.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="736"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="796"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="735"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="795"/>
       <source>Error using x64 arg. The debugger is not a WOW64 process
 </source>
       <translation>Fout bij het gebruik van de x64 arg, de debugger is geen WOW64 proces
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="744"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="743"/>
       <source>Error unknown parameters. Use old, oldsave, restore, x86 or x64 as parameter.</source>
       <translation>Fout, onbekende parameters. Gebruik old, oldsave, restore, x86 of x64 als parameter.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="748"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="747"/>
       <source>New JIT %s: %s
 </source>
       <translation>Nieuwe JIT-%s: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="762"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="798"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="761"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="797"/>
       <source>Error getting JIT %s
 </source>
       <translation>Fout bij ophalen JIT %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="779"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="778"/>
       <source>OLD JIT entry stored: %s
 </source>
       <translation>OLD JIT item opgeslagen: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="803"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="802"/>
       <source>JIT %s: %s
 </source>
       <translation>JIT-%s: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="817"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="839"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="816"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="838"/>
       <source>Error getting JIT auto %s
 </source>
       <translation>Fout bij het verkrijgen van JIT auto %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="830"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="845"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="899"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="829"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="844"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="898"/>
       <source>Unknown JIT auto entry type. Use x64 or x32 as parameter.</source>
       <translation>Onbekende JIT auto start-type. Gebruik x64 of x32 als parameter.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="837"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="916"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="836"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="915"/>
       <source>Error using x64 arg the debugger is not a WOW64 process
 </source>
       <translation>Fout bij het gebruik van de x64 arg, de debugger is geen WOW64 proces
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="848"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="847"/>
       <source>JIT auto %s: %s
 </source>
       <translation>JIT auto %s: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="859"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="858"/>
       <source>Error run the debugger as Admin to setjitauto
 </source>
       <translation>Voer de debugger uit als Admin om setjitauto te gebruiken
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="864"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="863"/>
       <source>Error setting JIT Auto. Use ON:1 or OFF:0 arg or x64/x32, ON:1 or OFF:0.
 </source>
       <translation>Fout bij het instellen van JIT Auto. Gebruik AAN:1 of UIT: 0 arg of x64/x32, AAN:1 of UIT: 0.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="875"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="874"/>
       <source>Error unknown parameters. Use ON:1 or OFF:0</source>
       <translation>Onbekende parameters. Gebruik ON:1 of UIT: 0</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="882"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="881"/>
       <source>Error setting JIT auto x64</source>
       <translation>Fout bij instellen JIT auto x64</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="884"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="883"/>
       <source>Error setting JIT auto x32</source>
       <translation>Fout bij instellen JIT auto x32</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="909"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="908"/>
       <source>Error unknown parameters. Use x86 or x64 and ON:1 or OFF:0
 </source>
       <translation>Onbekende parameters. Gebruik x86 of x64 en ON:1 of UIT: 0
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="920"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="919"/>
       <source>Error getting JIT auto x64</source>
       <translation>Fout bij verkrijgen JIT auto x64</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="922"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="921"/>
       <source>Error getting JIT auto x32</source>
       <translation>Fout bij verkrijgen JIT auto x32</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="929"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="928"/>
       <source>Error unknown parameters use x86 or x64, ON/1 or OFF/0
 </source>
       <translation>Onbekende parameters, gebruik x86 of x64, ON: 1 of OFF: 0
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="933"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="932"/>
       <source>New JIT auto %s: %s
 </source>
       <translation>Nieuwe JIT auto %s: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="948"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="947"/>
       <source>Command line: %s
 </source>
       <translation>Opdrachtregel: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="961"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="960"/>
       <source>Error: write the arg1 with the new command line of the process debugged</source>
       <translation>Fout: Schrijf arg1 met de nieuwe opdrachtregel van het proces dat wordt debugged</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="975"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="974"/>
       <source>New command line: %s
 </source>
       <translation>Nieuwe opdrachtregel: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="986"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="985"/>
       <source>No description or empty description</source>
       <translation>Geen of lege beschrijving</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="1023"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="1022"/>
       <source>Error: Configuration not found.</source>
       <translation>Fout: Configuratie niet gevonden.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="1038"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="1037"/>
       <source>Error updating configuration.</source>
       <translation>Bijwerken configuratie mislukt.</translation>
     </message>

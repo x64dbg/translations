@@ -8494,7 +8494,7 @@
     </message>
     <message>
       <location filename="src/dbg/commands/cmd-misc.cpp" line="577"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="1044"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="1043"/>
       <source>Invalid expression: "%s"!
 </source>
       <translation>잘못 된 표현식: "%s"!
@@ -8515,207 +8515,207 @@
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="626"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="625"/>
       <source>Error run the debugger as Admin to setjit
 </source>
       <translation>오류 setjit을 위해서 디버거를 관리자로 실행
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="636"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="653"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="673"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="694"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="704"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="738"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="635"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="652"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="672"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="693"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="703"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="737"/>
       <source>Error setting JIT %s
 </source>
       <translation>JIT %s 설정 오류
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="647"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="688"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="774"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="646"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="687"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="773"/>
       <source>Error there is no old JIT entry stored.</source>
       <translation>오류 저장된 이전 JIT 진입점이 존재하지 않습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="717"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="716"/>
       <source>New OLD JIT stored: %s
 </source>
       <translation>새로운 이전 JIT 저장됨: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="728"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="789"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="727"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="788"/>
       <source>Unknown JIT entry type. Use OLD, x64 or x32 as parameter.</source>
       <translation>알 수 없는 JIT 진입점 유형입니다. 매개변수로 이전버전이나, x64 또는 x32를 사용하십시오.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="736"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="796"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="735"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="795"/>
       <source>Error using x64 arg. The debugger is not a WOW64 process
 </source>
       <translation>X64 arg 사용 오류. 디버거가 WOW64 프로세스가 아닙니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="744"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="743"/>
       <source>Error unknown parameters. Use old, oldsave, restore, x86 or x64 as parameter.</source>
       <translation>오류 알 수 없는 매개변수. 이전 매개변수, 저장된 매개변수, 복원, x86 이나 x64를 매개변수로 쓰세요.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="748"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="747"/>
       <source>New JIT %s: %s
 </source>
       <translation>새로운 JIT %s: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="762"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="798"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="761"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="797"/>
       <source>Error getting JIT %s
 </source>
       <translation>JIT %s 가져오기 오류
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="779"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="778"/>
       <source>OLD JIT entry stored: %s
 </source>
       <translation>이전 JIT 진입점 저장됨: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="803"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="802"/>
       <source>JIT %s: %s
 </source>
       <translation>JIT %s: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="817"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="839"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="816"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="838"/>
       <source>Error getting JIT auto %s
 </source>
       <translation>JIT 자동 %s 가져오기 오류
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="830"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="845"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="899"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="829"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="844"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="898"/>
       <source>Unknown JIT auto entry type. Use x64 or x32 as parameter.</source>
       <translation>알 수 없는 JIT 자동 진입점 유형입니다. 매개변수로 x64 또는 x32를 사용하십시오.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="837"/>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="916"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="836"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="915"/>
       <source>Error using x64 arg the debugger is not a WOW64 process
 </source>
       <translation>오류 x64 arg 디버거 사용은 WOW64 프로세스가 아닙니다
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="848"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="847"/>
       <source>JIT auto %s: %s
 </source>
       <translation>JIT 자동 %s: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="859"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="858"/>
       <source>Error run the debugger as Admin to setjitauto
 </source>
       <translation>오류 setjitauto을 위해서 디버거를 관리자로 실행
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="864"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="863"/>
       <source>Error setting JIT Auto. Use ON:1 or OFF:0 arg or x64/x32, ON:1 or OFF:0.
 </source>
       <translation>JIT 자동 설정중 오류발생. ON:1 또는 OFF:0 arg 또는 x64/x32, ON:1 또는 OFF:0 를 사용하세요.
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="875"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="874"/>
       <source>Error unknown parameters. Use ON:1 or OFF:0</source>
       <translation>알 수 없는 매개 변수 오류. ON:1 또는 OFF:0 를 사용하세요</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="882"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="881"/>
       <source>Error setting JIT auto x64</source>
       <translation>JIT 자동 x64 설정 오류</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="884"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="883"/>
       <source>Error setting JIT auto x32</source>
       <translation>JIT 자동 x32 설정 오류</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="909"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="908"/>
       <source>Error unknown parameters. Use x86 or x64 and ON:1 or OFF:0
 </source>
       <translation>알 수 없는 매개 변수 오류. x86 또는 x64 및 ON:1 또는 OFF:0 를 사용하세요
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="920"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="919"/>
       <source>Error getting JIT auto x64</source>
       <translation>JIT 자동 x64 가져오기 오류</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="922"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="921"/>
       <source>Error getting JIT auto x32</source>
       <translation>JIT 자동 x32 가져오기 오류</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="929"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="928"/>
       <source>Error unknown parameters use x86 or x64, ON/1 or OFF/0
 </source>
       <translation>알 수 없는 매개 변수 오류. x86 또는 x64, ON/1 또는 OFF/0 를 사용하세요
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="933"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="932"/>
       <source>New JIT auto %s: %s
 </source>
       <translation>새로운 JIT 자동 %s: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="948"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="947"/>
       <source>Command line: %s
 </source>
       <translation>명령줄: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="961"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="960"/>
       <source>Error: write the arg1 with the new command line of the process debugged</source>
       <translation>오류: 디버깅 되는 프로세스의 새로운 명령줄로 arg1을 쓰세요</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="975"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="974"/>
       <source>New command line: %s
 </source>
       <translation>새로운 명령줄: %s
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="986"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="985"/>
       <source>No description or empty description</source>
       <translation>설명이 없거나 설명 비어있음</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="1023"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="1022"/>
       <source>Error: Configuration not found.</source>
       <translation>오류: 설정사항을 찾을수 없습니다.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-misc.cpp" line="1038"/>
+      <location filename="src/dbg/commands/cmd-misc.cpp" line="1037"/>
       <source>Error updating configuration.</source>
       <translation>설정사항을 업데이트하는 중 오류발생.</translation>
     </message>
