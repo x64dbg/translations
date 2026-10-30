@@ -137,7 +137,7 @@
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="396"/>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="603"/>
       <source>Open color selector</source>
-      <translation type="unfinished"/>
+      <translation>Otwórz wybór kolorów</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.ui" line="412"/>
@@ -444,7 +444,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="454"/>
       <source>Header</source>
-      <translation type="unfinished"/>
+      <translation>Nagłówek</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="455"/>
@@ -1088,7 +1088,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="630"/>
       <source>Link color</source>
-      <translation type="unfinished"/>
+      <translation>Kolor linków</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="637"/>
@@ -1282,27 +1282,27 @@
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="99"/>
       <source>%1 (unknown architecture)</source>
-      <translation type="unfinished"/>
+      <translation>%1 (nieznana architektura)</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="101"/>
       <source>%1 (being debugged)</source>
-      <translation type="unfinished"/>
+      <translation>%1 (jest debugowany)</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="137"/>
       <source>This is a 32-bit process, and only 64-bit processes can be debugged.</source>
-      <translation type="unfinished"/>
+      <translation>To jest proces 32-bitowy i tylko 64-bitowe procesy mogą być debugowane.</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="139"/>
       <source>The architecture of this process could not be determined.</source>
-      <translation type="unfinished"/>
+      <translation>Nie można określić architektury tego procesu.</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="141"/>
       <source>This process is already being debugged.</source>
-      <translation type="unfinished"/>
+      <translation>Ten proces jest już debugowany.</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/AttachDialog.cpp" line="142"/>
@@ -1350,12 +1350,12 @@
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="164"/>
       <source>You are already debugging this process.</source>
-      <translation type="unfinished"/>
+      <translation>Już debugujesz ten proces.</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="172"/>
       <source>Remember my choice</source>
-      <translation type="unfinished"/>
+      <translation>Zapamiętaj mój wybór</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AttachDialog.cpp" line="174"/>
@@ -2121,12 +2121,12 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="470"/>
       <source>Add loop</source>
-      <translation type="unfinished"/>
+      <translation>Dodaj pętlę</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="471"/>
       <source>Delete loop</source>
-      <translation type="unfinished"/>
+      <translation>Usuń pętlę</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUDisassembly.cpp" line="475"/>
@@ -3290,7 +3290,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="67"/>
       <source>Undo</source>
-      <translation type="unfinished"/>
+      <translation>Cofnij</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="69"/>
@@ -3361,17 +3361,17 @@
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="353"/>
       <source>Edit FPU register</source>
-      <translation type="unfinished"/>
+      <translation>Edytuj rejestr FPU</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="447"/>
       <source>ERROR CONVERTING TO HEX</source>
-      <translation type="unfinished"/>
+      <translation>BŁĄD KONWERSJI DO HEX</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="462"/>
       <source>Set Last Error</source>
-      <translation type="unfinished"/>
+      <translation>Ustaw ostatni błąd</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPURegistersView.cpp" line="483"/>
@@ -3511,7 +3511,7 @@
     <message>
       <location filename="src/cross/debugger/gui/CPUStack.cpp" line="94"/>
       <source>Freeze Stack</source>
-      <translation type="unfinished"/>
+      <translation>Zamroź stos</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="103"/>
@@ -3771,7 +3771,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="86"/>
       <source>Registers</source>
-      <translation type="unfinished"/>
+      <translation>Rejestry</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="87"/>
@@ -3786,7 +3786,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="89"/>
       <source>Sidebar</source>
-      <translation type="unfinished"/>
+      <translation>Panel boczny</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CPUWidget.cpp" line="90"/>
@@ -3887,7 +3887,7 @@
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="13"/>
       <source>Thread ID</source>
-      <translation type="unfinished"/>
+      <translation>ID wątku</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/CallStackView.cpp" line="14"/>
@@ -4439,25 +4439,25 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="461"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="392"/>
       <source>Save database</source>
-      <translation type="unfinished"/>
+      <translation>Zapisz bazę danych</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="462"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="393"/>
       <source>Restore backup database</source>
-      <translation type="unfinished"/>
+      <translation>Przywróć kopię zapasową</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="463"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="394"/>
       <source>Reload database</source>
-      <translation type="unfinished"/>
+      <translation>Przeładuj bazę danych</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="464"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="395"/>
       <source>Clear database</source>
-      <translation type="unfinished"/>
+      <translation>Wyczyść bazę danych</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="465"/>
@@ -4597,7 +4597,7 @@
       <location filename="src/cross/widgets/Configuration.cpp" line="479"/>
       <location filename="src/gui/Src/Utils/Configuration.cpp" line="410"/>
       <source>Modules</source>
-      <translation type="unfinished"/>
+      <translation>Moduły</translation>
     </message>
     <message>
       <location filename="src/cross/widgets/Configuration.cpp" line="480"/>
@@ -14438,7 +14438,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
       <source>Remember my choice</source>
-      <translation type="unfinished"/>
+      <translation>Zapamiętaj mój wybór</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="145"/>
@@ -15368,7 +15368,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/minidump/MiniThreads.cpp" line="16"/>
       <source>Thread ID</source>
-      <translation type="unfinished"/>
+      <translation>ID wątku</translation>
     </message>
     <message>
       <location filename="src/cross/minidump/MiniThreads.cpp" line="16"/>
@@ -17790,7 +17790,7 @@ The TEB can be used to get a lot of information on the process without calling W
     <message>
       <location filename="src/gui/Src/Gui/SymbolView.cpp" line="188"/>
       <source>Modules</source>
-      <translation type="unfinished"/>
+      <translation>Moduły</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/SymbolView.cpp" line="193"/>
