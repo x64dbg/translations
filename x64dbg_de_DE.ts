@@ -8291,7 +8291,7 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="591"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="641"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="744"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="938"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="939"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="81"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="162"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="238"/>
@@ -8839,7 +8839,7 @@
       <location filename="src/dbg/commands/cmd-searching.cpp" line="592"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="642"/>
       <location filename="src/dbg/commands/cmd-searching.cpp" line="746"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="939"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="82"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="163"/>
       <location filename="src/dbg/commands/cmd-user-database.cpp" line="239"/>
@@ -8969,52 +8969,52 @@
       <translation>Ziel</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="841"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="842"/>
       <source>Calls</source>
       <translation>Aufrufe</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="844"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="845"/>
       <source>%u call(s) in %ums
 </source>
       <translation>%u Call(s) in %ums
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="940"/>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1083"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1084"/>
       <source>GUID</source>
       <translation>GUID</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="941"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="942"/>
       <source>ProgId</source>
       <translation>ProgId</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="942"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="943"/>
       <source>Path</source>
       <translation>Pfad</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="943"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="944"/>
       <source>Description</source>
       <translation>Beschreibung</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1055"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1056"/>
       <source>RegOpenKeyExW() failed. Cannot enumerate GUIDs.</source>
       <translation>RegOpenKeyExW() fehlgeschlagen. GUIDs können nicht aufgelistet werden.</translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1086"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1087"/>
       <source>%u GUID(s) in %ums
 </source>
       <translation>%u GUID(s) in %u ms
 </translation>
     </message>
     <message>
-      <location filename="src/dbg/commands/cmd-searching.cpp" line="1099"/>
+      <location filename="src/dbg/commands/cmd-searching.cpp" line="1100"/>
       <source>Invalid expression: "%s"</source>
       <translation>Ungültiger Ausdruck: "%s"</translation>
     </message>
