@@ -1013,7 +1013,7 @@
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="615"/>
       <source>Call Stack User Frame</source>
-      <translation type="unfinished"/>
+      <translation>コールスタック・ユーザーフレーム</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/AppearanceDialog.cpp" line="616"/>
