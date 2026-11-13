@@ -3119,111 +3119,111 @@
   <context>
     <name>CPUInfoBox</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="49"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="58"/>
       <source>Address</source>
       <translation>位址</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="50"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="59"/>
       <source>RVA</source>
       <translation>RVA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="51"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="60"/>
       <source>File Offset</source>
       <translation>檔案偏移量</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="52"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="61"/>
       <source>Copy Line</source>
       <translation>複製行</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="193"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="202"/>
       <source>Jump is taken</source>
       <translation>跳轉已實現</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="195"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="204"/>
       <source>Jump is not taken</source>
       <translation>跳轉未實現</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="519"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="523"/>
       <source>Jump from </source>
       <translation>跳轉來自 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="522"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="526"/>
       <source>Call from </source>
       <translation>呼叫來自 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="529"/>
       <source>Reference from </source>
       <translation>參考來自 </translation>
     </message>
     <message numerus="yes">
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="603"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="607"/>
       <source>Accessed %n time(s)</source>
       <translation>
         <numerusform>已訪問%n次</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="639"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="643"/>
       <source>Modify Value</source>
       <translation>修改數值</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="694"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="758"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="822"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="698"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="762"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="826"/>
       <source>&amp;Address: </source>
       <translation>位址(&amp;A): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="699"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="763"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="827"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="703"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="767"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="831"/>
       <source>&amp;Constant: </source>
       <translation>常數(&amp;C): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="702"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="766"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="830"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="706"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="770"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="834"/>
       <source>&amp;Value: </source>
       <translation>值(&amp;V): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="738"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="742"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="806"/>
       <source>&amp;Selected Address</source>
       <translation>選定的位址(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="888"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="892"/>
       <source>&amp;Follow in Dump</source>
       <translation>在資料視窗中跟隨(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="891"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="895"/>
       <source>&amp;Modify Value</source>
       <translation>修改值(&amp;M)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="895"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
       <source>&amp;Watch</source>
       <translation>監視(&amp;W)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="903"/>
       <source>&amp;Show References</source>
       <translation>顯示參考(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="900"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="904"/>
       <source>&amp;Copy</source>
       <translation>複製(&amp;C)</translation>
     </message>

@@ -3123,52 +3123,52 @@
   <context>
     <name>CPUInfoBox</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="49"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="58"/>
       <source>Address</source>
       <translation>Adresse</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="50"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="59"/>
       <source>RVA</source>
       <translation>RVA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="51"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="60"/>
       <source>File Offset</source>
       <translation>Dateioffset</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="52"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="61"/>
       <source>Copy Line</source>
       <translation>Zeile kopieren</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="193"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="202"/>
       <source>Jump is taken</source>
       <translation>Es wird gesprungen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="195"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="204"/>
       <source>Jump is not taken</source>
       <translation>Es wird nicht gesprungen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="519"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="523"/>
       <source>Jump from </source>
       <translation>Sprung von </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="522"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="526"/>
       <source>Call from </source>
       <translation>Aufruf von </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="529"/>
       <source>Reference from </source>
       <translation>Verweis von </translation>
     </message>
     <message numerus="yes">
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="603"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="607"/>
       <source>Accessed %n time(s)</source>
       <translation>
         <numerusform>%n mal zugegriffen</numerusform>
@@ -3176,59 +3176,59 @@
       </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="639"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="643"/>
       <source>Modify Value</source>
       <translation>Wert ändern</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="694"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="758"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="822"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="698"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="762"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="826"/>
       <source>&amp;Address: </source>
       <translation>&amp;Adresse: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="699"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="763"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="827"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="703"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="767"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="831"/>
       <source>&amp;Constant: </source>
       <translation>&amp;Konstante: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="702"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="766"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="830"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="706"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="770"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="834"/>
       <source>&amp;Value: </source>
       <translation>&amp;Wert: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="738"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="742"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="806"/>
       <source>&amp;Selected Address</source>
       <translation>Au&amp;sgewählte Adresse</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="888"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="892"/>
       <source>&amp;Follow in Dump</source>
       <translation>&amp;Inspiziere im Dump</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="891"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="895"/>
       <source>&amp;Modify Value</source>
       <translation>Wert ändern</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="895"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
       <source>&amp;Watch</source>
       <translation>&amp;Watch</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="903"/>
       <source>&amp;Show References</source>
       <translation>&amp;Verweise anzeigen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="900"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="904"/>
       <source>&amp;Copy</source>
       <translation>&amp;Kopieren</translation>
     </message>

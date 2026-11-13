@@ -3121,111 +3121,111 @@
   <context>
     <name>CPUInfoBox</name>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="49"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="58"/>
       <source>Address</source>
       <translation>주소</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="50"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="59"/>
       <source>RVA</source>
       <translation>RVA</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="51"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="60"/>
       <source>File Offset</source>
       <translation>파일 오프셋</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="52"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="61"/>
       <source>Copy Line</source>
       <translation>줄 복사</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="193"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="202"/>
       <source>Jump is taken</source>
       <translation>점프가 취해짐</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="195"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="204"/>
       <source>Jump is not taken</source>
       <translation>점프가 취해지지 않음</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="519"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="523"/>
       <source>Jump from </source>
       <translation>다음 위치에서 점프</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="522"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="526"/>
       <source>Call from </source>
       <translation>다음 위치에서 호출</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="525"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="529"/>
       <source>Reference from </source>
       <translation>에서 참조</translation>
     </message>
     <message numerus="yes">
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="603"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="607"/>
       <source>Accessed %n time(s)</source>
       <translation>
         <numerusform>%n 번 액세스함</numerusform>
       </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="639"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="643"/>
       <source>Modify Value</source>
       <translation>값 수정</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="694"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="758"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="822"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="698"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="762"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="826"/>
       <source>&amp;Address: </source>
       <translation>주소(&amp;A): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="699"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="763"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="827"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="703"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="767"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="831"/>
       <source>&amp;Constant: </source>
       <translation>상수(&amp;C): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="702"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="766"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="830"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="706"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="770"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="834"/>
       <source>&amp;Value: </source>
       <translation>값(&amp;V): </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="738"/>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="802"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="742"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="806"/>
       <source>&amp;Selected Address</source>
       <translation>선택한 주소(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="888"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="892"/>
       <source>&amp;Follow in Dump</source>
       <translation>덤프에서 따라가기(&amp;F)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="891"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="895"/>
       <source>&amp;Modify Value</source>
       <translation>값 수정(&amp;M)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="895"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
       <source>&amp;Watch</source>
       <translation>주시(&amp;W)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="899"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="903"/>
       <source>&amp;Show References</source>
       <translation>레퍼런스 보기(&amp;S)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="900"/>
+      <location filename="src/gui/Src/Gui/CPUInfoBox.cpp" line="904"/>
       <source>&amp;Copy</source>
       <translation>복사(&amp;C)</translation>
     </message>
