@@ -3443,77 +3443,82 @@
   <context>
     <name>CPUStack</name>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="66"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="63"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="42"/>
       <source>Comments</source>
       <translation>التعليقات</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="73"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="70"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="92"/>
       <source>Align Stack Pointer</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="74"/>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="226"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="71"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="230"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="98"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="930"/>
       <source>Modify</source>
       <translation>تعديل</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="78"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="75"/>
       <source>Go to RSP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="79"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="76"/>
       <source>Go to RBP</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="83"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="80"/>
       <source>Follow in Disassembly</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="85"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="81"/>
+      <source>Follow in Memory Map</source>
+      <translation>اتبع في مخطط الذاكرة</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="83"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="112"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="137"/>
       <source>&amp;Copy</source>
       <translation>نسخ</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="86"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="84"/>
       <source>&amp;Selection</source>
       <translation>إختيار</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="87"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="85"/>
       <source>&amp;Address</source>
       <translation>العنوان</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="88"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="86"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;QWORD</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="88"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="86"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="131"/>
       <source>&amp;DWORD</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="90"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="88"/>
       <location filename="src/gui/Src/Gui/CPUStack.cpp" line="135"/>
       <source>&amp;Comments</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="94"/>
+      <location filename="src/cross/debugger/gui/CPUStack.cpp" line="92"/>
       <source>Freeze Stack</source>
       <translation type="unfinished"/>
     </message>
@@ -11298,64 +11303,89 @@ Do you want me to fix this?</source>
   <context>
     <name>DbgAdapter</name>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="322"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="20"/>
+      <source>Failed to write file "%1": %2</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="343"/>
       <source>Thread switched</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="344"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="365"/>
       <source>suspend</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="344"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="365"/>
       <source>resume</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="347"/>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="362"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="368"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="383"/>
       <source>suspended</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="347"/>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="362"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="368"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="383"/>
       <source>resumed</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="470"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="531"/>
+      <source>Memory dump cancelled</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="542"/>
+      <source>Failed to read memory at %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="573"/>
+      <source>Failed to read (all) memory...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="574"/>
+      <source>%1[%2] written to "%3" !</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="633"/>
       <source>System breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="476"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="639"/>
       <source>Attached to process!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="480"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="643"/>
       <source>Attached</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="486"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="649"/>
       <source>The debuggee replaced its image with execve</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="497"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="661"/>
       <source>Detached!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="513"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="678"/>
       <source>Step</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="519"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="684"/>
       <source>Paused</source>
       <translation>متوقف</translation>
     </message>
@@ -13175,7 +13205,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/cross/minidump/MainWindow.ui" line="38"/>
       <location filename="src/cross/remote_table/MainWindow.ui" line="38"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="34"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="61"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="58"/>
       <source>&amp;File</source>
       <translation>&amp;ملف</translation>
     </message>
@@ -13216,13 +13246,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="75"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="71"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="68"/>
       <source>&amp;View</source>
       <translation>&amp;عرض</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="109"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="88"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="90"/>
       <source>&amp;Debug</source>
       <translation>التنقيح</translation>
     </message>
@@ -13292,7 +13322,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="334"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="69"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="66"/>
       <source>E&amp;xit</source>
       <translation>&amp;خروج</translation>
     </message>
@@ -13303,7 +13333,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="346"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="89"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="91"/>
       <source>&amp;Run</source>
       <translation>&amp;تشغيل</translation>
     </message>
@@ -13384,6 +13414,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="442"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="79"/>
       <source>&amp;Memory Map</source>
       <translation type="unfinished"/>
     </message>
@@ -13490,13 +13521,13 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="571"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="72"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="69"/>
       <source>&amp;CPU</source>
       <translation>&amp;وحدة المعالجة المركزية</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="574"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="285"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="290"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="204"/>
       <source>CPU</source>
       <translation>وحدة المعالجة المركزية</translation>
@@ -13539,14 +13570,14 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="616"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="82"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="84"/>
       <source>&amp;Threads</source>
       <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="304"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="305"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="326"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="327"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>خيوط المعالجة</translation>
@@ -13675,7 +13706,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="302"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="324"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>مكدس النداءات</translation>
@@ -14329,202 +14360,198 @@ Do you want to continue rendering this graph?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="62"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="59"/>
       <source>&amp;Open...</source>
       <translation>&amp;فتح...</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="64"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="61"/>
       <source>&amp;Attach...</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="66"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="149"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="63"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="153"/>
       <source>&amp;Detach</source>
       <translation>&amp;فصل</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="77"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="74"/>
       <source>&amp;Log</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="93"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="95"/>
       <source>Toggle &amp;Breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="96"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="100"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="477"/>
       <source>Ready</source>
       <translation>جاهز</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="124"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="128"/>
       <source>[x64dbg] Still releasing the previous debuggee, try again in a moment</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="146"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="801"/>
       <source>Remember my choice</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="145"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="149"/>
       <source>Already debugging</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="146"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="150"/>
       <source>You are already debugging a process. What would you like to do with the current process?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="148"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="152"/>
       <source>&amp;Terminate</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="150"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="154"/>
       <source>&amp;Cancel</source>
       <translation>إلغاء الأمر</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="217"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="221"/>
       <source>[x64dbg] The debug thread is still releasing the debuggee</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="243"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="247"/>
       <source>Main Toolbar</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="250"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="254"/>
       <source>Open (Ctrl+O)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="253"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="257"/>
       <source>Restart</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="257"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="261"/>
       <source>Close</source>
       <translation>إغلاق</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="263"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="267"/>
       <source>Run (F9)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="266"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="270"/>
       <source>Pause</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="271"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="275"/>
       <source>Step Into (F7)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="275"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="279"/>
       <source>Step Over (F8)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="288"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="290"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="293"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="295"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
       <source>Log</source>
       <translation>السجل</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="300"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="305"/>
       <source>Breakpoints view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="300"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="305"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
       <source>Breakpoints</source>
       <translation>نقاط التوقف</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="301"/>
-      <source>Memory map view - not yet implemented</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="301"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="307"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="308"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
       <translation>خريطة الذاكرة</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="302"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="324"/>
       <source>Call stack view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="314"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="336"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2023"/>
       <source>Disassembly</source>
       <translation>تحليل</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="316"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="338"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2026"/>
       <source>Dump</source>
       <translation>تفريغ</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="318"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="340"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2029"/>
       <source>Stack</source>
       <translation>مكدس</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="332"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="354"/>
       <source>Hex</source>
       <translation>سداسي عشر</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="340"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="362"/>
       <source>ASCII</source>
       <translation>نظام آسكي</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="380"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="402"/>
       <source>Open ELF Binary</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="380"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="402"/>
       <source>All Files (*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="463"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="485"/>
       <source>Not debugging anything</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="475"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="497"/>
       <source>Running</source>
       <translation>قيد التشغيل</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="498"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="520"/>
       <source>Detached</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="522"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="545"/>
       <source>Cannot start debugging</source>
       <translation type="unfinished"/>
     </message>
@@ -14823,60 +14850,285 @@ Make sure to fill in as much information as possible.</source>
   <context>
     <name>MemoryMapView</name>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="28"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="541"/>
+      <source>Executable code</source>
+      <translation>كود قابل للتنفيذ</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="29"/>
+      <source>Initialization code</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="30"/>
+      <source>Termination code</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="31"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="535"/>
+      <source>Read-only initialized data</source>
+      <translation>بيانات مهيئة للقراءة فقط</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="32"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="527"/>
+      <source>Initialized data</source>
+      <translation>تهيئة البيانات</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="33"/>
+      <source>Relocated read-only data</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="34"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="525"/>
+      <source>Uninitialized data</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="35"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="543"/>
+      <source>Thread-local storage</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="36"/>
+      <source>Dynamic linking information</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="37"/>
+      <source>Dynamic symbols</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="38"/>
+      <source>Dynamic strings</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="39"/>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="48"/>
+      <source>Relocations</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="40"/>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="49"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="533"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="545"/>
+      <source>Exception information</source>
+      <translation>معلومات الاستثناء</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="41"/>
+      <source>Constructors</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="42"/>
+      <source>Destructors</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="43"/>
+      <source>Program interpreter</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="44"/>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="45"/>
+      <source>Symbol hash table</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="46"/>
+      <source>Procedure linkage table</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="47"/>
+      <source>Global offset table</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="50"/>
+      <source>Notes</source>
+      <translation>الملاحظات</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="51"/>
+      <source>Symbol versions</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="84"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="25"/>
       <source>Address</source>
       <translation>عنوان</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="85"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="26"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="652"/>
       <source>Size</source>
       <translation>‮الحجم</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="86"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="27"/>
       <source>Party</source>
       <translation type="unfinished"/>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="87"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="28"/>
       <source>Info</source>
       <translation>معلومة</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="87"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="28"/>
       <source>Page Information</source>
       <translation>معلومات الصفحة</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="88"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="29"/>
       <source>Content</source>
       <translation>المحتوى</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="88"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="29"/>
       <source>Content of section</source>
       <translation>محتوى القسم</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="89"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="30"/>
       <source>Type</source>
       <translation>النوع</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="89"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="30"/>
       <source>Allocation Type</source>
       <translation type="unfinished"/>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="90"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="31"/>
       <source>Protection</source>
       <translation>حماية</translation>
     </message>
     <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="90"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="31"/>
       <source>Current Protection</source>
       <translation>حماية الحالية</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="123"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="57"/>
+      <source>Follow in &amp;Disassembler</source>
+      <translation>تتبع في نافذة مفكك</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="124"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="53"/>
+      <source>&amp;Follow in Dump</source>
+      <translation>&amp;تتبع في نافذة التفريغ</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="125"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="173"/>
+      <source>&amp;Dump Memory to File</source>
+      <translation>&amp;تفريغ الذاكرة إلى ملف</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="128"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="148"/>
+      <source>Go to</source>
+      <translation>اذهب الى</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="131"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="290"/>
+      <source>&amp;Copy</source>
+      <translation>نسخ</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="207"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="482"/>
+      <source>User</source>
+      <translation>مستخدم</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="208"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="483"/>
+      <source>System</source>
+      <translation>نظام</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="232"/>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="297"/>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="349"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="663"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="671"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="739"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="791"/>
+      <source>Error</source>
+      <translation>خطأ</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="232"/>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="349"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="791"/>
+      <source>Address %0 not found in memory map...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="297"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="739"/>
+      <source>Dumping non-consecutive memory ranges is not supported!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="308"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="749"/>
+      <source>Save Memory Region</source>
+      <translation>حفظ منطقة ذاكرة</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="308"/>
+      <source>Binary files (*.bin);;All files (*)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="312"/>
+      <source>Dumping memory...</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="312"/>
+      <source>Cancel</source>
+      <translation>إلغاء الأمر</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="388"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="404"/>
+      <source>Section &amp;view</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="388"/>
+      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="408"/>
+      <source>Region &amp;view</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="32"/>
@@ -14887,16 +15139,6 @@ Make sure to fill in as much information as possible.</source>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="32"/>
       <source>Allocation Protection</source>
       <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="53"/>
-      <source>&amp;Follow in Dump</source>
-      <translation>&amp;تتبع في نافذة التفريغ</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="57"/>
-      <source>Follow in &amp;Disassembler</source>
-      <translation>تتبع في نافذة مفكك</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="63"/>
@@ -14965,11 +15207,6 @@ Make sure to fill in as much information as possible.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="148"/>
-      <source>Go to</source>
-      <translation>اذهب الى</translation>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="159"/>
       <source>Expression</source>
       <translation>التعبير</translation>
@@ -14978,11 +15215,6 @@ Make sure to fill in as much information as possible.</source>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="166"/>
       <source>&amp;Find Pattern...</source>
       <translation>&amp;بحث عن نمط...</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="173"/>
-      <source>&amp;Dump Memory to File</source>
-      <translation>&amp;تفريغ الذاكرة إلى ملف</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="177"/>
@@ -15005,41 +15237,6 @@ Make sure to fill in as much information as possible.</source>
       <translation>&amp;تعليق</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="290"/>
-      <source>&amp;Copy</source>
-      <translation>نسخ</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="404"/>
-      <source>Section &amp;view</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="408"/>
-      <source>Region &amp;view</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="482"/>
-      <source>User</source>
-      <translation>مستخدم</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="483"/>
-      <source>System</source>
-      <translation>نظام</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="525"/>
-      <source>Uninitialized data</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="527"/>
-      <source>Initialized data</source>
-      <translation>تهيئة البيانات</translation>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="529"/>
       <source>Export tables</source>
       <translation>تصدير الجداول</translation>
@@ -15048,17 +15245,6 @@ Make sure to fill in as much information as possible.</source>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="531"/>
       <source>Import tables</source>
       <translation>استيراد الجداول</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="533"/>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="545"/>
-      <source>Exception information</source>
-      <translation>معلومات الاستثناء</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="535"/>
-      <source>Read-only initialized data</source>
-      <translation>بيانات مهيئة للقراءة فقط</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="537"/>
@@ -15071,16 +15257,6 @@ Make sure to fill in as much information as possible.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="541"/>
-      <source>Executable code</source>
-      <translation>كود قابل للتنفيذ</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="543"/>
-      <source>Thread-local storage</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="658"/>
       <source>Warning</source>
       <translation>تحذير</translation>
@@ -15089,14 +15265,6 @@ Make sure to fill in as much information as possible.</source>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="658"/>
       <source>You're trying to allocate a zero-sized buffer just now.</source>
       <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="663"/>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="671"/>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="739"/>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="791"/>
-      <source>Error</source>
-      <translation>خطأ</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="663"/>
@@ -15114,16 +15282,6 @@ Make sure to fill in as much information as possible.</source>
       <translation>ابحث عن النمط...</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="739"/>
-      <source>Dumping non-consecutive memory ranges is not supported!</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="749"/>
-      <source>Save Memory Region</source>
-      <translation>حفظ منطقة ذاكرة</translation>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="749"/>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="765"/>
       <source>Binary files (*.bin);;All files (*.*)</source>
@@ -15132,11 +15290,6 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="765"/>
       <source>Load Memory Region</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/MemoryMapView.cpp" line="791"/>
-      <source>Address %0 not found in memory map...</source>
       <translation type="unfinished"/>
     </message>
     <message>
@@ -18115,55 +18268,55 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>الاسم</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="86"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="85"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="28"/>
       <source>Switch Thread</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="87"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="86"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="29"/>
       <source>Suspend Thread</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="88"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="87"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="30"/>
       <source>Resume Thread</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="89"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="88"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="31"/>
       <source>Suspend All Threads</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="90"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="89"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="32"/>
       <source>Resume All Threads</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="92"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="91"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="37"/>
       <source>Set Name</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="94"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="93"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="108"/>
       <source>&amp;Copy</source>
       <translation>نسخ</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="131"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="128"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="215"/>
       <source>Main</source>
       <translation>الرئيسية</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="173"/>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="170"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="417"/>
       <source>Thread name - %1</source>
       <translation type="unfinished"/>
