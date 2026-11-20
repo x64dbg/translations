@@ -11595,7 +11595,7 @@ Do you want me to fix this?</source>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="20"/>
       <source>Failed to write file "%1": %2</source>
-      <translation type="unfinished"/>
+      <translation>ファイル "%1" の書き込みに失敗しました : %2</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="343"/>
@@ -11627,12 +11627,12 @@ Do you want me to fix this?</source>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="531"/>
       <source>Memory dump cancelled</source>
-      <translation type="unfinished"/>
+      <translation>メモリダンプがキャンセルされました</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="542"/>
       <source>Failed to read memory at %1</source>
-      <translation type="unfinished"/>
+      <translation>%1 のメモリの読み取りに失敗しました</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="573"/>
@@ -11642,7 +11642,7 @@ Do you want me to fix this?</source>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="574"/>
       <source>%1[%2] written to "%3" !</source>
-      <translation type="unfinished"/>
+      <translation>%1[%2] を "%3" に書き込みました!</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="633"/>
@@ -15161,12 +15161,12 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="29"/>
       <source>Initialization code</source>
-      <translation type="unfinished"/>
+      <translation>初期化コード</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="30"/>
       <source>Termination code</source>
-      <translation type="unfinished"/>
+      <translation>終了コード</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="31"/>
@@ -15183,7 +15183,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="33"/>
       <source>Relocated read-only data</source>
-      <translation type="unfinished"/>
+      <translation>再配置済み読み取り専用データ</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="34"/>
@@ -15200,23 +15200,23 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="36"/>
       <source>Dynamic linking information</source>
-      <translation type="unfinished"/>
+      <translation>動的リンク情報</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="37"/>
       <source>Dynamic symbols</source>
-      <translation type="unfinished"/>
+      <translation>動的シンボル</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="38"/>
       <source>Dynamic strings</source>
-      <translation type="unfinished"/>
+      <translation>動的文字列</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="39"/>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="48"/>
       <source>Relocations</source>
-      <translation type="unfinished"/>
+      <translation>再配置</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="40"/>
@@ -15229,33 +15229,33 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="41"/>
       <source>Constructors</source>
-      <translation type="unfinished"/>
+      <translation>コンストラクタ</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="42"/>
       <source>Destructors</source>
-      <translation type="unfinished"/>
+      <translation>デストラクタ</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="43"/>
       <source>Program interpreter</source>
-      <translation type="unfinished"/>
+      <translation>プログラムインタプリタ</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="44"/>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="45"/>
       <source>Symbol hash table</source>
-      <translation type="unfinished"/>
+      <translation>シンボルハッシュテーブル</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="46"/>
       <source>Procedure linkage table</source>
-      <translation type="unfinished"/>
+      <translation>プロシージャリンケージテーブル</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="47"/>
       <source>Global offset table</source>
-      <translation type="unfinished"/>
+      <translation>グローバルオフセットテーブル</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="50"/>
@@ -15265,7 +15265,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="51"/>
       <source>Symbol versions</source>
-      <translation type="unfinished"/>
+      <translation>シンボルバージョン</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="84"/>
@@ -15409,12 +15409,12 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="308"/>
       <source>Binary files (*.bin);;All files (*)</source>
-      <translation type="unfinished"/>
+      <translation>バイナリファイル (*.bin);;すべてのファイル (*)</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="312"/>
       <source>Dumping memory...</source>
-      <translation type="unfinished"/>
+      <translation>メモリをダンプしています...</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MemoryMapView.cpp" line="312"/>
