@@ -13995,7 +13995,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1179"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2514"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2517"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation type="unfinished"/>
     </message>
@@ -14507,7 +14507,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1237"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1298"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1315"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2365"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2368"/>
       <source>Error</source>
       <translation>Error</translation>
     </message>
@@ -14544,10 +14544,10 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="493"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="496"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2676"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2683"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2696"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2703"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2679"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2686"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2699"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2706"/>
       <source>Languages</source>
       <translation type="unfinished"/>
     </message>
@@ -14635,7 +14635,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1354"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2798"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2801"/>
       <source>Open file</source>
       <translation type="unfinished"/>
     </message>
@@ -14651,7 +14651,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2324"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2345"/>
       <source>Error!</source>
       <translation>Error!</translation>
     </message>
@@ -14697,99 +14698,104 @@ Make sure to fill in as much information as possible.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2327"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2324"/>
+      <source>The command line can only be changed while debugging.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2330"/>
       <source>Change Command Line</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2332"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2335"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2345"/>
       <source>Could not set command line!</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2348"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2351"/>
       <source>New command line: </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2366"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2369"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2367"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2370"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2515"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2518"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2630"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2633"/>
       <source>Starting tool %1
 </source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2684"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2687"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2707"/>
       <source>New language setting will take effect upon restart.</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2777"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2780"/>
       <source>Animate command</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2777"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2780"/>
       <source>Example: StepInto</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2790"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2793"/>
       <source>Customize Menus</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2798"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2801"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2808"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2811"/>
       <source>Import database</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2808"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2811"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2818"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2821"/>
       <source>Export database</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2818"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2821"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2868"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2878"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2871"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2881"/>
       <source>More Commands</source>
       <translation type="unfinished"/>
     </message>

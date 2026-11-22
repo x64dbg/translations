@@ -14325,7 +14325,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1179"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2514"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2517"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>管理收藏工具(&amp;M)...</translation>
     </message>
@@ -14837,7 +14837,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1237"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1298"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1315"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2365"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2368"/>
       <source>Error</source>
       <translation>错误</translation>
     </message>
@@ -14874,10 +14874,10 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="493"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="496"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2676"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2683"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2696"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2703"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2679"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2686"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2699"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2706"/>
       <source>Languages</source>
       <translation>语言</translation>
     </message>
@@ -14965,7 +14965,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1354"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2798"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2801"/>
       <source>Open file</source>
       <translation>打开文件</translation>
     </message>
@@ -14981,7 +14981,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2324"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2345"/>
       <source>Error!</source>
       <translation>错误!</translation>
     </message>
@@ -15027,100 +15028,105 @@ Make sure to fill in as much information as possible.</source>
       <translation>指令帮助</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2327"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2324"/>
+      <source>The command line can only be changed while debugging.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2330"/>
       <source>Change Command Line</source>
       <translation>改变命令行</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2332"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2335"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>无法获得调试对象的命令行，请尝试调用“getcmdline”命令来获得更多信息。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2345"/>
       <source>Could not set command line!</source>
       <translation>无法设置命令行！</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2348"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2351"/>
       <source>New command line: </source>
       <translation>新的命令行︰ </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2366"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2369"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>不能打开手册。请检查 x64dbg.chm 是否存在，并确保您的系统没有其他问题。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2367"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2370"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>您想在 https://help.x64dbg.com 上打开在线手册吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2515"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2518"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation>打开收藏夹对话框来管理收藏夹菜单</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2630"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2633"/>
       <source>Starting tool %1
 </source>
       <translation>正在启动工具 %1
 </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2684"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2687"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>翻译几乎是空的。你仍然想要使用这种语言吗？</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2707"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>新的语言设置将在重新启动应用程序时生效。</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2777"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2780"/>
       <source>Animate command</source>
       <translation>自动运行命令</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2777"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2780"/>
       <source>Example: StepInto</source>
       <translation>例如: StepInto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2790"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2793"/>
       <source>Customize Menus</source>
       <translation>自定义菜单</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2798"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2801"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>配置文件 (*.ini);;所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2808"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2811"/>
       <source>Import database</source>
       <translation>导入数据库</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2808"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2811"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>数据库(%1);数据库备份(%1.bak);所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2818"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2821"/>
       <source>Export database</source>
       <translation>导出数据库</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2818"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2821"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>数据库 (%1);;所有文件 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2868"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2878"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2871"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2881"/>
       <source>More Commands</source>
       <translation>更多命令</translation>
     </message>

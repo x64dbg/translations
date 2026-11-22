@@ -14259,7 +14259,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="1179"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2514"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2517"/>
       <source>&amp;Manage Favourite Tools...</source>
       <translation>즐겨찾기 도구 관리(&amp;M)...</translation>
     </message>
@@ -14773,7 +14773,7 @@ Do you want to continue rendering this graph?</source>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1237"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1298"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1315"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2365"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2368"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
@@ -14810,10 +14810,10 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="493"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="496"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2676"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2683"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2696"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2703"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2679"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2686"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2699"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2706"/>
       <source>Languages</source>
       <translation>언어</translation>
     </message>
@@ -14901,7 +14901,7 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1354"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2798"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2801"/>
       <source>Open file</source>
       <translation>파일 열기</translation>
     </message>
@@ -14917,7 +14917,8 @@ Do you want to continue rendering this graph?</source>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2173"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2324"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2345"/>
       <source>Error!</source>
       <translation>오류발생!</translation>
     </message>
@@ -14964,99 +14965,104 @@ Make sure to fill in as much information as possible.</source>
       <translation>연상기호 도움말</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2327"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2324"/>
+      <source>The command line can only be changed while debugging.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2330"/>
       <source>Change Command Line</source>
       <translation>명령줄 바꾸기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2332"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2335"/>
       <source>Cannot get remote command line, use the 'getcmdline' command for more information.</source>
       <translation>원격 명령줄을 가져올 수 없습니다, 명령 'getcmdline'을 사용해서 자세한 정보를 확인하세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2342"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2345"/>
       <source>Could not set command line!</source>
       <translation>명령줄을 설정할 수 없음!</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2348"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2351"/>
       <source>New command line: </source>
       <translation>새로운 명령줄: </translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2366"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2369"/>
       <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
       <translation>사용설명서를 열 수 없습니다. x64dbg.chm 파일이 존재하는지, 시스템의 다른 프로그램에서 사용되지는 않는지 확인해보세요.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2367"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2370"/>
       <source>Do you want to open online manual at https://help.x64dbg.com ?</source>
       <translation>https://help.x64dbg.com에서 온라인 메뉴얼을 여시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2515"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2518"/>
       <source>Open the Favourites dialog to manage the favourites menu</source>
       <translation>즐겨찾기 메뉴를 관리할 수 있는 즐겨찾기 창을 엽니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2630"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2633"/>
       <source>Starting tool %1
 </source>
       <translation>%1 도구 시작</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2684"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2687"/>
       <source>The translation is nearly empty. Do you still want to use this language?</source>
       <translation>번역문이 거의 비어있습니다. 이 언어를 계속 사용하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2704"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2707"/>
       <source>New language setting will take effect upon restart.</source>
       <translation>새로운 언어 설정이 재시작하면 적용됩니다.</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2777"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2780"/>
       <source>Animate command</source>
       <translation>자동진행 명령</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2777"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2780"/>
       <source>Example: StepInto</source>
       <translation>예시: StepInto</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2790"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2793"/>
       <source>Customize Menus</source>
       <translation>사용자 지정 메뉴</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2798"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2801"/>
       <source>Settings (*.ini);;All files (*.*)</source>
       <translation>설정 파일 (*.ini);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2808"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2811"/>
       <source>Import database</source>
       <translation>데이터베이스 가져오기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2808"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2811"/>
       <source>Databases (%1);;Database backup (%1.bak);;All files (*.*)</source>
       <translation>데이터베이스 (%1);;데이터베이스 백업 (%1.bak);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2818"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2821"/>
       <source>Export database</source>
       <translation>데이터베이스 내보내기</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2818"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2821"/>
       <source>Databases (%1);;All files (*.*)</source>
       <translation>데이터베이스 (%1);;모든 파일 (*.*)</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2868"/>
-      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2878"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2871"/>
+      <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2881"/>
       <source>More Commands</source>
       <translation>더 많은 명령어</translation>
     </message>
