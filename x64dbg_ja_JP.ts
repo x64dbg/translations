@@ -15055,7 +15055,7 @@ Make sure to fill in as much information as possible.</source>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2324"/>
       <source>The command line can only be changed while debugging.</source>
-      <translation type="unfinished"/>
+      <translation>コマンドラインは、デバッグ中にのみ変更できます。</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="2330"/>
